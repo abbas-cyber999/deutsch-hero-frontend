@@ -1,0 +1,304 @@
+{
+  "level": "A2",
+  "title": "A2 – ژوندي حالاتونه او لیکل",
+  "lessons": [
+
+    {
+      "id": "A2_Lesson_Health_Doctor",
+      "title": {
+        "af": "روغتیا او ډاکټر",
+        "de": "Gesundheit und Arzt",
+        "en": "Health and the doctor"
+      },
+      "interactiveScene": "ته پاڅېږې او احساس کوې چې ستا سر لکه د راک کنسرټ په ډرام ډبوي 🎸.\nته ځان ته وایې: Ich glaube, ich bin krank.\nپه کلینیک کې ډاکټر په موسکا پوښتنه کوي: Na, was fehlt Ihnen?",
+      "explanation": [
+        { "de": "der Kopf – die Kopfschmerzen", "af": "سر – د سر درد" },
+        { "de": "der Hals – die Halsschmerzen", "af": "ستونی – د ستوني درد" },
+        { "de": "der Bauch – die Bauchschmerzen", "af": "نس – د نس درد" },
+        { "de": "die Grippe", "af": "زکام/انفلونزا" },
+        { "de": "das Fieber", "af": "تب" },
+        { "de": "der Husten", "af": "ټوخی" },
+        { "de": "die Tablette / die Medizin", "af": "ګولۍ / درمل" },
+        { "de": "die Praxis", "af": "د ډاکټر کلینیک" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe Kopfschmerzen.", "af": "زه د سر درد لرم.", "note": "" },
+        { "de": "Ich habe seit zwei Tagen Fieber.", "af": "زه له دوو ورځو راهیسې تب لرم.", "note": "seit + وخت" },
+        { "de": "Mir ist schlecht.", "af": "زه ناروغه یم / زړه بدېږي مې.", "note": "" },
+        { "de": "Ich brauche einen Termin beim Arzt.", "af": "ما ته د ډاکټر سره د ملاقات وخت په کار دی.", "note": "" },
+        { "de": "Nehmen Sie diese Tabletten dreimal täglich.", "af": "دا ګولۍ درې ځله په ورځ کې وخورئ.", "note": "د ډاکټر لارښوونه" }
+      ],
+      "tip": "د درد ډېرې کلمې د جسم د غړي + Schmerzen جوړېږي:\nKopf + Schmerzen → Kopfschmerzen\nBauch + Schmerzen → Bauchschmerzen.",
+      "dialogue": [
+        { "speaker": "👩‍⚕️", "de": "Guten Tag, was fehlt Ihnen?", "af": "سلام علیکم، تاسو څه تکليف لرئ؟" },
+        { "speaker": "👨", "de": "Ich habe seit zwei Tagen Halsschmerzen und Fieber.", "af": "زه له دوو ورځو راهیسې د ستوني درد او تب لرم." },
+        { "speaker": "👩‍⚕️", "de": "Sie bekommen ein Rezept und müssen viel Wasser trinken.", "af": "تاسو ته به نسخه درکړل شي او باید ډېرې اوبه وڅښئ." },
+        { "speaker": "👨", "de": "Und darf ich auch Schokolade essen? 🍫", "af": "او آیا زه کولی شم چاکلیټ هم وخورم؟ 🍫" }
+      ],
+      "summary": [
+        { "de": "Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen.", "af": "زه د سر درد / د نس درد / د ستوني درد لرم." },
+        { "de": "Ich brauche einen Termin beim Arzt.", "af": "ما ته د ډاکټر سره ملاقات په کار دی." },
+        { "de": "Was fehlt Ihnen?", "af": "ستاسو څه تکليف دی؟" }
+      ],
+      "quiz": [
+        { "question": "تاسو څنګه وایئ: زه د سر درد لرم؟", "options": ["Ich habe Kopfschmerzen.", "Ich bin Kopf.", "Ich habe Kopf heiß."], "answer": 0, "hint": "بشپړه کلمه Kopfschmerzen وکاروئ." },
+        { "question": "Grippe مانا:", "options": ["ساده زکام", "انفلونزا", "ساده سر درد"], "answer": 1, "hint": "معمولاً ورته ډاکټر او آرام ته اړتیا وي." },
+        { "question": "د ډاکټر لپاره مناسبه جمله:", "options": ["Mir ist schlecht.", "Ich bin Sofa.", "Ich mache Haus."], "answer": 0, "hint": "د بدني حالت په اړه فکر وکړئ." },
+        { "question": "څنګه د ملاقات غوښتنه کوئ؟", "options": ["Ich brauche einen Termin.", "Ich bin Termin.", "Ich mache Arzt."], "answer": 0, "hint": "Termin = ملاقات" }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Transport",
+      "title": {
+        "af": "ټرانسپورټ او لارښوونې",
+        "de": "Verkehr und Wegbeschreibung",
+        "en": "Transport and directions"
+      },
+      "interactiveScene": "ته په نوي ښار کې يې، د ټلیفون نقشه کار نه کوي 📵.\nته له یو کس نه پوښتنه کوې: Entschuldigung, wie komme ich zum Bahnhof?\nهغه په هوا کې ستا لپاره نقشه رسموي او په چټکۍ سره جرمني خبرې کوي.",
+      "explanation": [
+        { "de": "geradeaus", "af": "مستقیم مخکې" },
+        { "de": "nach links / nach rechts", "af": "کیڼ لوري ته / ښي لوري ته" },
+        { "de": "abbiegen", "af": "وګرځېدل" },
+        { "de": "die Kreuzung", "af": "تقاطع / څلورلارې" },
+        { "de": "die Ampel", "af": "د ټرافیک څراغ" },
+        { "de": "die Bushaltestelle", "af": "د بس تم ځای" },
+        { "de": "die U-Bahn / die S-Bahn", "af": "میټرو / ښاري اورګاډي" }
+      ],
+      "phrasesTable": [
+        { "de": "Gehen Sie geradeaus.", "af": "مستقیم مخکې لاړ شئ.", "note": "" },
+        { "de": "Dann biegen Sie links ab.", "af": "بیا کیڼ لوري ته وګرځئ.", "note": "" },
+        { "de": "An der Ampel rechts.", "af": "د ټرافیک په څراغ کې ښي لوري ته.", "note": "" },
+        { "de": "Die Bushaltestelle ist an der Ecke.", "af": "د بس تم ځای په کونج کې دی.", "note": "" }
+      ],
+      "tip": "د لارې پوښتنې لپاره وکاروئ:\nEntschuldigung, wie komme ich zum/zur ...?",
+      "dialogue": [
+        { "speaker": "🚶", "de": "Entschuldigung, wie komme ich zum Zentrum?", "af": "بخښنه غواړم، ښار مرکز ته څنګه ځم؟" },
+        { "speaker": "👩", "de": "Gehen Sie geradeaus und dann an der Kreuzung links.", "af": "مستقیم مخکې لاړ شئ او بیا په څلورلارې کې کیڼ لوري ته." },
+        { "speaker": "🚶", "de": "Und die Bushaltestelle?", "af": "او د بس تم ځای؟" },
+        { "speaker": "👩", "de": "Der Bus hält direkt vor dem Zentrum. 🚌", "af": "بس مستقیم د مرکز مخې ته درېږي. 🚌" }
+      ],
+      "summary": [
+        { "de": "geradeaus", "af": "مستقیم مخکې" },
+        { "de": "links / rechts abbiegen", "af": "کیڼ / ښي لوري ته ګرځېدل" },
+        { "de": "Wie komme ich zum Bahnhof?", "af": "د اورګاډي تمځای ته څنګه ځم؟" }
+      ],
+      "quiz": [
+        { "question": "مخکې لاړ شئ او بیا ښي لوري ته څنګه وایئ؟", "options": ["Gehen Sie geradeaus und dann rechts.", "Gehen Sie links und dann geradeaus.", "Gehen Sie rechts und links."], "answer": 0, "hint": "geradeaus = مستقیم مخکې" },
+        { "question": "Kreuzung مانا:", "options": ["کونج", "تقاطع", "پل"], "answer": 1, "hint": "څو سړکونه سره یو ځای کېږي." },
+        { "question": "د لارې سم پوښتنه:", "options": ["Wie komme ich zum Zentrum?", "Wo Zentrum ich komme?", "Ich komme Zentrum, oder?"], "answer": 0, "hint": "Wie komme ich ... وکاروئ" },
+        { "question": "Bushaltestelle يعنې:", "options": ["د اورګاډي تمځای", "د بس تم ځای", "د بایسکل تم ځای"], "answer": 1, "hint": "په کلمه کې Bus شته." }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Weather",
+      "title": {
+        "af": "هوا او موسمونه",
+        "de": "Wetter und Jahreszeiten",
+        "en": "Weather and seasons"
+      },
+      "interactiveScene": "په یوه ورځ کې څلور موسمونه وینې: لمر، باران، باد، بیا رینبو 🌈.\nته خاندې او خپل ملګري ته وایې: Heute spielt das Wetter ein Spiel!",
+      "explanation": [
+        { "de": "die Sonne → sonnig", "af": "لمر → لمريز" },
+        { "de": "der Regen → regnerisch", "af": "باران → باراني" },
+        { "de": "der Wind → windig", "af": "باد → بادي" },
+        { "de": "die Wolke → bewölkt", "af": "ورېځې → ورېځپټ" },
+        { "de": "der Schnee → es schneit", "af": "واوره → واوره اوري" },
+        { "de": "das Gewitter", "af": "تندر او برېښنا" },
+        { "de": "heiß / warm / kühl / kalt", "af": "ګرم / ګرمک / یخ / ساړه" }
+      ],
+      "phrasesTable": [
+        { "de": "Es ist sonnig.", "af": "هوا لمريزه ده.", "note": "" },
+        { "de": "Es ist bewölkt und windig.", "af": "هوا ورېځپټه او بادي ده.", "note": "" },
+        { "de": "Es regnet den ganzen Tag.", "af": "ټوله ورځ باران اوري.", "note": "" },
+        { "de": "Im Winter ist es kalt.", "af": "په ژمي کې هوا ساړه وي.", "note": "Im Winter / Im Sommer ..." }
+      ],
+      "tip": "د هوا جملې معمولاً په Es ist ... یا Es ... پیلېږي:\nEs regnet. – Es ist kalt.",
+      "dialogue": [
+        { "speaker": "👩", "de": "Wie ist das Wetter bei dir?", "af": "ستا ځای کې هوا څنګه ده؟" },
+        { "speaker": "👨", "de": "Es ist sonnig, aber sehr windig.", "af": "لمريزه ده، خو ډېر باد دی." },
+        { "speaker": "👩", "de": "Perfekt für einen Kaffee drinnen! ☕", "af": "په کور کې د قهوې لپاره ښه وخت دی! ☕" }
+      ],
+      "summary": [
+        { "de": "die Sonne → sonnig", "af": "لمر → لمريز" },
+        { "de": "der Regen → regnerisch", "af": "باران → باراني" },
+        { "de": "die Wolke → bewölkt", "af": "ورېځې → ورېځپټ" }
+      ],
+      "quiz": [
+        { "question": "څنګه وایئ: هوا بادي ده؟", "options": ["Es ist windig.", "Es ist wolkig.", "Es ist sonnig."], "answer": 0, "hint": "Wind → windig" },
+        { "question": "Wolke مانا:", "options": ["لمر", "ورېځه", "واوره"], "answer": 1, "hint": "bewölkt = ورېځپټ" },
+        { "question": "سمه جمله:", "options": ["Es regnet.", "Es ist Regen.", "Es macht Regen."], "answer": 0, "hint": "فعل regnen په Es regnet کارول کېږي" },
+        { "question": "په ژمي کې هوا ساړه ده څنګه وایئ؟", "options": ["Im Winter ist es kalt.", "In Winter es ist kalt.", "Winter ist kalt es."], "answer": 0, "hint": "Im + د کال موسم" }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Travel",
+      "title": {
+        "af": "سفر او اورګاډي",
+        "de": "Reisen und Zug",
+        "en": "Travel and trains"
+      },
+      "interactiveScene": "ته په اورګاډي سټیشن کې يې. لوډسپیکر په غیر انساني سرعت خبرې کوي 🎙️.\nته اورې: Der Zug nach Berlin fährt von Gleis 5.\nته د ۵ نمبر په لټه کې لکه د ویډیو لوبې په څېر يې.",
+      "explanation": [
+        { "de": "die Fahrkarte / das Ticket", "af": "د سفر ټکټ" },
+        { "de": "Hin- und Rückfahrt", "af": "ورتلل او راتلل" },
+        { "de": "einfach", "af": "یو طرفه" },
+        { "de": "der Fahrplan", "af": "د وخت جدول" },
+        { "de": "das Gleis", "af": "پلاټفارم / لاین" },
+        { "de": "der Zug / der ICE", "af": "اورګاډی / تېز اورګاډی" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich möchte eine Fahrkarte nach Berlin.", "af": "زه برلین ته یو ټکټ غواړم.", "note": "" },
+        { "de": "Einfach oder Hin- und Rückfahrt?", "af": "یو طرفه که ورتلل او راتلل؟", "note": "" },
+        { "de": "Der Zug fährt von Gleis 3.", "af": "اورګاډی له ۳ نمبر پلاټفارم څخه ځي.", "note": "" },
+        { "de": "Muss ich umsteigen?", "af": "آیا باید اورګاډی بدل کړم؟", "note": "" }
+      ],
+      "tip": "د مهذب غوښتنې لپاره وکاروئ: Ich möchte ... / Ich hätte gern ...",
+      "dialogue": [
+        { "speaker": "👨", "de": "Guten Tag, ich hätte gern ein Ticket nach Hamburg.", "af": "سلام علیکم، زه هامبورګ ته ټکټ غواړم." },
+        { "speaker": "🎫", "de": "Einfach oder Hin- und Rückfahrt?", "af": "یو طرفه که ورتلل او راتلل؟" },
+        { "speaker": "👨", "de": "Hin- und Rückfahrt, bitte. Und möglichst günstig. 😅", "af": "ورتلل او راتلل، مهرباني وکړئ. او که امکان ولري ارزانه. 😅" }
+      ],
+      "summary": [
+        { "de": "die Fahrkarte", "af": "د سفر ټکټ" },
+        { "de": "das Gleis", "af": "پلاټفارم" },
+        { "de": "Ich möchte ...", "af": "زه ... غواړم" }
+      ],
+      "quiz": [
+        { "question": "زه برلین ته ټکټ غواړم څنګه وایئ؟", "options": ["Ich möchte eine Fahrkarte nach Berlin.", "Ich mache Fahrkarte Berlin.", "Ich will Berlin Karte."], "answer": 0, "hint": "مهذبه جمله په Ich möchte ... پیلېږي" },
+        { "question": "Gleis مانا:", "options": ["د اورګاډي دروازه", "پلاټفارم", "د اورګاډي څوکۍ"], "answer": 1, "hint": "په سکرینونو کې یې لټوئ" },
+        { "question": "Hin- und Rückfahrt يعنې:", "options": ["یو طرفه", "یوازې راتلل", "ورتلل او راتلل"], "answer": 2, "hint": "دوه واړه" },
+        { "question": "په سټیشن کې منطقي پوښتنه:", "options": ["Muss ich umsteigen?", "Wie alt bist du?", "Wo ist der Arzt?"], "answer": 0, "hint": "د اورګاډي بدلولو په اړه" }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Work",
+      "title": {
+        "af": "دنده او مسلک",
+        "de": "Arbeit und Beruf",
+        "en": "Work and profession"
+      },
+      "interactiveScene": "په یوه کوچنۍ محفل کې، هر څوک هماغه کلاسیکه الماني پوښتنه کوي:\nUnd, was machen Sie beruflich?\nته احساس کوې چې په یوه کوچنۍ دندې انټرویو کې يې 😅.",
+      "explanation": [
+        { "de": "der Beruf", "af": "مسلک" },
+        { "de": "die Firma", "af": "کمپنۍ" },
+        { "de": "der Kollege / die Kollegin", "af": "همکار (نارینه/ښځینه)" },
+        { "de": "Vollzeit / Teilzeit", "af": "بشپړ وخت / نیم وخت" },
+        { "de": "Ich arbeite als ...", "af": "زه د ... په توګه کار کوم" },
+        { "de": "Ich bin arbeitslos.", "af": "زه بې دندې یم." }
+      ],
+      "phrasesTable": [
+        { "de": "Was machen Sie beruflich?", "af": "تاسو په مسلکي توګه څه کوئ؟", "note": "ادبي" },
+        { "de": "Ich arbeite als Verkäufer.", "af": "زه د پلورونکي په توګه کار کوم.", "note": "als + مسلک" },
+        { "de": "Ich suche eine Arbeit.", "af": "زه دندې لټوم.", "note": "" },
+        { "de": "Ich habe nette Kollegen.", "af": "زه ښه همکاران لرم.", "note": "" }
+      ],
+      "tip": "د مسلک ښودلو لپاره دا جوړښت وکاروئ:\nIch arbeite als Lehrer / Ingenieur / Koch.",
+      "dialogue": [
+        { "speaker": "👨", "de": "Was machst du beruflich?", "af": "ته څه دنده کوې؟" },
+        { "speaker": "👩", "de": "Ich arbeite als Softwareentwicklerin.", "af": "زه د سافټوېر پرمختیا کوونکې په توګه کار کوم." },
+        { "speaker": "👨", "de": "Klingt spannend! Und deine Kollegen?", "af": "ډېر په زړه پورې ښکاري! ستا همکاران څنګه دي؟" },
+        { "speaker": "👩", "de": "Sind meistens nett. Meistens. 😉", "af": "ډېری وخت ښه وي. ډېری وخت. 😉" }
+      ],
+      "summary": [
+        { "de": "Was machen Sie beruflich?", "af": "تاسو مسلکي پلوه څه کوئ؟" },
+        { "de": "Ich arbeite als ...", "af": "زه د ... په توګه کار کوم" },
+        { "de": "Ich suche eine Arbeit.", "af": "زه دنده لټوم" }
+      ],
+      "quiz": [
+        { "question": "زه د انجنیر په توګه کار کوم څنګه وایئ؟", "options": ["Ich arbeite als Ingenieur.", "Ich mache Ingenieur.", "Ich bin Arbeit Ingenieur."], "answer": 0, "hint": "als + مسلک وکاروئ" },
+        { "question": "Beruf مانا:", "options": ["شوق", "مسلک", "کورنۍ"], "answer": 1, "hint": "هغه څه چې تاسو د پیسو لپاره کوئ" },
+        { "question": "د دندې انټرویو لپاره مناسبه جمله:", "options": ["Ich suche eine Arbeit.", "Ich bin Sofa.", "Ich esse Arbeit."], "answer": 0, "hint": "د دندې سره منطقي" },
+        { "question": "Kollegen يعنې:", "options": ["همکاران", "ګاونډيان", "ښوونکي"], "answer": 0, "hint": "په ورته کمپنۍ کې" }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Home",
+      "title": {
+        "af": "کور او استوګنه",
+        "de": "Wohnen und Zuhause",
+        "en": "Living and home"
+      },
+      "interactiveScene": "ته په انټرنیټ د اپارتمان لټون کوې.\nیو اعلان مومې چې لیکلي يې دي: 'Helle, gemütliche Wohnung, 2 Zimmer, Balkon, zentral gelegen.'\nاحساس کوې چې اپارتمان ستا له اوسني ژوند څخه ښکلي دی 😅.",
+      "explanation": [
+        { "de": "die Wohnung", "af": "اپارتمان" },
+        { "de": "das Zimmer", "af": "خونه" },
+        { "de": "das Wohnzimmer / Schlafzimmer", "af": "د اوسیدو خونه / د خوب خونه" },
+        { "de": "die Küche / das Bad", "af": "پخلنځی / تشناب" },
+        { "de": "der Balkon", "af": "بالکوني" },
+        { "de": "die Miete", "af": "کرایه" },
+        { "de": "möbliert / unmöbliert", "af": "فرنیچر لرونکی / بې فرنیچره" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe eine kleine Wohnung.", "af": "زه یو کوچنی اپارتمان لرم.", "note": "" },
+        { "de": "Die Wohnung ist im dritten Stock.", "af": "اپارتمان په درېیم پوړ کې دی.", "note": "" },
+        { "de": "Wie hoch ist die Miete?", "af": "کرایه څومره ده؟", "note": "" },
+        { "de": "Die Wohnung ist möbliert.", "af": "اپارتمان فرنیچر لرونکی دی.", "note": "" }
+      ],
+      "tip": "د استوګنې په اعلانونو کې ډېر وخت لیدل کېږي:\n2-Zimmer-Wohnung, Balkon, Küche, Bad.",
+      "dialogue": [
+        { "speaker": "📞", "de": "Guten Tag, ich rufe wegen der Wohnung an.", "af": "سلام علیکم، زه د اپارتمان په اړه زنګ وهلم." },
+        { "speaker": "🏢", "de": "Die Wohnung hat zwei Zimmer und einen Balkon.", "af": "اپارتمان دوه خونې او یو بالکوني لري." },
+        { "speaker": "📞", "de": "Und wie hoch ist die Miete?", "af": "او کرایه یې څومره ده؟" },
+        { "speaker": "🏢", "de": "Nur 2000 Euro. Ein kleines Schnäppchen. 😉", "af": "یوازې ۲۰۰۰ یورو. یو کوچنی سوداګریز فرصت. 😉" }
+      ],
+      "summary": [
+        { "de": "die Wohnung", "af": "اپارتمان" },
+        { "de": "die Miete", "af": "کرایه" },
+        { "de": "Wie hoch ist die Miete?", "af": "کرایه څومره ده؟" }
+      ],
+      "quiz": [
+        { "question": "زه یو کوچنی اپارتمان لرم څنګه وایئ؟", "options": ["Ich habe eine kleine Wohnung.", "Ich bin kleine Wohnung.", "Ich mache Wohnung klein."], "answer": 0, "hint": "habe + اپارتمان" },
+        { "question": "Miete يعنې:", "options": ["د اپارتمان بشپړ قیمت", "میاشتنۍ کرایه", "د فرنیچر قیمت"], "answer": 1, "hint": "هره میاشت ورکول کېږي" },
+        { "question": "möbliert مانا:", "options": ["بې فرنیچره", "فرنیچر لرونکی", "ډېر پخوانی"], "answer": 1, "hint": "پکې Möbel = فرنیچر دي" },
+        { "question": "سمه جمله:", "options": ["Die Wohnung ist im dritten Stock.", "Die Wohnung im dritten Stock ist.", "Die Wohnung ist dritter Stock im."], "answer": 0, "hint": "ist im dritten Stock" }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Shopping",
+      "title": {
+        "af": "پیرودل او خریداري",
+        "de": "Einkaufen",
+        "en": "Shopping"
+      },
+      "interactiveScene": "په سوپر مارکیټ کې هر ځای سره تخفیفونه ګورې 🔴.\nته فکر کوې: ما دا شی ته اړتیا نه لرله، مګر تخفیف مې قانع کړ!",
+      "explanation": [
+        { "de": "der Preis", "af": "بیعه" },
+        { "de": "das Angebot", "af": "وړاندیز / تخفیف" },
+        { "de": "reduziert", "af": "تخفیف شوی" },
+        { "de": "bar bezahlen", "af": "نقدي پیسې ورکول" },
+        { "de": "mit Karte bezahlen", "af": "په کارت پیسې ورکول" },
+        { "de": "die Kasse", "af": "د پیسو ځای / کیشیر" }
+      ],
+      "phrasesTable": [
+        { "de": "Wie viel kostet das?", "af": "دا څومره بیعه ده؟", "note": "" },
+        { "de": "Das ist im Angebot.", "af": "دا په تخفیف کې دی.", "note": "" },
+        { "de": "Kann ich mit Karte bezahlen?", "af": "ایا کولی شم په کارت پیسې ورکړم؟", "note": "" },
+        { "de": "Brauchen Sie eine Tüte?", "af": "تاسو کڅوړه ته اړتیا لرئ؟", "note": "په المان کې کلاسیکه پوښتنه" }
+      ],
+      "tip": "reduziert کلمه به په تخفیفونو کې ډېر ووینئ:\nAlles 50% reduziert!",
+      "dialogue": [
+        { "speaker": "🛒", "de": "Wie viel kostet das Brot?", "af": "دا ډوډۍ څومره بیعه ده؟" },
+        { "speaker": "👩‍💼", "de": "1 Euro 20. Heute ist es reduziert.", "af": "۱ یورو ۲۰. نن پرې تخفیف دی." },
+        { "speaker": "🛒", "de": "Super! Kann ich mit Karte bezahlen?", "af": "ښه! ایا کولی شم په کارت پیسې ورکړم؟" }
+      ],
+      "summary": [
+        { "de": "Wie viel kostet das?", "af": "دا څومره بیعه ده؟" },
+        { "de": "Das ist im Angebot / reduziert.", "af": "دا په وړاندیز / تخفیف کې دی." },
+        { "de": "Kann ich mit Karte bezahlen?", "af": "ایا کولی شم په کارت پیسې ورکړم؟" }
+      ],
+      "quiz": [
+        { "question": "دا څومره بیعه ده؟ څنګه وایئ:", "options": ["Wie viel kostet das?", "Wie viele ist das?", "Was Preis ist das?"], "answer": 0, "hint": "kostet = بیعه لري" },
+        { "question": "reduziert مانا:", "options": ["د استعمال وخت پای ته رسېدلی", "تخفیف شوی", "نوې زېږیدلی"], "answer": 1, "hint": "په تخفیفونو کې یې ګورئ" },
+        { "question": "Tüte يعنې:", "options": ["کڅوړه", "چمچ", "د شیدو بکس"], "answer": 0, "hint": "په کیشیر کې یې پوښتنه کوي" },
+        { "question": "په کیشیر کې طبیعي جمله:", "options": ["Kann ich mit Karte bezahlen?", "Ich bin Karte bezahlen.", "Ich mache bezahlen Karte."], "answer": 0, "hint": "Kann ich ...? = ایا کولی شم؟" }
+      ]
+    }
+
+  ]
+}

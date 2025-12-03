@@ -1,0 +1,1863 @@
+{
+  "level": "A2",
+  "title": "A2 – قواعد اللغة الألمانية",
+  "grammar": [
+    {
+      "id": "A2_Grammar_01_Possessivpronomen",
+      "title": {
+        "ar": "ضمائر الملكية",
+        "de": "Possessivpronomen",
+        "en": "Possessive Pronouns"
+      },
+      "interactiveScene": "المعلمة تقول: Jeder hat etwas Eigenes! (كل شخص لديه شيء يخصه!) وتكتب على اللوح: Wessen Auto ist das? – Das ist mein Auto.",
+      "explanation": [
+        { "de": "mein / meine", "ar": "ملكي" },
+        { "de": "dein / deine", "ar": "ملكك" },
+        { "de": "sein / seine", "ar": "ملكه" },
+        { "de": "ihr / ihre", "ar": "ملكها" },
+        { "de": "unser / unsere", "ar": "ملْكنا" },
+        { "de": "euer / eure", "ar": "ملْككم" },
+        { "de": "ihr / ihre", "ar": "ملْكهم" }
+      ],
+      "phrasesTable": [
+        { "de": "Das ist mein Buch.", "ar": "هذا كتابي." },
+        { "de": "Ist das deine Tasche?", "ar": "هل هذه حقيبتك؟" },
+        { "de": "Ihr Hund ist süß.", "ar": "كلبها لطيف." }
+      ],
+      "tip": "ضمير الملكية يوافق الاسم في الجنس والعدد.\nمثلاً: mein Vater – meine Mutter.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Ist das euer Auto?", "ar": "هل هذه سيارتكم؟" },
+        { "speaker": "👨", "de": "Ja, das ist unser Auto.", "ar": "نعم، هذه سيارتنا." }
+      ],
+      "summary": [
+        { "de": "mein → ich", "ar": "أنا" },
+        { "de": "dein → du", "ar": "أنت" },
+        { "de": "sein / ihr → er / sie", "ar": "هو / هي" },
+        { "de": "unser → wir", "ar": "نحن" }
+      ],
+      "quiz": [
+        {
+          "question": "____ Vater ist Arzt. (ich)",
+          "options": ["Mein", "Dein", "Ihr"],
+          "answer": 0,
+          "hint": "مع ich → Mein."
+        },
+        {
+          "question": "Wo ist ____ Handy? (du)",
+          "options": ["mein", "dein", "sein"],
+          "answer": 1,
+          "hint": "مع du → dein."
+        }
+      ]
+    },
+
+    {
+  "id": "A2_Grammar_Modalverben_Teil1",
+  "title": {
+    "ar": "الأفعال المساعدة – الجزء الأول (können, müssen, sollen)",
+    "de": "Modalverben – Teil 1",
+    "en": "Modal verbs – Part 1"
+  },
+  "interactiveScene": "المعلمة تسألك: „Kannst du Deutsch sprechen?“ 🇩🇪\nتجيب: „Ja, ich kann ein bisschen!“ 😎\nثم تقول: „Du musst mehr üben!“ 😅\nوصديقك يهمس: „Wir sollen Hausaufgaben machen…“ 📚\nوهكذا تبدأ رحلتك مع أفعال صغيرة، لكنها تغيّر معنى الجملة تمامًا!",
+  "explanation": [
+    {
+      "de": "(Modalverben)",
+      "ar": "الأفعال المساعدة  تُستخدم مع فعل آخر لتعبّر عن القدرة أو الواجب أو النصيحة.\nبعدها يأتي الفعل الرئيسي **في نهاية الجملة** بصيغة المصدر (Infinitiv)."
+    },
+    {
+      "de": "**1. können",
+      "ar": "🔹  = يستطيع / يقدر**"
+    },
+    {
+      "de": "ich kann",
+      "ar": "أنا أستطيع"
+    },
+    {
+      "de": "du kannst",
+      "ar": "أنت تستطيع"
+    },
+    {
+      "de": "er / sie / es kann",
+      "ar": "هو / هي يستطيع"
+    },
+    {
+      "de": "wir können",
+      "ar": "نحن نستطيع"
+    },
+    {
+      "de": "ihr könnt",
+      "ar": "أنتم تستطيعون"
+    },
+    {
+      "de": "sie / Sie können",
+      "ar": "هم / حضرتك يستطيع"
+    },
+    {
+      "de": "**2. müssen",
+      "ar": "🔹  = يجب / مضطر**"
+    },
+    {
+      "de": "ich muss",
+      "ar": "يجب علي"
+    },
+    {
+      "de": "du musst",
+      "ar": "يجب عليك"
+    },
+    {
+      "de": "er / sie / es muss",
+      "ar": "يجب عليه / عليها"
+    },
+    {
+      "de": "wir müssen",
+      "ar": "يجب علينا"
+    },
+    {
+      "de": "ihr müsst",
+      "ar": "يجب عليكم"
+    },
+    {
+      "de": "sie / Sie müssen",
+      "ar": "يجب عليهم / يجب على حضرتك"
+    },
+    {
+      "de": "**3. sollen",
+      "ar": "🔹  = ينبغي / من الأفضل أن**"
+    },
+    {
+      "de": "ich soll",
+      "ar": "ينبغي علي"
+    },
+    {
+      "de": "du sollst",
+      "ar": "ينبغي عليك"
+    },
+    {
+      "de": "er / sie / es soll",
+      "ar": "ينبغي عليه / عليها"
+    },
+    {
+      "de": "wir sollen",
+      "ar": "ينبغي علينا"
+    },
+    {
+      "de": "ihr sollt",
+      "ar": "ينبغي عليكم"
+    },
+    {
+      "de": "sie / Sie sollen",
+      "ar": "ينبغي عليهم / على حضرتك"
+    },
+    {
+      "de": " Ich kann gut schwimmen. / Ich muss früh aufstehen. / Du sollst lernen.",
+      "ar": "💡 قاعدة سريعة:\nالفعل المساعد دائمًا في المرتبة الثانية، والفعل الآخر في النهاية."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich kann Deutsch sprechen.",
+      "ar": "أنا أستطيع التحدث بالألمانية.",
+      "note": "können → القدرة."
+    },
+    {
+      "de": "Wir müssen morgen arbeiten.",
+      "ar": "علينا العمل غدًا.",
+      "note": "müssen → واجب أو إلزام."
+    },
+    {
+      "de": "Du sollst mehr schlafen.",
+      "ar": "ينبغي أن تنام أكثر.",
+      "note": "sollen → نصيحة أو توصية."
+    },
+    {
+      "de": "Er kann gut kochen.",
+      "ar": "هو يستطيع الطبخ جيدًا.",
+      "note": "فعل آخر في النهاية."
+    }
+  ],
+  "tip": "✨ **تلميحة سريعة:**\n- können = لديك قدرة 🏃‍♂️\n- müssen = ليس عندك خيار 😅\n- sollen = ينصحك أحد بشيء 🤓",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Kannst du schwimmen?",
+      "ar": "هل تستطيع السباحة؟"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ja, ich kann gut schwimmen!",
+      "ar": "نعم، أسبح جيدًا!"
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Und was musst du heute machen?",
+      "ar": "وماذا يجب أن تفعل اليوم؟"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich muss lernen... leider. 😭",
+      "ar": "يجب أن أدرس… للأسف."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Du sollst auch Pause machen!",
+      "ar": "وينبغي أن تأخذ استراحة أيضًا!"
+    }
+  ],
+  "summary": [
+    {
+      "de": "können – يستطيع",
+      "ar": "للتعبير عن القدرة."
+    },
+    {
+      "de": "müssen – يجب",
+      "ar": "للتعبير عن الإلزام."
+    },
+    {
+      "de": "sollen – ينبغي",
+      "ar": "للتعبير عن النصيحة أو الواجب الأدبي."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "ما معنى الفعل müssen؟",
+      "options": ["يستطيع", "يجب", "يريد"],
+      "answer": 1,
+      "hint": "يدل على الواجب أو الإلزام."
+    },
+    {
+      "question": "كيف تقول: يجب أن أدرس؟",
+      "options": [
+        "Ich kann lernen.",
+        "Ich muss lernen.",
+        "Ich soll lernen kann."
+      ],
+      "answer": 1,
+      "hint": "müssen = يجب."
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Ich kann gut tanzen.",
+        "Ich tanzen gut kann.",
+        "Kann ich tanzen gut."
+      ],
+      "answer": 0,
+      "hint": "الفعل المساعد ثانيًا، الفعل الآخر في النهاية."
+    },
+    {
+      "question": "صديقك مريض. ماذا تقول له؟",
+      "options": [
+        "Du kannst schlafen.",
+        "Du musst schlafen.",
+        "Du sollst schlafen."
+      ],
+      "answer": 2,
+      "hint": "sollen → نصيحة ودّية."
+    }
+  ]
+},
+{
+  "id": "A2_Grammar_Modalverben_Teil2",
+  "title": {
+    "ar": "الأفعال المساعدة – الجزء الثاني (wollen, möchten, dürfen, mögen)",
+    "de": "Modalverben – Teil 2",
+    "en": "Modal verbs – Part 2"
+  },
+  "interactiveScene": "في مطعم 🍽️ يقول النادل: „Was möchten Sie trinken?“ ☕\nفترد بلطف: „Ich möchte einen Kaffee.“ 😋\nلكن على الجدار مكتوب: „Man darf hier nicht rauchen!“ 🚭\nوصديقك يقول: „Ich will Pizza!“ 🍕\nفتضحك وتقول: „Ich mag Pizza auch!“ 😂",
+  "explanation": [
+    {
+      "de": "",
+      "ar": "في هذا الجزء نتعلّم أربعة أفعال جديدة ومهمة جدًا للحياة اليومية:\n🔹 wollen = يريد\n🔹 möchten = يرغب بلطف / يودّ\n🔹 dürfen = يُسمح له\n🔹 mögen = يحب"
+    },
+    {
+      "de": "",
+      "ar": "هذه الأفعال تُستخدم للتعبير عن الرغبة، أو الإذن، أو المحبة.\nوتتبع نفس القاعدة: الفعل المساعد في المرتبة الثانية، والفعل الرئيسي في النهاية."
+    },
+    {
+      "de": " **wollen",
+      "ar": "🔹 (يريد)**"
+    },
+    { "de": "ich will", "ar": "أنا أريد" },
+    { "de": "du willst", "ar": "أنت تريد" },
+    { "de": "er / sie / es will", "ar": "هو / هي يريد" },
+    { "de": "wir wollen", "ar": "نحن نريد" },
+    { "de": "ihr wollt", "ar": "أنتم تريدون" },
+    { "de": "sie / Sie wollen", "ar": "هم / حضرتك يريد" },
+    {
+      "de": "**möchten",
+      "ar": "🔹  (يرغب / يودّ)** – صيغة مهذّبة من wollen"
+    },
+    { "de": "ich möchte", "ar": "أنا أرغب / أودّ" },
+    { "de": "du möchtest", "ar": "أنت ترغب" },
+    { "de": "er / sie / es möchte", "ar": "هو / هي يرغب" },
+    { "de": "wir möchten", "ar": "نحن نرغب" },
+    { "de": "ihr möchtet", "ar": "أنتم ترغبون" },
+    { "de": "sie / Sie möchten", "ar": "هم / حضرتك يرغب" },
+    {
+      "de": "**dürfen",
+      "ar": "🔹  (يُسمح له / يمكنه)**"
+    },
+    { "de": "ich darf", "ar": "يُسمح لي" },
+    { "de": "du darfst", "ar": "يُسمح لك" },
+    { "de": "er / sie / es darf", "ar": "يُسمح له / لها" },
+    { "de": "wir dürfen", "ar": "يُسمح لنا" },
+    { "de": "ihr dürft", "ar": "يُسمح لكم" },
+    { "de": "sie / Sie dürfen", "ar": "يُسمح لهم / لحضرتك" },
+    {
+      "de": "**mögen",
+      "ar": "🔹  (يحب / يفضّل)**"
+    },
+    { "de": "ich mag", "ar": "أنا أحب" },
+    { "de": "du magst", "ar": "أنت تحب" },
+    { "de": "er / sie / es mag", "ar": "هو / هي يحب" },
+    { "de": "wir mögen", "ar": "نحن نحب" },
+    { "de": "ihr mögt", "ar": "أنتم تحبون" },
+    { "de": "sie / Sie mögen", "ar": "هم / حضرتك تحب" }
+  ],
+  "phrasesTable": [
+    { "de": "Ich will schlafen.", "ar": "أريد أن أنام.", "note": "رغبة قوية." },
+    { "de": "Ich möchte einen Kaffee, bitte.", "ar": "أودّ قهوة من فضلك.", "note": "صيغة مهذّبة أكثر من wollen." },
+    { "de": "Darf ich hier sitzen?", "ar": "هل يُسمح لي بالجلوس هنا؟", "note": "dürfen → للسؤال عن الإذن." },
+    { "de": "Ich mag Pizza.", "ar": "أنا أحب البيتزا.", "note": "تعبير عن الإعجاب." }
+  ],
+  "tip": "🧠 **افرق بينهم بسهولة:**\n- wollen → أريد بقوة! 💪\n- möchten → أودّ بلُطف ☕\n- dürfen → هل مسموح؟ 🚫\n- mögen → أحب ❤️",
+  "dialogue": [
+    { "speaker": "👩‍🏫", "de": "Was möchtest du trinken?", "ar": "ماذا تود أن تشرب؟" },
+    { "speaker": "👨", "de": "Ich möchte einen Tee.", "ar": "أود كوب شاي." },
+    { "speaker": "👩‍🏫", "de": "Darf man hier essen?", "ar": "هل مسموح الأكل هنا؟" },
+    { "speaker": "👨", "de": "Nein, man darf hier nicht essen. 😅", "ar": "لا، غير مسموح الأكل هنا." }
+  ],
+  "summary": [
+    { "de": "wollen = يريد", "ar": "رغبة قوية." },
+    { "de": "möchten = يرغب بلطف", "ar": "طلب مهذّب." },
+    { "de": "dürfen = يُسمح", "ar": "إذن أو منع." },
+    { "de": "mögen = يحب", "ar": "تعبير عن الإعجاب." }
+  ],
+  "quiz": [
+    {
+      "question": "ما الفرق بين wollen و möchten؟",
+      "options": [
+        "لا فرق بينهما.",
+        "möchten أكثر أدبًا من wollen.",
+        "wollen أكثر أدبًا من möchten."
+      ],
+      "answer": 1,
+      "hint": "möchten تستخدم للطلب المهذب."
+    },
+    {
+      "question": "كيف تقول: هل يُسمح لي بالجلوس هنا؟",
+      "options": [
+        "Kann ich hier sitzen?",
+        "Darf ich hier sitzen?",
+        "Will ich hier sitzen?"
+      ],
+      "answer": 1,
+      "hint": "dürfen → للسماح أو الإذن."
+    },
+    {
+      "question": "كيف تقول: أنا أحب القهوة؟",
+      "options": [
+        "Ich mag Kaffee.",
+        "Ich möchte Kaffee.",
+        "Ich will Kaffee."
+      ],
+      "answer": 0,
+      "hint": "mögen → للإعجاب العام."
+    },
+    {
+      "question": "اختر الجملة المهذبة الصحيحة لطلب الطعام:",
+      "options": [
+        "Ich will Pizza.",
+        "Ich möchte Pizza, bitte.",
+        "Ich mag Pizza, bitte."
+      ],
+      "answer": 1,
+      "hint": "möchte + bitte = الطريقة المثالية!"
+    }
+  ]
+}
+,
+
+{
+  "id": "A2_Lesson_Modalverben_Sentences",
+  "title": {
+    "ar": "تكوين الجمل مع الأفعال المساعدة (Modalverben)",
+    "de": "Satzbau mit Modalverben",
+    "en": "Sentence structure with modal verbs"
+  },
+  "interactiveScene": "في الصف تقول المعلمة: Ich kann schwimmen! 🏊‍♂️ ثم تنظر إليك وتقول: Und du? فتجيب مرتبكًا: Ich kann... äh... schlafen? 😅",
+  "explanation": [
+    { "de": "Modalverben هي أفعال مساعدة مثل: können, müssen, dürfen, wollen, sollen, mögen.", "ar": "الأفعال المساعدة هي أفعال تُستخدم مع فعل آخر لتوضيح المعنى مثل: أستطيع، يجب، يُسمح لي..." },
+    { "de": "Ich kann Deutsch sprechen.", "ar": "أستطيع التحدث بالألمانية." },
+    { "de": "Er muss jeden Tag arbeiten.", "ar": "يجب عليه أن يعمل كل يوم." },
+    { "de": "Wir dürfen hier nicht rauchen.", "ar": "يُمنع علينا التدخين هنا." },
+    { "de": "Ich will Arzt werden.", "ar": "أريد أن أصبح طبيبًا." },
+    { "de": "Man soll viel Wasser trinken.", "ar": "يُنصح بشرب الكثير من الماء." }
+  ],
+  "phrasesTable": [
+    { "de": "können", "ar": "يستطيع", "note": "Ich kann schwimmen." },
+    { "de": "müssen", "ar": "يجب", "note": "Ich muss arbeiten." },
+    { "de": "dürfen", "ar": "يُسمح", "note": "Wir dürfen hier nicht parken." },
+    { "de": "wollen", "ar": "يريد", "note": "Ich will nach Berlin fahren." },
+    { "de": "sollen", "ar": "ينبغي / يُنصح", "note": "Du sollst mehr schlafen." },
+    { "de": "mögen", "ar": "يحب", "note": "Ich mag Pizza." }
+  ],
+  "tip": "في الجمل مع Modalverben يأتي الفعل الثاني في نهاية الجملة **بصيغة المصدر (Infinitiv)**:\nIch kann Deutsch **sprechen**.\nEr will Fußball **spielen**.",
+  "dialogue": [
+    { "speaker": "👩‍🏫", "de": "Kannst du kochen?", "ar": "هل تستطيع الطبخ؟" },
+    { "speaker": "👨", "de": "Ein bisschen! Ich kann Spaghetti machen. 🍝", "ar": "قليلًا! أستطيع صنع السباغيتي." },
+    { "speaker": "👩‍🏫", "de": "Musst du heute lernen?", "ar": "هل يجب أن تدرس اليوم؟" },
+    { "speaker": "👨", "de": "Ja, leider... ich muss viel Hausaufgaben machen.", "ar": "نعم للأسف... يجب أن أعمل واجبات كثيرة." }
+  ],
+  "summary": [
+    { "de": "Modalverben + Verb im Infinitiv am Ende", "ar": "الفعل المساعد + الفعل في النهاية بصيغة المصدر" },
+    { "de": "Ich kann Deutsch sprechen.", "ar": "أستطيع التحدث بالألمانية." },
+    { "de": "Er muss arbeiten.", "ar": "يجب عليه أن يعمل." }
+  ],
+  "quiz": [
+    {
+      "question": "أين نضع الفعل الثاني في الجملة مع Modalverben؟",
+      "options": [
+        "في نهاية الجملة.",
+        "قبل الفاعل.",
+        "بعد الفعل المساعد مباشرة."
+      ],
+      "answer": 0,
+      "hint": "Infinitiv دائمًا في النهاية."
+    },
+    {
+      "question": "كيف تقول: أريد أن أتعلم الألمانية؟",
+      "options": [
+        "Ich will Deutsch lernen.",
+        "Ich will lernen Deutsch.",
+        "Ich lerne will Deutsch."
+      ],
+      "answer": 0,
+      "hint": "الفعل lernen في النهاية."
+    },
+    {
+      "question": "ما ترجمة الجملة: Wir dürfen hier nicht rauchen.",
+      "options": [
+        "نحن لا نستطيع الأكل هنا.",
+        "يُسمح لنا بالتدخين هنا.",
+        "لا يُسمح لنا بالتدخين هنا."
+      ],
+      "answer": 2,
+      "hint": "dürfen + nicht = لا يُسمح."
+    },
+    {
+      "question": "كلمة müssen تعني:",
+      "options": [
+        "يريد",
+        "يجب",
+        "يستطيع"
+      ],
+      "answer": 1,
+      "hint": "من كلمة 'must' الإنجليزية."
+    }
+  ]
+}
+,
+    {
+  "id": "A2_Grammar_04_Trennbare_Verben",
+  "title": {
+    "ar": "الأفعال المنفصلة (Trennbare Verben)",
+    "de": "Trennbare Verben",
+    "en": "Separable Verbs"
+  },
+  "interactiveScene": "تجلس في الصف، والمعلمة تقول: „Ich stehe jeden Tag um 7 Uhr auf.“ 😴\nتفتح عينيك وتفكر: ماذا؟ لماذا وضعت 'auf' في آخر الجملة؟ هل نسيت الكلمة؟ لا يا صديقي، هذا درس الأفعال المنفصلة!",
+  "explanation": [
+    {
+      "de": "بعض الأفعال في الألمانية تتكوّن من كلمتين: (الفعل الأساسي + مقطع في البداية يسمى Präfix).",
+      "ar": "بعض الأفعال في الألمانية تتكون من كلمتين: الفعل الأساسي + مقطع في البداية يسمى (السابقة)."
+    },
+    {
+      "de": "عند تصريف الفعل في الجملة، يُفصل هذا المقطع ويذهب إلى نهاية الجملة.",
+      "ar": "عندما نصرّف الفعل، ينفصل المقطع (السابقة) ويذهب إلى نهاية الجملة."
+    },
+    {
+      "de": "مثال: aufstehen → Ich stehe um 7 Uhr auf.",
+      "ar": "الفعل aufstehen (يستيقظ) → أنا أستيقظ الساعة 7."
+    },
+    {
+      "de": "abfahren → Ich fahre morgen ab.",
+      "ar": "أسافر غدًا."
+    },
+    {
+      "de": "fernsehen → Er sieht abends fern.",
+      "ar": "هو يشاهد التلفاز في المساء."
+    }
+  ],
+  "phrasesTable": [
+    { "de": "aufstehen", "ar": "ينهض / يستيقظ", "note": "Ich stehe um 7 Uhr auf." },
+    { "de": "einkaufen", "ar": "يتسوّق", "note": "Sie kauft im Supermarkt ein." },
+    { "de": "fernsehen", "ar": "يشاهد التلفاز", "note": "Wir sehen abends fern." },
+    { "de": "mitkommen", "ar": "يأتي معًا", "note": "Kommst du mit?" },
+    { "de": "anrufen", "ar": "يتصل بـ", "note": "Ich rufe dich morgen an." }
+  ],
+  "tip": "قاعدة ذهبية: الفعل المنفصل يتكوّن من **Präfix + Verb**.\nفي الجملة العادية: Präfix يذهب إلى **نهاية الجملة**.\nوفي الجمل الفرعية (mit weil, dass) يبقى الفعل متصلًا مثل: weil ich um 7 Uhr aufstehe.“",
+  "dialogue": [
+    { "speaker": "👩‍🏫", "de": "Stehst du früh auf?", "ar": "هل تستيقظ باكرًا؟" },
+    { "speaker": "👨", "de": "Nein, ich schlafe gern länger!", "ar": "لا، أحب النوم أكثر!" },
+    { "speaker": "👩‍🏫", "de": "Rufst du deine Mutter jeden Tag an?", "ar": "هل تتصل بأمك كل يوم؟" },
+    { "speaker": "👨", "de": "Ja! Und sie ruft mich auch jeden Tag an! 📞", "ar": "نعم! وهي تتصل بي أيضًا كل يوم!" }
+  ],
+  "summary": [
+    { "de": "aufstehen → Ich stehe um 7 Uhr auf.", "ar": "ينهض → أنا أستيقظ الساعة 7." },
+    { "de": "einkaufen → Sie kauft im Supermarkt ein.", "ar": "يتسوّق → هي تتسوّق في السوبرماركت." },
+    { "de": "fernsehen → Wir sehen abends fern.", "ar": "يشاهد التلفاز → نحن نشاهد التلفاز في المساء." }
+  ],
+  "quiz": [
+    {
+      "question": "أين نضع الجزء المنفصل من الفعل (Präfix) في الجملة؟",
+      "options": [
+        "في بداية الجملة.",
+        "في منتصف الجملة.",
+        "في نهاية الجملة."
+      ],
+      "answer": 2,
+      "hint": "يتحوّل إلى الكلمة الأخيرة في الجملة."
+    },
+    {
+      "question": "اختر الجملة الصحيحة: (أنا أستيقظ الساعة 7.)",
+      "options": [
+        "Ich stehe um 7 Uhr auf.",
+        "Ich aufstehe um 7 Uhr.",
+        "Ich stehe auf um 7 Uhr."
+      ],
+      "answer": 0,
+      "hint": "الفعل المنفصل auf في النهاية."
+    },
+    {
+      "question": "ما معنى الفعل „einkaufen“؟",
+      "options": [
+        "يتسوّق",
+        "يأكل",
+        "يشاهد"
+      ],
+      "answer": 0,
+      "hint": "ein = إلى الداخل، kaufen = يشتري."
+    },
+    {
+      "question": "كيف تقول: سأتصل بك غدًا؟",
+      "options": [
+        "Ich rufe dich morgen an.",
+        "Ich anrufe dich morgen.",
+        "Ich rufe morgen dich an."
+      ],
+      "answer": 0,
+      "hint": "السابقة (an) في النهاية."
+    }
+  ]
+}
+,
+
+    
+    {
+  "id": "A2_Grammar_07_Komparativ_Superlativ",
+  "title": {
+    "ar": "المقارنة والتفضيل (Komparativ & Superlativ)",
+    "de": "Komparativ und Superlativ",
+    "en": "Comparison and Superlative"
+  },
+  "interactiveScene": "يجلس أحمد وبيتر في مقهى 🍰. يقول أحمد: \"Mein Kaffee ist stark!\" فيرد بيتر مبتسمًا: \"Aber meiner ist stärker!\".\nثم تضحك النادلة وتقول: \"Und meiner ist am stärksten!\" ☕🏆 — وهكذا تبدأ القصة!",
+  "explanation": [
+    {
+      "de": "نستخدم المقارنة (Komparativ) ",
+      "ar": "نستخدم صيغة المقارنة للمقارنة بين شيئين، وتُضاف غالبًا اللاحقة –er إلى الصفة."
+    },
+    {
+      "de": "Für den Superlativ",
+      "ar": "لصيغة التفضيل الأعلى نضيف 'am' قبل الصفة و–sten في نهايتها."
+    },
+    {
+      "de": "Beispiel: schnell → schneller → am schnellsten",
+      "ar": "سريع → أسرع → الأسرع"
+    },
+    {
+      "de": "groß → größer → am größten",
+      "ar": "كبير → أكبر → الأكبر"
+    },
+    {
+      "de": "gut → besser → am besten",
+      "ar": "جيد → أفضل → الأفضل (غير منتظم)"
+    },
+    {
+      "de": "viel → mehr → am meisten",
+      "ar": "كثير → أكثر → الأكثر"
+    }
+  ],
+  "phrasesTable": [
+    { "de": "Mein Auto ist schneller als dein Auto.", "ar": "سيارتي أسرع من سيارتك.", "note": "استخدم 'als' بعد المقارنة." },
+    { "de": "Maria ist älter als Anna.", "ar": "ماريا أكبر من آنا." },
+    { "de": "Heute ist es wärmer als gestern.", "ar": "اليوم أدفأ من الأمس." },
+    { "de": "Mein Haus ist am größten.", "ar": "منزلي هو الأكبر." },
+    { "de": "Dieses Handy ist besser als das alte.", "ar": "هذا الهاتف أفضل من القديم." }
+  ],
+  "tip": "🧠 القاعدة الذهبية:\n1️⃣ Komparativ = الصفة + er + als\n2️⃣ Superlativ = am + الصفة + sten\n💡 تذكّر: بعض الصفات تغيّر حروفها (ä, ö, ü) مثل groß → größer، jung → jünger.",
+  "dialogue": [
+    { "speaker": "👩", "de": "Wer ist schneller, du oder dein Bruder?", "ar": "من أسرع، أنت أم أخوك؟" },
+    { "speaker": "👨", "de": "Ich bin schneller, aber er ist stärker!", "ar": "أنا أسرع، لكنه أقوى!" },
+    { "speaker": "👩", "de": "Und wer ist am klügsten?", "ar": "ومن الأذكى؟" },
+    { "speaker": "👨", "de": "Natürlich meine Mutter! 😅", "ar": "أكيد أمي طبعًا!" }
+  ],
+  "summary": [
+    { "de": "Komparativ: schön → schöner", "ar": "جميل → أجمل" },
+    { "de": "Superlativ: schön → am schönsten", "ar": "جميل → الأجمل" },
+    { "de": "gut → besser → am besten", "ar": "جيد → أفضل → الأفضل" },
+    { "de": "viel → mehr → am meisten", "ar": "كثير → أكثر → الأكثر" }
+  ],
+  "quiz": [
+    {
+      "question": "اختر الجملة الصحيحة للمقارنة:",
+      "options": [
+        "Mein Hund ist größer als dein Hund.",
+        "Mein Hund ist am größer.",
+        "Mein Hund ist groß als dein Hund."
+      ],
+      "answer": 0,
+      "hint": "تذكّر: 'als' بعد المقارنة."
+    },
+    {
+      "question": "ما صيغة التفضيل من الصفة 'gut'؟",
+      "options": [
+        "guter / am gutesten",
+        "besser / am besten",
+        "mehr / am meisten"
+      ],
+      "answer": 1,
+      "hint": "غير منتظم (مثل better/best بالإنجليزية)."
+    },
+    {
+      "question": "ترجم الجملة: الجو اليوم أدفأ من الأمس.",
+      "options": [
+        "Heute ist es wärmer als gestern.",
+        "Heute ist es warm als gestern.",
+        "Heute ist am warmsten."
+      ],
+      "answer": 0,
+      "hint": "لاحظ 'wärmer' و 'als'."
+    },
+    {
+      "question": "ما الترجمة الصحيحة: 'هو الأذكى في الصف'؟",
+      "options": [
+        "Er ist der klügste in der Klasse.",
+        "Er ist klüger als der Klasse.",
+        "Er ist am klügster in der Klasse."
+      ],
+      "answer": 0,
+      "hint": "Superlativ: am + sten أو der + ste."
+    }
+  ]
+}
+,
+
+{
+  "id": "gram-nebensaetze-a2",
+  "title": {
+    "de": "Nebensätze mit weil, dass, wenn, obwohl",
+    "ar": "الجمل الثانوية Nebensätze (weil, dass, wenn, obwohl)"
+  },
+  "interactiveScene": "تخيّل Noa يقول:\n„Ich lerne Deutsch, weil ich in Deutschland studieren möchte.“\n(أتعلم الألمانية لأنني أريد أن أدرس في ألمانيا.)\n\nبعدها يكتب في رسالة:\n„Ich glaube, dass Deutsch wichtig ist.“\n(أعتقد أن الألمانية مهمّة.)\n\nوفي المساء يقول لصديقه:\n„Ich gehe joggen, obwohl es regnet.“\n(أذهب للجري رغم أنّ الجو يمطر.)\n\nكل هذه الجمل فيها جزء رئيسي وجزء ثانوي **Nebensatz**، مع أداة ربط مثل weil, dass, obwohl… والسر كله في مكان الفعل في النهاية.",
+  "explanation": [
+    {
+      "de": "Was ist ein Nebensatz?",
+      "ar": "هو جملة لا تقف وحدها، بل تحتاج إلى جملة رئيسية Hauptsatz.\nتبدأ غالبًا بحرف ربط (Konjunktion) مثل: **weil, dass, wenn, obwohl** ويأتي الفعل في **نهاية الجملة**."
+    },
+    {
+      "de": "Hauptsatz + Nebensatz",
+      "ar": "في الجملة الرئيسية يبقى الفعل في المكان الثاني:\nIch bleibe zu Hause, **weil** ich krank **bin**.\n(أبقى في البيت لأنني مريض.)\nHauptsatz: Ich bleibe zu Hause.\nNebensatz: weil ich krank bin. (الفعل bin في النهاية)."
+    },
+    {
+      "de": "Nebensatz + Hauptsatz",
+      "ar": "يمكن أن نبدأ بالجملة الثانوية:\n**Weil** ich krank **bin**, bleibe ich zu Hause.\nعندها نضع فاصلة، ثم في الجملة الرئيسية يبقى الفعل في المرتبة الثانية: **bleibe ich** zu Hause."
+    },
+    {
+      "de": "Konjunktion: weil",
+      "ar": "تُستخدم **weil** لذكر السبب.\nIch lerne Deutsch, weil ich in Deutschland arbeiten möchte.\n(أتعلم الألمانية لأنني أريد أن أعمل في ألمانيا.)"
+    },
+    {
+      "de": "Konjunktion: dass",
+      "ar": "تُستخدم **dass** بعد أفعال الرأي والفكر مثل: glauben, denken, finden, sagen…\nIch glaube, dass er sehr fleißig ist.\n(أعتقد أنه مجتهد جدًا.)\nفي العربية غالبًا نترجمها بـ \"أنَّ\"."
+    },
+    {
+      "de": "Konjunktion: wenn",
+      "ar": "تُستخدم **wenn** في معنى: عندما / إذا (شيء يتكرر أو محتمل).\nWenn ich Zeit habe, lerne ich Deutsch.\n(عندما يكون لدي وقت، أتعلم الألمانية.)"
+    },
+    {
+      "de": "Konjunktion: obwohl",
+      "ar": "تُستخدم **obwohl** للتعبير عن التناقض: رغم أن…\nObwohl ich müde bin, lerne ich weiter.\n(رغم أنني متعب، أتابع الدراسة.)"
+    },
+    {
+      "de": "Komma und Verbstellung",
+      "ar": "بين Hauptsatz و Nebensatz نضع دائمًا **فاصلة ،**.\nفي Nebensatz: أداة الربط + الفاعل + باقي الجملة + الفعل في النهاية:\nweil **ich** heute keine Zeit **habe**."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich bleibe zu Hause, weil ich krank bin.",
+      "ar": "أبقى في البيت لأنني مريض.",
+      "note": "weil → سبب، والفعل في نهاية الجملة: bin."
+    },
+    {
+      "de": "Weil ich morgen eine Prüfung habe, lerne ich jetzt.",
+      "ar": "لأن لدي امتحانًا غدًا، أذاكر الآن.",
+      "note": "عندما يبدأ Nebensatz، يأتي الفعل في الجملة الرئيسية في المرتبة الثانية: lerne ich."
+    },
+    {
+      "de": "Ich glaube, dass Deutsch wichtig ist.",
+      "ar": "أعتقد أن الألمانية مهمّة.",
+      "note": "dass بعد أفعال الرأي مثل glaube، والفعل في النهاية: ist."
+    },
+    {
+      "de": "Wenn ich Zeit habe, treffe ich meine Freunde.",
+      "ar": "عندما يكون لدي وقت، أقابل أصدقائي.",
+      "note": "wenn → شرط/تكرار، تُترجم: عندما / إذا."
+    },
+    {
+      "de": "Obwohl es regnet, gehen wir spazieren.",
+      "ar": "رغم أنّ الجو يمطر، نذهب في نزهة.",
+      "note": "obwohl → تناقض بين الجزئين."
+    },
+    {
+      "de": "Er arbeitet viel, obwohl er müde ist.",
+      "ar": "هو يعمل كثيرًا رغم أنه متعب.",
+      "note": "الفعل في Nebensatz في النهاية: ist."
+    }
+  ],
+  "tip": "💡 **خطّة بسيطة لفهم Nebensätze**:\n1️⃣ ابحث عن أداة الربط (weil, dass, wenn, obwohl...).\n2️⃣ كل ما يأتي بعدها حتى الفاصلة أو النقطة = الجملة الثانوية Nebensatz.\n3️⃣ ضع الفعل في نهاية هذه الجملة.\n\n🧠 **weil vs denn**:\n• weil = Nebensatz → الفعل في النهاية: Ich bleibe zu Hause, weil ich krank **bin**.\n• denn = Hauptsatz → ترتيب عادي، والفعل في الثاني: Ich bleibe zu Hause, denn ich **bin** krank.\n\n📌 **wenn أم als؟**\nفي B1 يكفي أن تركز على **wenn** للأشياء المتكررة أو المحتملة:\nWenn ich Geld habe, reise ich.\nأما **als** فغالبًا تُستخدم لحدث واحد في الماضي، ويمكنك تعلمها بتفصيل لاحقًا.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich bleibe heute zu Hause, weil ich müde bin.",
+      "ar": "سأبقى اليوم في البيت لأنني متعب."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Schade! Ich dachte, dass du mitkommst.",
+      "ar": "يا للأسف! كنت أظن أنك ستأتي معنا."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Wenn ich mich besser fühle, komme ich morgen.",
+      "ar": "إذا شعرت بتحسّن، سأأتي غدًا."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Okay, obwohl du krank bist, lernst du bestimmt weiter.",
+      "ar": "حسنًا، رغم أنك مريض، إلا أنك بالتأكيد تتابع الدراسة."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Nebensätze brauchen eine Konjunktion.",
+      "ar": "الجملة الثانوية تحتاج دائمًا **حرف ربط** مثل: weil, dass, wenn, obwohl."
+    },
+    {
+      "de": "Im Nebensatz steht das Verb am Ende.",
+      "ar": "في Nebensatz يأتي **الفعل في نهاية الجملة**."
+    },
+    {
+      "de": "Hauptsatz und Nebensatz werden mit Komma getrennt.",
+      "ar": "نضع دائمًا **فاصلة ،** بين الجملة الرئيسية والجملة الثانوية."
+    },
+    {
+      "de": "weil → Grund, dass → Inhalt, wenn → Bedingung/Zeit, obwohl → Gegensatz.",
+      "ar": "**weil** للسبب، **dass** بعد أفعال الرأي، **wenn** للشرط أو الزمن المتكرر، **obwohl** للتناقض."
+    },
+    {
+      "de": "Steht der Nebensatz zuerst, bleibt im Hauptsatz das Verb auf Position 2.",
+      "ar": "إذا بدأتَ بـ Nebensatz، يبقى الفعل في الجملة الرئيسية في **المركز الثاني**: Weil ich müde bin, **gehe** ich früh ins Bett."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "أكمل الجملة بـ weil مع ترتيب صحيح للفعل:\nIch bleibe zu Hause, ___ ich keine Zeit ___.",
+      "options": [
+        "weil / habe",
+        "weil / habe keine Zeit",
+        "weil ich / habe keine Zeit",
+        "weil ich / keine Zeit habe"
+      ],
+      "answer": 3,
+      "hint": "في Nebensatz: weil + Subjekt + باقي الجملة + الفعل في النهاية."
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Ich lerne Deutsch, weil ich will in Deutschland arbeiten.",
+        "Ich lerne Deutsch, weil ich in Deutschland arbeiten will.",
+        "Ich lerne Deutsch, weil will ich in Deutschland arbeiten.",
+        "Ich lerne Deutsch, ich will in Deutschland arbeiten, weil."
+      ],
+      "answer": 1,
+      "hint": "في جزء weil يجب أن يكون الفعل في النهاية: arbeiten will."
+    },
+    {
+      "question": "حوّل الجملة إلى Nebensatz باستخدام dass:\nIch glaube, ___ Deutsch wichtig ist.",
+      "options": [
+        "dass",
+        "dass ist",
+        "dass Deutsch",
+        "dass wichtig"
+      ],
+      "answer": 0,
+      "hint": "بعد dass نضع: Deutsch wichtig ist (الفعل في النهاية)."
+    },
+    {
+      "question": "اختر الأداة الصحيحة:\n___ ich Zeit habe, lerne ich Deutsch.",
+      "options": ["Weil", "Dass", "Wenn", "Obwohl"],
+      "answer": 2,
+      "hint": "\"عندما يكون لدي وقت\" → إذا / عندما = wenn."
+    },
+    {
+      "question": "أي جملة تعبّر عن تناقض (رغم أنّ)؟",
+      "options": [
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Wenn ich krank bin, bleibe ich zu Hause.",
+        "Obwohl ich krank bin, gehe ich zur Arbeit.",
+        "Ich glaube, dass ich krank bin."
+      ],
+      "answer": 2,
+      "hint": "دور على obwohl."
+    },
+    {
+      "question": "أي جملة فيها ترتيب صحيح عندما يأتي Nebensatz أولاً؟",
+      "options": [
+        "Weil ich müde bin, ich gehe früh ins Bett.",
+        "Weil ich müde bin, gehe ich früh ins Bett.",
+        "Weil ich müde bin, ich früh ins Bett gehe.",
+        "Weil müde bin ich, gehe ich früh ins Bett."
+      ],
+      "answer": 1,
+      "hint": "بعد الفاصلة يجب أن يكون الفعل في المركز الثاني: gehe ich ..."
+    },
+    {
+      "question": "اختر الكلمة المناسبة:\nIch weiß, ___ er heute nicht kommt.",
+      "options": ["weil", "dass", "wenn", "obwohl"],
+      "answer": 1,
+      "hint": "بعد أفعال المعرفة/الرأي مثل weiß نستخدم غالبًا dass."
+    }
+  ]
+}
+,
+    {
+  "id": "A2_Grammar_08_Futur_I",
+  "title": {
+    "ar": "قاعدة: زمن المستقبل (Futur I)",
+    "de": "Futur I mit werden",
+    "en": "Future tense with 'werden'"
+  },
+  "interactiveScene": "المعلّم يدخل الصف ويقول بحماس: \"Nächstes Jahr werde ich viel reisen!\".\nالطلاب يفتحون عيونهم ويبدأون بالتخيل.\nثم يلتفت إليك ويقول: \"Und was wirst du nächstes Jahr machen?\" – وهنا تبدأ قصة Futur I.",
+  "explanation": [
+    {
+      "de": "Wir bilden Futur I mit: werden + Verb im Infinitiv (am Satzende).",
+      "ar": "نكوّن زمن المستقبل باستخدام: الفعل werden + الفعل الأساسي في المصدر في نهاية الجملة."
+    },
+    {
+      "de": "ich werde",
+      "ar": "أنا سأَ..."
+    },
+    {
+      "de": "du wirst",
+      "ar": "أنت ستَ..."
+    },
+    {
+      "de": "er / sie / es wird",
+      "ar": "هو / هي / هو (لغير العاقل) سيَ..."
+    },
+    {
+      "de": "wir werden",
+      "ar": "نحن سنَ..."
+    },
+    {
+      "de": "ihr werdet",
+      "ar": "أنتم ستَ..."
+    },
+    {
+      "de": "sie / Sie werden",
+      "ar": "هم / حضرتكم ستَ..."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich werde morgen früh aufstehen.",
+      "ar": "سأستيقظ باكرًا غدًا.",
+      "note": "خطة شخصية للمستقبل"
+    },
+    {
+      "de": "Wir werden Deutsch lernen.",
+      "ar": "سنتعلّم الألمانية.",
+      "note": "وعد إيجابي 💪"
+    },
+    {
+      "de": "Er wird nächste Woche einen Test schreiben.",
+      "ar": "سيجري اختبارًا الأسبوع القادم.",
+      "note": "حدث محدّد في المستقبل"
+    },
+    {
+      "de": "Wirst du heute arbeiten?",
+      "ar": "هل ستعمل اليوم؟",
+      "note": "سؤال في المستقبل"
+    },
+    {
+      "de": "Es wird morgen kalt sein.",
+      "ar": "سيكون الجو باردًا غدًا.",
+      "note": "توقّع عن الطقس"
+    }
+  ],
+  "tip": "القاعدة الذهبية في Futur I:\n1) الفعل werden يُصرَف حسب الفاعل ويأتي في المرتبة الثانية.\n2) الفعل الأساسي يبقى في المصدر ويذهب إلى نهاية الجملة.\nمثال:\nIch werde morgen Deutsch lernen.\nWirst du morgen Deutsch lernen?",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Was wirst du am Wochenende machen?",
+      "ar": "ماذا ستفعل في عطلة نهاية الأسبوع؟"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich werde Freunde treffen und wir werden zusammen kochen.",
+      "ar": "سألتقي أصدقاء وسنطبخ معًا."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Und wirst du auch lernen?",
+      "ar": "وهل ستدرس أيضًا؟"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ja, ich werde ein bisschen Deutsch wiederholen. Versprochen! 😉",
+      "ar": "نعم، سأراجع الألمانية قليلًا. أعدك!"
+    }
+  ],
+  "summary": [
+    {
+      "de": "Futur I = werden (konjugiert) + Verb im Infinitiv am Ende.",
+      "ar": "زمن المستقبل يتكوّن من: werden بعد تصريفه + الفعل في المصدر في نهاية الجملة."
+    },
+    {
+      "de": "Ich werde morgen arbeiten.",
+      "ar": "سأعمل غدًا."
+    },
+    {
+      "de": "Wirst du heute kommen?",
+      "ar": "هل ستأتي اليوم؟"
+    },
+    {
+      "de": "Es wird später warm.",
+      "ar": "سيصبح الجو دافئًا لاحقًا."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "أين نضع الفعل الأساسي (المصدر) في جملة Futur I؟",
+      "options": [
+        "في بداية الجملة.",
+        "في المنتصف بعد الفاعل مباشرة.",
+        "في نهاية الجملة."
+      ],
+      "answer": 2,
+      "hint": "تذكّر: werden في المرتبة الثانية، الفعل الآخر في النهاية."
+    },
+    {
+      "question": "اختر الجملة الصحيحة: (أنا سأتعلم الألمانية غدًا)",
+      "options": [
+        "Ich werde morgen Deutsch lernen.",
+        "Ich werde Deutsch morgen lernt.",
+        "Ich lerne werde morgen Deutsch."
+      ],
+      "answer": 0,
+      "hint": "werden ثاني عنصر، lernen في النهاية."
+    },
+    {
+      "question": "كيف تسأل: هل ستأتي غدًا؟",
+      "options": [
+        "Wirst du morgen kommen?",
+        "Du wirst morgen kommen?",
+        "Werde du morgen kommst?"
+      ],
+      "answer": 0,
+      "hint": "في السؤال نبدأ بـ الفعل: Wirst du ...?"
+    },
+    {
+      "question": "اختر الترجمة الصحيحة: \"سنطبخ غدًا.\"",
+      "options": [
+        "Wir werden morgen kochen.",
+        "Wir werden kochen morgen.",
+        "Wir kochen werden morgen."
+      ],
+      "answer": 0,
+      "hint": "الفعل kochen يبقى في المصدر في النهاية."
+    }
+  ]
+},
+{
+  "id": "A2_Grammar_Adjektivendungen_Einfach",
+  "title": {
+    "ar": "نهايات الصفات البسيطة",
+    "de": "Einfache Adjektivendungen",
+    "en": "Simple Adjective Endings"
+  },
+  "interactiveScene": "في متجر الملابس 👕 تقول للبائع: „Ich möchte ein schönes Hemd.“ (أريد قميصًا جميلًا.)\nيسألك مبتسمًا: „Ein rotes oder ein blaues?“ (أحمر أم أزرق؟)\nفتكتشف أن الصفة في الألمانية تتغيّر نهايتها حسب الأداة التي تأتي قبل الاسم!",
+  "explanation": [
+    {
+      "de": "(Adjektiv)",
+      "ar": "في اللغة الألمانية، الصفة  تتغير نهايتها حسب الأداة التي تأتي قبل الاسم."
+    },
+    {
+      "de": "(der / die / das)",
+      "ar": "⬆️  مع أدوات التعريف  الصفة تنتهي دائمًا بـ **-e**:"
+    },
+    {
+      "de": "der schöne Mann",
+      "ar": "الرجل الجميل"
+    },
+    {
+      "de": "die schöne Frau",
+      "ar": "المرأة الجميلة"
+    },
+    {
+      "de": "das schöne Kind",
+      "ar": "الطفل الجميل"
+    },
+    {
+      "de": "(ein / eine / kein / mein ...)",
+      "ar": "⬇️  مع أدوات التنكير  تختلف نهاية الصفة حسب الجنس:"
+    },
+    {
+      "de": "ein schöner Mann",
+      "ar": "رجل جميل (مذكّر → النهاية -er)"
+    },
+    {
+      "de": "eine schöne Frau",
+      "ar": "امرأة جميلة (مؤنث → النهاية -e)"
+    },
+    {
+      "de": "ein schönes Kind",
+      "ar": "طفل جميل (محايد → النهاية -es)"
+    },
+    {
+      "de": "mein schöner Garten",
+      "ar": "حديقتي الجميلة"
+    },
+    {
+      "de": "kein schönes Problem",
+      "ar": "مشكلة غير جميلة"
+    },
+    {
+      "de": "",
+      "ar": "🎯 ملاحظة: الصفة تتبع الأداة دائمًا.\nعند التعريف → النهاية ثابتة **-e**.\nعند التنكير → النهاية حسب الجنس (**-er / -e / -es**)."
+    }
+  ],
+  "phrasesTable": [
+    { "de": "der schöne Tag", "ar": "اليوم الجميل" },
+    { "de": "die kleine Stadt", "ar": "المدينة الصغيرة" },
+    { "de": "ein neuer Freund", "ar": "صديق جديد" },
+    { "de": "eine große Wohnung", "ar": "شقة كبيرة" },
+    { "de": "ein gutes Buch", "ar": "كتاب جيد" }
+  ],
+  "tip": "💡 **قاعدة سريعة جدًا:**\n- مع (der / die / das) → النهاية دائمًا **-e**.\n- مع (ein / eine / kein / mein) →\n  - مذكّر → **-er**\n  - مؤنث → **-e**\n  - محايد → **-es**",
+  "dialogue": [
+    { "speaker": "👩‍🦰", "de": "Hast du ein neues Auto?", "ar": "هل لديك سيارة جديدة؟" },
+    { "speaker": "👨", "de": "Ja, ein kleines, aber schönes Auto. 🚗", "ar": "نعم، سيارة صغيرة لكنها جميلة." },
+    { "speaker": "👩‍🦰", "de": "Und dein Haus?", "ar": "وماذا عن منزلك؟" },
+    { "speaker": "👨", "de": "Das ist ein altes Haus, aber sehr gemütlich. 🏡", "ar": "إنه منزل قديم، لكنه مريح جدًا." }
+  ],
+  "summary": [
+    { "de": "der schöne Tag", "ar": "اليوم الجميل" },
+    { "de": "eine schöne Frau", "ar": "امرأة جميلة" },
+    { "de": "ein schönes Kind", "ar": "طفل جميل" },
+    { "de": "ein neuer Freund", "ar": "صديق جديد" }
+  ],
+  "quiz": [
+    {
+      "question": "كيف تقول: الرجل الجميل؟",
+      "options": [
+        "der schöne Mann",
+        "der schön Mann",
+        "die schöne Mann"
+      ],
+      "answer": 0,
+      "hint": "مع der → الصفة تنتهي دائمًا بـ -e."
+    },
+    {
+      "question": "كيف تقول: صديق جديد؟",
+      "options": [
+        "ein neuer Freund",
+        "eine neue Freund",
+        "ein neue Freund"
+      ],
+      "answer": 0,
+      "hint": "مذكر مع ein → النهاية -er."
+    },
+    {
+      "question": "كيف تقول: امرأة جميلة؟",
+      "options": [
+        "eine schöne Frau",
+        "ein schöne Frau",
+        "eine schöner Frau"
+      ],
+      "answer": 0,
+      "hint": "مؤنث → النهاية -e."
+    },
+    {
+      "question": "كيف تقول: طفل جميل؟",
+      "options": [
+        "ein schönes Kind",
+        "ein schöner Kind",
+        "eine schönes Kind"
+      ],
+      "answer": 0,
+      "hint": "محايد → النهاية -es."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Lesson_Prapositionen_Basic",
+  "title": {
+    "ar": "حروف الجر الأساسية",
+    "de": "Präpositionen im Alltag",
+    "en": "Basic Prepositions in Daily Life"
+  },
+  "interactiveScene": "في المطبخ 🍳 يسألك صديقك: „Wo ist der Zucker?“ (أين السكر؟)\nتجيبه: „Auf dem Tisch!“ (على الطاولة!)\nثم يسألك: „Und die Milch?“ (وماذا عن الحليب؟)\nفتقول: „Im Kühlschrank!“ (في البراد!)\nهكذا تبدأ قصة حروف الجر الصغيرة لكنها السحرية!",
+  "explanation": [
+    {
+      "de": "in",
+      "ar": "في"
+    },
+    {
+      "de": "auf",
+      "ar": "على"
+    },
+    {
+      "de": "unter",
+      "ar": "تحت"
+    },
+    {
+      "de": "über",
+      "ar": "فوق / أعلى"
+    },
+    {
+      "de": "neben",
+      "ar": "بجانب"
+    },
+    {
+      "de": "vor",
+      "ar": "أمام"
+    },
+    {
+      "de": "hinter",
+      "ar": "خلف"
+    },
+    {
+      "de": "zwischen",
+      "ar": "بين"
+    },
+    {
+      "de": "mit",
+      "ar": "مع"
+    },
+    {
+      "de": "ohne",
+      "ar": "بدون"
+    },
+    {
+      "de": "bei",
+      "ar": "عند / لدى"
+    },
+    {
+      "de": "nach",
+      "ar": "إلى / بعد"
+    },
+    {
+      "de": "von",
+      "ar": "من"
+    },
+    {
+      "de": "zu",
+      "ar": "إلى"
+    }
+  ],
+  "phrasesTable": [
+    { "de": "Das Buch ist auf dem Tisch.", "ar": "الكتاب على الطاولة." },
+    { "de": "Die Katze ist unter dem Bett.", "ar": "القطة تحت السرير." },
+    { "de": "Ich bin in der Küche.", "ar": "أنا في المطبخ." },
+    { "de": "Wir gehen zu meiner Oma.", "ar": "نذهب إلى جدتي." },
+    { "de": "Ich komme aus Syrien.", "ar": "أنا من سوريا." },
+    { "de": "Ich gehe mit meinem Freund spazieren.", "ar": "أتمشّى مع صديقي." }
+  ],
+  "tip": "💡 **تذكّر:** حروف الجر توضّح المكان أو الاتجاه.\nاسأل نفسك: هل أصف مكان الشيء (أين؟) أم الاتجاه (إلى أين؟)\nمثال:\n- Ich bin **in** dem Zimmer. (أنا في الغرفة.)\n- Ich gehe **in** das Zimmer. (أنا أذهب إلى الغرفة.)",
+  "dialogue": [
+    { "speaker": "👩", "de": "Wo ist dein Handy?", "ar": "أين هاتفك؟" },
+    { "speaker": "👨", "de": "Auf dem Sofa!", "ar": "على الأريكة!" },
+    { "speaker": "👩", "de": "Und wo ist dein Schlüssel?", "ar": "وأين مفتاحك؟" },
+    { "speaker": "👨", "de": "In meiner Tasche natürlich! 😄", "ar": "في حقيبتي طبعًا!" }
+  ],
+  "summary": [
+    { "de": "in – في", "ar": "Ich bin in Berlin. (أنا في برلين.)" },
+    { "de": "auf – على", "ar": "Das Buch liegt auf dem Tisch. (الكتاب على الطاولة.)" },
+    { "de": "unter – تحت", "ar": "Die Schuhe sind unter dem Bett. (الأحذية تحت السرير.)" },
+    { "de": "mit – مع", "ar": "Ich gehe mit meinem Freund. (أذهب مع صديقي.)" },
+    { "de": "ohne – بدون", "ar": "Ich trinke Kaffee ohne Zucker. (أشرب القهوة بدون سكر.)" }
+  ],
+  "quiz": [
+    {
+      "question": "كيف تقول: الكتاب على الطاولة؟",
+      "options": [
+        "Das Buch ist auf dem Tisch.",
+        "Das Buch ist in dem Tisch.",
+        "Das Buch ist unter dem Tisch."
+      ],
+      "answer": 0,
+      "hint": "auf = على"
+    },
+    {
+      "question": "ما معنى الجملة: Ich bin in der Küche?",
+      "options": [
+        "أنا في المطبخ.",
+        "أنا على المطبخ.",
+        "أنا تحت المطبخ."
+      ],
+      "answer": 0,
+      "hint": "in = في"
+    },
+    {
+      "question": "كيف تقول: القطة تحت السرير؟",
+      "options": [
+        "Die Katze ist unter dem Bett.",
+        "Die Katze ist auf dem Bett.",
+        "Die Katze ist hinter dem Bett."
+      ],
+      "answer": 0,
+      "hint": "unter = تحت"
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Ich gehe mit meinem Freund.",
+        "Ich gehe ohne meinem Freund.",
+        "Ich gehe bei meinem Freund."
+      ],
+      "answer": 0,
+      "hint": "mit = مع"
+    }
+  ]
+}
+,
+{
+  "id": "gram-imperativ-a1",
+  "title": {
+    "de": "Imperativ",
+    "ar": "فعل الأمر – Imperativ"
+  },
+  "interactiveScene": "في صباح بارد ☀️، استيقظ Noa متأخرًا كعادته، فقالت له أمه من المطبخ:\n„Steh auf, Noa!“ (انهض يا نوا!) 😂\nثم سمع صديقه من الخارج يصيح: „Komm schnell!“ (تعال بسرعة!) 🚶‍♂️\nوفي الطريق، صاح به الجار: „Mach das Fenster zu!“ (أغلق النافذة!) 🌬️\nضحك Noa وقال لنفسه: يبدو أن كل الألمان يحبّون إعطاء الأوامر! هكذا بدأ يفهم **فعل الأمر – Imperativ**.",
+  "explanation": [
+    {
+      "de": "Was ist der Imperativ?",
+      "ar": "فعل الأمر **Imperativ** نستخدمه لإعطاء أوامر أو تعليمات أو نصائح.\nمثلًا: *Komm!* (تعال!)، *Geh!* (اذهب!)، *Mach schnell!* (أسرع!)."
+    },
+    {
+      "de": "Wie bildet man den Imperativ?",
+      "ar": "تكوين فعل الأمر يعتمد على **الضمير** الذي نخاطبه:\n\n👤 **du** (أنت): استخدم جذر الفعل بدون -st.\n→ *du gehst* → **Geh!**\n→ *du kommst* → **Komm!**\n\n👥 **ihr** (أنتم): استخدم صيغة ihr بدون الضمير.\n→ *ihr spielt* → **Spielt!**\n\n🤝 **Sie** (حضرتك / حضراتكم): استخدم الفعل في المصدر + Sie.\n→ *kommen Sie!* → **Kommen Sie!** (تفضلوا بالمجيء)."
+    },
+    {
+      "de": "Wichtig!",
+      "ar": "1️⃣ الفعل يأتي دائمًا أولًا في الجملة.\n2️⃣ لا نستخدم الضمير (du / ihr) مع الأمر.\n3️⃣ علامة التعجب **!** تُستخدم عادة بعد فعل الأمر."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Komm!",
+      "ar": "تعال!",
+      "note": "du-Form"
+    },
+    {
+      "de": "Geh!",
+      "ar": "اذهب!",
+      "note": "du-Form"
+    },
+    {
+      "de": "Lern Deutsch!",
+      "ar": "تعلّم الألمانية!",
+      "note": "du-Form"
+    },
+    {
+      "de": "Spielt Fußball!",
+      "ar": "العبوا كرة القدم!",
+      "note": "ihr-Form"
+    },
+    {
+      "de": "Kommen Sie bitte!",
+      "ar": "تفضلوا بالقدوم من فضلكم!",
+      "note": "Sie-Form (مهذب)"
+    },
+    {
+      "de": "Sei ruhig!",
+      "ar": "كن هادئًا!",
+      "note": "من الفعل sein (خاص)"
+    },
+    {
+      "de": "Hab Geduld!",
+      "ar": "كن صبورًا!",
+      "note": "من الفعل haben (خاص)"
+    }
+  ],
+  "tip": "💡 **نصائح Noa الذكية:**\n1️⃣ أضف كلمة **bitte** لجعل الأمر مهذبًا: *Komm bitte!* (تعال من فضلك!)\n2️⃣ بعض الأفعال تتغير عند حذف -st: *du nimmst → Nimm!*, *du gibst → Gib!*\n3️⃣ للأفعال المنفصلة (Trennbare Verben): ضع الجزء المنفصل في النهاية.\n→ *aufstehen → Steh auf!*",
+  "dialogue": [
+    {
+      "speaker": "Mutter",
+      "de": "Steh auf, Noa, es ist schon acht Uhr!",
+      "ar": "انهض يا نوا، لقد أصبحت الساعة الثامنة!"
+    },
+    {
+      "speaker": "Freund",
+      "de": "Mach das Fenster auf, bitte!",
+      "ar": "افتح النافذة، من فضلك!"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Komm schnell, der Bus fährt gleich!",
+      "ar": "تعال بسرعة، فالحافلة ستنطلق حالًا!"
+    },
+    {
+      "speaker": "Freund",
+      "de": "Keine Panik! Trink zuerst deinen Kaffee.",
+      "ar": "لا داعي للذعر! اشرب قهوتك أولًا."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Imperativ = Befehlsform (لإعطاء أمر أو طلب).",
+      "ar": "فعل الأمر يُستخدم للأوامر أو التعليمات."
+    },
+    {
+      "de": "du-Form: Geh! Komm! Lern!",
+      "ar": "صيغة du: الفعل بدون -st."
+    },
+    {
+      "de": "ihr-Form: Spielt! Esst! Geht!",
+      "ar": "صيغة ihr: نفس الفعل في ihr بدون الضمير."
+    },
+    {
+      "de": "Sie-Form: Kommen Sie! Trinken Sie!",
+      "ar": "صيغة Sie: الفعل في المصدر + Sie (مهذب)."
+    },
+    {
+      "de": "Unregelmäßig: sein → Sei!, haben → Hab!, werden → Werde!",
+      "ar": "بعض الأفعال غير منتظمة: كن، امتلك، أصبح."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "اختر صيغة الأمر الصحيحة من الفعل (gehen) مع du:",
+      "options": ["gehst!", "geh!", "geht!", "gehen Sie!"],
+      "answer": 1,
+      "hint": "احذف -st في صيغة du."
+    },
+    {
+      "question": "أكمل الجملة:\n___ ruhig! (sein)",
+      "options": ["Sei", "Bist", "War", "Hast"],
+      "answer": 0,
+      "hint": "من الفعل sein → Sei!"
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Spielt ihr Fußball!",
+        "Ihr spielt Fußball!",
+        "Spielt Fußball!",
+        "Spielt ihr Fußball?"
+      ],
+      "answer": 2,
+      "hint": "Imperativ: بدون الضمير."
+    },
+    {
+      "question": "ما الشكل المهذب لقول: (Komm!)",
+      "options": [
+        "Kommst du bitte!",
+        "Kommen Sie bitte!",
+        "Gehen Sie bitte!",
+        "Komm bitte du!"
+      ],
+      "answer": 1,
+      "hint": "صيغة Sie + bitte."
+    },
+    {
+      "question": "اكمل الجملة:\nNimm deine Tasche, ___! (bitte)",
+      "options": ["nimmst", "nehmen", "nimm", "nimmt"],
+      "answer": 2,
+      "hint": "من du nimmst → Imperativ: Nimm!"
+    }
+  ]
+}
+,
+
+    {
+      "id": "a2-einladung-und-antworten",
+      "title": {
+        "de": "Eine Einladung und zwei Antworten",
+        "ar": "دعوة بسيطة وردّان: قبول واعتذار"
+      },
+      "interactiveScene": "📱 في الحياة اليومية، ستصلك دائمًا رسائل: دعوة إلى حفلة، بريد من المعهد، أو رسالة من صديق. وفي امتحان اللغة أيضًا، تحصل غالبًا على موقف يجب أن تكتب له رسالة قصيرة.\n\nاليوم يتلقى علي رسالة من صديقته سارة:\n„Hallo Ali! Ich mache am Samstag eine kleine Party bei mir zu Hause. Kommst du?“ 🎉\n\nعلي يفكر: (أريد أن أكتب لها دعوة لطيفة لاحقًا أيضًا، وأتعلم كيف أوافق وكيف أعتذر بأدب.)",
+      "explanation": [
+        {
+          "de": "Teile einer einfachen Nachricht",
+          "ar": "الرسالة البسيطة بالألمانية غالبًا تتكوّن من أربعة أجزاء:\n• التحية (Anrede): Hallo / Liebe Anna / Lieber Tom\n• المقدّمة (Einleitung): Ich schreibe dir, weil ...\n• المضمون (Hauptteil): معلومات عن الوقت، المكان، السبب\n• الخاتمة (Schluss): Viele Grüße / Liebe Grüße + الاسم"
+        },
+        {
+          "de": "Typische Wendungen",
+          "ar": "تعبيرات مفيدة في الرسائل:\n• Ich lade dich zu meiner Party ein. (أدعوك إلى حفلي.)\n• Die Party ist am Samstag um 18 Uhr. (الحفلة يوم السبت الساعة السادسة مساءً.)\n• Ich komme gern. (سأحضر بسرور.)\n• Ich kann leider nicht kommen. (للأسف لا أستطيع الحضور.)\n• Vielen Dank für deine Einladung. (شكرًا لك على دعوتك.)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich lade dich zu meiner Party ein.",
+          "ar": "أدعوك إلى حفلي."
+        },
+        {
+          "de": "Die Party ist am Samstag um 18 Uhr.",
+          "ar": "الحفلة يوم السبت الساعة السادسة مساءً."
+        },
+        {
+          "de": "Die Party ist bei mir zu Hause.",
+          "ar": "الحفلة في منزلي."
+        },
+        {
+          "de": "Ich komme gern.",
+          "ar": "سأحضر بسرور."
+        },
+        {
+          "de": "Ich kann leider nicht kommen.",
+          "ar": "للأسف لا أستطيع الحضور."
+        },
+        {
+          "de": "Vielen Dank für deine Einladung.",
+          "ar": "شكرًا لك على دعوتك."
+        }
+      ],
+      "tip": "💡 **معلومة لغوية خفيفة:**\nللدعوة نستخدم غالبًا الفعل *einladen* وهو فعل منفصل:\n• Ich **lade** dich zu meiner Party **ein**. (أنا أدعوك إلى حفلي.)\n• Er **lädt** seine Freunde **ein**. (هو يدعو أصدقاءه.)\n\nومع الأصدقاء نستخدم تحية مثل: *Hallo* / *Liebe Anna* / *Lieber Tom*. ومع الرسائل الرسمية نستخدم: *Sehr geehrte Frau ...*.",
+      "dialogue": [
+        {
+          "speaker": "Sara",
+          "de": "Hallo Ali! Ich mache am Samstag eine kleine Party.",
+          "ar": "مرحبًا علي! سأقيم حفلة صغيرة يوم السبت."
+        },
+        {
+          "speaker": "Sara",
+          "de": "Die Party ist bei mir zu Hause um 18 Uhr.",
+          "ar": "الحفلة في منزلي الساعة السادسة مساءً."
+        },
+        {
+          "speaker": "Sara",
+          "de": "Ich lade dich herzlich ein!",
+          "ar": "أدعوك من كل قلبي!"
+        },
+        {
+          "speaker": "Ali",
+          "de": "Vielen Dank für deine Einladung!",
+          "ar": "شكرًا جزيلًا على دعوتك!"
+        }
+      ],
+      "summary": [
+        {
+          "de": "Beispiel: Einladung",
+          "ar": "مثال ١: رسالة دعوة بسيطة"
+        },
+        {
+          "de": "Liebe Sara,",
+          "ar": "عزيزتي سارة،"
+        },
+        {
+          "de": "wie geht es dir?",
+          "ar": "كيف حالك؟"
+        },
+        {
+          "de": "Ich schreibe dir, weil ich am Samstag eine Party mache.",
+          "ar": "أكتب لك لأنني سأقيم حفلة يوم السبت."
+        },
+        {
+          "de": "Die Party ist um 18 Uhr bei mir zu Hause.",
+          "ar": "الحفلة الساعة السادسة في منزلي."
+        },
+        {
+          "de": "Ich lade dich herzlich ein.",
+          "ar": "أدعوك من كل قلبي."
+        },
+        {
+          "de": "Ich freue mich auf dich!",
+          "ar": "أتطلع لرؤيتك!"
+        },
+        {
+          "de": "Liebe Grüße,",
+          "ar": "تحياتي الحارة،"
+        },
+        {
+          "de": "Ali",
+          "ar": "علي"
+        },
+        {
+          "de": "Beispiel: Antwort – Zusage",
+          "ar": "مثال ٢: رد بالموافقة على الدعوة"
+        },
+        {
+          "de": "Liebe Ali,",
+          "ar": "عزيزي علي،"
+        },
+        {
+          "de": "vielen Dank für deine Einladung.",
+          "ar": "شكرًا جزيلًا على دعوتك."
+        },
+        {
+          "de": "Ich komme am Samstag gern zu deiner Party.",
+          "ar": "سأحضر بسرور إلى حفلتك يوم السبت."
+        },
+        {
+          "de": "Die Uhrzeit ist perfekt für mich.",
+          "ar": "الوقت مناسب جدًا بالنسبة لي."
+        },
+        {
+          "de": "Brauche ich etwas mitzubringen?",
+          "ar": "هل أحتاج أن أحضر شيئًا معي؟"
+        },
+        {
+          "de": "Viele Grüße,",
+          "ar": "تحياتي الكثيرة،"
+        },
+        {
+          "de": "Anna",
+          "ar": "آنا"
+        },
+        {
+          "de": "Beispiel: Antwort – Absage",
+          "ar": "مثال ٣: رد بالاعتذار عن الحضور"
+        },
+        {
+          "de": "Liebe Ali,",
+          "ar": "عزيزي علي،"
+        },
+        {
+          "de": "vielen Dank für deine Einladung.",
+          "ar": "شكرًا على دعوتك."
+        },
+        {
+          "de": "Leider kann ich am Samstag nicht kommen.",
+          "ar": "للأسف لا أستطيع الحضور يوم السبت."
+        },
+        {
+          "de": "Ich muss arbeiten und habe keine Zeit.",
+          "ar": "يجب أن أعمل وليس لدي وقت."
+        },
+        {
+          "de": "Ich hoffe, wir sehen uns bald.",
+          "ar": "آمل أن نرى بعضنا قريبًا."
+        },
+        {
+          "de": "Liebe Grüße,",
+          "ar": "تحياتي الحارة،"
+        },
+        {
+          "de": "Anna",
+          "ar": "آنا"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Welche Anrede passt zu einer Freundin?",
+          "options": [
+            "Sehr geehrte Frau Müller,",
+            "Liebe Anna,",
+            "Guten Tag, Herr Direktor,"
+          ],
+          "answer": 1,
+          "hint": "مع الأصدقاء نستخدم Liebe / Lieber."
+        },
+        {
+          "question": "Was passt als höfliche Absage?",
+          "options": [
+            "Ich komme nicht, tschüss.",
+            "Ich habe keine Lust.",
+            "Leider kann ich nicht kommen."
+          ],
+          "answer": 2,
+          "hint": "نستخدم 'leider' للاعتذار المهذب."
+        },
+        {
+          "question": "Was schreibt man am Ende einer freundlichen Nachricht?",
+          "options": [
+            "Viele Grüße,",
+            "Ende.",
+            "Tschau."
+          ],
+          "answer": 0
+        }
+      ],
+      "writingExercise": {
+        "instruction_de": "Schreibe eine kurze Nachricht an einen Freund oder eine Freundin. Lade ihn oder sie zu deiner Party ein ODER antworte auf eine Einladung (Zusage oder Absage). Schreibe 4–5 Sätze.",
+        "instruction_ar": "اكتب رسالة قصيرة بالألمانية إلى صديق أو صديقة. إمّا أن تدعوه/تدعوها إلى حفلتك، أو تكتب ردًا على دعوة (قبول أو اعتذار). اكتب من ٤ إلى ٥ جمل.",
+        "exampleAnswer": "Liebe Lara, ich mache am Freitag eine kleine Party bei mir zu Hause. Die Party beginnt um 19 Uhr. Ich lade dich herzlich ein und freue mich auf dich. Liebe Grüße, Noor",
+        "feedbackHints": [
+          "ابدأ الرسالة بتحية مناسبة مثل: Liebe Lara, / Lieber Ali,",
+          "اذكر بوضوح اليوم والوقت: am Freitag, um 19 Uhr.",
+          "قل إذا كنت ستأتي أو تعتذر: Ich komme gern. / Leider kann ich nicht kommen.",
+          "اختم الرسالة بعبارة لطيفة مثل: Viele Grüße / Liebe Grüße + اسمك."
+        ]
+      }
+    },
+    {
+  "id": "a2-email-einfach-1",
+  "title": {
+    "de": "Eine einfache E-Mail schreiben",
+    "ar": "كتابة بريد إلكتروني بسيط"
+  },
+"interactiveScene": "في الحياة اليومية، وأيضًا في امتحان اللغة، ستحتاج كثيرًا إلى كتابة إيميل أو الرد على إيميل.\n\nتخيّل أن صديقك أرسل لك رسالة يسألك فيها إن كنت ترغب في اللقاء غدًا.\n\nالآن أنت تجلس أمام الحاسوب، وتريد أن تكتب له رسالة بسيطة وواضحة.\n\nفي هذا الدرس سنتعلم معًا شكل الإيميل وبعض العبارات المهمة التي ستفيدك في حياتك اليومية وفي الامتحان أيضًا."
+ ,
+  "explanation": [
+    {
+      "de": "Wie schreibt man eine einfache E-Mail?",
+      "ar": "في الإيميل نكتب عادة بهذه البنية:\n\n• Betreff: Einladung zum Kaffee. (الموضوع في الأعلى، مثلاً: دعوة إلى القهوة.)\n• Anrede: Hallo Ben, (التحية في بداية الرسالة، مثلاً: مرحباً يا بن،)\n• Hauptteil: Wie geht es dir? Ich möchte dich morgen im Café treffen. (محتوى الرسالة: كيف حالك؟ أود أن ألتقي بك غداً في المقهى.)\n• Schluss: Viele Grüße, Noa (الخاتمة في النهاية: أطيب التحيات، نوا)"
+    },
+    {
+      "de": "Nützliche Sätze in einer E-Mail",
+      "ar": "بعض الجمل المفيدة في الإيميل:\n• Wie geht es dir? (كيف حالك؟)\n• Ich möchte dich morgen treffen. (أود أن ألتقي بك غداً.)\n• Hast du morgen Zeit? (هل لديك وقت غداً؟)\n• Danke für deine E-Mail. (شكرًا على إيميلك.)\n• Ich freue mich auf deine Antwort. (أتطلع لردك.)"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Betreff: Einladung zum Kaffee",
+      "ar": "الموضوع: دعوة إلى القهوة",
+      "note": "رسمية خفيفة"
+    },
+    {
+      "de": "Hallo Ben,",
+      "ar": "مرحباً يا بن،",
+      "note": "غير رسمية / للأصدقاء"
+    },
+    {
+      "de": "Viele Grüße,",
+      "ar": "تحياتي الكثيرة،",
+      "note": "شائعة جدًا في الإيميل"
+    },
+    {
+      "de": "Ich freue mich auf deine Antwort.",
+      "ar": "أتطلع لردك.",
+      "note": "مهذبة ولطيفة"
+    }
+  ],
+  "tip": "💡 **معلومة لغوية خفيفة:**\nفي الإيميل باللغة الألمانية:\n1️⃣ نكتب **Betreff** بدون نقطة في أغلب الأحيان.\n2️⃣ بعد **Anrede** (التحية) نضع فاصلة وغالبًا نبدأ السطر التالي بحرف كبير.\n3️⃣ في الخاتمة نكتب تعبيرًا مثل **Viele Grüße** ثم نكتب الاسم في السطر التالي.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich möchte Ben eine E-Mail schreiben.",
+      "ar": "أريد أن أكتب إيميلًا لِـ بن."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Dann schreib zuerst den Betreff.",
+      "ar": "إذًا اكتب أولاً الموضوع."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Gute Idee! Dann ist die E-Mail übersichtlich.",
+      "ar": "فكرة جيدة! هكذا يكون الإيميل واضحًا."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Struktur einer einfachen E-Mail",
+      "ar": "• Betreff (الموضوع)\n• Anrede (التحية)\n• Hauptteil (محتوى الرسالة)\n• Schluss (الخاتمة والاسم)"
+    },
+    {
+      "de": "Beispiel-E-Mail",
+      "ar": "Betreff: Einladung zum Kaffee\nHallo Ben,\nwie geht es dir? Ich möchte dich morgen im Café treffen.\nViele Grüße,\nNoa"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was steht ganz oben in einer E-Mail?",
+      "options": [
+        "Betreff",
+        "Schluss",
+        "Anrede"
+      ],
+      "answer": 0,
+      "hint": "هناك نكتب الموضوع."
+    },
+    {
+      "question": "Welche Anrede passt gut zu einem Freund?",
+      "options": [
+        "Sehr geehrte Damen und Herren,",
+        "Hallo Ben,",
+        "Mit freundlichen Grüßen"
+      ],
+      "answer": 1,
+      "hint": "هذه تحية غير رسمية للأصدقاء."
+    },
+    {
+      "question": "Was schreibt man am Ende der E-Mail?",
+      "options": [
+        "Betreff",
+        "Viele Grüße, Noa",
+        "Guten Morgen"
+      ],
+      "answer": 1,
+      "hint": "هذا هو Teil \"Schluss\"."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe eine kurze E-Mail an deinen Freund oder deine Freundin. Lade ihn/sie zu einem Treffen ein (z.B. im Café oder im Park).",
+    "instruction_ar": "اكتب إيميلًا قصيرًا لصديق أو صديقة. ادعه / ادعيها إلى لقاء (مثلاً في المقهى أو في الحديقة). استخدم ٣–٤ جمل بسيطة.",
+    "exampleAnswer": "Betreff: Treffen im Café\nHallo Ben,\nwie geht es dir? Ich möchte dich morgen im Café treffen. Hast du Zeit?\nViele Grüße,\nNoa",
+    "feedbackHints": [
+      "تأكد أن إيميلك يحتوي على: Betreff + Anrede + Hauptteil + Schluss.",
+      "استخدم جملًا بسيطة في المضارع مثل: Ich möchte ..., Ich habe Zeit ..., Wir treffen uns ....",
+      "لا تنسَ أن تضع فاصلة بعد التحية، ونقطة في نهاية الجمل."
+    ],
+    "keywords": [
+      "Betreff",
+      "Hallo",
+      "Viele Grüße",
+      "treffen",
+      "Zeit"
+    ]
+  }
+}
+,
+{
+  "id": "a2-lebenslauf-komplett",
+  "title": {
+    "de": "Lebenslauf – einfache Version",
+    "ar": "السيرة الذاتية البسيطة"
+  },
+  "interactiveScene": "📍 في مكتب الاستشارات المهنية في ألمانيا، يجلس نوا مع المستشارة فابيان.\n\n**Fabienne:** Guten Morgen, Noa! Hast du schon deinen Lebenslauf dabei?\n\n**Noa:** Ähm… Lebenslauf? 😅\n\n**Fabienne:** Ja! Das ist dein berufliches Selfie – aber auf Papier!\n\n*(تضحك وتريه نموذجًا لسيرة ذاتية بسيطة.)*\n\n**Fabienne:** Kein Stress. Wir schreiben das zusammen!",
+  "explanation": [
+    {
+      "de": "Was ist ein Lebenslauf?",
+      "ar": "السيرة الذاتية بالألمانية تُسمّى **Lebenslauf** وتعني \"مسار الحياة\". هي ليست قصة، بل جدول بسيط يلخّص من أنت، أين درست، وأين عملت."
+    },
+    {
+      "de": "Struktur eines Lebenslaufs",
+      "ar": "عادة تتكوّن السيرة الذاتية من الأقسام التالية:\n• 👤 Persönliche Daten (البيانات الشخصية)\n• 🎓 Ausbildung (التعليم أو الدراسة)\n• 💼 Berufserfahrung (الخبرة العملية)\n• 🗣️ Sprachkenntnisse (مهارات اللغة)\n• 🎯 Interessen (الاهتمامات)"
+    },
+    {
+      "de": "Beispiel – Persönliche Daten",
+      "ar": "Name: Noa Müller\nGeburtsdatum: 12. Mai 2000\nAdresse: Berlin, Hauptstraße 10\nTelefon: 0157 1234567\nE-Mail: noa.mueller@mail.de"
+    },
+    {
+      "de": "Beispiel – Ausbildung & Erfahrung",
+      "ar": "2016–2019: Schule in Berlin\n2020–2022: Ausbildung als Verkäufer\n2022–2024: Verkäufer bei Lidl"
+    },
+    {
+      "de": "Beispiel – Sprachen & Interessen",
+      "ar": "Deutsch: B1\nEnglisch: A2\nArabisch: Muttersprache\nInteressen: Lesen, Musik, Reisen"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich habe eine Ausbildung als Verkäufer gemacht.",
+      "ar": "لقد أنهيت تدريبًا مهنيًا كبائع."
+    },
+    {
+      "de": "Ich arbeite seit 2022 bei Lidl.",
+      "ar": "أعمل منذ عام 2022 في شركة Lidl."
+    },
+    {
+      "de": "Ich habe an der Schule in Berlin gelernt.",
+      "ar": "درست في مدرسة في برلين."
+    },
+    {
+      "de": "Ich spreche Deutsch und Arabisch.",
+      "ar": "أتحدث الألمانية والعربية."
+    },
+    {
+      "de": "Meine Hobbys sind Musik und Reisen.",
+      "ar": "هواياتي هي الموسيقى والسفر."
+    }
+  ],
+  "tip": "💡 **معلومة لغوية:**\nفي السيرة الذاتية الألمانية لا نكتب جمل طويلة. فقط نذكر المعلومات بشكل بسيط ومنظّم.\n\n✅ مثال صحيح:\nAusbildung als Verkäufer\n\n❌ خطأ:\nIch habe eine Ausbildung als Verkäufer gemacht, weil ich gern mit Kunden arbeite.",
+  "dialogue": [
+    {
+      "speaker": "Fabienne",
+      "de": "Noa, du brauchst einen Lebenslauf für deine Bewerbung.",
+      "ar": "نوا، أنت تحتاج سيرة ذاتية لطلبك الوظيفي."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ich weiß nicht genau, was ich schreiben soll.",
+      "ar": "لا أعرف بالضبط ماذا أكتب."
+    },
+    {
+      "speaker": "Fabienne",
+      "de": "Kein Problem! Schreib einfach: Ausbildung, Erfahrung, Sprachen.",
+      "ar": "لا مشكلة! فقط اكتب: التعليم، الخبرة، اللغات."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ah, das ist ja einfach! Danke!",
+      "ar": "آه، هذا سهل جدًا! شكرًا!"
+    }
+  ],
+  "summary": [
+    {
+      "de": "Lebenslauf = dein berufliches Profil auf Papier.",
+      "ar": "السيرة الذاتية هي ملفك المهني على الورق."
+    },
+    {
+      "de": "Wichtige Teile: Daten, Ausbildung, Erfahrung, Sprachen.",
+      "ar": "الأقسام الأساسية: البيانات، التعليم، الخبرة، اللغات."
+    },
+    {
+      "de": "Schreibe klar und kurz.",
+      "ar": "اكتب بشكل مختصر وواضح."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was bedeutet 'Lebenslauf'?",
+      "options": [
+        "Tagesplan",
+        "Lebensweg oder berufliches Profil",
+        "Rezeptbuch"
+      ],
+      "answer": 1,
+      "hint": "تذكر أن كلمة 'Leben' تعني الحياة، و'Lauf' يعني المسار أو الطريق."
+    },
+    {
+      "question": "Was schreibt man unter 'Ausbildung'?",
+      "options": [
+        "Familiennamen",
+        "Wo und was du gelernt hast",
+        "Deine Hobbys"
+      ],
+      "answer": 1,
+      "hint": "فكر بما درسته أو أين تعلمت."
+    },
+    {
+      "question": "Welche Sprache schreibt man im Lebenslauf?",
+      "options": [
+        "Arabisch: Muttersprache, Deutsch: B1",
+        "Ich liebe Deutsch",
+        "Sprachen sind schön"
+      ],
+      "answer": 0,
+      "hint": "نكتب اللغة ومستوانا فيها، مثل B1 أو A2."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe deinen einfachen Lebenslauf mit 3–5 Abschnitten.",
+    "instruction_ar": "اكتب سيرتك الذاتية البسيطة (3–5 أقسام): البيانات الشخصية، الدراسة، الخبرة، اللغات، الهوايات.",
+    "exampleAnswer": "Name: Abbas Alhasan\nGeburtsdatum: 15. Juni 1993\nAdresse: Duisburg, Deutschland\nTelefon: 0157 5555555\n\nAusbildung:\n2018–2020: Ausbildung als IT-Techniker\n\nBerufserfahrung:\n2020–2024: IT-Mitarbeiter bei BBQ Institut\n\nSprachen:\nDeutsch: B1, Arabisch: Muttersprache, Englisch: B2\n\nInteressen:\nLesen, Programmieren, Reisen",
+    "keywords": ["Name", "Ausbildung", "Berufserfahrung", "Sprachen", "Interessen"],
+    "feedbackHints": [
+      "اكتب المعلومات بوضوح وبشكل منظم.",
+      "ابدأ بالاسم والعنوان، ثم التعليم والخبرة.",
+      "ضع قسم اللغات والهوايات في النهاية.",
+      "لا تستخدم جمل طويلة أو كلمات غير ضرورية."
+    ]
+  }
+}
+
+    
+  ]
+}
+
+    

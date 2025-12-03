@@ -1,0 +1,2773 @@
+{
+  "level": "B1",
+  "title": "Der Akkusativ – قواعد B1",
+  "lessons": [
+    {
+      "id": "gram-akkusativ-b1",
+      "title": {
+        "de": "Der Akkusativ",
+        "ar": "Der Akkusativ – حالة النصب في الألمانية (B1)"
+      },
+      "interactiveScene": "🎬 تخيّل نفسك في مطعم ألماني 🍽️\nالنادل يسألك: „Was möchtest du essen?“ (ماذا تريد أن تأكل؟)\nتجاوبه: „Ich möchte einen Apfel essen.“ (أريد أن آكل تفاحة 🍎)\n\nانتبه: في القاموس الكلمة هي „der Apfel“ لكن في الجملة صارت „einen Apfel“ بعد الفعل.\nهذا هو الـ Akkusativ: الشكل الذي تأخذه الكلمة عندما تكون مفعولًا به مباشرًا (الشيء الذي يقع عليه الفعل).",
+      "explanation": [
+        {
+          "de": "Ich möchte einen Apfel essen.",
+          "ar": "أريد أن آكل تفاحة. هنا „einen Apfel“ في حالة النصب (Akkusativ) لأنه الشيء الذي يقع عليه الفعل."
+        },
+        {
+          "de": "Akkusativ: Wen? oder Was?",
+          "ar": "حالة النصب Akkusativ نستخدمها مع السؤال: Wen? (من؟) أو Was? (ماذا؟) – أي من أو ماذا يتلقى الفعل."
+        },
+        {
+          "de": "Ich sehe den Mann.",
+          "ar": "أنا أرى الرجل. „den Mann“ هو المفعول به المباشر في حالة النصب."
+        },
+        {
+          "de": "Er hat einen Hund.",
+          "ar": "هو لديه كلب. „einen Hund“ في حالة النصب مع الفعل „haben“ لأنه شيء يملكه."
+        },
+        {
+          "de": "Bestimmte Artikel im Akkusativ: den, die, das, die",
+          "ar": "أدوات التعريف في حالة النصب:\n• المذكر: der ⟶ den\n• المؤنث: die ⟶ die (لا تتغير)\n• المحايد: das ⟶ das (لا تتغير)\n• الجمع: die ⟶ die (لا تتغير)"
+        },
+        {
+          "de": "Unbestimmte Artikel im Akkusativ: einen, eine, ein",
+          "ar": "أدوات النكرة في حالة النصب:\n• المذكر: ein ⟶ einen\n• المؤنث: eine ⟶ eine (لا تتغير)\n• المحايد: ein ⟶ ein (لا تتغير)\n• لا يوجد أداة نكرة للجمع."
+        },
+        {
+          "de": "Nur der maskuline Artikel ändert sich.",
+          "ar": "القاعدة الذهبية: فقط المذكر هو الذي يتغير في حالة النصب، أما المؤنث والمحايد والجمع فيبقون كما هم."
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich sehe den Mann.",
+          "ar": "أنا أرى الرجل.",
+          "note": "فعل sehen يأخذ مفعولًا به مباشرًا، لذلك نستخدم den مع المذكر."
+        },
+        {
+          "de": "Sie hat eine Katze.",
+          "ar": "هي لديها قطة.",
+          "note": "مع المؤنث تبقى الأداة كما هي: eine في الـ Akkusativ."
+        },
+        {
+          "de": "Wir kaufen ein Auto.",
+          "ar": "نحن نشتري سيارة.",
+          "note": "المحايد „das Auto“ يصبح „ein Auto“ في النكرة، ولا يتغير شكله في النصب."
+        },
+        {
+          "de": "Ich liebe dich.",
+          "ar": "أنا أحبك ❤️.",
+          "note": "الضمير „du“ يتحول في حالة النصب إلى „dich“."
+        },
+        {
+          "de": "Er trinkt den Kaffee.",
+          "ar": "هو يشرب القهوة ☕.",
+          "note": "القهوة هي الشيء الذي يُشرب → مفعول به مباشر في حالة النصب."
+        },
+        {
+          "de": "Ich brauche einen Stift.",
+          "ar": "أحتاج قلمًا ✏️.",
+          "note": "الفعل brauchen من الأفعال التي تأخذ دائمًا Akkusativ."
+        }
+      ],
+      "tip": "💡 أفعال تأخذ دائمًا Akkusativ:\nsehen (يرى)، haben (يملك)، lieben (يحب)، trinken (يشرب)، essen (يأكل)، kaufen (يشتري)، finden (يجد)، brauchen (يحتاج)، kennen (يعرف شخصًا)، hören (يسمع).\n\nكل هذه الأفعال نسأل معها غالبًا: Wen? أو Was? → يعني تحتاج مفعولًا به مباشرًا في حالة النصب.\n\nملاحظات Noa الذكية:\n1️⃣ فقط المذكر يتغير في حالة النصب (der ⟶ den، ein ⟶ einen).\n2️⃣ كل فعل يجيب عن سؤال „من؟“ أو „ماذا؟“ يحتاج في العادة Akkusativ.\n3️⃣ انتبه: sein (يكون) لا يأخذ مفعولًا به، لكن haben (يملك) يأخذ:\n   • Ich bin müde. (أنا متعب) → لا يوجد مفعول به.\n   • Ich habe einen Hund. (عندي كلب) → يوجد مفعول به، إذن Akkusativ.\n4️⃣ ضمائر Akkusativ مهمة جدًا في المحادثة اليومية (mich, dich, ihn, sie, es, uns, euch, sie).",
+      "dialogue": [
+        {
+          "speaker": "Kellner",
+          "de": "Was möchtest du essen?",
+          "ar": "ماذا تريد أن تأكل؟"
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ich möchte einen Apfel essen.",
+          "ar": "أريد أن آكل تفاحة."
+        },
+        {
+          "speaker": "Kellner",
+          "de": "Möchtest du auch einen Saft?",
+          "ar": "هل تريد أيضًا عصيرًا؟"
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ja, ich nehme einen Orangensaft.",
+          "ar": "نعم، سأأخذ عصير برتقال."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Akkusativ = direktes Objekt.",
+          "ar": "حالة النصب Akkusativ تُستخدم مع المفعول به المباشر (الشيء الذي يقع عليه الفعل)."
+        },
+        {
+          "de": "Fragen im Akkusativ: Wen? Was?",
+          "ar": "للتعرّف على حالة النصب نسأل: Wen? (من؟) و Was? (ماذا؟)."
+        },
+        {
+          "de": "Nur der maskuline Artikel ändert sich (der ⟶ den, ein ⟶ einen).",
+          "ar": "فقط أداة المذكر هي التي تتغير في حالة النصب (der ⟶ den، ein ⟶ einen)."
+        },
+        {
+          "de": "Viele Verben brauchen Akkusativ: sehen, haben, lieben, trinken, essen, kaufen, finden, brauchen, kennen, hören.",
+          "ar": "الكثير من الأفعال تحتاج مفعولًا به مباشرًا وتأخذ Akkusativ مثل: sehen, haben, lieben, trinken, essen, kaufen, finden, brauchen, kennen, hören."
+        },
+        {
+          "de": "Pronomen im Akkusativ: mich, dich, ihn, sie, es, uns, euch, sie.",
+          "ar": "ضمائر حالة النصب المهمة: mich, dich, ihn, sie, es, uns, euch, sie."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "املأ الفراغ بأداة النصب الصحيحة:\nIch sehe ___ Mann. (der Mann)",
+          "options": ["den", "dem", "der", "ein"],
+          "answer": 0,
+          "hint": "تذكّر: المذكر في حالة النصب مع أداة التعريف يصبح den."
+        },
+        {
+          "question": "املأ الفراغ بأداة النكرة الصحيحة في حالة النصب:\nSie hat ___ Katze. (eine Katze)",
+          "options": ["die", "den", "eine", "einen"],
+          "answer": 2,
+          "hint": "المؤنث في النكرة يبقى دائمًا „eine“ حتى في حالة النصب."
+        },
+        {
+          "question": "اختر أداة النكرة الصحيحة في حالة النصب:\nWir kaufen ___ Auto. (ein Auto)",
+          "options": ["einen", "ein", "dem", "den"],
+          "answer": 1,
+          "hint": "„das Auto“ محايد، وفي النكرة مع Akkusativ يبقى „ein“."
+        },
+        {
+          "question": "اختر الأداة الصحيحة:\nEr liebt ___ Frau. (die Frau)",
+          "options": ["die", "der", "den", "eine"],
+          "answer": 0,
+          "hint": "مع أداة التعريف للمؤنث تبقى „die“ حتى في حالة النصب."
+        },
+        {
+          "question": "املأ الفراغ:\nDu hörst ___ Lehrer. (der Lehrer)",
+          "options": ["der", "den", "dem", "einen"],
+          "answer": 1,
+          "hint": "„der Lehrer“ مذكر في حالة النصب مع أداة التعريف ⟶ den."
+        },
+        {
+          "question": "اختر الضمير الصحيح في حالة النصب:\nIch sehe ___ . (du)",
+          "options": ["dich", "dir", "du", "dein"],
+          "answer": 0,
+          "hint": "الضمير du يتحول في حالة النصب إلى dich."
+        },
+        {
+          "question": "اختر الضمير الصحيح في حالة النصب:\nEr kennt ___ . (wir)",
+          "options": ["uns", "ihr", "wir", "euch"],
+          "answer": 0,
+          "hint": "„wir“ في حالة النصب تصبح „uns“."
+        },
+        {
+          "question": "أي سؤال يناسب حالة النصب (Akkusativ)؟",
+          "options": ["Wo?", "Wann?", "Wen oder Was?", "Warum?"],
+          "answer": 2,
+          "hint": "Akkusativ يجيب عن سؤال Wen? أو Was?."
+        }
+      ]
+    },
+
+    
+    {
+  "id": "gram-dativ-b1",
+  "title": {
+    "de": "Der Dativ",
+    "ar": "Der Dativ – حالة الجر غير المباشر في الألمانية"
+  },
+  "interactiveScene": "🎬 تخيّل الموقف التالي:\n„Ich gebe dem Mann ein Buch.“ (أنا أعطي الرجل كتابًا.) 📘\nمن الذي يأخذ الكتاب؟ → الرجل → **dem Mann**.\nإذن الكلمة في حالة **Dativ** لأنها الشخص الذي يتلقى شيئًا.",
+  "explanation": [
+    {
+      "de": "Ich gebe dem Mann ein Buch.",
+      "ar": "أنا أعطي الرجل كتابًا. الشخص الذي يأخذ الكتاب (dem Mann) في حالة Dativ لأنه المفعول غير المباشر."
+    },
+    {
+      "de": "Dativ wird mit Verben wie geben, helfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren verwendet.",
+      "ar": "تُستخدم حالة Dativ مع أفعال مثل: geben (يعطي)، helfen (يساعد)، danken (يشكر)، gehören (ينتمي إلى)، gefallen (يعجب)، glauben (يؤمن / يصدق)، antworten (يجيب)، folgen (يتبع)، gratulieren (يهنئ)."
+    },
+    {
+      "de": "Fragen im Dativ: Wem? oder Wo?",
+      "ar": "Dativ يجيب على سؤال: Wem? (لمن؟) أو Wo? (عند من؟)."
+    },
+    {
+      "de": "Ich helfe meinem Freund.",
+      "ar": "أنا أساعد صديقي. الفعل helfen يحتاج مفعولًا غير مباشر في حالة Dativ."
+    },
+    {
+      "de": "Sie dankt der Frau.",
+      "ar": "هي تشكر المرأة. der Frau في حالة Dativ."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich gebe dem Mann ein Buch.",
+      "ar": "أنا أعطي الرجل كتابًا.",
+      "note": "الفعل geben (يعطي) دائمًا يأخذ مفعولًا غير مباشر في Dativ."
+    },
+    {
+      "de": "Sie hilft der Frau.",
+      "ar": "هي تساعد المرأة.",
+      "note": "الفعل helfen يتطلب Dativ."
+    },
+    {
+      "de": "Wir danken dem Lehrer.",
+      "ar": "نحن نشكر المعلم.",
+      "note": "danken من الأفعال التي تحتاج دائمًا Dativ."
+    },
+    {
+      "de": "Das Kind spielt mit dem Hund.",
+      "ar": "الطفل يلعب مع الكلب.",
+      "note": "حرف الجر mit يأخذ Dativ دائمًا."
+    },
+    {
+      "de": "Ich wohne bei meinen Eltern.",
+      "ar": "أنا أعيش عند والديّ.",
+      "note": "حرف الجر bei يأخذ Dativ دائمًا."
+    }
+  ],
+  "tip": "📘 أدوات التعريف في Dativ:\n• المذكر: der ⟶ dem\n• المؤنث: die ⟶ der\n• المحايد: das ⟶ dem\n• الجمع: die ⟶ den + n\n\n📘 أدوات النكرة:\n• المذكر: einem\n• المؤنث: einer\n• المحايد: einem\n• الجمع: —\n\n💡 في الجمع نضيف غالبًا -n إلى نهاية الاسم.\n\n🧠 أفعال Dativ الشائعة:\nhelfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren.\n\n⚙️ القاعدة الذهبية:\nDativ يُستخدم عندما يدل الفعل على \"العطاء\" أو \"الاتجاه نحو شخص\" أو \"الحديث لشخص\".",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich danke dir für deine Hilfe.",
+      "ar": "أشكرك على مساعدتك."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Kein Problem! Ich helfe dir gern.",
+      "ar": "لا مشكلة! أساعدك بسرور."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Gehört das Buch dem Lehrer?",
+      "ar": "هل هذا الكتاب يعود للمعلم؟"
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ja, es gehört ihm.",
+      "ar": "نعم، إنه يخصه."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Dativ = indirektes Objekt.",
+      "ar": "Dativ هو المفعول غير المباشر (الشخص الذي يحصل على الشيء)."
+    },
+    {
+      "de": "Fragen im Dativ: Wem? Wo?",
+      "ar": "الأسئلة التي تدل على Dativ: لمن؟ عند من؟"
+    },
+    {
+      "de": "Artikel im Dativ: dem, der, dem, den + n.",
+      "ar": "أدوات التعريف في Dativ: dem للمذكر والمحايد، der للمؤنث، den + n للجمع."
+    },
+    {
+      "de": "Verben mit Dativ: helfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren.",
+      "ar": "الأفعال التي تأخذ دائمًا Dativ."
+    },
+    {
+      "de": "Dativ-Präpositionen: mit, bei, von, zu, nach, aus.",
+      "ar": "حروف الجر التي تأتي دائمًا مع Dativ: mit, bei, von, zu, nach, aus."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "املأ الفراغ:\nIch helfe ___ Mann. (der Mann)",
+      "options": ["dem", "den", "der", "einem"],
+      "answer": 0,
+      "hint": "المذكر في Dativ يأخذ dem."
+    },
+    {
+      "question": "املأ الفراغ:\nSie dankt ___ Frau. (die Frau)",
+      "options": ["der", "dem", "die", "einer"],
+      "answer": 0,
+      "hint": "المؤنث في Dativ يأخذ der."
+    },
+    {
+      "question": "اختر الجواب الصحيح:\nWir spielen mit ___ Kindern. (die Kinder)",
+      "options": ["die", "den", "dem", "einen"],
+      "answer": 1,
+      "hint": "في الجمع نضيف -n ونستخدم den."
+    },
+    {
+      "question": "اختر الجواب الصحيح:\nEr gibt ___ Lehrer das Buch. (der Lehrer)",
+      "options": ["dem", "den", "der", "ein"],
+      "answer": 0,
+      "hint": "الاسم المذكر في Dativ يأخذ dem."
+    },
+    {
+      "question": "اختر حرف الجر المناسب:\nIch wohne ___ meinen Eltern.",
+      "options": ["mit", "bei", "nach", "für"],
+      "answer": 1,
+      "hint": "الحرف bei يأخذ Dativ."
+    }
+  ]
+}
+    ,
+    {
+  "id": "gram-praepositionen-akk-dat-b1",
+  "title": {
+    "de": "Präpositionen mit Akkusativ und Dativ",
+    "ar": "حروف الجر مع Akkusativ و Dativ"
+  },
+  "interactiveScene": "🎬 تخيّل اليوم الطويل تبع Noa في المدينة:\n\nAm Morgen fährt Noa mit dem Bus zur Schule.\nIn der Pause geht er ohne Freunde spazieren.\nSpäter läuft er durch den Park und setzt sich auf den Stuhl im Café.\nAm Abend geht er zu seiner Freundin und sitzt auf dem Sofa vor dem Fernseher.\n\nكل الجمل فيها حروف جر مختلفة:\n• mit dem Bus (Dativ)\n• ohne Freunde (Akkusativ)\n• durch den Park (Akkusativ)\n• auf dem Stuhl (Dativ: مكان)\n• auf das Sofa (Akkusativ: حركة نحو مكان)\n\nالمهمة: نفهم متى نستخدم Akkusativ، ومتى نستخدم Dativ، ومتى يمكن الاثنين حسب المعنى.",
+  "explanation": [
+    {
+      "de": "Nur Akkusativ: durch, für, gegen, ohne, um, bis, entlang.",
+      "ar": "هذه الحروف تأتي دائمًا بعدَها الأسماء في حالة النصب Akkusativ."
+    },
+    {
+      "de": "Beispiele mit Akkusativ",
+      "ar": "durch den Park، für meinen Freund، gegen den Wind، ohne Geld، um die Stadt. لاحظ أن الأداة دائمًا في Akkusativ."
+    },
+    {
+      "de": "Nur Dativ: aus, bei, mit, nach, seit, von, zu, gegenüber.",
+      "ar": "هذه الحروف تأتي دائمًا بعدَها الأسماء في حالة الجر Dativ."
+    },
+    {
+      "de": "Beispiele mit Dativ",
+      "ar": "mit dem Bus، bei dem Arzt، nach der Arbeit، seit einem Jahr، zu meiner Mutter. كل هذه الأسماء في Dativ."
+    },
+    {
+      "de": "Wechselpräpositionen: in, an, auf, unter, über, vor, hinter, neben, zwischen.",
+      "ar": "هذه الحروف يمكن أن تأتي مع Akkusativ أو Dativ حسب الجملة."
+    },
+    {
+      "de": "Akkusativ = Bewegung (Wohin?)",
+      "ar": "عندما يكون هناك حركة نحو مكان (إلى أين؟) نستخدم Akkusativ: Ich gehe in die Schule."
+    },
+    {
+      "de": "Dativ = Position (Wo?)",
+      "ar": "عندما نصف مكانًا ثابتًا (أين؟) نستخدم Dativ: Ich bin in der Schule."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich laufe durch den Park.",
+      "ar": "أمشي عبر الحديقة.",
+      "note": "durch → دائمًا Akkusativ."
+    },
+    {
+      "de": "Das Geschenk ist für meinen Bruder.",
+      "ar": "الهدية لأخي.",
+      "note": "für → دائمًا Akkusativ، يدل على \"لـ / من أجل\"."
+    },
+    {
+      "de": "Sie fährt mit dem Zug.",
+      "ar": "هي تسافر بالقطار.",
+      "note": "mit → دائمًا Dativ: وسيلة أو مع شخص."
+    },
+    {
+      "de": "Ich arbeite bei der Firma.",
+      "ar": "أعمل عند الشركة.",
+      "note": "bei → دائمًا Dativ: عند / لدى."
+    },
+    {
+      "de": "Noa sitzt auf dem Stuhl.",
+      "ar": "Noa يجلس على الكرسي.",
+      "note": "auf + Dativ هنا لأن الجملة تصف مكانًا ثابتًا (Wo?)."
+    },
+    {
+      "de": "Noa setzt sich auf den Stuhl.",
+      "ar": "Noa يجلس (ينتقل) إلى الكرسي.",
+      "note": "auf + Akkusativ هنا لأن هناك حركة نحو مكان (Wohin?)."
+    },
+    {
+      "de": "Das Bild hängt an der Wand.",
+      "ar": "الصورة معلقة على الحائط.",
+      "note": "an + Dativ: مكان ثابت."
+    },
+    {
+      "de": "Ich hänge das Bild an die Wand.",
+      "ar": "أعلّق الصورة على الحائط.",
+      "note": "an + Akkusativ: حركة إلى الحائط."
+    }
+  ],
+  "tip": "📌 تلخيص سريع:\n\n✅ حروف جر مع Akkusativ فقط:\n• durch, für, gegen, ohne, um, bis, entlang\n\n✅ حروف جر مع Dativ فقط:\n• aus, bei, mit, nach, seit, von, zu, gegenüber\n\n✅ حروف جر يمكن أن تأتي مع Akkusativ أو Dativ (Wechselpräpositionen):\n• in, an, auf, unter, über, vor, hinter, neben, zwischen\n\n⚙️ القاعدة الذهبية مع هذه الحروف:\n• Akkusativ = Bewegung (Wohin?) → إلى أين؟\n  مثال: Ich gehe in die Stadt.\n• Dativ = Position (Wo?) → أين؟\n  مثال: Ich bin in der Stadt.\n\n💡 ملاحظات Noa الذكية:\n1️⃣ احفظ مجموعات الحروف كأغنية صغيرة في دماغك.\n2️⃣ عندما ترى فعل حركة (gehen, fahren, legen, stellen, setzen) فكّر في Akkusativ.\n3️⃣ عندما ترى فعل حالة/ثبات (sein, sitzen, liegen, stehen) فكّر في Dativ.",
+  "dialogue": [
+    {
+      "speaker": "Freund",
+      "de": "Wo bist du?",
+      "ar": "أين أنت؟"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ich bin im Café, direkt an der Ecke.",
+      "ar": "أنا في المقهى، مباشرة عند الزاوية."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Okay, ich gehe in das Café. Wartest du auf mich?",
+      "ar": "حسنًا، سأذهب إلى المقهى. هل تنتظرني؟"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ja, ich warte auf dich vor dem Café.",
+      "ar": "نعم، سأنتظرك أمام المقهى."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Präpositionen mit Akkusativ: durch, für, gegen, ohne, um, bis, entlang.",
+      "ar": "حروف الجر مع Akkusativ فقط: durch, für, gegen, ohne, um, bis, entlang."
+    },
+    {
+      "de": "Präpositionen mit Dativ: aus, bei, mit, nach, seit, von, zu, gegenüber.",
+      "ar": "حروف الجر مع Dativ فقط: aus, bei, mit, nach, seit, von, zu, gegenüber."
+    },
+    {
+      "de": "Wechselpräpositionen: in, an, auf, unter, über, vor, hinter, neben, zwischen.",
+      "ar": "حروف الجر المتغيرة: in, an, auf, unter, über, vor, hinter, neben, zwischen."
+    },
+    {
+      "de": "Akkusativ bei Bewegung (Wohin?), Dativ bei Position (Wo?).",
+      "ar": "Akkusativ نستخدمه مع الحركة نحو مكان (Wohin?)، وDativ مع المكان الثابت (Wo?)."
+    },
+    {
+      "de": "Mit Präpositionen immer auf den Fall achten!",
+      "ar": "مع حروف الجر يجب الانتباه دائمًا إلى الحالة الإعرابية للاسم بعدها."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "اختر الحالة الصحيحة:\nDie Katze läuft durch ___ Garten. (der Garten)",
+      "options": ["den", "dem", "der", "des"],
+      "answer": 0,
+      "hint": "durch → دائمًا Akkusativ."
+    },
+    {
+      "question": "املأ الفراغ:\nIch fahre mit ___ Auto. (das Auto)",
+      "options": ["das", "dem", "den", "einem"],
+      "answer": 1,
+      "hint": "mit → دائمًا Dativ."
+    },
+    {
+      "question": "اختر الجملة الصحيحة لمكان ثابت (Wo?):",
+      "options": [
+        "Ich gehe in die Schule.",
+        "Ich bin in der Schule.",
+        "Ich laufe in die Schule.",
+        "Ich fahre in die Schule."
+      ],
+      "answer": 1,
+      "hint": "مكان ثابت → Dativ."
+    },
+    {
+      "question": "اختر الحرف والحالة الصحيحين:\nEr stellt den Tisch ___ die Ecke. (Wohin?)",
+      "options": [
+        "in der Ecke (Dativ)",
+        "in die Ecke (Akkusativ)",
+        "an der Ecke (Dativ)",
+        "auf der Ecke (Dativ)"
+      ],
+      "answer": 1,
+      "hint": "Wohin? → حركة → Akkusativ."
+    },
+    {
+      "question": "أي حرف جر يأخذ دائمًا Dativ؟",
+      "options": ["für", "ohne", "gegen", "aus"],
+      "answer": 3,
+      "hint": "فكّر في مجموعة aus, bei, mit, nach, seit, von, zu."
+    },
+    {
+      "question": "أي حرف جر يأخذ دائمًا Akkusativ؟",
+      "options": ["mit", "zu", "durch", "von"],
+      "answer": 2,
+      "hint": "تذكّر مجموعة: durch, für, gegen, ohne, um."
+    },
+    {
+      "question": "أي حرف من هذه من الـ Wechselpräpositionen؟",
+      "options": ["auf", "seit", "zu", "von"],
+      "answer": 0,
+      "hint": "Wechselpräpositionen هي: in, an, auf, unter, über, vor, hinter, neben, zwischen."
+    },
+    {
+      "question": "اختر الجملة الصحيحة مع Dativ:\n(مكان ثابت في الغرفة)",
+      "options": [
+        "Der Stuhl steht in dem Zimmer.",
+        "Der Stuhl steht in das Zimmer.",
+        "Ich stelle den Stuhl in dem Zimmer.",
+        "Ich gehe in das Zimmer."
+      ],
+      "answer": 0,
+      "hint": "steht = فعل حالة/ثبات → Dativ."
+    }
+  ]
+}
+,
+{
+  "id": "gram-adverbien-tekamolo-b1",
+  "title": {
+    "de": "Adverbien der Zeit, des Ortes & TeKaMoLo",
+    "ar": "الظروف (الزمان والمكان) + قاعدة TeKaMoLo"
+  },
+  "interactiveScene": "🕰️ تخيّل نفسك صباحًا في برلين.\nتمسك قهوتك وتقول: Heute lerne ich Deutsch. (اليوم أتعلم الألمانية.)\nثم تضيف: Morgen gehe ich zur Arbeit. (غدًا أذهب إلى العمل.)\nصديقك يسأل: Und gestern? (وماذا عن البارحة؟)\nفتضحك وتقول: Gestern habe ich nur geschlafen! (البارحة نمت فقط 😴)\n\nهذه الكلمات heute, morgen, gestern هي ظروف زمان، تخبرنا متى يحدث الشيء.\nوفي جمل أخرى مثل hier, dort, zu Hause نستخدم ظروف المكان.\nوفي النهاية نرتب كل هذه الظروف حسب قاعدة محببة عند الألمان: TeKaMoLo.",
+  "explanation": [
+    {
+      "de": "Adverbien der Zeit (Wann?)",
+      "ar": "كلمات مثل heute, morgen, gestern, jetzt, früh تخبرنا عن الزمن: متى يحدث الفعل."
+    },
+    {
+      "de": "Adverbien der Dauer (Wie lange?)",
+      "ar": "كلمات مثل lange, kurz, den ganzen Tag, eine Woche, zwei Stunden تخبرنا عن المدة التي يستمر فيها الفعل."
+    },
+    {
+      "de": "Adverbien der Häufigkeit (Wie oft?)",
+      "ar": "كلمات مثل immer, oft, manchmal, selten, nie, täglich, wöchentlich, jährlich تخبرنا كل كم مرة يحدث الشيء."
+    },
+    {
+      "de": "Adverbien des Ortes (Wo? Wohin? Woher?)",
+      "ar": "كلمات مثل hier, dort, drinnen, draußen, nach Hause, ins Kino, nach Berlin, von hier, aus Syrien تخبرنا عن المكان أو الاتجاه."
+    },
+    {
+      "de": "TeKaMoLo = Temporal – Kausal – Modal – Lokal",
+      "ar": "إذا كان في الجملة أكثر من ظرف، نرتبها هكذا: أولًا الزمن (متى؟)، ثم السبب (لماذا؟)، ثم الكيفية (كيف؟)، وأخيرًا المكان (أين؟)."
+    },
+    {
+      "de": "Beispiel: Heute lerne ich deshalb gern zu Hause.",
+      "ar": "Heute (الزمن) – deshalb (السبب) – gern (الطريقة) – zu Hause (المكان). هذا هو ترتيب TeKaMoLo عمليًا."
+    },
+    {
+      "de": "Das Verb bleibt auf Position 2.",
+      "ar": "حتى لو بدأت الجملة بظرف مثل Heute أو Morgen يبقى الفعل دائمًا في المرتبة الثانية في الجملة الرئيسية الألمانية."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Heute lerne ich Deutsch.",
+      "ar": "اليوم أتعلم الألمانية.",
+      "note": "heute = ظرف زمان بسيط، يمكن أن يأتي في بداية الجملة أو بعدها."
+    },
+    {
+      "de": "Morgen gehe ich zur Arbeit.",
+      "ar": "غدًا أذهب إلى العمل.",
+      "note": "morgen يجيب عن سؤال: متى؟"
+    },
+    {
+      "de": "Ich arbeite den ganzen Tag.",
+      "ar": "أعمل طوال اليوم.",
+      "note": "den ganzen Tag = مدة العمل كاملة خلال اليوم."
+    },
+    {
+      "de": "Wir bleiben eine Woche in Berlin.",
+      "ar": "نبقى أسبوعًا في برلين.",
+      "note": "eine Woche = مدة، Berlin = مكان."
+    },
+    {
+      "de": "Ich lerne immer abends.",
+      "ar": "أتعلم دائمًا في المساء.",
+      "note": "immer = تكرار، abends = زمن في اليوم."
+    },
+    {
+      "de": "Wir gehen manchmal ins Kino.",
+      "ar": "أحيانًا نذهب إلى السينما.",
+      "note": "manchmal = أحيانًا، ins Kino = إلى السينما (مكان / اتجاه)."
+    },
+    {
+      "de": "Ich wohne hier.",
+      "ar": "أنا أسكن هنا.",
+      "note": "hier = مكان ثابت (Wo?)."
+    },
+    {
+      "de": "Wir fahren nach Hause.",
+      "ar": "نذهب إلى البيت.",
+      "note": "nach Hause = اتجاه (Wohin?)."
+    },
+    {
+      "de": "Heute lerne ich deshalb fleißig in der Bibliothek.",
+      "ar": "اليوم أدرس لذلك بجد في المكتبة.",
+      "note": "Te (Heute) – Ka (deshalb) – Mo (fleißig) – Lo (in der Bibliothek)."
+    }
+  ],
+  "tip": "💡 فكرة بسيطة عن الظروف:\n\n• الظروف لا تتغير نهايتها تقريبًا، لذلك أسهل من الصفات.\n• أهم الأسئلة: Wann? (متى؟) – Wie lange? (كم المدة؟) – Wie oft? (كل كم؟) – Wo? Wohin? Woher? (أين؟ إلى أين؟ من أين؟).\n\n⚙️ قاعدة TeKaMoLo:\n1️⃣ Temporal (الزمن)\n2️⃣ Kausal (السبب)\n3️⃣ Modal (الكيفية)\n4️⃣ Lokal (المكان)\n\nمثال واضح:\nHeute (Te) lerne ich deshalb (Ka) gern (Mo) zu Hause (Lo).\n\nملاحظات Noa الذكية:\n• عندما تحتار أين تضع الظروف، جرّب ترتيب TeKaMoLo، غالبًا يكون صحيحًا.\n• الأفضل أن تحفظ الظروف في مجموعات: زمن، مدة، تكرار، مكان.\n• وضع ظرف الزمن في بداية الجملة يعطيك أسلوبًا ألمانيًا قويًا.",
+  "dialogue": [
+    {
+      "speaker": "Freund",
+      "de": "Wann lernst du Deutsch?",
+      "ar": "متى تتعلم الألمانية؟"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ich lerne meistens abends zu Hause.",
+      "ar": "غالبًا أتعلم مساءً في البيت."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Und wo lernst du am Wochenende?",
+      "ar": "وأين تدرس في عطلة نهاية الأسبوع؟"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Am Wochenende lerne ich oft in der Bibliothek.",
+      "ar": "في عطلة نهاية الأسبوع أدرس كثيرًا في المكتبة."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Adverbien der Zeit sagen, wann etwas passiert.",
+      "ar": "ظروف الزمان تخبرنا متى يحدث الفعل."
+    },
+    {
+      "de": "Adverbien der Dauer sagen, wie lange etwas dauert.",
+      "ar": "ظروف المدة تخبرنا كم يستمر الشيء."
+    },
+    {
+      "de": "Adverbien der Häufigkeit sagen, wie oft etwas passiert.",
+      "ar": "ظروف التكرار تخبرنا كل كم يحدث الشيء."
+    },
+    {
+      "de": "Adverbien des Ortes sagen, wo, wohin oder woher.",
+      "ar": "ظروف المكان تخبرنا أين، إلى أين، أو من أين."
+    },
+    {
+      "de": "TeKaMoLo: Temporal – Kausal – Modal – Lokal.",
+      "ar": "ترتيب الظروف في الجملة: زمن → سبب → كيفية → مكان."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "اختر ظرف الزمان المناسب:\n___ lerne ich Deutsch. (اليوم أتعلم الألمانية.)",
+      "options": ["Hier", "Heute", "Oft", "Draußen"],
+      "answer": 1,
+      "hint": "نحتاج كلمة تعني: اليوم."
+    },
+    {
+      "question": "أكمل الجملة بظرف مدة مناسب:\nIch arbeite ___ . (طوال اليوم)",
+      "options": ["den ganzen Tag", "hier", "morgen", "manchmal"],
+      "answer": 0,
+      "hint": "فكر في تعبير يعني: طوال اليوم."
+    },
+    {
+      "question": "أي جملة تحتوي على ظرف تكرار؟",
+      "options": [
+        "Ich wohne in Berlin.",
+        "Ich lerne immer abends.",
+        "Ich fahre nach Hause.",
+        "Ich bleibe eine Woche."
+      ],
+      "answer": 1,
+      "hint": "ابحث عن كلمة مثل immer, oft, manchmal..."
+    },
+    {
+      "question": "أي كلمة هي ظرف مكان؟",
+      "options": ["gestern", "morgen", "hier", "immer"],
+      "answer": 2,
+      "hint": "نبحث عن كلمة تجيب عن: أين؟"
+    },
+    {
+      "question": "رتّب حسب قاعدة TeKaMoLo:\n(zu Hause – heute – lerne ich – gern)",
+      "options": [
+        "Heute lerne ich gern zu Hause.",
+        "Gern lerne ich heute zu Hause.",
+        "Zu Hause lerne ich heute gern.",
+        "Ich lerne heute zu Hause gern."
+      ],
+      "answer": 0,
+      "hint": "ابدأ بالزمن، ثم الفعل في المرتبة الثانية."
+    },
+    {
+      "question": "أي ترتيب صحيح حسب TeKaMoLo؟",
+      "options": [
+        "Lokal – Temporal – Modal – Kausal",
+        "Temporal – Kausal – Modal – Lokal",
+        "Kausal – Temporal – Lokal – Modal",
+        "Temporal – Modal – Kausal – Lokal"
+      ],
+      "answer": 1,
+      "hint": "اختصرها بكلمة TeKaMoLo."
+    },
+    {
+      "question": "اختر الجملة الأقرب لقاعدة TeKaMoLo:\n(الآن – بسبب الامتحان – بجد – في المكتبة)",
+      "options": [
+        "Jetzt lernt er wegen der Prüfung fleißig in der Bibliothek.",
+        "Er lernt jetzt in der Bibliothek wegen der Prüfung fleißig.",
+        "Er lernt fleißig in der Bibliothek jetzt wegen der Prüfung.",
+        "In der Bibliothek lernt er jetzt wegen der Prüfung fleißig."
+      ],
+      "answer": 0,
+      "hint": "ابدأ بالزمن Jetzt، ثم السبب، ثم الكيفية، ثم المكان."
+    }
+  ]
+},
+{
+  "id": "gram-perfekt-b1",
+  "title": {
+    "de": "Das Perfekt – Vergangenheitsform",
+    "ar": "زمن Perfekt (الماضي التام)"
+  },
+  "interactiveScene": "☕ تخيّل نفسك تتحدث مع صديقك في المقهى.\nيسألك: „Was hast du gestern gemacht?“ (ماذا فعلت البارحة؟)\nفترد مبتسمًا: „Ich habe Deutsch gelernt und Pizza gegessen!“ 🍕\n— مبروك! لقد استخدمت زمن Perfekt مثل الألمان تمامًا 🎉",
+  "explanation": [
+    {
+      "de": "Wann benutzt man Perfekt?",
+      "ar": "نستخدم Perfekt عندما نتحدث عن شيء حدث في الماضي القريب أو عن تجربة شخصية انتهت."
+    },
+    {
+      "de": "Struktur des Perfekts",
+      "ar": "يتكوّن Perfekt من جزئين:\n1️⃣ فعل مساعد (haben أو sein)\n2️⃣ التصريف الثالث للفعل (Partizip II)."
+    },
+    {
+      "de": "Beispiel",
+      "ar": "Ich habe gelernt. (لقد درست)\nEr ist gekommen. (لقد أتى)"
+    },
+    {
+      "de": "Haben oder Sein?",
+      "ar": "– **haben** يُستخدم مع أغلب الأفعال العادية مثل: spielen, arbeiten, essen.\n– **sein** يُستخدم مع أفعال الحركة أو التغيّر مثل: gehen, kommen, fahren, aufstehen."
+    },
+    {
+      "de": "Einfache Regel",
+      "ar": "إذا الفعل يدل على حركة → استخدم sein.\nإذا لا يدل على حركة → استخدم haben."
+    },
+    {
+      "de": "Satzbau (ترتيب الجملة)",
+      "ar": "الفاعل + الفعل المساعد + باقي الجملة + Partizip II في النهاية.\nمثال:\nIch habe Deutsch gelernt.\nDu hast Kaffee getrunken."
+    },
+    {
+      "de": "Form des Partizip II",
+      "ar": "معظم الأفعال تبدأ بـ ge- وتنتهي بـ -t أو -en.\nأمثلة: gemacht, gelernt, gefahren.\nالأفعال التي تبدأ بـ be-, ver-, er-, ent-, zer- لا تأخذ ge.\nأمثلة: bekommen, verstanden, besucht."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich habe Deutsch gelernt.",
+      "ar": "لقد درست الألمانية.",
+      "note": "haben + gelernt (Partizip II من lernen)."
+    },
+    {
+      "de": "Du hast Kaffee getrunken.",
+      "ar": "لقد شربت قهوة.",
+      "note": "haben + getrunken (Partizip II من trinken)."
+    },
+    {
+      "de": "Er ist gekommen.",
+      "ar": "لقد أتى.",
+      "note": "sein + gekommen (فعل حركة)."
+    },
+    {
+      "de": "Wir haben gearbeitet.",
+      "ar": "لقد عملنا.",
+      "note": "haben لأن الفعل لا يعبّر عن حركة."
+    },
+    {
+      "de": "Sie sind nach Hause gegangen.",
+      "ar": "لقد ذهبوا إلى المنزل.",
+      "note": "sein لأن الفعل يدل على حركة."
+    }
+  ],
+  "tip": "💡 القاعدة الذهبية:\nPerfekt = فعل مساعد (haben/sein) + Partizip II.\n\n⚙️ haben → مع أغلب الأفعال (arbeiten, spielen, essen...)\n⚙️ sein → مع أفعال الحركة أو التغيّر (gehen, kommen, fahren...)\n\n🧠 نصائح:\n• الفعل المساعد دائمًا بالمركز الثاني.\n• الفعل الرئيسي (Partizip II) دائمًا في آخر الجملة.\n• Perfekt يُستخدم في الكلام اليومي، بينما Präteritum أكثر استخدامًا في الكتابة.",
+  "dialogue": [
+    {
+      "speaker": "Freund",
+      "de": "Was hast du gestern gemacht?",
+      "ar": "ماذا فعلت البارحة؟"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ich habe Deutsch gelernt und Pizza gegessen.",
+      "ar": "درست الألمانية وأكلت بيتزا."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich habe Musik gehört und bin spät ins Bett gegangen.",
+      "ar": "استمعت إلى الموسيقى وذهبت للنوم متأخرًا."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ich bin auch spät aufgestanden.",
+      "ar": "وأنا أيضًا استيقظت متأخرًا."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Perfekt beschreibt abgeschlossene Handlungen in der Vergangenheit.",
+      "ar": "Perfekt يُستخدم للأفعال التي حدثت وانتهت في الماضي القريب."
+    },
+    {
+      "de": "Bildung: haben/sein + Partizip II.",
+      "ar": "يتكوّن من فعل مساعد (haben أو sein) + التصريف الثالث للفعل."
+    },
+    {
+      "de": "haben für Zustände, sein für Bewegung oder Veränderung.",
+      "ar": "نستخدم haben للأفعال الثابتة، وsein للأفعال التي تعبّر عن حركة أو تغيّر."
+    },
+    {
+      "de": "Partizip II: meist ge- + Stamm + t/en.",
+      "ar": "غالبًا ما يبدأ بـ ge وينتهي بـ t أو en."
+    },
+    {
+      "de": "Beispiele: gelernt, gearbeitet, gekommen, gegangen.",
+      "ar": "أمثلة على تصريفات Perfekt الشائعة."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "اختر الصيغة الصحيحة:\nIch ___ Pizza ___. (essen)",
+      "options": ["habe...gegessen", "bin...gegessen", "habe...essen", "bin...essen"],
+      "answer": 0,
+      "hint": "essen يستخدم مع haben + gegessen."
+    },
+    {
+      "question": "Er ___ nach Berlin ___. (fahren)",
+      "options": ["hat...gefahren", "ist...gefahren", "ist...fahrt", "hat...fahrt"],
+      "answer": 1,
+      "hint": "fahren يدل على حركة → sein."
+    },
+    {
+      "question": "Wir ___ Musik ___. (hören)",
+      "options": ["haben...gehört", "sind...gehört", "haben...hören", "sind...gehören"],
+      "answer": 0,
+      "hint": "hören → haben + gehört."
+    },
+    {
+      "question": "Du ___ Kaffee ___. (trinken)",
+      "options": ["hast...getrunken", "bist...getrunken", "hast...trinkst", "bist...trinkst"],
+      "answer": 0,
+      "hint": "trinken → haben + getrunken."
+    },
+    {
+      "question": "Sie ___ früh ___. (aufstehen)",
+      "options": ["hat...aufgestanden", "ist...aufgestanden", "haben...aufgestanden", "sind...aufgestanden"],
+      "answer": 1,
+      "hint": "aufstehen = حركة → sein."
+    },
+    {
+      "question": "أي فعل من هذه الأفعال يأخذ sein في Perfekt؟",
+      "options": ["spielen", "lernen", "fahren", "arbeiten"],
+      "answer": 2,
+      "hint": "فكر في الأفعال التي تعبّر عن حركة."
+    },
+    {
+      "question": "أي فعل يبدأ بـ be- لذلك لا يأخذ ge؟",
+      "options": ["bekommen", "gehen", "machen", "lernen"],
+      "answer": 0,
+      "hint": "الأفعال التي تبدأ بـ be-, ver-, er-, ent-, zer- لا تأخذ ge."
+    }
+  ]
+}
+,
+{
+  "id": "gram-praeteritum-b1",
+  "title": {
+    "de": "Das Präteritum – einfache Vergangenheit",
+    "ar": "زمن Präteritum (الماضي البسيط)"
+  },
+  "interactiveScene": "📖 المعلمة تقول: „Gestern lernte ich Deutsch.“ — بالأمس درست الألمانية.\nالطلاب ينظرون باستغراب 😅 لأنهم معتادون على Perfekt: „Ich habe Deutsch gelernt.“\nفتبتسم وتقول: في الكتابة نستخدم **Präteritum**، فهو زمن القصص والجرائد.\n\nهكذا يبدأ أول لقاءك مع الماضي البسيط الألماني ✍️.",
+  "explanation": [
+    {
+      "de": "Was ist das Präteritum?",
+      "ar": "هو زمن الماضي البسيط، يُستخدم كثيرًا في الكتابة والقصص والنصوص الرسمية."
+    },
+    {
+      "de": "Wann benutzt man Präteritum?",
+      "ar": "نستخدمه في ثلاث حالات رئيسية:\n1️⃣ في القصص والروايات.\n2️⃣ في الكتابة الرسمية والأخبار.\n3️⃣ مع الأفعال الشائعة مثل sein, haben, können, müssen..."
+    },
+    {
+      "de": "Wie bildet man Präteritum?",
+      "ar": "لإنشاء الماضي البسيط نضيف نهايات بسيطة إلى جذر الفعل:\nich -te, du -test, er/sie/es -te, wir -ten, ihr -tet, sie/Sie -ten."
+    },
+    {
+      "de": "Beispiel mit lernen:",
+      "ar": "ich lernte, du lerntest, er lernte, wir lernten, ihr lerntet, sie lernten."
+    },
+    {
+      "de": "Unregelmäßige Verben (starke Verben)",
+      "ar": "الأفعال القوية تغيّر جذرها بالكامل في الماضي، مثل:\nsein → war, haben → hatte, gehen → ging, kommen → kam, sehen → sah, sprechen → sprach."
+    },
+    {
+      "de": "Präteritum oder Perfekt?",
+      "ar": "Perfekt يستخدم في الكلام اليومي.\nPräteritum يستخدم في الكتابة والروايات. كلاهما يعني الماضي لكن يختلف في الأسلوب."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich war gestern müde.",
+      "ar": "كنت متعبًا البارحة.",
+      "note": "من الفعل sein (كان) → war."
+    },
+    {
+      "de": "Er hatte keine Zeit.",
+      "ar": "لم يكن لديه وقت.",
+      "note": "من الفعل haben (كان عنده) → hatte."
+    },
+    {
+      "de": "Wir gingen ins Kino.",
+      "ar": "ذهبنا إلى السينما.",
+      "note": "من الفعل gehen → ging (فعل قوي)."
+    },
+    {
+      "de": "Sie sprach gut Deutsch.",
+      "ar": "كانت تتحدث الألمانية جيدًا.",
+      "note": "من sprechen → sprach (تغيّر الجذر)."
+    },
+    {
+      "de": "Der Lehrer gab uns Hausaufgaben.",
+      "ar": "الأستاذ أعطانا واجبًا.",
+      "note": "من geben → gab (أعطى)."
+    }
+  ],
+  "tip": "💡 الفرق بين Perfekt و Präteritum:\n\nPerfekt → حديث يومي.\nPräteritum → كتابة رسمية أو قصة.\n\nمثال:\nIch habe gearbeitet. (Perfekt)\nIch arbeitete. (Präteritum)\n\nEr ist gegangen. → Er ging.\n\n🔹 Perfekt يتحدث ☕.\n🔹 Präteritum يكتب ✍️.\n\n📘 القاعدة:\n• الأفعال الضعيفة: أضف -te.\n• الأفعال القوية تغيّر الجذر.\n• نفس المعنى، الفرق في الأسلوب فقط.",
+  "dialogue": [
+    {
+      "speaker": "Lehrerin",
+      "de": "Was machtet ihr gestern?",
+      "ar": "ماذا فعلتم البارحة؟"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ich lernte Deutsch und schrieb eine Geschichte.",
+      "ar": "درست الألمانية وكتبت قصة."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich spielte Fußball, aber es regnete.",
+      "ar": "لعبت كرة القدم، لكن كان الجو ماطرًا."
+    },
+    {
+      "speaker": "Lehrerin",
+      "de": "Sehr gut! Ihr habt das Präteritum richtig benutzt.",
+      "ar": "أحسنتم! استخدمتم الماضي البسيط بشكل صحيح."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Präteritum beschreibt abgeschlossene Handlungen in der Vergangenheit.",
+      "ar": "Präteritum يُستخدم للتعبير عن أحداث منتهية في الماضي، خاصة في القصص والكتابة."
+    },
+    {
+      "de": "Endungen: -te, -test, -te, -ten, -tet, -ten.",
+      "ar": "نهايات الأفعال الضعيفة في Präteritum هي: te, test, te, ten, tet, ten."
+    },
+    {
+      "de": "Starke Verben ändern den Stamm.",
+      "ar": "الأفعال القوية تغيّر الجذر في الماضي."
+    },
+    {
+      "de": "Perfekt und Präteritum haben die gleiche Bedeutung.",
+      "ar": "Perfekt و Präteritum لهما نفس المعنى لكن يُستخدمان في مواقف مختلفة."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "اختر الصيغة الصحيحة من Präteritum:\nIch ___ müde. (sein)",
+      "options": ["bin", "war", "ist", "warst"],
+      "answer": 1,
+      "hint": "من الفعل sein → war."
+    },
+    {
+      "question": "Er ___ keine Zeit. (haben)",
+      "options": ["hat", "habe", "hatte", "haben"],
+      "answer": 2,
+      "hint": "haben → hatte."
+    },
+    {
+      "question": "Wir ___ ins Kino. (gehen)",
+      "options": ["gingen", "gegangen", "ging", "gehen"],
+      "answer": 0,
+      "hint": "gehen → gingen (جمع)."
+    },
+    {
+      "question": "Sie ___ gut Deutsch. (sprechen)",
+      "options": ["sprach", "sprechte", "gesprochen", "spricht"],
+      "answer": 0,
+      "hint": "sprechen → sprach."
+    },
+    {
+      "question": "Der Lehrer ___ uns Hausaufgaben. (geben)",
+      "options": ["gibt", "gab", "gegeben", "gabt"],
+      "answer": 1,
+      "hint": "geben → gab."
+    },
+    {
+      "question": "حوّل الجملة إلى Präteritum:\nIch habe Deutsch gelernt.",
+      "options": [
+        "Ich lernte Deutsch.",
+        "Ich habe lernte Deutsch.",
+        "Ich habe gelernt Deutsch.",
+        "Ich lerne Deutsch."
+      ],
+      "answer": 0,
+      "hint": "Perfekt → Präteritum: habe gelernt → lernte."
+    },
+    {
+      "question": "أي الجمل تُستخدم أكثر في الكتابة الرسمية؟",
+      "options": [
+        "Ich habe gearbeitet.",
+        "Ich arbeitete.",
+        "Ich habe gearbeitet heute.",
+        "Ich habe arbeit."
+      ],
+      "answer": 1,
+      "hint": "Präteritum هو زمن الكتابة الرسمية."
+    }
+  ]
+},
+{
+  "id": "gram-reflexive-verben-b1",
+  "title": {
+    "de": "Reflexive Verben",
+    "ar": "الأفعال الانعكاسية – Reflexive Verben"
+  },
+  "interactiveScene": "تخيّل أنك تقف أمام المرآة صباحًا ☀️ وتقول:\n„Ich wasche mich.“ (أنا أغسل نفسي.)\nفتضحك المرآة وتقول: „Ja, endlich! Du siehst schrecklich aus!“ 😂\nوهكذا تدخل عالم الأفعال الانعكاسية، حيث الفاعل يتأثر بنفسه ويقوم بالفعل على نفسه.\n\nفي هذا الدرس ستتعلّم كيف تستخدم هذه الأفعال لتعبّر عن نفسك بطريقة طبيعية بالألمانية.",
+  "explanation": [
+    {
+      "de": "Was sind Reflexive Verben?",
+      "ar": "هي أفعال يقوم فيها الفاعل بالفعل على نفسه.\nمثلاً: **Ich wasche mich** (أنا أغسل نفسي)، الفعل (waschen) يأخذ الضمير الانعكاسي (mich)."
+    },
+    {
+      "de": "Reflexivpronomen im Akkusativ",
+      "ar": "الضمائر الانعكاسية في حالة النصب (Akkusativ):\nich → mich | du → dich | er/sie/es → sich | wir → uns | ihr → euch | sie/Sie → sich\n\n📘 **أمثلة:**\nIch wasche **mich** jeden Morgen.\nDu rasierst **dich**.\nEr freut **sich** über das Geschenk."
+    },
+    {
+      "de": "Regel bei zwei Verben",
+      "ar": "عندما يوجد فعلان في الجملة (مثل مع أفعال الإرادة أو الاستطاعة)، يبقى الضمير قريبًا من الفعل الرئيسي:\nIch möchte **mich waschen**.\nEr will **sich konzentrieren**."
+    },
+    {
+      "de": "Reflexive Verben mit Präposition",
+      "ar": "بعض الأفعال الانعكاسية تأتي دائمًا مع حرف جر معين، احفظها معًا:\n**sich freuen auf/über** (يفرح بـ)\n**sich interessieren für** (يهتم بـ)\n**sich erinnern an** (يتذكر)\n**sich bedanken bei/für** (يشكر)"
+    },
+    {
+      "de": "Reflexive Verben im Dativ",
+      "ar": "في بعض الحالات يأتي الضمير الانعكاسي في حالة الـ Dativ إذا كان هناك مفعول مباشر آخر:\nIch wasche **mir** die Hände. (أغسل يديّ.)\nEr putzt **sich** die Zähne. (ينظف أسنانه.)"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich wasche mich.",
+      "ar": "أنا أغسل نفسي.",
+      "note": "الفعل waschen + mich (Akkusativ)"
+    },
+    {
+      "de": "Du rasierst dich.",
+      "ar": "أنت تحلق ذقنك.",
+      "note": "الضمير الانعكاسي dich مع du."
+    },
+    {
+      "de": "Er freut sich über das Geschenk.",
+      "ar": "هو يفرح بالهدية.",
+      "note": "الفعل sich freuen über (يفرح بـ)."
+    },
+    {
+      "de": "Wir beeilen uns, weil wir spät sind.",
+      "ar": "نحن نُسرع لأننا متأخرون.",
+      "note": "الفعل sich beeilen (يسرع)."
+    },
+    {
+      "de": "Ihr erinnert euch an eure Kindheit.",
+      "ar": "أنتم تتذكرون طفولتكم.",
+      "note": "الفعل sich erinnern an (يتذكر)."
+    },
+    {
+      "de": "Sie interessieren sich für Musik.",
+      "ar": "هم يهتمّون بالموسيقى.",
+      "note": "الفعل sich interessieren für (يهتم بـ)."
+    }
+  ],
+  "tip": "💡 **نصائح Noa الذكية:**\n1️⃣ يأتي الضمير الانعكاسي دائمًا بعد الفعل مباشرةً.\n2️⃣ مع وجود فعلين، يبقى الضمير قريبًا من الفعل الرئيسي: Ich möchte **mich waschen**.\n3️⃣ بعض الأفعال لا تُستخدم إلا بشكل انعكاسي، مثل: **sich beeilen**, **sich freuen**, **sich bedanken**.\n4️⃣ أفعال أخرى يمكن أن تُستخدم مع أو بدون ضمير انعكاسي:\nEr wäscht das Auto. (يغسل السيارة.)\nEr wäscht **sich**. (يغسل نفسه.)",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich wasche mich jeden Morgen.",
+      "ar": "أنا أغسل نفسي كل صباح."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich beeile mich, weil ich zu spät bin!",
+      "ar": "أُسرع لأنني متأخر!"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Vergiss nicht, dich zu rasieren!",
+      "ar": "لا تنسَ أن تحلق ذقنك!"
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich interessiere mich für deutsche Musik.",
+      "ar": "أنا مهتم بالموسيقى الألمانية."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Reflexive Verben brauchen ein Reflexivpronomen.",
+      "ar": "الأفعال الانعكاسية تحتاج إلى **ضمير انعكاسي** (mich, dich, sich...)."
+    },
+    {
+      "de": "Das Reflexivpronomen folgt direkt nach dem Verb.",
+      "ar": "الضمير الانعكاسي يأتي دائمًا **بعد الفعل مباشرةً**."
+    },
+    {
+      "de": "Mit Modalverben bleibt das Reflexivpronomen beim Hauptverb.",
+      "ar": "عند وجود فعلين، يبقى الضمير قريبًا من **الفعل الرئيسي**."
+    },
+    {
+      "de": "Einige Verben brauchen eine Präposition.",
+      "ar": "بعض الأفعال تأتي مع **حرف جر ثابت** مثل: sich interessieren für."
+    },
+    {
+      "de": "Manchmal steht das Reflexivpronomen im Dativ.",
+      "ar": "أحيانًا يأتي الضمير الانعكاسي في حالة **Dativ** إذا وُجد مفعول به مباشر."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "أكمل الجملة:\nIch wasche ____ jeden Morgen.",
+      "options": ["mir", "mich", "dich", "sich"],
+      "answer": 1,
+      "hint": "مع ich نستخدم mich (Akkusativ)."
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Du freust sich über das Geschenk.",
+        "Du freust dich über das Geschenk.",
+        "Du freut dich über das Geschenk.",
+        "Du freust dich das Geschenk."
+      ],
+      "answer": 1,
+      "hint": "مع du → dich."
+    },
+    {
+      "question": "اكمل:\nWir beeilen ____ , weil wir spät sind.",
+      "options": ["uns", "euch", "sich", "mich"],
+      "answer": 0,
+      "hint": "مع wir → uns."
+    },
+    {
+      "question": "Er interessiert ____ für Musik.",
+      "options": ["mich", "dich", "sich", "uns"],
+      "answer": 2,
+      "hint": "مع er/sie/es → sich."
+    },
+    {
+      "question": "اختر الترجمة الصحيحة:\nIch möchte mich waschen.",
+      "options": [
+        "أريد أن أغسل نفسي.",
+        "أنا أغسل السيارة.",
+        "أريد أن أتعلم الألمانية.",
+        "أريد أن أنام."
+      ],
+      "answer": 0,
+      "hint": "möchte mich waschen → أريد أن أغسل نفسي."
+    }
+  ]
+}
+,
+{
+  "id": "gram-passiv-praesens-b1",
+  "title": {
+    "de": "Passiv im Präsens",
+    "ar": "المبني للمجهول في الزمن الحاضر"
+  },
+  "interactiveScene": "تخيل أن جارك الألماني يقف أمام بيته ويقول:\n„Ich baue das Haus.“ (أنا أبني البيت.) 🧱\nبعد أسبوع تمرّ من نفس المكان، فتقول:\n„Das Haus wird gebaut.“ (البيت يُبنى.) 🏗️\n\nفي الجملة الأولى الفاعل (ich) هو من يقوم بالفعل، أما في الثانية فالفاعل غير مهم – المهم هو الفعل نفسه.\nوهذا هو جوهر **المبني للمجهول**: التركيز على الحدث وليس على من قام به.",
+  "explanation": [
+    {
+      "de": "Was ist das Passiv?",
+      "ar": "في المبني للمجهول **Passiv**، لا نهتم بمن يقوم بالفعل، بل بالفعل نفسه.\nمثلاً: (Das Haus wird gebaut) → المهم أن البيت يُبنى، وليس من يبنيه."
+    },
+    {
+      "de": "Bildung des Passivs im Präsens",
+      "ar": "يتكون المبني للمجهول في الحاضر من:\n**werden (مصروف)** + **Partizip II (التصريف الثالث للفعل)**.\n\n📘 **الشكل العام:**\nSubjekt + werden + Partizip II"
+    },
+    {
+      "de": "Beispiele",
+      "ar": "Der Lehrer erklärt die Regel → Die Regel **wird erklärt**.\nIch repariere das Auto → Das Auto **wird repariert**.\nWir bauen ein Haus → Ein Haus **wird gebaut**.\nDie Kinder essen den Kuchen → Der Kuchen **wird gegessen**.\nMan öffnet die Tür → Die Tür **wird geöffnet**."
+    },
+    {
+      "de": "Verwendung von 'von'",
+      "ar": "عادة لا نذكر الفاعل في الجملة المبنية للمجهول، لكن إذا أردنا ذكره، نستخدم:\n**von + Dativ** → Das Auto wird **von Ali** repariert."
+    },
+    {
+      "de": "Wichtige Hinweise",
+      "ar": "1️⃣ **werden** هنا لا يعني (يصبح)، بل هو فعل مساعد لبناء المبني للمجهول.\n2️⃣ **Partizip II** هو المفتاح (مثل gemacht، gesehen، geschrieben...).\n3️⃣ الجملة التي تحتوي على **wird + Partizip II** هي مبنية للمجهول في الحاضر."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Der Lehrer erklärt die Regel.",
+      "ar": "المعلم يشرح القاعدة.",
+      "note": "Aktiv – الفاعل مهم."
+    },
+    {
+      "de": "Die Regel wird erklärt.",
+      "ar": "القاعدة تُشرح.",
+      "note": "Passiv – التركيز على الحدث، nicht auf den Täter."
+    },
+    {
+      "de": "Ich repariere das Auto.",
+      "ar": "أنا أصلح السيارة.",
+      "note": "Aktiv."
+    },
+    {
+      "de": "Das Auto wird repariert.",
+      "ar": "السيارة تُصلح.",
+      "note": "Passiv."
+    },
+    {
+      "de": "Die Kinder essen den Kuchen.",
+      "ar": "الأطفال يأكلون الكعكة.",
+      "note": "Aktiv."
+    },
+    {
+      "de": "Der Kuchen wird gegessen.",
+      "ar": "الكعكة تُؤكل.",
+      "note": "Passiv."
+    }
+  ],
+  "tip": "💡 **نصائح Noa الذكية:**\n1️⃣ الفاعل يُحذف عادةً، لكن يمكن ذكره باستخدام **von + Dativ**.\n➡️ Das Auto wird **von Ali** repariert.\n2️⃣ **werden** في المبني للمجهول لا يعني (يصبح)، بل فقط يُستخدم كأداة نحوية.\n3️⃣ **Partizip II** ضروري لكل فعل، وهو نفسه المستخدم في Perfekt.\n4️⃣ إذا رأيت **wird + Partizip II** → فاعرف أن الجملة في **Passiv Präsens**.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Das Haus wird gebaut.",
+      "ar": "يُبنى البيت."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Von wem wird es gebaut?",
+      "ar": "مَن الذي يبنيه؟"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Von meinem Vater!",
+      "ar": "من قبل والدي!"
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ah! Es wird sehr schön gebaut.",
+      "ar": "آه! يُبنى بشكل جميل."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Das Passiv betont die Handlung, nicht den Täter.",
+      "ar": "المبني للمجهول يركّز على **الفعل نفسه**، وليس من قام به."
+    },
+    {
+      "de": "Bildung: werden + Partizip II.",
+      "ar": "يتكوّن من: **werden + التصريف الثالث للفعل.**"
+    },
+    {
+      "de": "Das Verb werden wird konjugiert.",
+      "ar": "فعل werden يُصرَّف حسب الفاعل الجديد (الشيء الذي يُجرى عليه الفعل)."
+    },
+    {
+      "de": "Beispiel: Das Auto wird repariert.",
+      "ar": "السيارة تُصلح – **Passiv Präsens.**"
+    },
+    {
+      "de": "Man kann den Täter mit 'von + Dativ' nennen.",
+      "ar": "يمكن ذكر الفاعل باستخدام **von + Dativ**: Das Auto wird **von Ali** repariert."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "حوّل الجملة إلى المبني للمجهول:\nDer Arzt untersucht den Patienten.",
+      "options": [
+        "Der Patient wird untersucht.",
+        "Der Patient untersucht wird.",
+        "Der Arzt wird untersucht.",
+        "Der Arzt wird von den Patienten untersucht."
+      ],
+      "answer": 0,
+      "hint": "المفعول به يصبح فاعلاً جديدًا: Der Patient wird untersucht."
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Das Auto repariert wird.",
+        "Das Auto wird repariert.",
+        "Das Auto wird reparieren.",
+        "Das Auto wird reparieren ist."
+      ],
+      "answer": 1,
+      "hint": "werden + Partizip II = wird repariert."
+    },
+    {
+      "question": "ما معنى الجملة التالية؟\nDie Regel wird erklärt.",
+      "options": [
+        "القاعدة تُشرح.",
+        "المعلم يشرح القاعدة.",
+        "القاعدة ستُشرح لاحقًا.",
+        "القاعدة تم شرحها بالفعل."
+      ],
+      "answer": 0,
+      "hint": "Passiv Präsens = يتم شرح القاعدة الآن."
+    },
+    {
+      "question": "أي من الجمل التالية في المبني للمجهول؟",
+      "options": [
+        "Ich baue das Haus.",
+        "Wir haben das Haus gebaut.",
+        "Das Haus wird gebaut.",
+        "Das Haus gebaut ist."
+      ],
+      "answer": 2,
+      "hint": "وجود wird + Partizip II = Passiv Präsens."
+    },
+    {
+      "question": "اكمل:\nDie Tür ___ geöffnet.",
+      "options": ["wird", "werde", "werden", "bist"],
+      "answer": 0,
+      "hint": "الفعل werden مع المفرد → wird."
+    }
+  ]
+}
+,
+{
+  "id": "gram-verben-mit-praepositionen-b1",
+  "title": {
+    "de": "Verben mit Präpositionen",
+    "ar": "الأفعال مع حروف الجر – Verben mit Präpositionen"
+  },
+  "interactiveScene": "في أحد أيام الدراسة 🎓 تسأل صديقك الألماني:\n„Worauf wartest du?“ (على ماذا تنتظر؟)\nفيردّ مبتسمًا: „Ich warte auf den Bus.“ 🚌\nتضحك وتقول: „Ich denke an den Sommerurlaub!“ 🌴\nهكذا تكتشف أن بعض الأفعال الألمانية لا تعمل وحدها… بل تحتاج **حرف جر خاص** لتكتمل معناها.\nوهذا ما سنتعلمه اليوم!",
+  "explanation": [
+    {
+      "de": "Was sind Verben mit Präpositionen?",
+      "ar": "هي أفعال تحتاج دائمًا إلى **حرف جر ثابت** بعدها لتأخذ معناها الصحيح.\nولا يمكن حذف هذا الحرف لأن معناه جزء من الفعل نفسه.\nمثلًا: **warten auf** (ينتظر)، **denken an** (يفكر بـ)."
+    },
+    {
+      "de": "Warum sind sie wichtig?",
+      "ar": "في اللغة الألمانية، معنى الفعل يتغير حسب حرف الجر الذي يرافقه:\n**sich freuen auf** → يفرح لشيء قادم.\n**sich freuen über** → يفرح بشيء حدث.\nلذلك يجب حفظ الفعل مع حرف الجر ككلمة واحدة."
+    },
+    {
+      "de": "Akkusativ oder Dativ?",
+      "ar": "بعض الأفعال تأتي مع **Akkusativ** وبعضها مع **Dativ**.\n\n📘 **أمثلة مع Akkusativ:**\nwarten **auf** + Akk. → Ich warte **auf den Bus**.\ndenken **an** + Akk. → Ich denke **an dich**.\n\n📘 **أمثلة مع Dativ:**\nsprechen **mit** + Dat. → Ich spreche **mit meinem Freund**.\nträumen **von** + Dat. → Ich träume **von Urlaub**."
+    },
+    {
+      "de": "Fragen mit Präpositionen",
+      "ar": "عند السؤال عن شيء بعد حرف الجر، نستخدم **wo(r)-** أو **präposition + wen/wem**:\nIch warte auf den Bus. → **Worauf** wartest du?\nIch spreche mit dem Lehrer. → **Mit wem** sprichst du?"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich warte auf den Bus.",
+      "ar": "أنا أنتظر الحافلة.",
+      "note": "warten auf + Akkusativ"
+    },
+    {
+      "de": "Ich denke an dich.",
+      "ar": "أفكر بك.",
+      "note": "denken an + Akkusativ"
+    },
+    {
+      "de": "Ich spreche mit meinem Freund.",
+      "ar": "أتحدث مع صديقي.",
+      "note": "sprechen mit + Dativ"
+    },
+    {
+      "de": "Ich träume von Urlaub.",
+      "ar": "أحلم بالإجازة.",
+      "note": "träumen von + Dativ"
+    },
+    {
+      "de": "Ich interessiere mich für Musik.",
+      "ar": "أنا مهتم بالموسيقى.",
+      "note": "sich interessieren für + Akkusativ"
+    },
+    {
+      "de": "Ich freue mich auf das Wochenende.",
+      "ar": "أفرح لعطلة نهاية الأسبوع (شيء قادم).",
+      "note": "sich freuen auf + Akkusativ"
+    }
+  ],
+  "tip": "💡 **نصائح Noa الذكية:**\n1️⃣ احفظ الفعل مع حرف الجر ككلمة واحدة: **denken an**, **warten auf**, **sprechen mit**.\n2️⃣ استخدم دائمًا الحالة الصحيحة:\nauf / an / für / über → غالبًا مع **Akkusativ**.\nmit / von / bei → غالبًا مع **Dativ**.\n3️⃣ انتبه للاختلافات:\n**sich freuen auf** (شيء في المستقبل)، **sich freuen über** (شيء حدث بالفعل).\n4️⃣ لا تخلط بين حروف الجر! الخطأ في الحرف يغيّر المعنى كليًا.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Worauf wartest du?",
+      "ar": "على ماذا تنتظر؟"
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich warte auf den Bus.",
+      "ar": "أنتظر الحافلة."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Ich denke an den Sommerurlaub.",
+      "ar": "أفكر في عطلة الصيف."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich träume von Strand und Sonne.",
+      "ar": "أحلم بالشاطئ والشمس."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Einige Verben brauchen eine feste Präposition.",
+      "ar": "بعض الأفعال تحتاج إلى **حرف جر ثابت** بعدها."
+    },
+    {
+      "de": "Der Kasus hängt von der Präposition ab.",
+      "ar": "الحالة النحوية (Akkusativ أو Dativ) تعتمد على **حرف الجر**."
+    },
+    {
+      "de": "Fragen: wo(r)- / Präposition + wen/wem.",
+      "ar": "عند السؤال نستخدم **wo(r)-** للأشياء و **mit wem / für wen** للأشخاص."
+    },
+    {
+      "de": "Beispiel: Ich warte auf den Bus → Worauf wartest du?",
+      "ar": "مثال: أنا أنتظر الحافلة → على ماذا تنتظر؟"
+    },
+    {
+      "de": "Verben wie: warten auf, denken an, träumen von, sprechen mit, sich freuen auf.",
+      "ar": "من الأفعال الشائعة: warten auf – denken an – träumen von – sprechen mit – sich freuen auf."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "أكمل الجملة:\nIch warte ___ den Bus.",
+      "options": ["an", "auf", "mit", "von"],
+      "answer": 1,
+      "hint": "الفعل warten يأتي مع auf + Akkusativ."
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Ich denke auf dich.",
+        "Ich denke an dich.",
+        "Ich denke mit dich.",
+        "Ich denke von dich."
+      ],
+      "answer": 1,
+      "hint": "denken kommt mit an + Akkusativ."
+    },
+    {
+      "question": "اكمل:\nIch spreche ___ meinem Lehrer.",
+      "options": ["auf", "mit", "über", "an"],
+      "answer": 1,
+      "hint": "sprechen mit + Dativ."
+    },
+    {
+      "question": "أي جملة صحيحة؟",
+      "options": [
+        "Ich freue mich über das Wochenende.",
+        "Ich freue mich auf das Wochenende.",
+        "Ich freue mich bei das Wochenende.",
+        "Ich freue mich mit das Wochenende."
+      ],
+      "answer": 1,
+      "hint": "auf = شيء قادم → عطلة نهاية الأسبوع القادمة."
+    },
+    {
+      "question": "اختر الترجمة الصحيحة:\nIch träume von Urlaub.",
+      "options": [
+        "أحلم بإجازة.",
+        "أتحدث عن الإجازة.",
+        "أفكر في الإجازة.",
+        "أنتظر الإجازة."
+      ],
+      "answer": 0,
+      "hint": "träumen von = يحلم بـ."
+    }
+  ]
+}
+,
+{
+  "id": "gram-konjunktiv-ii-b1",
+  "title": {
+    "de": "Konjunktiv II",
+    "ar": "الأسلوب الشرطي – Konjunktiv II"
+  },
+  "interactiveScene": "Noa sitzt in einem Café in Hamburg ☕ und sagt:\n„Wenn ich mehr Geld hätte, würde ich um die Welt reisen.“ 🌍\n(لو كان عندي مال أكثر، كنت سأسافر حول العالم.)\n\nفي هذا المثال، نستخدم **Konjunktiv II** للتعبير عن **تمنٍ غير واقعي** أو **احتمال خيالي** أو **حديث مهذب**.",
+  "explanation": [
+    {
+      "de": "Wann benutzt man den Konjunktiv II?",
+      "ar": "يُستخدم الأسلوب الشرطي عندما نتحدث عن:\n1️⃣ **أمنية غير واقعية**: Ich wäre reich. (كنت سأكون غنيًا.)\n2️⃣ **موقف افتراضي**: Wenn ich Zeit hätte, würde ich kommen.\n3️⃣ **حديث مهذب**: Ich möchte einen Kaffee, bitte."
+    },
+    {
+      "de": "Die Struktur des Konjunktiv II",
+      "ar": "هناك طريقتان لبناء الجمل الشرطية:\n🧩 **مع wenn:** Wenn + ... + Konjunktiv II, ... würde + Infinitiv.\nWenn ich Geld hätte, würde ich reisen.\n\n🧩 **بدون wenn:** Ich würde reisen, wenn ich Geld hätte."
+    },
+    {
+      "de": "Besondere Verben im Konjunktiv II",
+      "ar": "**sein → wäre**\n**haben → hätte**\n**werden → würde**\n**können → könnte**\n**müssen → müsste**\n**dürfen → dürfte**\n**sollen → sollte**\n**wollen → wollte**\n**mögen → möchte** (للتهذيب أو الرغبة)."
+    },
+    {
+      "de": "Verwendung von 'würde'",
+      "ar": "نستخدم **würde + Infinitiv** مع معظم الأفعال:\nIch würde mehr lernen. (كنت سأدرس أكثر.)\nAber مع **sein** و **haben** نستخدم **wäre / hätte** بدلاً من würde."
+    },
+    {
+      "de": "Typische Situationen",
+      "ar": "💭 **تمنٍ:** Ich wäre jetzt am Meer. (يا ليتني كنت الآن على البحر.)\n🧠 **افتراض:** Wenn ich Zeit hätte, würde ich dich besuchen.\n☕ **طلب مهذب:** Ich möchte einen Kaffee, bitte."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Wenn ich Zeit hätte, würde ich dich besuchen.",
+      "ar": "لو كان لدي وقت، كنت سأزورك.",
+      "note": "تعبير عن موقف افتراضي."
+    },
+    {
+      "de": "Ich wäre glücklich, wenn du hier wärst.",
+      "ar": "كنت سأكون سعيدًا لو كنت هنا.",
+      "note": "wäre = من الفعل sein."
+    },
+    {
+      "de": "Ich könnte das Auto kaufen, wenn ich Geld hätte.",
+      "ar": "كنت أستطيع شراء السيارة لو كان عندي مال.",
+      "note": "könnte = من können."
+    },
+    {
+      "de": "Ich würde mehr Sport machen, wenn ich nicht so faul wäre.",
+      "ar": "كنت سأمارس الرياضة أكثر لو لم أكن كسولًا.",
+      "note": "würde + Infinitiv = صيغة عامة للشرط."
+    },
+    {
+      "de": "Ich möchte ein Stück Kuchen.",
+      "ar": "أود قطعة كعك.",
+      "note": "möchte = صيغة مهذبة من mögen."
+    }
+  ],
+  "tip": "💡 **نصائح Noa الذكية:**\n1️⃣ استخدم **würde + Infinitiv** عندما لا تعرف الشكل الخاص للفعل.\n2️⃣ مع **sein** و **haben** استعمل **wäre** و **hätte**.\n3️⃣ الأفعال المساعدة (könnte, müsste, dürfte...) تأتي مباشرة بدون würde.\n4️⃣ **möchte** دائمًا للطلب المهذب.\n5️⃣ في الجملة الشرطية، **Wenn** تجعل الفعل في نهاية الجملة.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Wenn ich reich wäre, würde ich ein Haus am Meer kaufen.",
+      "ar": "لو كنت غنيًا، لكنت اشتريت بيتًا على البحر."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich würde auch dort wohnen!",
+      "ar": "وأنا كنت سأعيش هناك أيضًا!"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Wenn wir mehr Zeit hätten, würden wir mehr reisen.",
+      "ar": "لو كان لدينا وقت أكثر، لكنا سافرنا أكثر."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich wäre glücklich, wenn das wahr wäre.",
+      "ar": "كنت سأكون سعيدًا لو كان هذا حقيقيًا."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Der Konjunktiv II drückt Wunsch, Möglichkeit oder Höflichkeit aus.",
+      "ar": "يُستخدم **Konjunktiv II** للتمني، الاحتمال، أو الحديث المهذب."
+    },
+    {
+      "de": "Typisch: würde + Infinitiv oder spezielle Formen wie wäre / hätte.",
+      "ar": "الشكل الشائع: **würde + مصدر الفعل** أو **wäre / hätte**."
+    },
+    {
+      "de": "Wenn steht am Satzanfang, das Verb geht ans Ende.",
+      "ar": "عند وجود **wenn** في بداية الجملة، يأتي الفعل في النهاية."
+    },
+    {
+      "de": "Beispiel: Wenn ich Zeit hätte, würde ich kommen.",
+      "ar": "مثال: لو كان عندي وقت، كنت سأأتي."
+    },
+    {
+      "de": "Mit Konjunktiv II klingt man höflich und natürlich.",
+      "ar": "باستخدام Konjunktiv II تبدو لغتك **مهذبة وطبيعية**."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "أكمل الجملة:\nWenn ich Zeit ____, würde ich dich besuchen.",
+      "options": ["haben", "hätte", "würde haben", "hast"],
+      "answer": 1,
+      "hint": "من الفعل haben → hätte."
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Ich würde gern ins Kino gehen.",
+        "Ich werde gern ins Kino gehen.",
+        "Ich würde gern ins Kino gegangen.",
+        "Ich war gern ins Kino gehen."
+      ],
+      "answer": 0,
+      "hint": "würde + Infinitiv = الشكل الصحيح."
+    },
+    {
+      "question": "اختر الترجمة الصحيحة:\nIch wäre glücklich, wenn du hier wärst.",
+      "options": [
+        "سأكون سعيدًا إذا كنت هنا.",
+        "كنت سأكون سعيدًا لو كنت هنا.",
+        "أنا سعيد لأنك هنا.",
+        "سأكون سعيدًا عندما تأتي."
+      ],
+      "answer": 1,
+      "hint": "wäre/wärst = لو كنت → تمني غير حقيقي."
+    },
+    {
+      "question": "اكمل:\nIch ___ mehr lernen, wenn ich Zeit hätte.",
+      "options": ["werde", "würde", "wäre", "hätte"],
+      "answer": 1,
+      "hint": "würde + Infinitiv = الشكل العام للشرط."
+    },
+    {
+      "question": "اختر الجملة التي تعبّر عن طلب مهذب:",
+      "options": [
+        "Ich will einen Kaffee.",
+        "Ich möchte einen Kaffee.",
+        "Ich habe einen Kaffee.",
+        "Ich hätte einen Kaffee."
+      ],
+      "answer": 1,
+      "hint": "möchte = صيغة مهذبة من mögen."
+    }
+  ]
+}
+,
+{
+  "id": "gram-konnektoren-b1",
+  "title": {
+    "de": "Konnektoren B1",
+    "ar": "أدوات الربط المتقدمة – Konnektoren B1"
+  },
+  "interactiveScene": "في يوم من الأيام، جلس Noa يكتب رسالة Bewerbung 💼 فقال:\n„Ich habe viel gelernt, **weil** ich fleißig war.“ ✍️\nثم فكر: „Ich bin müde, **trotzdem** lerne ich weiter.“ ☕\nوفي اليوم التالي قال: „**Nachdem** ich gegessen habe, gehe ich spazieren.“ 🚶‍♂️\n\nهكذا اكتشف Noa أن اللغة الألمانية ليست كلمات فقط، بل **جسور منطقية** تربط الجمل ببعضها – تسمى **Konnektoren**.",
+  "explanation": [
+    {
+      "de": "Was sind Konnektoren?",
+      "ar": "كلمات تربط جملتين لتوضيح العلاقة بينهما: سبب، نتيجة، زمن، شرط...\nمثل: **weil**, **obwohl**, **trotzdem**, **damit**, **deshalb**, **nachdem**."
+    },
+    {
+      "de": "1️⃣ Temporale Konnektoren – (زمنية)",
+      "ar": "**als** → عندما (مرة واحدة في الماضي): Als ich klein war, spielte ich viel.\n**wenn** → عندما / كلما (حدث متكرر): Wenn ich Zeit habe, lese ich.\n**bevor** → قبل أن: Bevor ich schlafe, lese ich ein Buch.\n**nachdem** → بعد أن: Nachdem ich gegessen habe, gehe ich spazieren.\n**während** → أثناء: Während ich lerne, höre ich Musik.\n**seit / seitdem** → منذ أن: Seit ich in Deutschland bin, spreche ich besser Deutsch."
+    },
+    {
+      "de": "2️⃣ Kausale Konnektoren – (سببية)",
+      "ar": "**weil** → لأن: Ich bleibe zu Hause, weil es regnet.\n**da** → لأن (أكثر رسمية): Da es regnet, bleibe ich zu Hause.\n**denn** → لأن (للربط بين جملتين رئيسيتين): Ich bleibe zu Hause, denn es regnet."
+    },
+    {
+      "de": "3️⃣ Konzessive & Konsekutive Konnektoren – (تنازلية ونتيجية)",
+      "ar": "**obwohl** → رغم أن: Obwohl ich müde bin, lerne ich weiter.\n**trotzdem** → مع ذلك: Ich bin müde, trotzdem lerne ich.\n**deshalb / deswegen / darum** → لذلك: Ich habe gelernt, deshalb habe ich die Prüfung bestanden."
+    },
+    {
+      "de": "4️⃣ Finale & Konditionale Konnektoren – (الغاية والشرط)",
+      "ar": "**damit** → لكي: Ich lerne viel, damit ich die Prüfung bestehe.\n**um ... zu** → لكي (نفس المعنى ولكن بدون تغيير الفاعل): Ich lerne, um die Prüfung zu bestehen.\n**falls / wenn** → إذا / في حال: Falls es regnet, bleiben wir zu Hause."
+    },
+    {
+      "de": "Stellung des Verbs",
+      "ar": "⚙️ في الجمل الثانوية (Subnebensatz) مثل: weil, obwohl, nachdem, bevor, damit → الفعل في **النهاية**.\n⚙️ في الجمل الرئيسة (Hauptsatz) مثل: deshalb, trotzdem → الفعل في **المركز الثاني**."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich lerne viel, weil ich die Prüfung bestehen will.",
+      "ar": "أدرس كثيرًا لأنني أريد أن أنجح في الامتحان.",
+      "note": "weil → الفعل في نهاية الجملة."
+    },
+    {
+      "de": "Ich bin müde, trotzdem lerne ich weiter.",
+      "ar": "أنا متعب، ومع ذلك أتابع الدراسة.",
+      "note": "trotzdem → الفعل في المركز الثاني."
+    },
+    {
+      "de": "Nachdem ich gegessen habe, gehe ich spazieren.",
+      "ar": "بعد أن أتناول الطعام، أذهب في نزهة.",
+      "note": "nachdem → الفعل في نهاية الجملة."
+    },
+    {
+      "de": "Ich lerne viel, damit ich den Test bestehe.",
+      "ar": "أدرس كثيرًا لكي أنجح في الاختبار.",
+      "note": "damit → الغرض (الغاية)."
+    },
+    {
+      "de": "Ich lese, bevor ich schlafe.",
+      "ar": "أقرأ قبل أن أنام.",
+      "note": "bevor → قبل أن."
+    },
+    {
+      "de": "Wenn ich Zeit habe, besuche ich meine Freunde.",
+      "ar": "عندما يكون لدي وقت، أزور أصدقائي.",
+      "note": "wenn → شرط أو تكرار."
+    }
+  ],
+  "tip": "💡 **نصائح Noa الذكية:**\n1️⃣ أدوات الربط نوعان:\n   - تربط **جملة رئيسية + ثانوية** (weil, dass, obwohl, nachdem...).\n   - تربط **جملتين رئيسيتين** (deshalb, trotzdem, denn...).\n2️⃣ بعد أدوات مثل **weil, dass, obwohl** → الفعل في النهاية.\n3️⃣ بعد **deshalb, trotzdem, dann** → يأتي الفعل ثانيًا.\n4️⃣ استخدم **um ... zu** عندما يكون الفاعل نفسه في الجملتين.\n5️⃣ **damit** عندما يكون الفاعلان مختلفين.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich lerne, obwohl ich müde bin.",
+      "ar": "أدرس رغم أنني متعب."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich trinke Kaffee, damit ich wach bleibe.",
+      "ar": "أشرب القهوة لكي أبقى مستيقظًا."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Nachdem ich gelernt habe, sehe ich fern.",
+      "ar": "بعد أن أدرس، أشاهد التلفاز."
+    },
+    {
+      "speaker": "Freund",
+      "de": "Ich mache Sport, bevor ich arbeite.",
+      "ar": "أمارس الرياضة قبل أن أعمل."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Temporale Konnektoren: bevor, nachdem, während, als, wenn, seit.",
+      "ar": "أدوات زمنية: قبل أن – بعد أن – أثناء – عندما – منذ."
+    },
+    {
+      "de": "Kausale Konnektoren: weil, da, denn.",
+      "ar": "أدوات سببية: لأن – بسبب أن."
+    },
+    {
+      "de": "Konzessive & Konsekutive: obwohl, trotzdem, deshalb.",
+      "ar": "أدوات تنازلية ونتيجية: رغم أن – ومع ذلك – لذلك."
+    },
+    {
+      "de": "Finale & Konditionale: damit, um ... zu, falls, wenn.",
+      "ar": "أدوات الغاية والشرط: لكي – في حال – إذا."
+    },
+    {
+      "de": "Position des Verbs: Ende bei Nebensätzen, zweite Position bei Hauptsätzen.",
+      "ar": "موقع الفعل: في النهاية في الجملة الثانوية، ثانيًا في الجملة الرئيسية."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "أكمل الجملة:\nIch bleibe zu Hause, ___ es regnet.",
+      "options": ["weil", "trotzdem", "damit", "bevor"],
+      "answer": 0,
+      "hint": "weil → لأن."
+    },
+    {
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Ich bin müde, obwohl ich lerne weiter.",
+        "Ich bin müde, trotzdem lerne ich weiter.",
+        "Ich bin müde, weil ich lerne weiter.",
+        "Ich bin müde, dass ich lerne weiter."
+      ],
+      "answer": 1,
+      "hint": "trotzdem → يربط جملتين رئيسيتين، الفعل في المركز الثاني."
+    },
+    {
+      "question": "اكمل:\n___ ich gegessen habe, gehe ich spazieren.",
+      "options": ["Bevor", "Nachdem", "Weil", "Obwohl"],
+      "answer": 1,
+      "hint": "nachdem = بعد أن."
+    },
+    {
+      "question": "اختر الترجمة الصحيحة:\nIch lerne, damit ich die Prüfung bestehe.",
+      "options": [
+        "أدرس لأن الامتحان صعب.",
+        "أدرس لكي أنجح في الامتحان.",
+        "أدرس بعد أن أنجح في الامتحان.",
+        "أدرس رغم أن الامتحان صعب."
+      ],
+      "answer": 1,
+      "hint": "damit = لكي (غاية)."
+    },
+    {
+      "question": "اختر الجملة التي تحتوي على Konjunktion mit Verb am Ende:",
+      "options": [
+        "Ich bin müde, trotzdem lerne ich.",
+        "Ich lerne, weil ich fleißig bin.",
+        "Ich lerne, deshalb bin ich fleißig.",
+        "Ich bin müde, dann schlafe ich."
+      ],
+      "answer": 1,
+      "hint": "weil → فعل في النهاية."
+    }
+  ]
+}
+,
+
+{
+  "id": "b1-schreiben-intro",
+  "title": {
+    "de": "B1 Schreiben – Einführung",
+    "ar": "الكتابة في امتحان B1 – مقدمة شاملة"
+  },
+  "interactiveScene": "📍 في قاعة الامتحان يجلس نوا متوترًا أمام الورقة، بينما المراقبة تبتسم وتقول: 'Du kannst anfangen.'\n\nNoa يفتح الورقة ويرى السؤال:\n> Sie haben eine E-Mail von Ihrer Freundin bekommen. Antworten Sie darauf.\n\nيرفع حاجبيه ويقول في نفسه: 'أوه لا! أي نوع من الرسائل هذه؟' 😅\n\nصوت داخلي (الضمير المعلّم 😎):\n'اهدأ يا نوا، كل رسالة في امتحان B1 هي من 8 أنواع فقط، تعلّمها وستنجح بسهولة!'\n\n✨ وهكذا يبدأ رحلته في عالم Schreiben.",
+  "explanation": [
+    {
+      "de": "Was musst du im B1-Schreiben machen?",
+      "ar": "في امتحان B1، يجب أن تكتب رسالة قصيرة (E-Mail oder Brief) تحتوي على معلومات محددة. أحيانًا تكون رسمية، وأحيانًا غير رسمية."
+    },
+    {
+      "de": "Welche Arten von Briefen gibt es?",
+      "ar": "يوجد ثمانية أنواع رئيسية للرسائل في امتحان B1:\n1️⃣ Einladung (دعوة)\n2️⃣ Absage / Terminabsage (اعتذار عن موعد)\n3️⃣ Beschwerde (شكوى)\n4️⃣ Anfrage / Information (استفسار)\n5️⃣ Produktrückgabe / Reklamation (إرجاع منتج)\n6️⃣ Bewerbung (طلب عمل)\n7️⃣ Dank / Entschuldigung (شكر أو اعتذار)\n8️⃣ Private Nachricht (رسالة شخصية غير رسمية)"
+    },
+    {
+      "de": "Wie ist der Aufbau einer guten E-Mail?",
+      "ar": "يجب أن تحتوي أي رسالة على 3 أجزاء:\n• المقدمة: لماذا تكتب؟\n• المحتوى: التفاصيل أو الطلب.\n• الخاتمة: التحية أو الشكر."
+    },
+    {
+      "de": "Wie lang soll der Text sein?",
+      "ar": "في امتحان Goethe أو telc، يجب أن تكتب من 100 إلى 120 كلمة تقريبًا. المهم أن تجيب على كل النقاط المطلوبة في السؤال."
+    }
+  ],
+  "phrasesTable": [
+    { "de": "Sehr geehrte Damen und Herren,", "ar": "السيدات والسادة المحترمون،", "note": "رسمية" },
+    { "de": "Hallo Ben,", "ar": "مرحبًا بن،", "note": "غير رسمية" },
+    { "de": "Ich schreibe Ihnen, weil...", "ar": "أكتب لكم لأن...", "note": "رسمية" },
+    { "de": "Ich möchte dich zu meinem Geburtstag einladen.", "ar": "أود دعوتك إلى عيد ميلادي.", "note": "للأصدقاء" },
+    { "de": "Mit freundlichen Grüßen", "ar": "مع أطيب التحيات", "note": "رسمية" },
+    { "de": "Viele Grüße", "ar": "تحياتي الكثيرة", "note": "غير رسمية" }
+  ],
+  "tip": "💡 **نصيحة ذهبية:** في كل رسالة B1 استخدم دائمًا التحية الصحيحة في البداية، واختم بتحية أيضًا. لا تبدأ الرسالة مباشرة بالمحتوى!\n\n✅ مثال جيد:\nSehr geehrte Damen und Herren, ich schreibe Ihnen, weil...\n\n❌ خطأ:\nIch habe eine Frage über den Kurs.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich weiß nie, wie ich anfangen soll.",
+      "ar": "أنا لا أعرف أبدًا كيف أبدأ الرسالة."
+    },
+    {
+      "speaker": "Lehrerin",
+      "de": "Beginne immer mit einer Begrüßung! Zum Beispiel: 'Sehr geehrte Damen und Herren,'",
+      "ar": "ابدأ دائمًا بالتحية! مثل: السيدات والسادة المحترمون،"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Und wie soll ich enden?",
+      "ar": "وكيف أنهيها؟"
+    },
+    {
+      "speaker": "Lehrerin",
+      "de": "Ganz einfach! Schreib: 'Mit freundlichen Grüßen' oder 'Viele Grüße'.",
+      "ar": "بكل بساطة! اكتب: مع أطيب التحيات أو تحياتي الكثيرة."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Es gibt 8 Schreibtypen im B1-Examen.",
+      "ar": "يوجد 8 أنواع من الرسائل في امتحان B1."
+    },
+    {
+      "de": "Schreibe immer: Begrüßung – Hauptteil – Schluss.",
+      "ar": "اكتب دائمًا: التحية – المحتوى – الخاتمة."
+    },
+    {
+      "de": "100–120 Wörter sind genug.",
+      "ar": "100–120 كلمة كافية تمامًا."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Wie viele Briefarten gibt es im B1-Schreiben?",
+      "options": ["5", "8", "10"],
+      "answer": 1,
+      "hint": "تذكّر: كل درس لاحق سيكون عن واحد منها."
+    },
+    {
+      "question": "Was gehört in eine gute E-Mail?",
+      "options": [
+        "Begrüßung, Inhalt, Schluss",
+        "Nur Name und Datum",
+        "Nur Thema"
+      ],
+      "answer": 0,
+      "hint": "فكر في البداية والنهاية والمحتوى."
+    },
+    {
+      "question": "Wie lang soll der Text ungefähr sein?",
+      "options": [
+        "40–60 Wörter",
+        "80–100 Wörter",
+        "100–120 Wörter"
+      ],
+      "answer": 2,
+      "hint": "يُفضّل بين 100 و120 كلمة تقريبًا."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe eine kurze E-Mail (ca. 100 Wörter) und wähle einen Typ: Einladung, Beschwerde oder Anfrage.",
+    "instruction_ar": "اكتب رسالة قصيرة (حوالي 100 كلمة) واختر أحد الأنواع: دعوة – شكوى – استفسار.",
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nIch interessiere mich für Ihren Deutschkurs. Ich möchte wissen, wann der Kurs beginnt und wie viel er kostet.\n\nMit freundlichen Grüßen,\nAbbas Alhasan",
+    "keywords": ["Begrüßung", "Inhalt", "Schluss", "E-Mail", "Frage"],
+    "feedbackHints": [
+      "استخدم دائمًا التحية في البداية والنهاية.",
+      "تأكد أن الرسالة تحتوي على 3 فقرات صغيرة.",
+      "اكتب بوضوح وبدون جمل طويلة.",
+      "تدرّب على كل الأنواع الثمانية بالتدريج."
+    ]
+  }
+}
+,
+{
+  "id": "b1-schreiben-einladung-1",
+  "title": {
+    "de": "B1 Schreiben – Einladung",
+    "ar": "B1 الكتابة – دعوة (Einladung)"
+  },
+  "interactiveScene": "\nNoa hat schon den A2-Kurs geschafft und macht jetzt den B1-Kurs. Bald hat er seine B1-Prüfung.\n(أنهى نوا مستوى A2 وبدأ الآن مستوى B1. بعد قليل سيكون لديه امتحان B1.)\n\nIm Modelltest sieht er die Schreibaufgabe:\n(في نموذج الامتحان يرى مهمة الكتابة:)\n\n„Sie haben demnächst Geburtstag. Schreiben Sie eine E-Mail an einen Freund. Laden Sie ihn ein und schreiben Sie:\n• warum Sie feiern\n• wann und wo Sie feiern\n• was Sie zusammen machen möchten\n• wie er antworten soll.“\n(\"لديك عيد ميلاد قريب. اكتب رسالة إلكترونية إلى صديقك وادعه. اكتب:\n• لماذا تحتفل\n• متى وأين تحتفل\n• ماذا ستفعلون معًا\n• كيف يجب أن يرد\")\n\nNoa denkt: „Das kenne ich doch! Das ist einfach eine Einladung – aber mit mehr Details und ungefähr 100 Wörter.“\n(يفكر نوا: \"أنا أعرف هذا! إنها فقط دعوة، ولكن مع تفاصيل أكثر وحوالي 100 كلمة.\")"
+,
+  "explanation": [
+  {
+    "de": "Was ist eine Einladung?",
+    "ar": "Einladung تعني \"دعوة\"، وهي رسالة قصيرة تدعو فيها أحدهم إلى حدث مثل عيد ميلاد، حفلة، لقاء أو مناسبة أخرى."
+  },
+  {
+    "de": "Wie schreibt man eine Einladung im B1-Examen?",
+    "ar": "في امتحان B1 أو في الحياة اليومية، عندما تكتب دعوة، تذكّر أن تكون ودودًا وواضحًا:\n\n• Sag, **wo** und **wann** das Treffen ist. (اذكر أين ومتى اللقاء.)\n• Sag, **warum** du einlädst. (قل لماذا تدعو الشخص.)\n• Frag, **ob** die Person kommen kann. (اسأل إن كان يستطيع الحضور.)\n• Schreib am Ende eine nette Grußformel. (اختتم بتحية لطيفة.)"
+  },
+  {
+    "de": "Nützliche Redemittel (عبارات مفيدة)",
+    "ar": "• Ich lade dich zu meiner Party ein. (أدعوك إلى حفلي.)\n• Die Feier ist am Samstag um 18 Uhr bei mir. (الاحتفال يوم السبت الساعة 6 مساءً في بيتي.)\n• Ich würde mich sehr freuen, wenn du kommst. (سأكون سعيدًا جدًا إذا حضرت.)\n• Kannst du kommen? (هل يمكنك الحضور؟)\n• Bitte gib mir Bescheid. (رجاءً أخبرني.)\n• Viele Grüße / Liebe Grüße. (تحياتي / أطيب التحيات.)"
+  },
+  {
+    "de": "Beispieltext (ca. 100 Wörter)",
+    "ar": "Liebe Maria,\n\nich möchte dich ganz herzlich zu meinem Geburtstag am Samstag einladen. Die Feier beginnt um 18 Uhr bei mir zu Hause. Es gibt Musik, Kuchen und gute Laune!\n\nIch würde mich sehr freuen, wenn du kommst. Bitte gib mir Bescheid, ob du Zeit hast.\n\nLiebe Grüße\nNoa\n\nالترجمة بالعربية:\n\nعزيزتي ماريا،\n\nأود أن أدعوك بحرارة إلى عيد ميلادي يوم السبت. يبدأ الاحتفال الساعة السادسة مساءً في بيتي. سيكون هناك موسيقى وكعك ومزاج جميل!\n\nسأكون سعيدًا جدًا إذا حضرتِ. رجاءً أخبريني إن كان لديك وقت.\n\nتحياتي\nنوا"
+  }
+]
+,
+  "phrasesTable": [
+    {
+      "de": "Ich schreibe dir, weil ich dich zu meiner Feier einladen möchte.",
+      "ar": "أكتب لك لأنني أود أن أدعوك إلى حفلي."
+    },
+    {
+      "de": "Die Party findet am Samstag, den 15. Juni, bei mir zu Hause statt.",
+      "ar": "الحفلة ستكون يوم السبت 15 حزيران في منزلي."
+    },
+    {
+      "de": "Wir grillen im Garten und hören Musik.",
+      "ar": "سنقوم بالشواء في الحديقة ونستمع إلى الموسيقى."
+    },
+    {
+      "de": "Bitte sag mir bis Donnerstag Bescheid, ob du kommen kannst.",
+      "ar": "أخبرني من فضلك حتى يوم الخميس إن كنت تستطيع أن تأتي."
+    },
+    {
+      "de": "Ich freue mich sehr auf dich.",
+      "ar": "أتطلع لرؤيتك كثيرًا."
+    }
+  ],
+  "tip": "💡 **نصيحة امتحانية:**\nفي مهمة B1 للكتابة:\n• اقرأ السؤال جيدًا وحدد كل النقاط (١،٢،٣،٤) وضع سطرًا لكل نقطة.\n• لا تكتب أقل من 80 كلمة، ولا تحتاج أكثر من 120–130 كلمة.\n• استخدم جملًا بسيطة لكنها صحيحة، أفضل من جمل طويلة مليئة بالأخطاء.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich weiß nie, ob mein Text lang genug ist.",
+      "ar": "أنا لا أعرف أبدًا إن كان نصّي طويلًا بما يكفي."
+    },
+    {
+      "speaker": "Lehrer",
+      "de": "Zähle die Sätze. Mit 8–10 Sätzen bist du meistens bei 100 Wörtern.",
+      "ar": "عُدّ الجمل. مع 8–10 جمل غالبًا تكون قريبًا من 100 كلمة."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Und was ist am wichtigsten?",
+      "ar": "وما هو أهم شيء؟"
+    },
+    {
+      "speaker": "Lehrer",
+      "de": "Dass du alle Punkte der Aufgabe beantwortest und einen klaren Anfang und ein klares Ende hast.",
+      "ar": "أن تجيب على كل نقاط السؤال، وأن يكون لديك بداية واضحة ونهاية واضحة."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Bei einer Einladung musst du alle Punkte im Aufgabentext beantworten.",
+      "ar": "في رسالة الدعوة عليك أن تجيب على كل النقاط المذكورة في نصّ السؤال."
+    },
+    {
+      "de": "Schreibe ungefähr 100 Wörter mit klarer Struktur.",
+      "ar": "اكتب حوالي 100 كلمة ببنية واضحة."
+    },
+    {
+      "de": "Einladung ist freundlich, persönlich und gut organisiert.",
+      "ar": "الدعوة يجب أن تكون لطيفة، شخصية، ومنظمة بشكل جيد."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist im B1 bei einer Einladung besonders wichtig?",
+      "options": [
+        "Viele schwierige Wörter benutzen",
+        "Alle Punkte aus der Aufgabe beantworten",
+        "Sehr kurz schreiben (20 Wörter)"
+      ],
+      "answer": 1,
+      "hint": "المصحّح يهتم أولًا: هل أجبت على كل النقاط؟"
+    },
+    {
+      "question": "Wie viele Wörter sind im B1-Schreiben ungefähr gut?",
+      "options": [
+        "20–40",
+        "50–70",
+        "80–120"
+      ],
+      "answer": 2,
+      "hint": "فكّر في نص مثل رسالة قصيرة مع 8–10 جمل."
+    },
+    {
+      "question": "Welche Satz passt gut ans Ende einer Einladung?",
+      "options": [
+        "Schreib mir bitte, ob du kommen kannst.",
+        "Ich habe keine Zeit für dich.",
+        "Das Wetter ist heute schön."
+      ],
+      "answer": 0,
+      "hint": "في النهاية نطلب عادة ردًا لطيفًا."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe eine Einladung (80–120 Wörter) an einen Freund oder eine Freundin. Du machst eine Feier (Geburtstag, neue Wohnung oder Abschlusskurs). Schreibe: warum du feierst, wann und wo die Feier ist, was ihr dort macht und wie die Person antworten soll.",
+    "instruction_ar": "اكتب رسالة دعوة من 80 إلى 120 كلمة لصديق أو صديقة. لديك احتفال (عيد ميلاد، منزل جديد، نهاية كورس). اكتب لماذا تحتفل، ومتى وأين الحفلة، وماذا ستفعلون هناك، وكيف يجب أن يرد الشخص.",
+    "exampleAnswer": "Hallo Anna,\n\nich hoffe, es geht dir gut. Ich schreibe dir, weil ich dich zu meiner Einweihungsparty einladen möchte. Ich bin vor zwei Wochen in eine neue Wohnung in Duisburg gezogen und das möchte ich mit meinen Freunden feiern.\n\nDie Feier findet am Samstag, den 10. August, um 19 Uhr in meiner Wohnung statt. Wir kochen zusammen, hören Musik und schauen vielleicht einen Film. Es kommen noch ein paar Leute aus unserem Deutschkurs.\n\nBitte schreib mir bis Mittwoch, ob du kommen kannst, damit ich genug Essen planen kann.\n\nIch freue mich sehr auf dich!\n\nLiebe Grüße\nAbbas",
+    "keywords": [
+      "einladen",
+      "feiern",
+      "wann",
+      "wo",
+      "Bescheid",
+      "kommen kannst"
+    ],
+    "feedbackHints": [
+      "تحقّق: هل كتبت عن السبب، الزمان، المكان، والأنشطة؟",
+      "عدّ جملك: 8–10 جمل غالبًا تعني 80–120 كلمة.",
+      "استخدم تحية مناسبة في البداية وتحية في النهاية.",
+      "لا تهمل طلب الرد مثل: 'Bitte sag mir Bescheid, ob du kommen kannst.'"
+    ]
+  }
+}
+,
+
+{
+  "id": "b1_dank_entschuldigung",
+  "title": {
+    "de": "Dank / Entschuldigung – Danke sagen und sich entschuldigen",
+    "ar": "Dank / Entschuldigung – كتابة رسالة شكر واعتذار في الحياة اليومية والامتحان"
+  },
+
+  "interactiveScene": "🪄 Noa hat von seinem Freund Ben große Hilfe bekommen. (حصل نوا على مساعدة كبيرة من صديقه بن.)\nBen hat ihm beim Umzug geholfen und sogar das ganze Wochenende Zeit gehabt. (ساعده بن في الانتقال إلى البيت الجديد وقضى معه كامل عطلة نهاية الأسبوع.)\nNoa freut sich sehr und möchte sich per E-Mail bedanken. (نوا سعيد جدًا ويريد أن يشكره برسالة إلكترونية.)\nGleichzeitig merkt er, dass er sich auch entschuldigen muss. (وفي نفس الوقت يدرك أنه يجب أن يعتذر أيضًا.)\nEr hat Bens Nachricht drei Tage lang nicht beantwortet. (فهو لم يرد على رسالة بن لمدة ثلاثة أيام.)\nEr denkt: Ich will nett „Danke“ sagen und mich gleichzeitig höflich entschuldigen. (يفكر: أريد أن أقول شكراً بشكل لطيف وأعتذر في نفس الوقت بطريقة مهذبة.)\nHeute lernst du mit Noa, wie man auf Deutsch richtig „Danke“ sagt und sich entschuldigt – so wie im B1-Schreiben. (اليوم ستتعلم مع نوا كيف تقول شكراً وتعتذر بالألمانية بالطريقة الصحيحة كما في امتحان B1.)",
+
+  "explanation": [
+    {
+      "de": "Wann sagt man „Danke“ und wann „Entschuldigung“?",
+      "ar": "في الحياة اليومية وفي امتحان B1 تحتاج غالبًا إلى:\n\n• Danke sagen. (أن تعبّر عن الشكر.)\n• Sich entschuldigen. (أن تعبّر عن الاعتذار.)\n\nفي رسالة الشكر تكتب مثلاً لشخص:\n• الذي ساعدك. (قدم لك مساعدة.)\n• الذي دعاك. (دعاك إلى حفلة أو لقاء.)\n• الذي كتب لك رسالة لطيفة. (كتب لك رسالة لطيفة.)\n\nوفي رسالة الاعتذار تشرح سبب مشكلة مثل:\n• أنك لم تذهب إلى الدعوة. (لم تتمكن من الذهاب.)\n• أنك تأخرت عن الموعد. (وصلت متأخرًا.)\n• أنك لم ترد على الرسالة في الوقت المناسب. (لم ترد في الوقت المناسب.)"
+    },
+    {
+      "de": "Nützliche Redemittel für Dank",
+      "ar": "عبارات مهمة للتعبير عن الشكر:\n\n• Vielen Dank für Ihre Hilfe. (شكرًا جزيلًا على مساعدتكم.)\n• Ich möchte mich bei Ihnen bedanken. (أود أن أشكركم.)\n• Das war sehr nett von dir. (كان ذلك لطيفًا جدًا منك.)\n• Vielen Dank für die Einladung. (شكرًا جزيلًا على الدعوة.)\n• Ich freue mich sehr darüber. (أنا سعيد جدًا بذلك.)"
+    },
+    {
+      "de": "Nützliche Redemittel für Entschuldigung",
+      "ar": "عبارات مهمة للاعتذار بشكل مهذب:\n\n• Es tut mir leid, dass ich so spät antworte. (أنا آسف لأنني رددت متأخرًا.)\n• Entschuldigen Sie bitte die Umstände. (أعتذر عن الإزعاج.)\n• Leider konnte ich nicht kommen. (للأسف لم أستطع الحضور.)\n• Ich hoffe, Sie können das verstehen. (آمل أن تتمكنوا من تفهّم ذلك.)\n• Ich möchte mich bei dir entschuldigen. (أود أن أعتذر لك.)"
+    },
+    {
+      "de": "📧 Beispiel – Dank + kleine Entschuldigung",
+      "ar": "Beispiel-E-Mail (ca. 90–100 Wörter):\n\nLiebe Ben,\n\nvielen Dank für deine große Hilfe am Wochenende! Der Umzug war anstrengend, aber mit dir zusammen viel leichter. Es war sehr nett von dir, dass du dir so viel Zeit genommen hast.\n\nEs tut mir auch leid, dass ich erst jetzt antworte. Ich hatte in den letzten Tagen viel zu tun.\n\nIch hoffe, wir sehen uns bald wieder. Beim nächsten Mal helfe ich dir!\n\nLiebe Grüße\nNoa\n\nالترجمة بالعربية:\n\nعزيزي بن،\n\nشكرًا جزيلًا على مساعدتك الكبيرة في عطلة نهاية الأسبوع! كان الانتقال متعبًا، لكن معك كان الأمر أسهل بكثير. كان لطيفًا جدًا منك أن تخصّص كل هذا الوقت.\n\nوأنا آسف أيضًا لأنني لم أرد إلا الآن. لقد كنت مشغولًا جدًا في الأيام الأخيرة.\n\nآمل أن نلتقي قريبًا. وسأساعدك أنا في المرة القادمة!\n\nمع أطيب التحيات\nنوا"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Vielen Dank für Ihre Hilfe.",
+      "ar": "شكرًا جزيلًا على مساعدتكم.",
+      "note": "رسمية"
+    },
+    {
+      "de": "Es tut mir leid, dass ich zu spät komme.",
+      "ar": "أنا آسف لأنني وصلت متأخرًا.",
+      "note": "مهمّة"
+    },
+    {
+      "de": "Entschuldigen Sie bitte die Störung.",
+      "ar": "أعتذر عن الإزعاج.",
+      "note": "رسمية"
+    },
+    {
+      "de": "Das war sehr nett von dir.",
+      "ar": "كان ذلك لطيفًا جدًا منك.",
+      "note": "للأصدقاء"
+    },
+    {
+      "de": "Ich hoffe, du bist nicht böse.",
+      "ar": "آمل ألا تكون غاضبًا.",
+      "note": "غير رسمية"
+    }
+  ],
+
+  "tip": "💡 **Sprachtipp – نصيحة لغوية:**\nفي الألمانية، كلمات الشكر والاعتذار بسيطة لكن قوية:\n\n• Verwende „Vielen Dank“ in formellen und informellen Situationen. (يمكنك استخدام 'Vielen Dank' في المواقف الرسمية وغير الرسمية.)\n• Verwende „Es tut mir leid“ للاعتذار الصادق. (استخدم 'Es tut mir leid' للاعتذار الحقيقي.)\n• لا تكتب جمل عدوانية أو دفاعية مثل: „Es ist nicht meine Schuld!“ في امتحان B1. (تجنّب العبارات العدوانية مثل: ليست غلطتي!)",
+
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Vielen Dank für deine Hilfe gestern!",
+      "ar": "شكرًا جزيلًا على مساعدتك أمس!"
+    },
+    {
+      "speaker": "Ben",
+      "de": "Kein Problem, gern geschehen!",
+      "ar": "لا مشكلة، على الرحب والسعة!"
+    },
+    {
+      "speaker": "Noa",
+      "de": "Es tut mir auch leid, dass ich so spät gekommen bin.",
+      "ar": "وأنا آسف أيضًا لأنني جئت متأخرًا."
+    },
+    {
+      "speaker": "Ben",
+      "de": "Alles gut! Beim nächsten Mal kommst du einfach pünktlich.",
+      "ar": "لا بأس! في المرة القادمة فقط تعال في الوقت المناسب."
+    }
+  ],
+
+  "summary": [
+    {
+      "de": "Dank und Entschuldigung sind sehr wichtig im Alltag und in der B1-Prüfung.",
+      "ar": "الشكر والاعتذار مهمّان جدًا في الحياة اليومية وفي امتحان B1."
+    },
+    {
+      "de": "Mit Höflichkeit und klaren Sätzen machst du immer einen guten Eindruck.",
+      "ar": "مع استخدام عبارات مهذبة وجمل واضحة ستترك دائمًا انطباعًا جيدًا."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Satz passt am besten, um sich höflich zu bedanken?",
+      "options": [
+        "Ich bin sauer.",
+        "Vielen Dank für Ihre Hilfe.",
+        "Du bist schuld.",
+        "Das ist nicht mein Problem."
+      ],
+      "answer": 1,
+      "hint": "ابحث عن جملة فيها 'Vielen Dank'."
+    },
+    {
+      "question": "Was passt? — ___ tut mir leid, dass ich so spät antworte.",
+      "options": [
+        "Mir",
+        "Es",
+        "Ich",
+        "Dir"
+      ],
+      "answer": 1,
+      "hint": "نقول دائمًا: Es tut mir leid."
+    },
+    {
+      "question": "Welche Antwort ist höflich?",
+      "options": [
+        "Ich habe keine Zeit.",
+        "Warte einfach.",
+        "Kein Problem, das kann passieren.",
+        "Das ist dein Fehler."
+      ],
+      "answer": 2,
+      "hint": "فكر في رد لطيف ومتفهّم."
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Ihr Freund/Ihre Freundin hat Ihnen sehr geholfen, aber Sie haben erst spät geantwortet. Schreiben Sie eine E-Mail (80–100 Wörter). Bedanken Sie sich und entschuldigen Sie sich.",
+    "instruction_ar": "صديقك أو صديقتك قدّم لك مساعدة كبيرة، ولكنك رددت متأخرًا. اكتب رسالة (80–100 كلمة) تشكر فيها الشخص وتعتذر أيضًا.",
+    "keywords": [
+      "Vielen Dank",
+      "Es tut mir leid",
+      "Hilfe",
+      "spät",
+      "Antwort"
+    ],
+    "exampleAnswer": "Liebe Sara,\n\nvielen Dank für deine Hilfe letzte Woche! Ohne dich hätte ich den Termin nicht geschafft. Es war sehr nett von dir, dass du mit mir zum Amt gegangen bist.\n\nEs tut mir auch leid, dass ich erst heute antworte. In den letzten Tagen hatte ich viel Stress und wenig Zeit.\n\nIch hoffe, du bist nicht böse. Beim nächsten Mal helfe ich dir!\n\nLiebe Grüße\nNoa",
+    "feedbackHints": [
+      "ابدأ بتحية مناسبة: Liebe ... / Lieber ....",
+      "اذكر أولاً سبب الشكر ثم سبب الاعتذار.",
+      "حاول أن تستخدم عبارات مثل: Vielen Dank, Es tut mir leid, Ich hoffe, du bist nicht böse.",
+      "احرص على أن تكون الجمل بسيطة وواضحة وعلى أن تنهي الرسالة بتحية مناسبة."
+    ]
+  }
+}
+,
+
+{
+  "id": "b1-schreiben-absage",
+  "title": {
+    "de": "B1 Schreiben – Terminabsage",
+    "ar": "B1 الكتابة – الاعتذار عن موعد (Absage)"
+  },
+  "interactiveScene": "📅 المشهد التفاعلي:\n\nNoa bekommt eine Einladung von seiner Freundin Lara.\n(نوا يتلقى دعوة من صديقته لارا.)\n\nLara schreibt: „Ich feiere am Samstag meinen Geburtstag. Kommst du?“\n(لارا تكتب: \"سأحتفل بعيد ميلادي يوم السبت. هل ستأتي؟\")\n\nNoa freut sich, aber er hat ein Problem.\n(نوا سعيد، لكنه لديه مشكلة.)\n\nEr hat am gleichen Tag einen wichtigen Termin beim Arzt.\n(لديه في نفس اليوم موعد مهم عند الطبيب.)\n\nEr denkt: „Ich muss höflich absagen.“\n(يفكر: \"يجب أن أعتذر بطريقة مؤدبة.\")\n\nEr schreibt eine E-Mail:\n(يكتب رسالة إلكترونية:)\n\n„Liebe Lara, vielen Dank für deine Einladung. Leider kann ich am Samstag nicht kommen, weil ich einen Arzttermin habe. Ich hoffe, wir sehen uns bald. Liebe Grüße, Noa“\n(\"عزيزتي لارا، شكرًا على دعوتك. للأسف لا أستطيع المجيء يوم السبت لأن لدي موعدًا عند الطبيب. آمل أن نلتقي قريبًا. تحياتي، نوا.\")",
+  "explanation": [
+  {
+    "de": "Was ist eine Absage?",
+    "ar": "Absage تعني \"اعتذار عن موعد أو دعوة\". وهي رسالة نرسلها عندما لا نستطيع الذهاب إلى مناسبة أو لقاء."
+  },
+  {
+    "de": "Wie schreibt man eine höfliche Absage im B1-Examen?",
+    "ar": "عندما تريد الاعتذار عن حضور دعوة، كن مهذبًا وواضحًا. لا تكتب فقط 'Ich komme nicht'. بل استخدم العبارات الصحيحة:\n\n• Bedanke dich zuerst. (ابدأ بالشكر.)\n• Erkläre den Grund mit 'weil'. (اشرح السبب باستخدام 'weil'.)\n• Mach einen netten Vorschlag oder Wunsch. (اقترح شيئًا أو تمنّى شيئًا لطيفًا.)"
+  },
+  {
+    "de": "Nützliche Redemittel (عبارات مفيدة)",
+    "ar": "• Vielen Dank für deine Einladung. (شكرًا على دعوتك.)\n• Leider kann ich nicht kommen, weil ich ... habe. (للأسف لا أستطيع الحضور لأن لدي ...)\n• Ich hoffe, wir sehen uns bald. (آمل أن نلتقي قريبًا.)\n• Vielleicht können wir uns nächste Woche treffen. (ربما يمكننا أن نلتقي الأسبوع القادم.)\n• Ich wünsche dir trotzdem viel Spaß! (أتمنى لك وقتًا ممتعًا رغم ذلك!)"
+  },
+  {
+    "de": "Beispieltext (ca. 100 Wörter)",
+    "ar": "Liebe Lara,\n\nvielen Dank für deine Einladung zu deiner Party am Samstag. Ich habe mich sehr gefreut! Leider kann ich nicht kommen, weil ich am gleichen Tag einen Termin beim Arzt habe.\n\nIch hoffe, du hast eine tolle Feier und viel Spaß mit deinen Freunden. Vielleicht sehen wir uns nächste Woche auf einen Kaffee!\n\nViele Grüße\nNoa\n\nالترجمة بالعربية:\n\nعزيزتي لارا،\n\nشكرًا على دعوتك إلى حفلتك يوم السبت. كنت سعيدًا جدًا بها! للأسف لا أستطيع الحضور لأن لدي في نفس اليوم موعدًا عند الطبيب.\n\nآمل أن تحظي بحفل رائع ووقت جميل مع أصدقائك. ربما نلتقي الأسبوع القادم على فنجان قهوة.\n\nتحياتي\nنوا"
+  }
+]
+,
+  "phrasesTable": [
+    {
+      "de": "Vielen Dank für deine Einladung.",
+      "ar": "شكرًا على دعوتك."
+    },
+    {
+      "de": "Leider kann ich nicht kommen, weil ich ... habe.",
+      "ar": "للأسف لا أستطيع المجيء لأن لدي..."
+    },
+    {
+      "de": "Ich hoffe, wir sehen uns bald.",
+      "ar": "آمل أن نلتقي قريبًا."
+    },
+    {
+      "de": "Vielleicht können wir uns nächste Woche treffen.",
+      "ar": "ربما يمكننا أن نلتقي الأسبوع القادم."
+    },
+    {
+      "de": "Ich wünsche dir trotzdem viel Spaß!",
+      "ar": "أتمنى لك وقتًا ممتعًا رغم ذلك!"
+    }
+  ],
+  "tip": "💡 **نصيحة لغوية:**\nالفعل **absagen** فعل منفصل. نقول:\nIch sage den Termin **ab**. (ألغيت الموعد.)\nAber: Ich **habe** den Termin **abgesagt.** (ألغيت الموعد في الماضي.)\n\nاحذر: الفعل الآخر 'zusagen' يعني 'يقبل الدعوة'.",
+  "dialogue": [
+    {
+      "speaker": "Noa",
+      "de": "Ich fühle mich schlecht, wenn ich absagen muss.",
+      "ar": "أشعر بالأسف عندما أضطر للاعتذار."
+    },
+    {
+      "speaker": "Lehrer",
+      "de": "Das ist normal. Wichtig ist, dass du höflich bleibst.",
+      "ar": "هذا طبيعي. الأهم أن تكون لطيفًا في كلامك."
+    },
+    {
+      "speaker": "Noa",
+      "de": "Kann ich einfach 'Ich komme nicht' schreiben?",
+      "ar": "هل يمكنني فقط أن أكتب 'لن آتي'؟"
+    },
+    {
+      "speaker": "Lehrer",
+      "de": "Besser nicht. Schreibe lieber 'Leider kann ich nicht kommen, weil...'.",
+      "ar": "الأفضل لا. اكتب بدلًا من ذلك: 'للأسف لا أستطيع المجيء لأن...'."
+    }
+  ],
+  "summary": [
+    {
+      "de": "Bei einer Absage ist Höflichkeit sehr wichtig.",
+      "ar": "في رسالة الاعتذار، الأدب واللطف هما الأهم."
+    },
+    {
+      "de": "Schreibe immer einen Grund mit 'weil'.",
+      "ar": "اكتب دائمًا السبب مستخدمًا 'weil'."
+    },
+    {
+      "de": "Bedanke dich zuerst, dann erkläre den Grund, und mach einen netten Vorschlag.",
+      "ar": "ابدأ بالشكر، ثم اشرح السبب، ثم قدّم اقتراحًا لطيفًا."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was schreibt man zuerst in einer höflichen Absage?",
+      "options": [
+        "Ich komme nicht!",
+        "Vielen Dank für deine Einladung.",
+        "Warum bist du böse?"
+      ],
+      "answer": 1,
+      "hint": "ابدأ دائمًا بطريقة ودية."
+    },
+    {
+      "question": "Welches Wort benutzt man für den Grund?",
+      "options": [
+        "weil",
+        "und",
+        "aber"
+      ],
+      "answer": 0,
+      "hint": "الفعل يأتي في النهاية بعد هذا الكلمة."
+    },
+    {
+      "question": "Was bedeutet 'absagen'?",
+      "options": [
+        "القبول",
+        "الاعتذار / الإلغاء",
+        "الاحتفال"
+      ],
+      "answer": 1,
+      "hint": "عكس 'zusagen'."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe eine E-Mail (80–120 Wörter), in der du höflich absagst. Du kannst nicht zu einer Einladung kommen. Schreibe: warum du nicht kommen kannst, was du stattdessen vorschlägst, und wünsche der Person etwas Nettes.",
+    "instruction_ar": "اكتب رسالة إلكترونية (من 80 إلى 120 كلمة) تعتذر فيها عن عدم تمكنك من الحضور. اذكر السبب، واقترح شيئًا بديلًا، وتمنَّ للطرف الآخر شيئًا لطيفًا.",
+    "exampleAnswer": "Liebe Maria,\n\nvielen Dank für deine Einladung zu deiner Grillparty am Samstag. Ich habe mich sehr gefreut, aber leider kann ich nicht kommen, weil ich am selben Tag arbeiten muss. Es tut mir wirklich leid!\n\nVielleicht können wir uns nächste Woche zum Mittagessen treffen. Dann kannst du mir alles über die Party erzählen. Ich wünsche dir trotzdem einen wunderschönen Abend und viel Spaß mit deinen Freunden.\n\nViele Grüße\nAbbas",
+    "keywords": ["absagen", "weil", "vielleicht", "treffen", "danke", "leid"],
+    "feedbackHints": [
+      "تحقّق من وجود التحية والختام.",
+      "اذكر السبب دائمًا مع 'weil'.",
+      "اقترح بديلًا: لقاء أو مكالمة.",
+      "حافظ على الأسلوب اللطيف حتى في الاعتذار."
+    ]
+  }
+}
+,
+{
+  "id": "b1_beschwerde_dienstleistung",
+  "title": {
+    "de": "Beschwerde – Eine Reklamation über eine Dienstleistung schreiben",
+    "ar": "Beschwerde – كتابة شكوى عن خدمة أو تجربة سيئة"
+  },
+
+  "interactiveScene": "😩 **Noa ist im Urlaub in einem Hotel, das im Internet perfekt aussah.**\n🏨 نوا في عطلة بفندق بدا مثالياً على الإنترنت.\n\n**Aber als er ankommt, ist das Zimmer schmutzig und das Wasser eiskalt!**\n🥶 لكنه عندما وصل، وجد الغرفة متسخة والماء مثل الثلج!\n\n**Er ruft an der Rezeption an, aber niemand hilft ihm richtig.**\n📞 اتصل بالاستقبال، ولكن لم يساعده أحد بشكل جيد.\n\n**Also entscheidet er sich, eine Beschwerde zu schreiben – höflich, aber bestimmt.**\n✍️ فقرر أن يكتب شكوى رسمية، مهذبة ولكن حازمة.\n\n**Heute lernst du mit Noa, wie man eine Beschwerde höflich und klar schreibt – ganz wie im B1-Examen.**\n🎯 اليوم ستتعلّم مع نوا كيف تكتب شكوى رسمية بأدب ووضوح كما في امتحان B1.",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Beschwerde?",
+      "ar": "Beschwerde تعني 'شكوى رسمية' عندما لا تكون راضيًا عن خدمة، فندق، مطعم، أو أي تجربة."
+    },
+    {
+      "de": "Wie schreibt man eine Beschwerde im B1-Examen?",
+      "ar": "لكتابة شكوى صحيحة يجب أن تكون واضحًا ومهذبًا:\n\n• Beschreibe, was passiert ist. (اشرح ما الذي حدث.)\n• Erkläre, warum du unzufrieden bist. (اشرح لماذا أنت غير راضٍ.)\n• Sage, was du erwartest. (قل ما الذي تريده منهم: حل، ردّ، تعويض.)\n• Bedanke dich und schließe höflich. (اشكرهم واختتم بتحية مهذبة.)"
+    },
+    {
+      "de": "🗣️ Nützliche Redemittel (عبارات مفيدة)",
+      "ar": "• Ich habe ein Zimmer bei Ihnen gebucht, aber ... (لقد حجزت غرفة لديكم، ولكن...)\n• Leider war ich mit Ihrem Service nicht zufrieden. (للأسف لم أكن راضيًا عن خدمتكم.)\n• Es gab ein Problem mit ... (كانت هناك مشكلة في ...)\n• Ich möchte Sie bitten, das Problem zu lösen. (أرجو منكم حل المشكلة.)\n• Ich hoffe auf eine schnelle Antwort. (آمل في الحصول على رد سريع.)\n• Mit freundlichen Grüßen. (مع أطيب التحيات.)"
+    },
+    {
+      "de": "📧 Beispieltext (ca. 110–130 Wörter)",
+      "ar": "Sehr geehrte Damen und Herren,\n\nich habe vom 5. bis 8. Juni ein Zimmer in Ihrem Hotel gebucht. Leider war ich mit dem Aufenthalt nicht zufrieden. Das Zimmer war nicht sauber, und die Dusche hat nur kaltes Wasser.\n\nIch bitte Sie, mir einen Teil des Preises zurückzuerstatten oder mir einen Gutschein für den nächsten Aufenthalt zu geben.\n\nIch hoffe auf eine schnelle Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan\n\nالترجمة بالعربية:\n\nالسيدات والسادة المحترمون،\n\nلقد حجزت غرفة في فندقكم من 5 إلى 8 يونيو. للأسف لم أكن راضيًا عن الإقامة. كانت الغرفة غير نظيفة والدش فيه ماء بارد فقط.\n\nأرجو منكم إعادة جزء من المبلغ أو منحي قسيمة إقامة في المرة القادمة.\n\nآمل في الحصول على رد سريع.\n\nمع أطيب التحيات\nنوا الحسن"
+    }
+  ],
+
+  "phrasesTable": [
+    { "de": "eine Beschwerde einreichen", "ar": "يقدّم شكوى رسمية", "note": "رسمية" },
+    { "de": "unzufrieden sein mit", "ar": "غير راضٍ عن", "note": "تركيب مهم" },
+    { "de": "eine Entschädigung bekommen", "ar": "يحصل على تعويض", "note": "كلمة مفيدة" },
+    { "de": "der Kundenservice", "ar": "خدمة الزبائن", "note": "اسم مهم" },
+    { "de": "das Problem lösen", "ar": "يحل المشكلة", "note": "تعبير شائع" }
+  ],
+
+  "tip": "💡 **Sprachtipp – نصيحة لغوية:**\nلا تكتب أبدًا جمل غاضبة مثل 'Ich bin sehr sauer!' ❌.\nاستخدم بدلًا منها:\n• Leider war ich mit ... nicht zufrieden. ✅\n• Ich hoffe, dass Sie mir helfen können. ✅",
+
+  "dialogue": [
+    { "speaker": "Noa", "de": "Guten Tag, ich war am Wochenende in Ihrem Hotel, aber ich bin unzufrieden.", "ar": "طاب يومكم، كنت في فندقكم خلال عطلة نهاية الأسبوع، لكنني لست راضيًا." },
+    { "speaker": "Rezeption", "de": "Oh, das tut mir leid! Was war das Problem?", "ar": "أوه، يؤسفني سماع ذلك! ما كانت المشكلة؟" },
+    { "speaker": "Noa", "de": "Das Zimmer war nicht sauber, und es gab kein warmes Wasser.", "ar": "الغرفة لم تكن نظيفة، ولم يكن هناك ماء دافئ." },
+    { "speaker": "Rezeption", "de": "Wir entschuldigen uns! Wir schicken sofort jemanden.", "ar": "نعتذر! سنرسل أحد الموظفين فورًا." },
+    { "speaker": "Noa", "de": "Danke, das wäre sehr nett.", "ar": "شكرًا، سيكون ذلك لطيفًا جدًا." }
+  ],
+
+  "summary": [
+    {
+      "de": "📦 Zusammenfassung",
+      "ar": "تعلمت في هذا الدرس كيف تكتب شكوى مهذبة عن خدمة أو تجربة سيئة. كن واضحًا، هادئًا، واستخدم لغة لبقة دون غضب."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Was bedeutet 'Beschwerde'?",
+      "options": ["دعوة", "شكوى", "طلب", "اعتذار"],
+      "answer": 1,
+      "hint": "Beschwerde = شكوى رسمية"
+    },
+    {
+      "question": "Wie sagt man höflich, dass man unzufrieden ist?",
+      "options": [
+        "Ich bin wütend!",
+        "Ich hasse das Hotel!",
+        "Leider war ich mit dem Service nicht zufrieden.",
+        "Das war schlimm!"
+      ],
+      "answer": 2,
+      "hint": "ابدأ دائمًا بـ 'Leider...' لتبدو مهذبًا."
+    },
+    {
+      "question": "Was passt? — Ich möchte Sie bitten, ...",
+      "options": [
+        "mir zu helfen.",
+        "schnell!",
+        "das Problem.",
+        "keine Antwort."
+      ],
+      "answer": 0
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Sie waren in einem Hotel, aber Sie sind unzufrieden. Schreiben Sie eine Beschwerde an das Hotel. Beschreiben Sie die Probleme und was Sie möchten. Schreiben Sie etwa 110–130 Wörter.",
+    "instruction_ar": "كنت في فندق ولم تكن راضيًا عن الإقامة. اكتب رسالة شكوى إلى الفندق. صف المشكلات واذكر ما الذي تريده. اكتب حوالي 110 إلى 130 كلمة.",
+    "keywords": ["Hotel", "Zimmer", "unzufrieden", "Problem", "Antwort"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich war letzte Woche in Ihrem Hotel in Berlin. Leider war ich mit meinem Aufenthalt nicht zufrieden. Das Zimmer war sehr laut, und die Klimaanlage hat nicht funktioniert.\n\nIch möchte Sie bitten, mir einen Teil des Geldes zurückzugeben oder mir einen Gutschein zu schicken.\n\nIch hoffe auf eine schnelle Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan",
+    "feedbackHints": [
+      "ابدأ بتحية رسمية 'Sehr geehrte Damen und Herren,'.",
+      "اشرح المشكلات بوضوح دون مبالغة.",
+      "اختم بتحية رسمية 'Mit freundlichen Grüßen'."
+    ]
+  }
+}
+,
+{
+  "id": "b1_terminvereinbarung",
+  "title": {
+    "de": "Terminvereinbarung",
+    "ar": "تحديد موعد رسمي – طلب موعد"
+  },
+  "interactiveScene": "📅 **Noa muss einen Termin beim Arzt vereinbaren, aber er hat keine Zeit, anzurufen.**\n🤒 يجب على نوا أن يحدد موعدًا عند الطبيب، لكنه لا يملك وقتًا للاتصال.\n\n**Er will eine E-Mail schreiben, um höflich nach einem Termin zu fragen.**\n📧 قرر أن يكتب بريدًا إلكترونيًا ليطلب موعدًا بطريقة مهذبة.\n\n**Er denkt: Wie beginne ich die E-Mail richtig? Und wie sage ich, wann ich Zeit habe?**\n💭 يفكر: كيف أبدأ الرسالة بشكل صحيح؟ وكيف أقول متى أنا متفرغ؟\n\n**Heute lernst du mit Noa, wie man eine formelle E-Mail schreibt, um einen Termin zu bekommen oder zu verschieben.**\n🎯 اليوم ستتعلّم مع نوا كيف تكتب رسالة رسمية لطلب أو تأجيل موعد.",
+  "explanation": [
+    {
+      "de": "Was ist eine Terminvereinbarung?",
+      "ar": "Terminvereinbarung تعني \"تحديد موعد\" أو \"الاتفاق على موعد\". في هذا النوع من الرسائل، تطلب من شخص أو مؤسسة موعدًا، أو تؤكد أو تغيّر موعدًا موجودًا."
+    },
+    {
+      "de": "Wie schreibt man eine Terminvereinbarung im B1-Examen?",
+      "ar": "في هذا النوع من الرسائل، كن واضحًا ومهذبًا دائمًا، واذكر كل المعلومات المهمة:\n\n• Schreibe, **warum** du einen Termin brauchst. (اكتب سبب حاجتك للموعد.)\n• Sage, **wann** und **wie** du Zeit hast. (اذكر متى وكيف تكون متفرغًا.)\n• Bitte um eine **Bestätigung**. (اطلب تأكيد الموعد.)\n• Schließe mit einer höflichen Grußformel. (اختم بتحية رسمية مهذبة.)"
+    },
+    {
+      "de": "Nützliche Redemittel (عبارات مفيدة)",
+      "ar": "• Ich möchte gern einen Termin vereinbaren. (أود تحديد موعد.)\n• Ich brauche einen Termin, weil ich ... (أحتاج موعدًا لأنني ...)\n• Ich kann am Dienstag oder Donnerstag. (يمكنني يوم الثلاثاء أو الخميس.)\n• Bitte bestätigen Sie mir den Termin. (رجاءً أكّدوا لي الموعد.)\n• Ich hoffe auf Ihre Antwort. (آمل الحصول على رد منكم.)\n• Mit freundlichen Grüßen. (مع أطيب التحيات.)"
+    },
+    {
+      "de": "Beispieltext (ca. 100–120 Wörter)",
+      "ar": "Sehr geehrte Damen und Herren,\n\nich möchte gern einen Termin in Ihrer Praxis vereinbaren. Ich brauche den Termin, weil ich seit einigen Tagen starke Zahnschmerzen habe.\n\nKönnten Sie mir bitte einen Termin für nächste Woche geben? Ich kann am Dienstag oder Donnerstag zwischen 10 und 14 Uhr.\n\nIch hoffe auf Ihre Antwort und bedanke mich im Voraus.\n\nMit freundlichen Grüßen\nNoa Müller\n\nالترجمة بالعربية:\n\nالسيدات والسادة المحترمون،\n\nأود تحديد موعد في عيادتكم، لأنني أعاني منذ عدة أيام من ألم شديد في الأسنان.\n\nهل يمكنكم من فضلكم منحي موعدًا للأسبوع القادم؟ يمكنني الحضور يوم الثلاثاء أو الخميس بين الساعة العاشرة والثانية بعد الظهر.\n\nآمل أن أحصل على رد منكم، وأشكركم مقدمًا.\n\nمع أطيب التحيات\nنوا مولّر"
+    }
+  ],
+
+  "phrasesTable": [
+    { "de": "einen Termin vereinbaren", "ar": "تحديد موعد", "note": "رسمية" },
+    { "de": "den Termin absagen", "ar": "إلغاء الموعد", "note": "رسمية" },
+    { "de": "den Termin bestätigen", "ar": "تأكيد الموعد", "note": "رسمية" },
+    { "de": "Ich kann leider nicht kommen.", "ar": "للأسف لا أستطيع الحضور.", "note": "مفيدة جدًا" },
+    { "de": "Wann haben Sie Zeit?", "ar": "متى لديكم وقت؟", "note": "استعمال شائع" }
+  ],
+
+  "tip": "💡 **نصيحة لغوية:**\nعند الكتابة الرسمية في الإيميل، استخدم دائمًا \"Sie\" بدلاً من \"du\".\nتذكر أيضًا أن تبدأ الجملة الأولى بحرف كبير وأن تضع فاصلة بعد التحية.\n\n**مثال:**\nSehr geehrte Frau Müller, (عزيزتي السيدة مولّر،)\n\nفي الرسائل الرسمية نكتب دائمًا التحية والفاصلة قبل النص الرئيسي.",
+
+  "dialogue": [
+    { "speaker": "Sekretärin", "de": "Guten Tag, Zahnarztpraxis Müller. Was kann ich für Sie tun?", "ar": "طاب يومك، عيادة طبيب الأسنان مولّر، كيف يمكنني مساعدتك؟" },
+    { "speaker": "Noa", "de": "Guten Tag, ich möchte einen Termin vereinbaren.", "ar": "طاب يومك، أود تحديد موعد." },
+    { "speaker": "Sekretärin", "de": "Wann haben Sie Zeit?", "ar": "متى يناسبك الوقت؟" },
+    { "speaker": "Noa", "de": "Am Dienstag oder Donnerstag wäre gut.", "ar": "يوم الثلاثاء أو الخميس سيكون جيدًا." },
+    { "speaker": "Sekretärin", "de": "Gut, Donnerstag um 11 Uhr passt?", "ar": "جيد، الخميس الساعة 11 مناسبة؟" },
+    { "speaker": "Noa", "de": "Ja, perfekt. Vielen Dank!", "ar": "نعم، ممتاز، شكرًا جزيلاً!" }
+  ],
+
+  "summary": [
+    { "de": "📦 Zusammenfassung", "ar": "في هذا الدرس تعلمت كيف تطلب موعدًا رسميًا باللغة الألمانية، سواء عبر الهاتف أو البريد الإلكتروني.\nتذكر أن تكون الجمل قصيرة، مهذبة، وواضحة." }
+  ],
+
+  "quiz": [
+    {
+      "question": "Was bedeutet „Terminvereinbarung“?",
+      "options": ["إلغاء موعد", "تحديد موعد", "تأجيل موعد", "طلب وظيفة"],
+      "answer": 1,
+      "hint": "Vereinbarung = اتفاق أو ترتيب"
+    },
+    {
+      "question": "Welche Anrede benutzt man in einer formellen E-Mail?",
+      "options": ["Hallo Ben,", "Liebe Anna,", "Sehr geehrte Damen und Herren,", "Hi!"],
+      "answer": 2,
+      "hint": "استخدم دائمًا عبارات رسمية في الرسائل الرسمية"
+    },
+    {
+      "question": "Wie kann man höflich nach einem Termin fragen?",
+      "options": [
+        "Ich will einen Termin!",
+        "Ich möchte gern einen Termin vereinbaren.",
+        "Gib mir einen Termin!",
+        "Du musst mir schreiben!"
+      ],
+      "answer": 1
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreibe eine formelle E-Mail an eine Arztpraxis. Du brauchst einen Termin, weil du Rückenschmerzen hast. Schreibe etwa 100 Wörter.",
+    "instruction_ar": "اكتب بريدًا رسميًا إلى عيادة طبية. أنت بحاجة إلى موعد لأن لديك ألمًا في الظهر. استخدم عبارات مهذبة واكتب حوالي 100 كلمة.",
+    "keywords": ["Termin", "Rückenschmerzen", "bitte", "Antwort", "nächste Woche"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich möchte gern einen Termin in Ihrer Praxis vereinbaren, weil ich seit einigen Tagen starke Rückenschmerzen habe. Könnten Sie mir bitte einen Termin für nächste Woche geben? Ich kann am Mittwoch oder Freitag zwischen 9 und 12 Uhr.\n\nIch hoffe auf Ihre Antwort und danke Ihnen im Voraus.\n\nMit freundlichen Grüßen\nNoa Müller",
+    "feedbackHints": [
+      "استخدم 'weil' مع الفعل في نهاية الجملة.",
+      "ابدأ الرسالة بتحية رسمية.",
+      "اختتم بتحية رسمية مثل 'Mit freundlichen Grüßen'."
+    ]
+  }
+}
+,
+
+{
+  "id": "b1_anfrage_information",
+  "title": {
+    "de": "Anfrage – Informationen erfragen",
+    "ar": "Anfrage – استفسار رسمي وطلب معلومات"
+  },
+
+ "interactiveScene": "💼 **Noa sieht eine Anzeige für einen neuen Sprachkurs und ist interessiert.**\n📚 رأى نوا إعلانًا عن دورة لغة جديدة وشعر بالاهتمام.\n\n**Er möchte wissen, wann der Kurs beginnt und wie viel er kostet.**\n💰 يريد أن يعرف متى تبدأ الدورة وكم سعرها.\n\n**Er schreibt eine E-Mail an die Sprachschule und fragt höflich nach Informationen.**\n✉️ كتب رسالة إلكترونية إلى معهد اللغة وسأل بطريقة لبقة عن التفاصيل.\n\n**Heute lernst du, wie du eine Anfrage schreibst – klar, freundlich und formell.**\n🎯 اليوم ستتعلّم كيف تكتب استفسارًا رسميًا وواضحًا ولطيفًا."
+
+  ,
+  "explanation": [
+    {
+      "de": "Was ist eine Anfrage?",
+      "ar": "Anfrage تعني \"طلب معلومات\" أو \"استفسار رسمي\". وهي رسالة تكتبها عندما تريد معرفة تفاصيل حول شيء ما — مثل دورة، منتج، تدريب أو عمل."
+    },
+    {
+      "de": "Wie schreibt man eine Anfrage im B1-Examen?",
+      "ar": "في رسالة الاستفسار، يجب أن تكون مهذبًا وواضحًا:\n\n• Schreibe, **warum** du schreibst. (اكتب سبب مراسلتك.)\n• Stelle **konkrete Fragen**. (اطرح أسئلة محددة وواضحة.)\n• Bitte um **Informationen oder Unterlagen**. (اطلب معلومات أو مستندات.)\n• Bedanke dich und schreibe eine **formelle Grußformel**. (اشكرهم واستخدم تحية رسمية في النهاية.)"
+    },
+    {
+      "de": "🗣️ Nützliche Redemittel (عبارات مفيدة)",
+      "ar": "• Ich interessiere mich für ... (أنا مهتم بـ...)\n• Könnten Sie mir bitte Informationen über ... schicken? (هل يمكنكم من فضلكم إرسال معلومات حول ...؟)\n• Wie viel kostet der Kurs? (كم تبلغ تكلفة الدورة؟)\n• Wie lange dauert die Ausbildung? (كم تستغرق مدة التدريب؟)\n• Gibt es noch freie Plätze? (هل هناك أماكن شاغرة؟)\n• Ich bedanke mich im Voraus. (أشكركم مقدمًا.)\n• Mit freundlichen Grüßen. (مع أطيب التحيات.)"
+    },
+    {
+      "de": "📧 Beispieltext (ca. 100–120 Wörter)",
+      "ar": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für Ihren Deutschkurs für das Niveau B1. Könnten Sie mir bitte Informationen über den Preis und den Beginn des Kurses schicken?\n\nIch möchte auch wissen, wie viele Stunden pro Woche der Kurs dauert und ob es am Abend Kurse gibt.\n\nIch bedanke mich im Voraus für Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan\n\nالترجمة بالعربية:\n\nالسيدات والسادة المحترمون،\n\nأنا مهتم بدورة اللغة الألمانية الخاصة بالمستوى B1. هل يمكنكم من فضلكم إرسال معلومات حول السعر وموعد بداية الدورة؟\n\nكما أود أن أعرف كم عدد الساعات في الأسبوع، وهل توجد دورات مسائية؟\n\nأشكركم مقدمًا على ردكم.\n\nمع أطيب التحيات\nنوا الحسن"
+    }
+  ],
+
+  "phrasesTable": [
+    { "de": "eine Anfrage stellen", "ar": "يقدّم استفسارًا", "note": "رسمية" },
+    { "de": "Informationen erhalten", "ar": "الحصول على معلومات", "note": "رسمية" },
+    { "de": "Könnten Sie mir bitte ... schicken?", "ar": "هل يمكنكم من فضلكم إرسال ...؟", "note": "مفيدة جدًا" },
+    { "de": "Ich interessiere mich für ...", "ar": "أنا مهتم بـ...", "note": "بداية ممتازة" },
+    { "de": "Mit freundlichen Grüßen", "ar": "مع أطيب التحيات", "note": "ختام رسمي" }
+  ],
+
+  "tip": "💡 **Sprachtipp – نصيحة لغوية:**\nفي الرسائل الرسمية استخدم دائمًا صيغة الاحترام **Sie**، وتجنب استخدام **du**.\n\nتذكر: بعد **Könnten Sie** يأتي الفعل في آخر الجملة.\nمثال:\nKönnten Sie mir bitte Informationen schicken? ✅ (وليس schicken Sie bitte...) ❌",
+
+  "dialogue": [
+    { "speaker": "Noa", "de": "Guten Tag, ich interessiere mich für Ihren Deutschkurs.", "ar": "طاب يومكم، أنا مهتم بدورة اللغة الألمانية لديكم." },
+    { "speaker": "Sekretärin", "de": "Natürlich! Welches Niveau möchten Sie lernen?", "ar": "بالطبع! أي مستوى ترغب في تعلمه؟" },
+    { "speaker": "Noa", "de": "Ich brauche Informationen über den B1-Kurs.", "ar": "أحتاج معلومات حول دورة B1." },
+    { "speaker": "Sekretärin", "de": "Der Kurs beginnt im Mai und kostet 250 Euro.", "ar": "تبدأ الدورة في شهر مايو وتكلف 250 يورو." },
+    { "speaker": "Noa", "de": "Vielen Dank für die Auskunft!", "ar": "شكرًا جزيلاً على المعلومات!" }
+  ],
+
+  "summary": [
+    { "de": "📦 Zusammenfassung", "ar": "في هذا الدرس تعلمت كيف تكتب استفسارًا رسميًا لطلب معلومات بوضوح ولباقة. استخدم دائمًا أسئلة دقيقة مثل 'Wie viel kostet ...?' و 'Wann beginnt ...?'" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Was bedeutet „Anfrage“?",
+      "options": ["دعوة", "شكوى", "طلب معلومات", "اعتذار"],
+      "answer": 2,
+      "hint": "Anfrage = سؤال رسمي للحصول على معلومات"
+    },
+    {
+      "question": "Wie kann man höflich Informationen erfragen?",
+      "options": [
+        "Ich will wissen!",
+        "Können Sie mir sagen?",
+        "Könnten Sie mir bitte Informationen schicken?",
+        "Sag mir bitte!"
+      ],
+      "answer": 2,
+      "hint": "استعمل دائمًا 'Könnten Sie' في اللغة الرسمية"
+    },
+    {
+      "question": "Welche Grußformel passt am Ende einer formellen E-Mail?",
+      "options": [
+        "Liebe Grüße",
+        "Mit freundlichen Grüßen",
+        "Tschüss!",
+        "Bis bald!"
+      ],
+      "answer": 1
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Sie möchten Informationen über einen Online-Deutschkurs. Schreiben Sie eine formelle E-Mail an die Sprachschule. Fragen Sie nach Preis, Beginn und Dauer. Schreiben Sie etwa 100 Wörter.",
+    "instruction_ar": "تريد الحصول على معلومات حول دورة ألمانية عبر الإنترنت. اكتب بريدًا رسميًا إلى معهد اللغة واسأل عن السعر، وموعد البدء، ومدة الدورة. اكتب حوالي 100 كلمة.",
+    "keywords": ["Kurs", "Preis", "Beginn", "Dauer", "Informationen"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für Ihren Online-Deutschkurs und möchte gern mehr Informationen bekommen. Könnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet?\n\nIch möchte auch wissen, wie lange der Kurs dauert und wie viele Stunden pro Woche stattfinden.\n\nIch bedanke mich im Voraus für Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan",
+    "feedbackHints": [
+      "ابدأ الرسالة بتحية رسمية 'Sehr geehrte Damen und Herren,'.",
+      "اطرح أسئلة واضحة ومحددة.",
+      "اختتم بتحية رسمية مثل 'Mit freundlichen Grüßen'."
+    ]
+  }
+}
+,
+{
+  "id": "b1_bewerbung_anmeldung",
+  "title": {
+    "de": "Bewerbung / Anmeldung – Einen Antrag oder eine Bewerbung schreiben",
+    "ar": "Bewerbung / Anmeldung – تقديم طلب أو تسجيل رسمي"
+  },
+
+  "interactiveScene": "👔 **Noa hat seine Ausbildung beendet und sucht jetzt eine neue Stelle.**\n🎓 أنهى نوا تدريبه المهني ويبحث الآن عن وظيفة جديدة.\n\n**Er findet eine interessante Anzeige: „Softwareentwickler gesucht!“**\n💻 وجد إعلانًا مثيرًا: “مطلوب مطوّر برامج!”\n\n**Er öffnet Word und beginnt zu schreiben: „Sehr geehrte Damen und Herren...“**\n🖊️ فتح ملفّ وبدأ بالكتابة: “السيدات والسادة المحترمون…”\n\n**Aber wie schreibt man eine gute Bewerbung? Was muss man sagen, um einen guten Eindruck zu machen?**\n🤔 لكنه يتساءل: كيف أكتب طلب وظيفة جيدًا؟ ماذا يجب أن أقول لأترك انطباعًا رائعًا؟\n\n**Heute lernst du mit Noa, wie man ein Bewerbungs-E-Mail richtig schreibt – Schritt für Schritt.**\n🎯 اليوم ستتعلّم مع نوا كيف تكتب طلب وظيفة احترافيًا خطوة بخطوة."
+  ,
+
+  "explanation": [
+    {
+      "de": "Was ist eine Bewerbung oder Anmeldung?",
+      "ar": "Bewerbung تعني 'تقديم طلب' (عادة لوظيفة أو دراسة)، أما Anmeldung فتعني 'تسجيل رسمي' (في دورة أو مؤسسة أو فعالية)."
+    },
+    {
+      "de": "Wie schreibt man eine Bewerbung oder Anmeldung im B1-Examen?",
+      "ar": "في هذا النوع من الكتابة، يجب أن تُظهر الاحترام والتنظيم:\n\n• Stelle dich kurz vor. (قدّم نفسك باختصار.)\n• Sage, warum du dich bewirbst oder anmelden möchtest. (اشرح سبب رغبتك في التقديم أو التسجيل.)\n• Erwähne deine Erfahrung oder Motivation. (اذكر خبرتك أو حماسك.)\n• Bitte um eine Antwort oder Bestätigung. (اطلب الرد أو التأكيد.)\n• Schließe mit einer höflichen Grußformel. (اختتم بتحية رسمية.)"
+    },
+    {
+      "de": "🗣️ Nützliche Redemittel (عبارات مفيدة)",
+      "ar": "• Ich möchte mich für ... bewerben. (أود التقدم لـ...)\n• Ich möchte mich für den Kurs anmelden. (أود التسجيل في الدورة.)\n• Ich habe schon Erfahrung mit ... (لدي خبرة في ...)\n• Ich interessiere mich sehr für ... (أنا مهتم جدًا بـ...)\n• Ich freue mich auf Ihre Antwort. (أتطلع إلى ردكم.)\n• Mit freundlichen Grüßen. (مع أطيب التحيات.)"
+    },
+    {
+      "de": "📧 Beispieltext (ca. 110–130 Wörter)",
+      "ar": "Sehr geehrte Damen und Herren,\n\nich möchte mich für Ihren Deutschkurs B1 anmelden. Ich habe bereits den Kurs A2 abgeschlossen und möchte nun mein Deutsch verbessern.\n\nIch arbeite momentan halbtags, deshalb wäre ein Abendkurs für mich ideal. Ich interessiere mich sehr für Sprachen und lerne motiviert.\n\nKönnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet?\n\nIch freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan\n\nالترجمة بالعربية:\n\nالسيدات والسادة المحترمون،\n\nأود التسجيل في دورة اللغة الألمانية B1. لقد أنهيت سابقًا دورة A2 وأرغب الآن في تحسين لغتي الألمانية.\n\nأعمل حاليًا بدوام جزئي، لذلك ستكون الدورة المسائية مناسبة لي. أنا مهتم جدًا باللغات وأتعلم بحماس.\n\nهل يمكنكم من فضلكم إخباري بموعد بدء الدورة وسعرها؟\n\nأتطلع إلى ردكم.\n\nمع أطيب التحيات\nنوا الحسن"
+    }
+  ],
+
+  "phrasesTable": [
+    { "de": "sich bewerben um / für", "ar": "يتقدّم بطلب لـ", "note": "رسمية" },
+    { "de": "sich anmelden für", "ar": "يسجّل في", "note": "رسمية" },
+    { "de": "die Bewerbung", "ar": "طلب التقديم (العمل أو الدراسة)", "note": "مفردة مهمة" },
+    { "de": "die Anmeldung", "ar": "التسجيل الرسمي", "note": "مفردة مهمة" },
+    { "de": "Ich freue mich auf Ihre Antwort.", "ar": "أتطلع إلى ردكم.", "note": "ختام رسمي شائع" }
+  ],
+
+  "tip": "💡 **Sprachtipp – نصيحة لغوية:**\nبعد الفعل **sich bewerben** نستخدم دائمًا حرف الجر **für** أو **um**:\n\n• Ich bewerbe mich **für** den Kurs. ✅\n• Ich bewerbe mich **um** die Stelle. ✅\n\nولا تنسَ أن الفعل يأتي دومًا بصيغة انعكاسية (sich).",
+
+  "dialogue": [
+    { "speaker": "Noa", "de": "Guten Tag, ich möchte mich für Ihren Abendkurs anmelden.", "ar": "طاب يومكم، أود التسجيل في دورتكم المسائية." },
+    { "speaker": "Sekretärin", "de": "Natürlich! Haben Sie schon Vorkenntnisse?", "ar": "بالطبع! هل لديك معرفة سابقة؟" },
+    { "speaker": "Noa", "de": "Ja, ich habe bereits den A2-Kurs gemacht.", "ar": "نعم، لقد أنهيت دورة A2 سابقًا." },
+    { "speaker": "Sekretärin", "de": "Der B1-Kurs beginnt im März und kostet 220 Euro.", "ar": "تبدأ دورة B1 في شهر مارس وتكلف 220 يورو." },
+    { "speaker": "Noa", "de": "Das ist perfekt, danke!", "ar": "هذا رائع، شكرًا!" }
+  ],
+
+  "summary": [
+    { "de": "📦 Zusammenfassung", "ar": "تعلمت في هذا الدرس كيف تكتب طلب تسجيل أو تقديم بأسلوب رسمي، منظم ومهذب. ابدأ بالتعريف عن نفسك، ثم سبب التقديم، ثم التفاصيل المطلوبة، وأختم بالتحية الرسمية." }
+  ],
+
+  "quiz": [
+    {
+      "question": "Was bedeutet 'Bewerbung'?",
+      "options": ["استفسار", "شكوى", "طلب تقديم", "اعتذار"],
+      "answer": 2,
+      "hint": "Bewerbung = تقديم طلب رسمي لوظيفة أو تدريب أو دراسة"
+    },
+    {
+      "question": "Wie schreibt man höflich, dass man sich anmelden möchte?",
+      "options": [
+        "Ich will kommen!",
+        "Ich möchte mich anmelden.",
+        "Ich geh hin.",
+        "Ich bin interessiert."
+      ],
+      "answer": 1,
+      "hint": "استعمل دائمًا 'möchte' بدل 'will' للرسائل الرسمية"
+    },
+    {
+      "question": "Was gehört in eine Bewerbung?",
+      "options": [
+        "اسمك فقط",
+        "سؤال عن الطقس",
+        "معلومات شخصية وسبب التقديم",
+        "صورة فقط"
+      ],
+      "answer": 2
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Sie möchten sich für einen Computerkurs anmelden. Schreiben Sie eine formelle E-Mail an die Schule. Nennen Sie Ihren Namen, Grund und Ihre Wünsche. Schreiben Sie etwa 100–120 Wörter.",
+    "instruction_ar": "تريد التسجيل في دورة حاسوب. اكتب بريدًا رسميًا إلى المدرسة، واذكر اسمك وسبب اهتمامك وطلبك. اكتب حوالي 100 إلى 120 كلمة.",
+    "keywords": ["Computer", "Kurs", "anmelden", "möchte", "Antwort"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich möchte mich für Ihren Computerkurs anmelden. Ich arbeite oft mit dem Computer, aber ich möchte noch besser werden.\n\nIch habe vormittags Zeit und würde gern am Kurs teilnehmen. Könnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet?\n\nIch freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan",
+    "feedbackHints": [
+      "ابدأ بتحية رسمية 'Sehr geehrte Damen und Herren,'.",
+      "اذكر بوضوح سبب التسجيل.",
+      "اختم بتحية رسمية 'Mit freundlichen Grüßen'."
+    ]
+  }
+}
+,
+{
+  "id": "b1_produktrueckgabe_reklamation",
+  "title": {
+    "de": "Produktrückgabe / Reklamation – Eine Beschwerde oder Rückgabe schreiben",
+    "ar": "Produktrückgabe / Reklamation – كتابة رسالة إرجاع منتج أو شكوى رسمية"
+  },
+
+  "interactiveScene": "📦 **Noa hat online neue Kopfhörer gekauft.**\n🛍️ اشترى نوا سماعة جديدة من الإنترنت.\n\n**Zwei Tage später funktionieren sie nicht mehr!**\n😤 بعد يومين فقط، توقفت عن العمل!\n\n**Er überlegt: Soll ich sie zurückschicken oder lieber schreiben?**\n💭 يفكّر: هل أرسلها بالبريد أم أكتب رسالة أولاً؟\n\n**Er öffnet die E-Mail-App und beginnt: „Sehr geehrte Damen und Herren...“**\n💻 فتح تطبيق البريد وبدأ يكتب: “السيدات والسادة المحترمون…”\n\n**Heute lernst du, wie man eine Reklamation schreibt, wenn ein Produkt kaputt oder fehlerhaft ist.**\n🎯 اليوم ستتعلّم كيف تكتب رسالة شكوى عن منتج تالف أو به عطل."
+  
+  ,
+  "explanation": [
+    {
+      "de": "Was ist eine Reklamation?",
+      "ar": "Reklamation تعني 'شكوى أو مطالبة' بعد شراء منتج أو استخدام خدمة لم تعمل كما يجب."
+    },
+    {
+      "de": "Wie schreibt man eine Reklamation im B1-Examen?",
+      "ar": "في رسالة الشكوى، يجب أن تكون واقعيًا ومهذبًا:\n\n• Beschreibe das Problem. (صف المشكلة.)\n• Gib das Datum oder die Bestellung an. (اذكر التاريخ أو رقم الطلب.)\n• Sage, was du möchtest: Ersatz, Rückerstattung oder Reparatur. (قل بوضوح ما الذي تريده: استبدال، استرجاع، أو تصليح.)\n• Bedanke dich höflich und schließe mit einer Grußformel. (اشكر بلطف واختتم بتحية رسمية.)"
+    },
+    {
+      "de": "🗣️ Nützliche Redemittel (عبارات مفيدة)",
+      "ar": "• Ich habe am ... bei Ihnen ... gekauft. (لقد اشتريت منكم في تاريخ ...)\n• Leider funktioniert ... nicht richtig. (للأسف، لا يعمل ... بشكل صحيح.)\n• Ich möchte das Produkt zurückgeben / umtauschen. (أود إرجاع / استبدال المنتج.)\n• Bitte teilen Sie mir mit, wie wir das Problem lösen können. (من فضلكم أخبروني كيف يمكننا حل المشكلة.)\n• Ich hoffe auf eine schnelle Antwort. (آمل في الحصول على رد سريع.)\n• Mit freundlichen Grüßen. (مع أطيب التحيات.)"
+    },
+    {
+      "de": "📧 Beispieltext (ca. 110–130 Wörter)",
+      "ar": "Sehr geehrte Damen und Herren,\n\nich habe am 3. Mai 2025 in Ihrem Online-Shop eine kabellose Kopfhörer bestellt (Bestellnummer: 2468). Leider funktioniert der linke Kopfhörer nach zwei Tagen nicht mehr.\n\nIch bitte Sie, mir das Produkt zu ersetzen oder mir den Kaufpreis zu erstatten. Ich sende Ihnen das defekte Gerät zurück.\n\nBitte teilen Sie mir mit, wie ich weiter vorgehen soll.\n\nIch hoffe auf eine schnelle Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan\n\nالترجمة بالعربية:\n\nالسيدات والسادة المحترمون،\n\nلقد اشتريت في 3 مايو 2025 سماعة لاسلكية من متجركم الإلكتروني (رقم الطلب: 2468). للأسف، السماعة اليسرى توقفت عن العمل بعد يومين فقط.\n\nأرجو منكم استبدال المنتج أو إعادة المبلغ المدفوع. سأرسل إليكم الجهاز المعطّل.\n\nيرجى إعلامي بالخطوات التالية.\n\nآمل في الحصول على رد سريع.\n\nمع أطيب التحيات\nنوا الحسن"
+    }
+  ],
+
+  "phrasesTable": [
+    { "de": "eine Reklamation einreichen", "ar": "يقدّم شكوى رسمية", "note": "رسمية" },
+    { "de": "das Produkt umtauschen", "ar": "يستبدل المنتج", "note": "تعبير مهم" },
+    { "de": "eine Rückerstattung bekommen", "ar": "يحصل على استرجاع مالي", "note": "مفيد جدًا" },
+    { "de": "defekt sein", "ar": "أن يكون تالفًا / معطّلًا", "note": "كلمة أساسية" },
+    { "de": "Kundenservice", "ar": "خدمة الزبائن", "note": "اسم شائع" }
+  ],
+
+  "tip": "💡 **Sprachtipp – نصيحة لغوية:**\nفي الرسائل الرسمية لا تستخدم أبداً عبارات غضب أو انفعال مثل 'Ich bin sehr wütend!' ❌.\nاستخدم بدلاً منها عبارات مهذبة:\n• Leider bin ich nicht zufrieden mit ... ✅\n• Ich hoffe, dass Sie mir helfen können. ✅",
+
+  "dialogue": [
+    { "speaker": "Noa", "de": "Guten Tag, ich habe bei Ihnen eine Kopfhörer bestellt, aber sie funktionieren nicht.", "ar": "طاب يومكم، لقد طلبت منكم سماعات لكنها لا تعمل." },
+    { "speaker": "Kundendienst", "de": "Das tut uns leid! Können Sie uns bitte die Bestellnummer schicken?", "ar": "نأسف لذلك! هل يمكنك من فضلك إرسال رقم الطلب؟" },
+    { "speaker": "Noa", "de": "Ja, die Nummer ist 2468. Ich möchte die Kopfhörer zurückgeben.", "ar": "نعم، الرقم هو 2468. أود إرجاع السماعات." },
+    { "speaker": "Kundendienst", "de": "Kein Problem, wir schicken Ihnen ein neues Produkt.", "ar": "لا مشكلة، سنرسل لك منتجًا جديدًا." },
+    { "speaker": "Noa", "de": "Vielen Dank für Ihre Hilfe!", "ar": "شكرًا جزيلاً على مساعدتكم!" }
+  ],
+
+  "summary": [
+    {
+      "de": "📦 Zusammenfassung",
+      "ar": "تعلمت في هذا الدرس كيف تكتب رسالة شكوى أو استرجاع منتج بأسلوب رسمي. لا تكتب بغضب أو تهديد، بل استخدم أسلوبًا لبقًا ومنظمًا لتوضيح المشكلة وطلب الحل."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Was bedeutet 'Reklamation'?",
+      "options": ["طلب", "استفسار", "شكوى بعد الشراء", "دعوة"],
+      "answer": 2,
+      "hint": "Reklamation = شكوى عن منتج أو خدمة"
+    },
+    {
+      "question": "Wie schreibt man höflich, dass etwas nicht funktioniert?",
+      "options": [
+        "Ich bin wütend!",
+        "Leider funktioniert ... nicht richtig.",
+        "Ich hasse dieses Produkt!",
+        "Das ist schlecht!"
+      ],
+      "answer": 1,
+      "hint": "استخدم 'Leider ...' لتكون مهذبًا"
+    },
+    {
+      "question": "Was passt? — Ich möchte das Produkt ...",
+      "options": ["beschweren", "zurückgeben", "verkaufen", "kaufen"],
+      "answer": 1
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Sie haben online ein defektes Produkt bekommen. Schreiben Sie eine formelle E-Mail an den Kundenservice. Beschreiben Sie das Problem und sagen Sie, was Sie möchten. Schreiben Sie etwa 110–130 Wörter.",
+    "instruction_ar": "لقد استلمت منتجًا تالفًا من متجر عبر الإنترنت. اكتب رسالة رسمية إلى خدمة الزبائن. صف المشكلة واذكر ما الذي تريده (استبدال / استرجاع). اكتب حوالي 110 إلى 130 كلمة.",
+    "keywords": ["defekt", "Produkt", "zurückgeben", "Kundenservice", "Bestellnummer"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich habe letzte Woche eine Lampe in Ihrem Online-Shop gekauft (Bestellnummer: 5372). Leider ist das Glas nach einem Tag kaputt gegangen.\n\nIch möchte die Lampe zurückgeben und bitte um eine Rückerstattung. Ich sende Ihnen das Produkt sofort zurück.\n\nBitte teilen Sie mir mit, wie ich weiter vorgehen soll.\n\nMit freundlichen Grüßen\nNoa Alhasan",
+    "feedbackHints": [
+      "ابدأ بتحية رسمية 'Sehr geehrte Damen und Herren,'.",
+      "اذكر المنتج ورقم الطلب بوضوح.",
+      "اشرح المشكلة ثم قل ما الذي تريده (استبدال / استرجاع).",
+      "اختم بتحية رسمية 'Mit freundlichen Grüßen'."
+    ]
+  }
+}
+
+
+  ]
+}

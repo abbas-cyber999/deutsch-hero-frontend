@@ -1,0 +1,299 @@
+{
+  "level": "B1",
+  "title_de": "Abschlussprüfung B1 – Alltag, Grammatik & Kommunikation",
+  "title_ar": "امتحان نهاية مستوى B1 – القواعد والتواصل والحياة اليومية",
+
+  "questions": [
+
+ 
+
+    {
+      "id": "b1_gram_01",
+      "type": "mcq",
+      "skill": "dativ",
+      "question_de": "Welche Form ist richtig? — Ich helfe ___ Frau.",
+      "question_ar": "اختر الأداة الصحيحة (Dativ): أنا أساعد السيدة.",
+      "options": ["der", "den", "die", "eine"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_02",
+      "skill": "akkusativ",
+      "question_de": "Ergänze: Ich sehe ___ Mann. (der Mann)",
+      "question_ar": "أكمل: أرى الرجل.",
+      "options": ["den", "dem", "ein", "er"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_03",
+      "skill": "praepositionen",
+      "question_de": "Wähle die richtige Präposition: Ich gehe ___ das Kino. (Wohin?)",
+      "question_ar": "اختر حرف الجر الصحيح (إلى السينما).",
+      "options": ["in", "im", "bei", "an"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_04",
+      "skill": "wechselpraep",
+      "question_de": "Welche Form ist richtig? — Das Bild hängt ___ der Wand.",
+      "question_ar": "الصورة معلقة على الحائط.",
+      "options": ["an", "auf", "in", "über"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_05",
+      "skill": "perfekt",
+      "question_de": "Wie heißt die richtige Perfekt-Form? — Ich ___ gestern viel ___ . (lernen)",
+      "question_ar": "اختر صيغة Perfekt الصحيحة.",
+      "options": ["habe...gelernt", "bin...gelernt", "habe...lernen", "bin...lernen"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_06",
+      "skill": "perfekt",
+      "question_de": "Er ___ nach Berlin ___. (fahren)",
+      "question_ar": "أكمل صيغة Perfekt للفعل fahren.",
+      "options": ["ist...gefahren", "hat...gefahren", "ist...fahrt", "hat...fahrt"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_07",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung ist korrekt?",
+      "question_ar": "أي ترتيب جملة صحيح؟",
+      "options": [
+        "Heute lerne ich deshalb gern zu Hause.",
+        "Heute ich lerne gern deshalb zu Hause.",
+        "Ich lerne zu Hause gern heute deshalb.",
+        "Deshalb heute zu Hause lerne ich gern."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_08",
+      "skill": "modal",
+      "question_de": "Welche Form passt? — Ich ___ heute länger arbeiten.",
+      "question_ar": "اختر الفعل المساعد المناسب.",
+      "options": ["muss", "möchte", "kannst", "dürfen"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_09",
+      "skill": "pronomen",
+      "question_de": "Welches Pronomen im Akkusativ ist richtig? — Ich sehe ___ (du).",
+      "question_ar": "اختر الضمير المناسب.",
+      "options": ["dich", "dir", "du", "dein"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_10",
+      "skill": "praepositionen",
+      "question_de": "Welche Präposition verlangt immer Akkusativ?",
+      "question_ar": "أي حرف جر يأخذ دائمًا Akkusativ؟",
+      "options": ["durch", "mit", "bei", "von"],
+      "answer": 0
+    },
+
+    
+
+    {
+      "id": "b1_word_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_ar": "ما معنى «Rechnung»؟",
+      "options": ["فاتورة", "وصفة", "عمل", "رصيد"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_02",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „fit bleiben“?",
+      "question_ar": "ما معنى «البقاء بصحة جيدة»؟",
+      "options": ["gesund bleiben", "viel essen", "lange schlafen", "nichts tun"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_03",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort ist richtig? — „Hausordnung“ bedeutet…",
+      "question_ar": "ماذا تعني Hausordnung؟",
+      "options": ["قوانين البناء", "فاتورة", "دعوة", "إيجار"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_04",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Umzug“?",
+      "question_ar": "ما معنى \"Umzug\"؟",
+      "options": ["انتقال للسكن", "احتفال", "سفر", "شراء"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_05",
+      "skill": "internet",
+      "question_de": "Was bedeutet „Videoanruf“?",
+      "question_ar": "ما معنى مكالمة فيديو؟",
+      "options": ["مكالمة بالصوت والصورة", "رسالة نصية", "رسالة بريد", "اجتماع عمل"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_06",
+      "skill": "wohnen",
+      "question_de": "Was bedeutet „die Lage ist zentral“?",
+      "question_ar": "ما معنى «الموقع مركزي»؟",
+      "options": ["في وسط المدينة", "بعيدًا جدًا", "قريب من الغابة", "خارج البلد"],
+      "answer": 0
+    },
+
+    
+
+    {
+      "id": "b1_read_01",
+      "skill": "lesen",
+      "question_de": "Text: „Noa wohnt im dritten Stock in einer kleinen Wohnung.“ — Wo wohnt Noa?",
+      "question_ar": "أين يسكن نوا؟",
+      "options": ["im dritten Stock", "im Erdgeschoss", "außerhalb der Stadt", "im ersten Stock"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_02",
+      "skill": "lesen",
+      "question_de": "Text: „Er liest Nachrichten online.“ — Was macht er?",
+      "question_ar": "ماذا يفعل؟",
+      "options": ["يقرأ الأخبار على الإنترنت", "يكتب رسالة", "يلعب على الهاتف", "يتصل بصديقه"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_03",
+      "skill": "lesen",
+      "question_de": "Text: „Ich bin müde, aber mein neuer Job ist interessant.“ — Was sagt Noa?",
+      "question_ar": "ماذا يقول نوا؟",
+      "options": ["عمله ممتع لكنه متعب", "عمله سيء", "ليس لديه وظيفة", "ينام كثيرًا"],
+      "answer": 0
+    },
+
+    
+
+    {
+      "id": "b1_comm_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort ist höflich? — „Könnten Sie mir bitte helfen?“",
+      "question_ar": "ما الرد المهذب؟",
+      "options": [
+        "Natürlich, gern!",
+        "Nein.",
+        "Warum?",
+        "Ich habe keine Lust."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_02",
+      "skill": "kommunikation",
+      "question_de": "Was sagt man, wenn jemand krank ist?",
+      "question_ar": "ماذا تقول لشخص مريض؟",
+      "options": [
+        "Gute Besserung!",
+        "Schlaf gut!",
+        "Viel Spaß!",
+        "Herzlichen Glückwunsch!"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Aussage ist eine Meinung?",
+      "question_ar": "أي جملة تعبر عن رأي؟",
+      "options": [
+        "Meiner Meinung nach ist Deutsch schwierig.",
+        "Der Zug ist da.",
+        "Ich wohne in Berlin.",
+        "Es ist 10 Uhr."
+      ],
+      "answer": 0
+    },
+
+    
+
+    {
+      "id": "b1_satz_01",
+      "skill": "satzbau",
+      "question_de": "Ordne richtig: (lernen – ich – heute – in der Bibliothek)",
+      "question_ar": "رتّب الجملة correctly.",
+      "options": [
+        "Heute lerne ich in der Bibliothek.",
+        "Ich heute lerne in der Bibliothek.",
+        "Ich lerne in der Bibliothek heute.",
+        "In der Bibliothek heute lerne ich."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_satz_02",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung ist korrekt? — (morgen – wir – fahren – nach Hamburg)",
+      "question_ar": "رتّب الجملة.",
+      "options": [
+        "Morgen fahren wir nach Hamburg.",
+        "Wir morgen fahren nach Hamburg.",
+        "Nach Hamburg morgen wir fahren.",
+        "Fahren nach Hamburg wir morgen."
+      ],
+      "answer": 0
+    },
+
+
+    {
+      "id": "b1_hard_01",
+      "skill": "wechselpräpositionen",
+      "question_de": "Er sitzt ___ dem Stuhl. (Wo?)",
+      "question_ar": "اختر الحالة الصحيحة لوصف مكان ثابت.",
+      "options": ["auf", "an", "in", "unter"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_02",
+      "skill": "dativ",
+      "question_de": "Welche Form ist Dativ Plural? — Ich gebe ___ Kindern ein Buch.",
+      "question_ar": "اختر Dativ للجمع.",
+      "options": ["den", "die", "dem", "des"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_03",
+      "skill": "perfekt",
+      "question_de": "Welcher Satz ist korrekt?",
+      "question_ar": "أي جملة Perfekt صحيحة؟",
+      "options": [
+        "Ich habe im Café gelernt.",
+        "Ich gelernt habe im Café.",
+        "Im Café ich habe gelernt.",
+        "Ich habe gelernt im Café gestern gemacht."
+      ],
+      "answer": 0
+    }
+
+  ]
+}

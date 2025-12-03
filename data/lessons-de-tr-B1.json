@@ -1,0 +1,1193 @@
+{
+  "level": "B1",
+  "title": "Arbeit und Beruf – İş ve Meslek",
+  "lessons": [
+    {
+      "id": "b1-arbeit-und-beruf-1",
+      "title": {
+        "de": "Arbeit und Beruf – im Büro und im Alltag",
+        "tr": "İş ve Meslek – Ofiste ve Günlük Hayatta"
+      },
+      "interactiveScene": "☕ Berlin’de pazartesi sabahı. Noa küçük bir ofiste yeni bir işe başladı.\n\nMüdür gülümseyerek içeri girer ve sorar: „Guten Morgen, Noa! Was machen Sie beruflich?“ (Günaydın Noa, meslek olarak ne yapıyorsunuz?)\nNoa kendinden emin bir şekilde cevap verir: „Ich arbeite als Softwareentwickler.“ (Yazılım geliştiricisi olarak çalışıyorum.)\n\nMola sırasında meslektaşı ona sorar: „Wo arbeitest du genau?“ (Tam olarak nerede çalışıyorsun?)\nNoa cevap verir: „Ich arbeite bei einer IT-Firma in der Innenstadt.“ (Şehir merkezinde bir IT şirketinde çalışıyorum.)\n\nAkşam arkadaşına mesaj yazar: „Ich bin müde, aber mein neuer Job ist interessant.“ (Yorgunum ama yeni işim çok ilginç.)\n\nNoa bilgisayarını kapatırken gülümser ve kendi kendine der ki: İlk gün başarıyla tamamlandı! 🎉",
+      "explanation": [
+        {
+          "de": "Über den Beruf sprechen",
+          "tr": "Mesleğinizden bahsetmek için şu ifadeleri kullanabilirsiniz:\n• Ich bin Lehrer von Beruf. (Meslek olarak öğretmenim)\n• Ich arbeite als Verkäufer. (Satıcı olarak çalışıyorum)\n• Ich arbeite bei einer Firma. (Bir şirkette çalışıyorum)\n\n**als** meslekle, **bei** ise şirket ismiyle kullanılır."
+        },
+        {
+          "de": "Fragen nach dem Beruf",
+          "tr": "Meslek sormak için:\n• Was machen Sie beruflich? (Meslek olarak ne yapıyorsunuz?)\n• Was sind Sie von Beruf? (Mesleğiniz nedir?)\n• Wo arbeiten Sie? (Nerede çalışıyorsunuz?)"
+        },
+        {
+          "de": "Typische Berufe",
+          "tr": "Bazı yaygın meslek isimleri:\n• der Arzt / die Ärztin (doktor)\n• der Lehrer / die Lehrerin (öğretmen)\n• der Verkäufer / die Verkäuferin (satıcı)\n• der Ingenieur / die Ingenieurin (mühendis)\n• der Programmierer / die Programmiererin (yazılım geliştirici/programcı)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich arbeite als Ingenieur.",
+          "tr": "Mühendis olarak çalışıyorum.",
+          "note": "resmi"
+        },
+        {
+          "de": "Ich bin Student.",
+          "tr": "Öğrenciyim.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich suche eine Arbeit.",
+          "tr": "İş arıyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich arbeite bei Siemens.",
+          "tr": "Siemens’te çalışıyorum.",
+          "note": "resmi"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\nAlmancada *sein* ve *als*’tan sonra meslek isimlerinden önce artikel kullanılmaz.\n\n✅ Ich bin Lehrer.\n❌ Ich bin ein Lehrer.\n✅ Ich arbeite als Ingenieur.\n❌ Ich arbeite als ein Ingenieur.",
+      "dialogue": [
+        {
+          "speaker": "Chef",
+          "de": "Guten Morgen, Noa! Wie war dein erster Arbeitstag?",
+          "tr": "Günaydın Noa! İlk iş günün nasıldı?"
+        },
+        {
+          "speaker": "Noa",
+          "de": "Sehr gut, danke! Die Kollegen sind freundlich und die Arbeit ist interessant.",
+          "tr": "Çok iyi, teşekkür ederim! Çalışma arkadaşlarım çok kibar ve iş çok ilgi çekici."
+        },
+        {
+          "speaker": "Chef",
+          "de": "Super! Wenn du Fragen hast, sag einfach Bescheid.",
+          "tr": "Harika! Soruların olursa sadece söyle."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich arbeite als Lehrer.",
+          "tr": "Öğretmen olarak çalışıyorum."
+        },
+        {
+          "de": "Ich bin Arzt von Beruf.",
+          "tr": "Meslek olarak doktorum."
+        },
+        {
+          "de": "Ich arbeite bei einer großen Firma.",
+          "tr": "Büyük bir şirkette çalışıyorum."
+        },
+        {
+          "de": "Was machst du beruflich?",
+          "tr": "Meslek olarak ne yapıyorsun?"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Almancada «Meslek olarak ne yapıyorsun?» nasıl sorulur?",
+          "options": [
+            "Was sind Sie von Beruf?",
+            "Wo wohnen Sie?",
+            "Wie alt sind Sie?"
+          ],
+          "answer": 0,
+          "hint": "'Was... von Beruf?' ile başlar"
+        },
+        {
+          "question": "Doğru olan hangisi? — Ich ___ als Programmierer.",
+          "options": [
+            "arbeite",
+            "bin",
+            "macht"
+          ],
+          "answer": 0,
+          "hint": "Meslekle kullanılan fiil"
+        },
+        {
+          "question": "Doğru olan hangisi? — Ich bin ___.",
+          "options": [
+            "ein Lehrer",
+            "Lehrer",
+            "der Lehrer"
+          ],
+          "answer": 1,
+          "hint": "*sein*’den sonra artikel kullanılmaz"
+        }
+      ],
+      "writingExercise": {
+        "instruction_de": "Schreibe 3–4 Sätze über deinen Beruf oder über den Beruf, den du in Zukunft machen möchtest.",
+        "instruction_tr": "Şu anki mesleğin ya da gelecekte yapmak istediğin meslek hakkında 3-4 Almanca cümle yaz.",
+        "exampleAnswer": "Ich bin Student und arbeite nebenbei in einem Café. Später möchte ich als Ingenieur arbeiten, weil ich Technik interessant finde.",
+        "keywords": ["bin", "Student", "arbeite", "als", "Ingenieur", "möchte", "werden", "weil"],
+        "feedbackHints": [
+          "Her cümlenin ilk harfi büyük olmalı.",
+          "*arbeiten* ya da *sein* fiillerini meslekle doğru kullan: Ich arbeite als ..., Ich bin ....",
+          "Neden belirtmek için *weil* kullan: Ich möchte Ingenieur werden, weil ...",
+          "Ana cümlede fiil ikinci sırada gelir."
+        ]
+      }
+    },
+    {
+      "id": "b1-gesundheit-ernaehrung-1",
+      "title": {
+        "de": "Gesundheit und Ernährung – fit bleiben im Alltag",
+        "tr": "Sağlık ve Beslenme – Günlük Hayatta Formda Kalmak"
+      },
+      "interactiveScene": "\n☀️ *Yeni bir sabah enerji ve canlılıkla başlar...*\n\nNoa daha sağlıklı bir yaşam sürmeye karar verdi.\nSabah erken kalkıyor, bir bardak su içiyor ve yoga yapıyor.\n**Er steht früh auf, trinkt ein Glas Wasser und macht Yoga.**\n\nOfiste artık fast food almıyor. Kendi yemeğini getiriyor: salata ve biraz meyve.\n**Im Büro bringt er sich eigenes Essen mit: einen Salat und etwas Obst.**\n\nArkadaşı gülümseyerek sorar: „**Warum isst du kein Fast Food mehr?**“\nNoa gülerek cevap verir: „**Ich will fit bleiben und mehr Energie haben.**“\n\nHafta sonu parkta koşuyor ve gururla diyor ki: „**Ich fühle mich besser als früher.**“",
+      "explanation": [
+        {
+          "de": "Gesunde Ernährung",
+          "tr": "Sağlıklı beslenmeden bahsetmek için:\n• Ich esse viel Obst und Gemüse. (Çok meyve ve sebze yiyorum)\n• Ich trinke viel Wasser. (Çok su içiyorum)\n• Ich vermeide Zucker und Fast Food. (Şeker ve fast food’dan uzak duruyorum)"
+        },
+        {
+          "de": "Körper und Bewegung",
+          "tr": "Fiziksel aktivite için:\n• Ich mache Sport. (Spor yapıyorum)\n• Ich gehe regelmäßig spazieren. (Düzenli olarak yürüyüş yapıyorum)\n• Ich schlafe genug. (Yeterince uyuyorum)"
+        },
+        {
+          "de": "Beim Arzt",
+          "tr": "Doktor ziyaretinde:\n• Mir geht es nicht gut. (Kendimi iyi hissetmiyorum)\n• Ich habe Kopfschmerzen. (Başım ağrıyor)\n• Ich brauche ein Rezept. (Reçeteye ihtiyacım var)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich esse gesund.",
+          "tr": "Sağlıklı besleniyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich trinke viel Wasser.",
+          "tr": "Çok su içiyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich mache jeden Tag Sport.",
+          "tr": "Her gün spor yapıyorum.",
+          "note": "tavsiye"
+        },
+        {
+          "de": "Ich fühle mich fit.",
+          "tr": "Kendimi zinde hissediyorum.",
+          "note": "günlük"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n**sich fühlen** dönüşlü bir fiildir, doğru zamirle kullanılır:\n✅ Ich fühle **mich** gut.\n✅ Du fühlst **dich** müde.\n❓ Ich fühle gut.",
+      "dialogue": [
+        {
+          "speaker": "Arzt",
+          "de": "Guten Tag, Noa. Wie fühlen Sie sich heute?",
+          "tr": "İyi günler Noa. Bugün kendinizi nasıl hissediyorsunuz?"
+        },
+        {
+          "speaker": "Noa",
+          "de": "Nicht so gut, ich habe Kopfschmerzen.",
+          "tr": "Pek iyi değilim, başım ağrıyor."
+        },
+        {
+          "speaker": "Arzt",
+          "de": "Sie sollten mehr schlafen und weniger Kaffee trinken.",
+          "tr": "Daha fazla uyumanız ve daha az kahve içmeniz gerekir."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Danke, das mache ich!",
+          "tr": "Teşekkürler, öyle yapacağım!"
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich esse gesund und trinke viel Wasser.",
+          "tr": "Sağlıklı besleniyorum ve çok su içiyorum."
+        },
+        {
+          "de": "Ich mache regelmäßig Sport.",
+          "tr": "Düzenli olarak spor yapıyorum."
+        },
+        {
+          "de": "Ich fühle mich fit und stark.",
+          "tr": "Kendimi zinde ve güçlü hissediyorum."
+        },
+        {
+          "de": "Ich gehe zum Arzt, wenn ich krank bin.",
+          "tr": "Hastalandığımda doktora gidiyorum."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Almancada «Kendimi iyi hissediyorum» nasıl söylenir?",
+          "options": [
+            "Ich fühle mich gut.",
+            "Ich bin fühlen gut.",
+            "Ich fühle gut."
+          ],
+          "answer": 0,
+          "hint": "Dönüşlü fiil – 'mich' gerekir"
+        },
+        {
+          "question": "Hangisi sağlıklıdır?",
+          "options": [
+            "Çok su içmek.",
+            "Her gün fast food yemek.",
+            "Hiç uyumamak."
+          ],
+          "answer": 0,
+          "hint": "Sağlık tavsiyesini düşün"
+        },
+        {
+          "question": "Doğru olan hangisi? — Noa ___ jeden Tag Sport.",
+          "options": [
+            "mache",
+            "macht",
+            "machen"
+          ],
+          "answer": 1,
+          "hint": "Noa = er"
+        }
+      ]
+    },
+    {
+      "id": "b1-wohnen-und-stadt-1",
+      "title": {
+        "de": "Wohnen und Stadtleben – Wohnung, Nachbarn und Alltag",
+        "tr": "Konut ve Şehir Hayatı – Daire, Komşular ve Günlük Yaşam"
+      },
+      "interactiveScene": "🏙️ Orta büyüklükte bir Alman şehrinde cuma akşamı.\nNoa üçüncü katta küçük bir dairede oturuyor.\nBugün eve yeni bir komşu taşınıyor.\n\nMerdivende Noa nazikçe: „Guten Abend, ich bin Noa. Ich wohne in der dritten Etage.“\nYeni komşu: „Merhaba, ben Karim. Bugün taşınıyorum.“\n\nAkşam Noa koridordaki ilanı okur: „Lütfen ev kurallarına uyun ve saat 22’den sonra sessiz olun.“\nNoa düşünür: Daire küçük ama komşular çok kibar ve konum mükemmel – tam metro durağının yanında.",
+      "explanation": [
+        {
+          "de": "Über die Wohnung sprechen",
+          "tr": "Konut ve daireden bahsetmek için:\n• Ich wohne in einer Wohnung im dritten Stock. (Üçüncü katta bir dairede oturuyorum)\n• Die Wohnung ist klein, aber gemütlich. (Daire küçük ama rahat)\n• Die Lage ist zentral / ruhig / perfekt. (Konum merkezi / sakin / mükemmel)"
+        },
+        {
+          "de": "Hausordnung und Nachbarn",
+          "tr": "Almanya’da genellikle *Hausordnung* (ev kuralları) vardır:\n• Bitte seien Sie nach 22 Uhr leise. (Lütfen saat 22’den sonra sessiz olun)\n• Haustiere sind erlaubt / nicht erlaubt. (Evcil hayvanlara izin verilir / verilmez)\n• Mülltrennung ist wichtig. (Çöp ayrıştırma önemlidir)\n\nKomşularla nazik ifadeler:\n• Darf ich mich vorstellen? Ich bin Noa.\n• Eğer yardıma ihtiyacınız olursa söylemeniz yeterli."
+        },
+        {
+          "de": "Wichtige Verben: wohnen, leben, umziehen",
+          "tr": "Önemli fiiller:\n• wohnen: konutla ilgili – Ich wohne in Berlin.\n• leben: daha geniş anlam – Ich lebe gern in dieser Stadt.\n• umziehen: yeni eve taşınmak – Ich ziehe nächste Woche um."
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich wohne in einer kleinen Wohnung.",
+          "tr": "Küçük bir dairede oturuyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Die Nachbarn sind sehr freundlich.",
+          "tr": "Komşular çok kibar.",
+          "note": "günlük"
+        },
+        {
+          "de": "Die Miete ist hoch, aber die Lage ist gut.",
+          "tr": "Kira yüksek ama konum iyi.",
+          "note": "günlük yaşam"
+        },
+        {
+          "de": "Bitte halten Sie die Hausordnung ein.",
+          "tr": "Lütfen ev kurallarına uyun.",
+          "note": "resmi"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1) *wohnen* ve *leben* arasındaki fark:\n• Ich wohne in einer Wohnung in der Stadt. (konut)\n• Ich lebe gern in Deutschland. (hayat)\n\n2) *in* + Dativ:\n• Ich wohne **in der Stadt**.\n• Ich wohne **in einer WG**.\n\n3) *umziehen*:\n• Ich ziehe nächste Woche um.\n• Der Umzug ist stressig, aber spannend.",
+      "dialogue": [
+        {
+          "speaker": "Noa",
+          "de": "Hallo, ich bin Noa. Ich wohne in der dritten Etage.",
+          "tr": "Merhaba, ben Noa. Üçüncü katta oturuyorum."
+        },
+        {
+          "speaker": "Karim",
+          "de": "Freut mich. Ich ziehe heute ein. Die Wohnung ist klein, aber die Lage ist super.",
+          "tr": "Tanıştığıma memnun oldum. Bugün taşınıyorum. Daire küçük ama konum harika."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Wenn du Fragen zur Hausordnung hast, kann ich dir helfen.",
+          "tr": "Ev kurallarıyla ilgili sorunuz olursa yardımcı olabilirim."
+        },
+        {
+          "speaker": "Karim",
+          "de": "Danke! Übrigens, wie sind die Nachbarn?",
+          "tr": "Teşekkürler! Bu arada komşular nasıl?"
+        },
+        {
+          "speaker": "Noa",
+          "de": "Die meisten sind freundlich und ruhig. Nur über uns wohnt eine Familie mit zwei Kindern.",
+          "tr": "Çoğu kibar ve sakin. Sadece üstümüzde iki çocuklu bir aile oturuyor."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich wohne in einer Wohnung im dritten Stock.",
+          "tr": "Üçüncü katta bir dairede oturuyorum."
+        },
+        {
+          "de": "Die Hausordnung ist in Deutschland sehr wichtig.",
+          "tr": "Almanya’da ev kuralları çok önemlidir."
+        },
+        {
+          "de": "Die Miete ist teuer, aber die Lage ist zentral.",
+          "tr": "Kira pahalı ama konum merkezi."
+        },
+        {
+          "de": "Ich ziehe nächste Woche in eine neue Wohnung um.",
+          "tr": "Gelecek hafta yeni bir daireye taşınıyorum."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Ich ziehe nächste Woche um.“ ne anlama gelir?",
+          "options": [
+            "Gelecek hafta yeni bir eve taşınıyorum.",
+            "Gelecek hafta iş arayacağım.",
+            "Gelecek hafta tatile çıkacağım."
+          ],
+          "answer": 0,
+          "hint": "*umziehen* yeni eve taşınmakla ilgilidir"
+        },
+        {
+          "question": "Doğru olan hangisi? — Ich ___ in einer WG in der Stadt.",
+          "options": [
+            "wohne",
+            "lebe gern",
+            "umziehe"
+          ],
+          "answer": 0,
+          "hint": "Daire ya da WG ile genellikle *wohnen* kullanılır"
+        },
+        {
+          "question": "Ev kurallarına uygun ve nazik olan hangisidir?",
+          "options": [
+            "Bitte halten Sie die Hausordnung ein.",
+            "Die Nachbarn sind laut.",
+            "Ich will keine Regeln."
+          ],
+          "answer": 0,
+          "hint": "Bina koridorunda asılı yazılı bir ifade düşün"
+        }
+      ]
+    },
+    {
+      "id": "b1-medien-und-internet-1",
+      "title": {
+        "de": "Medien und Internet – Kommunikation im digitalen Alltag",
+        "tr": "Medya ve İnternet – Dijital Günlük Hayatta İletişim"
+      },
+      "interactiveScene": "\n💻 *Noa’nın evinde sakin bir akşam...*\nUzun bir iş gününden sonra Noa koltukta oturmuş çay içiyor ve telefonuna bakıyor.\nHaber uygulamasını açıp politika ve bilim haberlerini okuyor.\nSosyal medyada komik bir görsel görünce gülüyor.\nBiraz sonra arkadaşını görüntülü arıyor.\nİş hakkında konuşup birlikte gülüyorlar.\nYatmadan önce Noa kendi kendine: „Daha az internet, daha fazla gerçek sohbet istiyorum.“ diyor.",
+      "explanation": [
+        {
+          "de": "Über Medien sprechen",
+          "tr": "Medyadan bahsetmek için:\n• Ich lese Nachrichten online. (Haberleri internetten okuyorum)\n• Ich höre gern Podcasts. (Podcast dinlemeyi severim)\n• Ich sehe Videos auf YouTube. (YouTube’da video izliyorum)"
+        },
+        {
+          "de": "Über Internetgewohnheiten sprechen",
+          "tr": "İnternet alışkanlıklarından bahsetmek için:\n• Ich bin oft online. (Çoğu zaman internetteyim)\n• Ich nutze das Internet jeden Tag. (Her gün internet kullanıyorum)\n• Ich telefoniere oft per Videoanruf. (Sık sık görüntülü konuşuyorum)"
+        },
+        {
+          "de": "Vorsicht im Internet!",
+          "tr": "İnternette dikkat!\n• Kişisel bilgilerini paylaşma.\n• Güvenli şifreler kullan.\n• Bilinmeyen dosyaları indirme."
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich lese Nachrichten online.",
+          "tr": "Haberleri internetten okuyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich telefoniere per Videoanruf.",
+          "tr": "Görüntülü konuşuyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich bin oft im Internet.",
+          "tr": "Çoğu zaman internetteyim.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich nutze soziale Medien jeden Tag.",
+          "tr": "Her gün sosyal medya kullanıyorum.",
+          "note": "modern"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1️⃣ *Medien* çoğuldur ve „medya“ anlamına gelir.\n2️⃣ Doğru kullanım: *im Internet* (in dem Internet değil)\n✅ Ich bin im Internet.\n3️⃣ *nutzen* ve *benutzen* eş anlamlıdır ama *nutzen* daha sık kullanılır.",
+      "dialogue": [
+        {
+          "speaker": "Noa",
+          "de": "Wie informierst du dich über das Weltgeschehen?",
+          "tr": "Dünya haberlerini nasıl takip ediyorsun?"
+        },
+        {
+          "speaker": "Karim",
+          "de": "Ich lese Nachrichten online und höre Podcasts beim Kochen.",
+          "tr": "Haberleri internetten okuyorum ve yemek yaparken podcast dinliyorum."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Benutzt du auch soziale Medien?",
+          "tr": "Sosyal medyayı da kullanıyor musun?"
+        },
+        {
+          "speaker": "Karim",
+          "de": "Ja, aber ich versuche, weniger Zeit auf Instagram zu verbringen.",
+          "tr": "Evet ama Instagram’da daha az zaman geçirmeye çalışıyorum."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Gute Idee! Man verliert sonst schnell viel Zeit online.",
+          "tr": "İyi fikir! Yoksa internette çok zaman kaybediyoruz."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich lese Nachrichten online.",
+          "tr": "Haberleri internetten okuyorum."
+        },
+        {
+          "de": "Ich telefoniere per Videoanruf.",
+          "tr": "Görüntülü konuşuyorum."
+        },
+        {
+          "de": "Ich nutze soziale Medien jeden Tag.",
+          "tr": "Her gün sosyal medya kullanıyorum."
+        },
+        {
+          "de": "Ich will weniger online sein.",
+          "tr": "Daha az internette olmak istiyorum."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Ich telefoniere per Videoanruf.“ ne anlama gelir?",
+          "options": [
+            "Görüntülü konuşuyorum.",
+            "E-posta gönderiyorum.",
+            "İnternetten müzik dinliyorum."
+          ],
+          "answer": 0,
+          "hint": "*telefonieren* telefon görüşmesi anlamına gelir"
+        },
+        {
+          "question": "Doğru kullanım hangisidir?",
+          "options": [
+            "Ich bin im Internet.",
+            "Ich bin in dem Internet.",
+            "Ich bin auf Internet."
+          ],
+          "answer": 0,
+          "hint": "*im Internet* kalıptır"
+        },
+        {
+          "question": "İyi bir internet alışkanlığı hangisidir?",
+          "options": [
+            "Kişisel bilgilerini paylaşma.",
+            "Her linke tıkla.",
+            "Her yerde aynı şifreyi kullan."
+          ],
+          "answer": 0,
+          "hint": "Güvenli ve sorumlu kullanım"
+        }
+      ]
+    },
+    {
+      "id": "b1-umwelt-und-klima-1",
+      "title": {
+        "de": "Umwelt und Klima – Nachhaltig leben im Alltag",
+        "tr": "Çevre ve İklim – Günlük Hayatta Sürdürülebilir Ya Helmholtz"
+      },
+      "interactiveScene": "\n🌳 Berlin’de güneşli bir sabah...\nNoa evden çıkarken çöplerini ayrıştırılmış kutulara atıyor.\nSokakta çocukların okula bisikletle gittiğini görüyor.\nNoa düşünür: Belki ben de arabayı bırakıp bisiklete binmeliyim.\nAkşam televizyonda iklim değişikliğiyle ilgili bir program izliyor.\nGururla der ki: „Herkes biraz çaba gösterirse dünyamız güzel kalır.“",
+      "explanation": [
+        {
+          "de": "Über Umwelt und Klima sprechen",
+          "tr": "Çevre ve iklimden bahsetmek için:\n• Ich interessiere mich für Umweltschutz. (Çevre korumayla ilgileniyorum)\n• Das Klima verändert sich. (İklim değişiyor)\n• Wir müssen Energie sparen. (Enerji tasarrufu yapmalıyız)"
+        },
+        {
+          "de": "Wichtige Wörter zum Thema Umwelt",
+          "tr": "Önemli kelimeler:\n• die Umwelt (çevre)\n• der Klimawandel (iklim değişikliği)\n• der Müll (çöp)\n• recyceln (geri dönüştürmek)\n• die Energie (enerji)\n• die Luftverschmutzung (hava kirliliği)"
+        },
+        {
+          "de": "Über nachhaltiges Leben sprechen",
+          "tr": "Sürdürülebilir yaşamdan bahsetmek için:\n• Ich benutze Stofftaschen statt Plastiktüten. (Plastik poşet yerine bez çanta kullanıyorum)\n• Ich fahre mit dem Fahrrad zur Arbeit. (İşe bisikletle gidiyorum)\n• Ich trenne den Müll. (Çöpleri ayrıştırıyorum)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich trenne den Müll.",
+          "tr": "Çöpleri ayrıştırıyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich spare Energie.",
+          "tr": "Enerji tasarrufu yapıyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich fahre mit dem Fahrrad zur Arbeit.",
+          "tr": "İşe bisikletle gidiyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Wir müssen die Umwelt schützen.",
+          "tr": "Çevreyi korumalıyız.",
+          "note": "resmi/genel"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1️⃣ *schützen* daima Akkusativ alır → die Umwelt schützen\n2️⃣ *sparen* para ve enerjiyle kullanılır → Energie/Geld sparen\n3️⃣ *Müll* sayılamaz isimdir → der Müll (die Mülls değil)",
+      "dialogue": [
+        {
+          "speaker": "Noa",
+          "de": "Ich versuche, weniger Plastik zu benutzen.",
+          "tr": "Daha az plastik kullanmaya çalışıyorum."
+        },
+        {
+          "speaker": "Karim",
+          "de": "Echt? Ich nehme immer eine Stofftasche zum Einkaufen mit.",
+          "tr": "Gerçekten mi? Alışverişe hep bez çanta götürüyorum."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Das ist gut! Ich fahre jetzt auch mit dem Fahrrad zur Arbeit.",
+          "tr": "Bu harika! Artık işe de bisikletle gidiyorum."
+        },
+        {
+          "speaker": "Karim",
+          "de": "Wenn jeder so denkt, können wir viel ändern.",
+          "tr": "Herkes böyle düşünürse çok şey değişir."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich trenne den Müll.",
+          "tr": "Çöpleri ayrıştırıyorum."
+        },
+        {
+          "de": "Ich benutze Stofftaschen statt Plastiktüten.",
+          "tr": "Plastik poşet yerine bez çanta kullanıyorum."
+        },
+        {
+          "de": "Ich spare Energie.",
+          "tr": "Enerji tasarrufu yapıyorum."
+        },
+        {
+          "de": "Wir müssen die Umwelt schützen.",
+          "tr": "Çevreyi korumalıyız."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Ich trenne den Müll.“ ne anlama gelir?",
+          "options": [
+            "Çöpleri farklı kutulara ayırıyorum.",
+            "Çöpleri sokağa atıyorum.",
+            "Her şeyi aynı poşete koyuyorum."
+          ],
+          "answer": 0,
+          "hint": "Almanya’da kağıt, cam, plastik ayrı toplanır"
+        },
+        {
+          "question": "Doğru olan hangisi? — Wir müssen ___ Umwelt schützen.",
+          "options": [
+            "die",
+            "der",
+            "dem"
+          ],
+          "answer": 0,
+          "hint": "*schützen* Akkusativ alır"
+        },
+        {
+          "question": "Çevre dostu davranış hangisidir?",
+          "options": [
+            "Bisikletle gitmek.",
+            "Işıkları hep açık bırakmak.",
+            "Plastiği ormana atmak."
+          ],
+          "answer": 0,
+          "hint": "Çevreye olumlu etki eden davranış"
+        }
+      ]
+    },
+    {
+      "id": "b1-feste-kultur-traditionen-1",
+      "title": {
+        "de": "Feste, Kultur und Traditionen – Gemeinsam feiern und verstehen",
+        "tr": "Bayramlar, Kültür ve Gelenekler – Birlikte Kutlamak ve Anlamak"
+      },
+      "interactiveScene": "🎉 Kış akşamında geleneksel bir Alman etkinliğine Noa davetli...\nIşıklar ve çiçeklerle süslenmiş salona girer.\nYaşlı bir hanımefendi gülümseyerek: „Frohes Fest!“\nNoa da gülümseyerek: „Danke, Ihnen auch!“\nİlk kez Alman yemeklerini tadıyor.\nİnsanlar halk dansları yapıyor ve neşeyle alkışlıyor.\nNoa kendi kendine: „Kültür insanları birleştirir – nereden geldikleri önemli değil.“",
+      "explanation": [
+        {
+          "de": "Über Feste sprechen",
+          "tr": "Bayramlardan bahsetmek için:\n• Ich feiere gern mit meiner Familie. (Ailemle kutlamayı severim)\n• Wir essen und tanzen zusammen. (Birlikte yeriz ve dans ederiz)\n• Zu Weihnachten gibt es Geschenke. (Noel’de hediyeler olur)"
+        },
+        {
+          "de": "Über Kultur und Traditionen sprechen",
+          "tr": "Kültür ve geleneklerden bahsetmek için:\n• Jede Kultur hat ihre eigenen Feste. (Her kültürün kendine özgü bayramları vardır)\n• Traditionen sind wichtig für die Gemeinschaft. (Gelenekler toplum için önemlidir)\n• Ich interessiere mich für andere Kulturen. (Diğer kültürlere ilgi duyuyorum)"
+        },
+        {
+          "de": "Wichtige Wörter zum Thema",
+          "tr": "Önemli kelimeler:\n• das Fest (bayram/kutlama)\n• die Kultur (kültür)\n• die Tradition (gelenek)\n• die Musik (müzik)\n• tanzen (dans etmek)\n• feiern (kutlamak)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Frohes Fest!",
+          "tr": "İyi bayramlar!",
+          "note": "bayramlarda söylenir"
+        },
+        {
+          "de": "Ich feiere mit meiner Familie.",
+          "tr": "Ailemle kutluyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Kultur verbindet Menschen.",
+          "tr": "Kültür insanları birleştirir.",
+          "note": "genel"
+        },
+        {
+          "de": "Traditionen sind wichtig.",
+          "tr": "Gelenekler önemlidir.",
+          "note": "günlük"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1️⃣ *feiern* fiili doğrudan bayram ismiyle kullanılır (ön edat yok):\n✅ Ich feiere Geburtstag.\n❌ Ich feiere zum Geburtstag.\n\n2️⃣ Çoğullar:\n✅ Traditionen, ✅ Feste\n\n3️⃣ Özel günler:\n✅ Frohe Weihnachten! 🎄\n✅ Frohes neues Jahr! 🎆",
+      "dialogue": [
+        {
+          "speaker": "Noa",
+          "de": "Was feierst du am liebsten?",
+          "tr": "En çok hangi bayramı kutlamayı seversin?"
+        },
+        {
+          "speaker": "Karim",
+          "de": "Ich liebe das Neujahrsfest, weil alle zusammen feiern.",
+          "tr": "Yılbaşını çok severim çünkü herkes birlikte kutlar."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ich mag auch Musikfeste. Die Stimmung ist immer toll!",
+          "tr": "Ben de müzik festivallerini severim. Ortam her zaman harikadır!"
+        },
+        {
+          "speaker": "Karim",
+          "de": "Stimmt! Kultur bringt Menschen näher.",
+          "tr": "Kesinlikle! Kültür insanları birbirine yaklaştırır."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich feiere gern mit meiner Familie.",
+          "tr": "Ailemle kutlamayı severim."
+        },
+        {
+          "de": "Frohes Fest!",
+          "tr": "İyi bayramlar!"
+        },
+        {
+          "de": "Kultur verbindet Menschen.",
+          "tr": "Kültür insanları birleştirir."
+        },
+        {
+          "de": "Traditionen sind wichtig.",
+          "tr": "Gelenekler önemlidir."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Frohes Fest!“ ne anlama gelir?",
+          "options": [
+            "İyi bayramlar!",
+            "İyi geceler!",
+            "Mutlu yıllar!"
+          ],
+          "answer": 0,
+          "hint": "Bayram ve kutlamalarda söylenir"
+        },
+        {
+          "question": "Doğru olan hangisi? — Kultur ___ Menschen.",
+          "options": [
+            "verbindet",
+            "versteht",
+            "verkauft"
+          ],
+          "answer": 0,
+          "hint": "*verbinden* = birleştirmek"
+        },
+        {
+          "question": "Noel’de ne denir?",
+          "options": [
+            "Frohe Weihnachten!",
+            "Gute Reise!",
+            "Guten Appetit!"
+          ],
+          "answer": 0,
+          "hint": "Noel tebriği"
+        }
+      ]
+    },
+    {
+      "id": "b1-reisen-und-erlebnisse-1",
+      "title": {
+        "de": "Reisen und Erlebnisse – Unterwegs in der Welt",
+        "tr": "Seyahat ve Deneyimler – Dünyada Yollarda"
+      },
+      "interactiveScene": "🌅 Yaz sabahı Noa ilk kez Alp Dağları’na seyahat edecek...\nSırt çantasını hazırlıyor, kamerasını ve not defterini alıyor.\nTrende pencere kenarında oturup yeşil ovaları ve yüksek dağları izliyor.\nKöyde bir yerli sorar: „Burası hoşunuza gitti mi?“\nNoa gülümseyerek: „Muhteşem! Doğa harika.“\nAkşam kamp ateşinin başında günlüğüne yazar: „Seyahat yeni hikayeler yaşamaktır.“",
+      "explanation": [
+        {
+          "de": "Über Reisen sprechen",
+          "tr": "Seyahat hakkında:\n• Ich reise gern. (Seyahat etmeyi severim)\n• Ich fahre mit dem Zug / mit dem Auto / mit dem Flugzeug. (Trenle/arabayla/uçakla gidiyorum)\n• Ich war letztes Jahr in Österreich. (Geçen yıl Avusturya’daydım)"
+        },
+        {
+          "de": "Über Erlebnisse berichten",
+          "tr": "Deneyimlerden bahsetmek için:\n• Ich habe viele interessante Menschen getroffen. (Çok ilginç insanlarla tanıştım)\n• Ich habe etwas Neues gelernt. (Yeni bir şey öğrendim)\n• Es war ein unvergessliches Erlebnis. (Unutulmaz bir deneyimdi)"
+        },
+        {
+          "de": "Wichtige Wörter zum Thema",
+          "tr": "Önemli kelimeler:\n• das Reisebüro (seyahat acentesi)\n• der Urlaub (tatil)\n• das Hotel (otel)\n• die Sehenswürdigkeit (turistik yer)\n• das Erlebnis (deneyim)\n• der Zug (tren)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich reise gern.",
+          "tr": "Seyahat etmeyi severim.",
+          "note": "günlük"
+        },
+        {
+          "de": "Es war ein tolles Erlebnis.",
+          "tr": "Harika bir deneyimdi.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich war letztes Jahr in Italien.",
+          "tr": "Geçen yıl İtalya’daydım.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich habe viele Fotos gemacht.",
+          "tr": "Çok fotoğraf çektim.",
+          "note": "çok yaygın"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1️⃣ *reisen* Perfekt’te *sein* alır → Ich bin gereist\n2️⃣ *Erlebnis* duygusal deneyim, *Erfahrung* ise meslekî tecrübedir\n3️⃣ Ulaşım aracı *mit* + Dativ alır → mit dem Zug / mit dem Bus",
+      "dialogue": [
+        {
+          "speaker": "Noa",
+          "de": "Wie war dein Urlaub, Karim?",
+          "tr": "Tatilin nasıldı Karim?"
+        },
+        {
+          "speaker": "Karim",
+          "de": "Wunderschön! Ich war am Meer und habe jeden Tag gebadet.",
+          "tr": "Harikaydı! Deniz kenarındaydım ve her gün denize girdim."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ich war in den Bergen. Wir sind gewandert und haben viele Fotos gemacht.",
+          "tr": "Ben dağlardaydım. Yürüyüş yaptık ve çok fotoğraf çektik."
+        },
+        {
+          "speaker": "Karim",
+          "de": "Das klingt super! Reisen ist die beste Schule des Lebens.",
+          "tr": "Kulağa harika geliyor! Seyahat hayatın en iyi okuludur."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich reise gern.",
+          "tr": "Seyahat etmeyi severim."
+        },
+        {
+          "de": "Ich war in den Bergen.",
+          "tr": "Dağlardaydım."
+        },
+        {
+          "de": "Es war ein unvergessliches Erlebnis.",
+          "tr": "Unutulmaz bir deneyimdi."
+        },
+        {
+          "de": "Ich habe viele Fotos gemacht.",
+          "tr": "Çok fotoğraf çektim."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Ich reise gern.“ ne anlama gelir?",
+          "options": [
+            "Seyahat etmeyi severim.",
+            "Seyahat acentesinde çalışıyorum.",
+            "Dil okulunda okuyorum."
+          ],
+          "answer": 0,
+          "hint": "*reisen* = seyahat etmek"
+        },
+        {
+          "question": "Doğru olan hangisi? — Ich fahre ___ dem Zug.",
+          "options": [
+            "mit",
+            "in",
+            "auf"
+          ],
+          "answer": 0,
+          "hint": "Ulaşım aracı her zaman *mit* alır"
+        },
+        {
+          "question": "Deneyimi anlatan cümle hangisidir?",
+          "options": [
+            "Ich habe etwas Neues erlebt.",
+            "Ich habe viel Erfahrung im Beruf.",
+            "Ich arbeite im Reisebüro."
+          ],
+          "answer": 0,
+          "hint": "Kişisel deneyim"
+        }
+      ]
+    },
+    {
+      "id": "b1-konsum-und-werbung-1",
+      "title": {
+        "de": "Konsum und Werbung – Einkaufen und beeinflusst werden",
+        "tr": "Tüketim ve Reklam – Alışveriş ve Etkilenmek"
+      },
+      "interactiveScene": "🛍️ Köln’de cumartesi günü Noa alışveriş merkezinde dolaşıyor.\nÖnünden „Jetzt 50% Rabatt!“ yazılı ışıklı tabelalar geçiyor. Noa gülerek: „Sadece bakacaktım ama belki bir şeyler alırım.“\nMağazada tezgahtar hanım: „Kann ich Ihnen helfen?“ (Yardımcı olabilir miyim?)\nNoa: „Yeni bir telefon arıyorum ama çok pahalı olmasın.“\nOn dakika sonra elinde büyük bir poşetle çıkıyor ve gülerek: „Reklam gerçekten işe yarıyor!“ diyor.",
+      "explanation": [
+        {
+          "de": "Über Konsum sprechen",
+          "tr": "Tüketim hakkında:\n• Ich kaufe gern online ein. (İnternetten alışveriş yapmayı severim)\n• Ich gebe viel Geld für Kleidung aus. (Kıyafete çok para harcıyorum)\n• Ich spare lieber, als alles sofort zu kaufen. (Hepsini hemen almaktansa biriktirmeyi tercih ederim)"
+        },
+        {
+          "de": "Über Werbung sprechen",
+          "tr": "Reklam hakkında:\n• Werbung beeinflusst unser Kaufverhalten. (Reklam satın alma davranışımızı etkiler)\n• Im Fernsehen und im Internet sieht man viele Werbespots. (Televizyon ve internette çok reklam görürüz)\n• Gute Werbung macht neugierig. (İyi reklam merak uyandırır)"
+        },
+        {
+          "de": "Wichtige Wörter zum Thema",
+          "tr": "Önemli kelimeler:\n• die Werbung (reklam)\n• der Rabatt (indirim)\n• das Sonderangebot (özel teklif)\n• das Produkt (ürün)\n• das Konsumverhalten (tüketim davranışı)\n• der Kunde / die Kundin (müşteri)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich kaufe gern online ein.",
+          "tr": "İnternetten alışveriş yapmayı severim.",
+          "note": "günlük"
+        },
+        {
+          "de": "Ich achte auf den Preis.",
+          "tr": "Fiyata dikkat ederim.",
+          "note": "günlük"
+        },
+        {
+          "de": "Es gibt heute viele Sonderangebote.",
+          "tr": "Bugün çok özel kampanya var.",
+          "note": "mağazalarda"
+        },
+        {
+          "de": "Werbung beeinflusst Menschen stark.",
+          "tr": "Reklam insanları çok etkiler.",
+          "note": "kültürel"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1️⃣ *einkaufen* → Perfekt’te *haben* alır: Ich habe eingekauft\n2️⃣ *ausgeben* → für + Akkusativ: für Kleidung ausgeben\n3️⃣ *die Werbung* genellikle tekil kullanılır\n4️⃣ İndirim: 20% Rabatt auf alle Schuhe!",
+      "dialogue": [
+        {
+          "speaker": "Verkäuferin",
+          "de": "Kann ich Ihnen helfen?",
+          "tr": "Yardımcı olabilir miyim?"
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ich suche ein neues Handy, aber es soll nicht zu teuer sein.",
+          "tr": "Yeni bir telefon arıyorum ama çok pahalı olmasın."
+        },
+        {
+          "speaker": "Verkäuferin",
+          "de": "Schauen Sie, dieses Modell ist im Angebot.",
+          "tr": "Bakın, bu model indirimde."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Perfekt! Dann nehme ich es.",
+          "tr": "Mükemmel! O zaman bunu alıyorum."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich kaufe gern online ein.",
+          "tr": "İnternetten alışveriş yapmayı severim."
+        },
+        {
+          "de": "Ich gebe viel Geld für Kleidung aus.",
+          "tr": "Kıyafete çok para harcıyorum."
+        },
+        {
+          "de": "Werbung beeinflusst unser Verhalten.",
+          "tr": "Reklam davranışlarımızı etkiler."
+        },
+        {
+          "de": "Es gibt heute viele Sonderangebote.",
+          "tr": "Bugün çok özel kampanya var."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Ich kaufe gern online ein.“ ne anlama gelir?",
+          "options": [
+            "İnternetten alışveriş yapmayı severim.",
+            "Mağazada çalışmayı severim.",
+            "Reklam izlemeyi severim."
+          ],
+          "answer": 0,
+          "hint": "*einkaufen* = alışveriş yapmak"
+        },
+        {
+          "question": "Doğru olan hangisi? — Ich gebe viel Geld ___ Kleidung aus.",
+          "options": [
+            "auf",
+            "für",
+            "in"
+          ],
+          "answer": 1,
+          "hint": "*ausgeben* her zaman *für* ile kullanılır"
+        },
+        {
+          "question": "Sonderangebot nedir?",
+          "options": [
+            "Özel indirim ya da kampanya.",
+            "Yeni ürün.",
+            "Kargo hizmeti."
+          ],
+          "answer": 0,
+          "hint": "Mağazalarda indirim zamanı kullanılır"
+        }
+      ]
+    },
+    {
+      "id": "b1-schule-und-zukunft-1",
+      "title": {
+        "de": "Schule, Bildung und Zukunft – Lernen, träumen und planen",
+        "tr": "Okul, Eğitim ve Gelecek – Öğrenmek, Hayal Kurmak ve Plan Yapmak"
+      },
+      "interactiveScene": "📚 Berlin’de güneşli bir sabah, Noa Almanca kursunda...\nÖğretmen sorar: „Noa, neden Almanca öğreniyorsun?“\nNoa gülümseyerek: „Almanya’da üniversite okumak ve ileride mühendis olmak istiyorum.“\nTeneffüste arkadaşı Ahmed’e sorar: „Dersleri nasıl buluyorsun?“\nAhmed: „İlginç ama bazen zor.“\nAkşam günlüğüne yazar: „Asla pes etmeyeceğim.“ 🌟",
+      "explanation": [
+        {
+          "de": "Über die Schule sprechen",
+          "tr": "Okuldan bahsetmek için:\n• Ich gehe in die Schule. (Okula gidiyorum)\n• Ich habe viele Fächer. (Birçok dersim var)\n• Mein Lieblingsfach ist Deutsch. (En sevdiğim ders Almanca)"
+        },
+        {
+          "de": "Über Bildung und Zukunft sprechen",
+          "tr": "Eğitim ve gelecek hakkında:\n• Ich möchte studieren. (Üniversite okumak istiyorum)\n• Ich will eine gute Ausbildung machen. (İyi bir meslek eğitimi almak istiyorum)\n• Ich hoffe, in Zukunft einen guten Job zu finden. (İleride iyi bir iş bulmayı umuyorum)"
+        },
+        {
+          "de": "Wichtige Wörter",
+          "tr": "Önemli kelimeler:\n• die Schule (okul)\n• das Studium (üniversite eğitimi)\n• die Ausbildung (meslek eğitimi)\n• die Zukunft (gelecek)\n• das Fach (ders)\n• der Lehrer / die Lehrerin (öğretmen)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich möchte in Deutschland studieren.",
+          "tr": "Almanya’da üniversite okumak istiyorum.",
+          "note": "günlük"
+        },
+        {
+          "de": "Mein Lieblingsfach ist Mathematik.",
+          "tr": "En sevdiğim ders matematik.",
+          "note": "okul"
+        },
+        {
+          "de": "Ich will einen guten Beruf lernen.",
+          "tr": "İyi bir meslek öğrenmek istiyorum.",
+          "note": "hedef"
+        },
+        {
+          "de": "Ich hoffe, bald meine Prüfung zu bestehen.",
+          "tr": "Yakında sınavı geçmeyi umuyorum.",
+          "note": "gelecek"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1️⃣ *studieren* = üniversite okumak → Ich studiere Medizin\n   *lernen* = genel öğrenme → Ich lerne Deutsch\n2️⃣ *Ausbildung* = meslek eğitimi → Ich mache eine Ausbildung als Mechaniker\n3️⃣ Umut için: Ich hoffe, dass ...",
+      "dialogue": [
+        {
+          "speaker": "Lehrerin",
+          "de": "Noa, warum lernst du Deutsch?",
+          "tr": "Noa, neden Almanca öğreniyorsun?"
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ich möchte in Deutschland studieren.",
+          "tr": "Almanya’da üniversite okumak istiyorum."
+        },
+        {
+          "speaker": "Lehrerin",
+          "de": "Das ist ein gutes Ziel!",
+          "tr": "Bu harika bir hedef!"
+        },
+        {
+          "speaker": "Ahmed",
+          "de": "Ich will später auch studieren, aber zuerst mache ich eine Ausbildung.",
+          "tr": "İleride ben de okumak istiyorum ama önce meslek eğitimi alacağım."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Ich gehe in die Schule.",
+          "tr": "Okula gidiyorum."
+        },
+        {
+          "de": "Ich möchte studieren.",
+          "tr": "Üniversite okumak istiyorum."
+        },
+        {
+          "de": "Ich hoffe, in Zukunft einen guten Job zu finden.",
+          "tr": "İleride iyi bir iş bulmayı umuyorum."
+        },
+        {
+          "de": "Mein Lieblingsfach ist Deutsch.",
+          "tr": "En sevdiğim ders Almanca."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Ich möchte in Deutschland studieren.“ ne anlama gelir?",
+          "options": [
+            "Almanya’da üniversite okumak istiyorum.",
+            "Almanya’da çalışıyorum.",
+            "Sadece Almanca öğrenmek istiyorum."
+          ],
+          "answer": 0,
+          "hint": "*möchte* = istiyorum"
+        },
+        {
+          "question": "Doğru olan hangisi? — Ich mache eine ___ als Elektriker.",
+          "options": [
+            "Lehre",
+            "Ausbildung",
+            "Studium"
+          ],
+          "answer": 1,
+          "hint": "El ya da teknik meslekler için"
+        },
+        {
+          "question": "„Umarım sınavı geçerim“ nasıl söylenir?",
+          "options": [
+            "Ich hoffe, dass ich die Prüfung bestehe.",
+            "Ich will die Prüfung lernen.",
+            "Ich mache eine Prüfung."
+          ],
+          "answer": 0,
+          "hint": "*hoffe* + dass cümlesi"
+        }
+      ]
+    },
+    {
+      "id": "b1-gesellschaft-und-zusammenleben-1",
+      "title": {
+        "de": "Gesellschaft und Zusammenleben – Miteinander im Alltag",
+        "tr": "Toplum ve Birlikte Yaşama – Günlük Hayatta Bir Arada Olmak"
+      },
+      "interactiveScene": "🏘️ Küçük bir apartmanda sakin bir akşam...\nÜçüncü katta Noa, ikinci katta Alman bir aile, dördüncü katta İspanyol bir öğrenci oturuyor.\nBir gün asansör bozuluyor, yaşlı bir komşu ağır çantalar taşıyor. Noa hemen yardım ediyor.\nKadın gülümseyerek: „Danke, das ist sehr nett von Ihnen.“\nNoa: „Rica ederim, sonuçta aynı binada yaşıyoruz.“\nAkşam bazı komşular bina önündeki bahçede toplanıyor, sohbet ediyor, gülüyor ve yemek paylaşıyor.",
+      "explanation": [
+        {
+          "de": "Über Zusammenleben sprechen",
+          "tr": "Birlikte yaşamadan bahsetmek için:\n• Wir wohnen zusammen in einem Haus. (Aynı binada oturuyoruz)\n• Wir respektieren unsere Nachbarn. (Komşularımıza saygı gösteriyoruz)\n• Gute Nachbarschaft ist wichtig. (İyi komşuluk önemlidir)"
+        },
+        {
+          "de": "Über Gesellschaft sprechen",
+          "tr": "Toplum hakkında:\n• In unserer Gesellschaft leben viele verschiedene Menschen. (Toplumumuzda farklı insanlar yaşıyor)\n• Respekt und Toleranz sind wichtig. (Saygı ve hoşgörü önemlidir)\n• Jeder soll die gleichen Chancen haben. (Herkes eşit şansa sahip olmalı)"
+        },
+        {
+          "de": "Hilfsbereitschaft und Regeln",
+          "tr": "Yardımseverlik ve kurallar:\n• Komşularım zor durumda kalırsa yardım ederim.\n• Binada herkes için kurallar var.\n• Başkalarına karşı düşünceli olmak demek onların durumuna dikkat etmek."
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Wir wohnen in einer multikulturellen Nachbarschaft.",
+          "tr": "Çok kültürlü bir mahallede oturuyoruz.",
+          "note": "toplum tanımı"
+        },
+        {
+          "de": "Gute Nachbarschaft ist mir wichtig.",
+          "tr": "İyi komşuluk benim için önemlidir.",
+          "note": "günlük"
+        },
+        {
+          "de": "Wir respektieren einander.",
+          "tr": "Birbirimize saygı gösteriyoruz.",
+          "note": "sosyal değer"
+        },
+        {
+          "de": "Wir helfen uns gegenseitig.",
+          "tr": "Birbirimize yardım ediyoruz.",
+          "note": "pozitif"
+        }
+      ],
+      "tip": "💡 **Dil ipucu:**\n1️⃣ *miteinander* = birlikte / karşılıklı\n2️⃣ *gegeneinander* = birbirine karşı\n3️⃣ *respektieren* → Akkusativ alır\n4️⃣ *füreinander da sein* = birbirimiz için orada olmak",
+      "dialogue": [
+        {
+          "speaker": "Noa",
+          "de": "Wie findest du unsere Nachbarschaft?",
+          "tr": "Mahallemizi nasıl buluyorsun?"
+        },
+        {
+          "speaker": "Karim",
+          "de": "Ich finde sie toll. Die Leute sind freundlich und hilfsbereit.",
+          "tr": "Harika buluyorum. İnsanlar kibar ve yardımsever."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ja, wir haben hier eine multikulturelle Gemeinschaft.",
+          "tr": "Evet, burada çok kültürlü bir topluluk var."
+        },
+        {
+          "speaker": "Karim",
+          "de": "Das mag ich. Man lernt viel voneinander.",
+          "tr": "Bunu seviyorum. İnsanlar birbirinden çok şey öğreniyor."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Gute Nachbarschaft ist wichtig.",
+          "tr": "İyi komşuluk önemlidir."
+        },
+        {
+          "de": "Wir respektieren einander.",
+          "tr": "Birbirimize saygı gösteriyoruz."
+        },
+        {
+          "de": "Wir helfen uns gegenseitig.",
+          "tr": "Birbirimize yardım ediyoruz."
+        },
+        {
+          "de": "Wir leben in einer multikulturellen Gesellschaft.",
+          "tr": "Çok kültürlü bir toplumda yaşıyoruz."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "„Wir helfen uns gegenseitig.“ ne anlama gelir?",
+          "options": [
+            "Birbirimize yardım ediyoruz.",
+            "Sadece aynı binada oturuyoruz.",
+            "Birbirimizi çok eleştiriyoruz."
+          ],
+          "answer": 0,
+          "hint": "*gegenseitig* karşılıklı anlamı taşır"
+        },
+        {
+          "question": "İyi komşuluğa uyan davranış hangisidir?",
+          "options": [
+            "Wir respektieren einander.",
+            "Wir ignorieren alle Nachbarn.",
+            "Wir machen jeden Abend laute Partys."
+          ],
+          "answer": 0,
+          "hint": "Bina içinde olumlu ortam yaratan davranış"
+        },
+        {
+          "question": "„multikulturelle Gesellschaft“ ne demektir?",
+          "options": [
+            "Farklı kültürlerden insanların yaşadığı toplum.",
+            "Sadece küçük bir köyde yaşayan toplum.",
+            "Tek dil ve tek kültürün olduğu toplum."
+          ],
+          "answer": 0,
+          "hint": "multi = çok/çeşitli"
+        }
+      ]
+    }
+  ]
+}

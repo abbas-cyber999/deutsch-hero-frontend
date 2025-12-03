@@ -1,0 +1,245 @@
+{
+  "level": "A2",
+  "title_de": "Abschlussprüfung A2 – Alltag, Grammatik & Kommunikation",
+  "title_ar": "امتحان نهاية مستوى A2 – القواعد والتواصل والحياة اليومية",
+
+  "questions": [
+
+
+    {
+      "id": "a2g_01",
+      "type": "mcq",
+      "skill": "grammatik",
+      "question_de": "Wähle die richtige Form: Ich ____ gestern spät nach Hause.",
+      "question_ar": "اختر التصريف الصحيح للفعل (kommen) في جملة: «أنا عدت البارحة متأخراً إلى البيت.»",
+      "options": ["bin gekommen", "habe gekommen", "bin gekommt", "war kommen"],
+      "answer": 0,
+      "explanation": "kommt → Perfekt mit sein → ich bin gekommen."
+    },
+
+    {
+      "id": "a2g_02",
+      "type": "mcq",
+      "skill": "modalverb",
+      "question_de": "Morgen ____ ich lange arbeiten, ich habe viel zu tun.",
+      "question_ar": "أي صيغة صحيحة لفعل (müssen)؟",
+      "options": ["muss", "musst", "müssen", "müssen wir"],
+      "answer": 0,
+      "explanation": "zu ‚ich‘ passt → ich muss."
+    },
+
+    {
+      "id": "a2g_03",
+      "skill": "praeposition",
+      "question_de": "Wohin gehst du? – Ich gehe ____ die Küche.",
+      "question_ar": "اختر حرف الجر الصحيح (حركة نحو مكان: المطبخ).",
+      "options": ["in", "im", "auf dem", "bei"],
+      "answer": 0,
+      "explanation": "Bewegung in einen Raum → in + Akkusativ."
+    },
+
+    {
+      "id": "a2g_04",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung mit «weil» ist richtig?",
+      "question_ar": "أي جملة صحيحة مع «weil»؟",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Weil ich krank bin, ich bleibe zu Hause.",
+        "Ich bin krank, weil bleibe ich zu Hause."
+      ],
+      "answer": 1,
+      "explanation": "Nach ‚weil‘ steht das Verb am Ende."
+    },
+
+    {
+      "id": "a2g_05",
+      "skill": "tekamolo",
+      "question_de": "Welche Reihenfolge ist richtig (Zeit–Art–Ort)?",
+      "question_ar": "اختر ترتيب الجملة الصحيح.",
+      "options": [
+        "Ich arbeite im Büro morgen sehr lange.",
+        "Morgen im Büro ich arbeite sehr lange.",
+        "Ich arbeite morgen sehr lange im Büro.",
+        "Ich sehr lange arbeite im Büro morgen."
+      ],
+      "answer": 2,
+      "explanation": "Zeit–Art–Ort → morgen – sehr lange – im Büro."
+    },
+
+    {
+      "id": "a2g_06",
+      "skill": "frage",
+      "question_de": "Welche Frage passt zur Antwort: «Ich komme aus Syrien.»",
+      "question_ar": "أي سؤال مناسب للجملة؟",
+      "options": ["Wo wohnst du?", "Woher kommst du?", "Wohin gehst du?", "Wie alt bist du?"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_07",
+      "skill": "pronomen",
+      "question_de": "Ergänze: Ich sehe ____ morgen im Kurs.",
+      "question_ar": "أكمل بالضمير الصحيح (Akkusativ).",
+      "options": ["du", "dir", "dich", "dein"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2g_08",
+      "skill": "komparativ",
+      "question_de": "Berlin ist ____ als meine Stadt.",
+      "question_ar": "اختر صيغة المقارنة الصحيحة.",
+      "options": ["groß", "größer", "mehr groß", "am größten"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_09",
+      "skill": "perfekt",
+      "question_de": "Setze ins Perfekt: „Ich kaufe ein.“",
+      "question_ar": "حوّل للجملة في الماضي التام.",
+      "options": ["Ich habe eingekauft.", "Ich bin eingekauft.", "Ich habe eingekaufen.", "Ich bin einkaufen."],
+      "answer": 0
+    },
+
+    {
+      "id": "a2g_10",
+      "skill": "modalverb",
+      "question_de": "Ich ___ morgen länger bleiben.",
+      "question_ar": "اختر فعل Modal مناسب.",
+      "options": ["muss", "kann", "möchte", "soll"],
+      "answer": 2
+    },
+
+
+    {
+      "id": "a2w_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_ar": "ما معنى كلمة «Rechnung»؟",
+      "options": ["فاتورة", "شهادة", "حقيبة", "مكتب"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_02",
+      "skill": "wortschatz",
+      "question_de": "Welche Pluralform ist richtig? — das Kind",
+      "question_ar": "اختر صيغة الجمع الصحيحة.",
+      "options": ["die Kinder", "die Kinden", "die Kinders", "Kinderen"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_03",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Verkehr“?",
+      "question_ar": "اختر المعنى الصحيح.",
+      "options": ["حركة المرور", "المطبخ", "الحديقة", "المكتب"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_04",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort passt zu „Gute Besserung!“ ?",
+      "question_ar": "اختر الرد المناسب لعبارة «Gute Besserung!»",
+      "options": ["Danke, das ist lieb!", "Nein", "Vielleicht später", "Ich komme morgen"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_05",
+      "skill": "wortschatz",
+      "question_de": "Wähle das korrekte Verkehrsmittel: ____ Fahrrad.",
+      "question_ar": "اختر الوسيط الصحيح.",
+      "options": ["mit dem", "zu dem", "bei dem", "ins"],
+      "answer": 0
+    },
+
+    
+
+    {
+      "id": "a2l_01",
+      "skill": "lesen",
+      "question_de": "Text: „Am Samstag fährt Noa nach Hamburg. Am Sonntag kommt er zurück.“ Wann kommt er zurück?",
+      "question_ar": "متى يعود حسب النص؟",
+      "options": ["Freitag", "Samstag", "Sonntag", "Montag"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2l_02",
+      "skill": "lesen",
+      "question_de": "Text: „Die Apotheke hat heute bis 18 Uhr geöffnet.“ — Wann schließt sie?",
+      "question_ar": "متى تُغلق الصيدلية؟",
+      "options": ["17 Uhr", "18 Uhr", "19 Uhr", "20 Uhr"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2l_03",
+      "skill": "lesen",
+      "question_de": "Text: „Lisa arbeitet jeden Sonntag nicht.“ — Was bedeutet das?",
+      "question_ar": "ماذا يعني النص؟",
+      "options": ["هي تعمل فقط الأحد", "هي لا تعمل الأحد", "هي تعمل يوميًا", "هي تعمل ليلًا"],
+      "answer": 1
+    },
+
+    
+
+    {
+      "id": "a2k_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort passt? — „Entschuldigung für die Verspätung.“",
+      "question_ar": "اختر الرد المناسب.",
+      "options": ["Kein Problem, das passiert!", "Ich habe Hunger", "Der Bus kommt gleich", "Ich wohne in Köln"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_02",
+      "skill": "kommunikation",
+      "question_de": "Wähle die höfliche Form:",
+      "question_ar": "اختر الصيغة المهذبة.",
+      "options": [
+        "Könnten Sie mir bitte helfen?",
+        "Hilf mir sofort!",
+        "Komm jetzt!",
+        "Du machen helfen?"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Einladung ist freundlich und informell?",
+      "question_ar": "اختر دعوة ودية وغير رسمية.",
+      "options": [
+        "Hast du Zeit, am Samstag zu grillen?",
+        "Sie müssen am Samstag kommen.",
+        "Komm am Samstag. Ende.",
+        "Sie werden eingeladen."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_04",
+      "skill": "kommunikation",
+      "question_de": "Welche E-Mail-Anrede ist korrekt?",
+      "question_ar": "أي صيغة بداية بريد إلكتروني رسمية؟",
+      "options": [
+        "Sehr geehrte Frau Müller,",
+        "Hi Bruder,",
+        "Hallo Chef",
+        "Yo, was geht?"
+      ],
+      "answer": 0
+    }
+
+  ]
+}

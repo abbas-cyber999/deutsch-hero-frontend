@@ -1,0 +1,239 @@
+{
+  "level": "A2",
+  "title_de": "Abschlussprüfung A2 – Alltag, Grammatik & Kommunikation",
+  "title_ru": "Итоговый экзамен A2 – Повседневная жизнь, грамматика и общение",
+
+  "questions": [
+
+    {
+      "id": "a2g_01",
+      "type": "mcq",
+      "skill": "grammatik",
+      "question_de": "Wähle die richtige Form: Ich ____ gestern spät nach Hause.",
+      "question_ru": "Выберите правильную форму глагола (kommen) в предложении: «Вчера я поздно вернулся домой.»",
+      "options": ["bin gekommen", "habe gekommen", "bin gekommt", "war kommen"],
+      "answer": 0,
+      "explanation": "kommen → Perfekt с sein → ich bin gekommen."
+    },
+
+    {
+      "id": "a2g_02",
+      "type": "mcq",
+      "skill": "modalverb",
+      "question_de": "Morgen ____ ich lange arbeiten, ich habe viel zu tun.",
+      "question_ru": "Какая форма глагола (müssen) правильная?",
+      "options": ["muss", "musst", "müssen", "müssen wir"],
+      "answer": 0,
+      "explanation": "К местоимению ‚ich‘ подходит → ich muss."
+    },
+
+    {
+      "id": "a2g_03",
+      "skill": "praeposition",
+      "question_de": "Wohin gehst du? – Ich gehe ____ die Küche.",
+      "question_ru": "Выберите правильный предлог (движение в направлении места: на кухню).",
+      "options": ["in", "im", "auf dem", "bei"],
+      "answer": 0,
+      "explanation": "Движение в помещение → in + Akkusativ."
+    },
+
+    {
+      "id": "a2g_04",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung mit «weil» ist richtig?",
+      "question_ru": "Какое предложение с «weil» правильное?",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Weil ich krank bin, ich bleibe zu Hause.",
+        "Ich bin krank, weil bleibe ich zu Hause."
+      ],
+      "answer": 1,
+      "explanation": "После ‚weil‘ глагол стоит в конце предложения."
+    },
+
+    {
+      "id": "a2g_05",
+      "skill": "tekamolo",
+      "question_de": "Welche Reihenfolge ist richtig (Zeit–Art–Ort)?",
+      "question_ru": "Выберите правильный порядок слов в предложении.",
+      "options": [
+        "Ich arbeite im Büro morgen sehr lange.",
+        "Morgen im Büro ich arbeite sehr lange.",
+        "Ich arbeite morgen sehr lange im Büro.",
+        "Ich sehr lange arbeite im Büro morgen."
+      ],
+      "answer": 2,
+      "explanation": "Порядок: время – образ действия – место → morgen – sehr lange – im Büro."
+    },
+
+    {
+      "id": "a2g_06",
+      "skill": "frage",
+      "question_de": "Welche Frage passt zur Antwort: «Ich komme aus Syrien.»",
+      "question_ru": "Какой вопрос подходит к ответу: «Я из Сирии.»",
+      "options": ["Wo wohnst du?", "Woher kommst du?", "Wohin gehst du?", "Wie alt bist du?"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_07",
+      "skill": "pronomen",
+      "question_de": "Ergänze: Ich sehe ____ morgen im Kurs.",
+      "question_ru": "Вставьте правильное местоимение (винительный падеж).",
+      "options": ["du", "dir", "dich", "dein"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2g_08",
+      "skill": "komparativ",
+      "question_de": "Berlin ist ____ als meine Stadt.",
+      "question_ru": "Выберите правильную сравнительную степень.",
+      "options": ["groß", "größer", "mehr groß", "am größten"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_09",
+      "skill": "perfekt",
+      "question_de": "Setze ins Perfekt: „Ich kaufe ein.“",
+      "question_ru": "Переведите предложение в перфект.",
+      "options": ["Ich habe eingekauft.", "Ich bin eingekauft.", "Ich habe eingekaufen.", "Ich bin einkaufen."],
+      "answer": 0
+    },
+
+    {
+      "id": "a2g_10",
+      "skill": "modalverb",
+      "question_de": "Ich ___ morgen länger bleiben.",
+      "question_ru": "Выберите подходящий модальный глагол.",
+      "options": ["muss", "kann", "möchte", "soll"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2w_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_ru": "Что значит слово „Rechnung“?",
+      "options": ["счёт", "сертификат", "сумка", "офис"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_02",
+      "skill": "wortschatz",
+      "question_de": "Welche Pluralform ist richtig? — das Kind",
+      "question_ru": "Выберите правильную форму множественного числа.",
+      "options": ["die Kinder", "die Kinden", "die Kinders", "Kinderen"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_03",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Verkehr“?",
+      "question_ru": "Выберите правильное значение.",
+      "options": ["дорожное движение", "кухня", "сад", "офис"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_04",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort passt zu „Gute Besserung!“ ?",
+      "question_ru": "Выберите подходящий ответ на фразу «Выздоравливай!»",
+ "options": ["Спасибо, это очень мило!", "Нет", "Может быть позже", "Я приду завтра"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_05",
+      "skill": "wortschatz",
+      "question_de": "Wähle das korrekte Verkehrsmittel: ____ Fahrrad.",
+      "question_ru": "Выберите правильный предлог для средства передвижения.",
+      "options": ["mit dem", "zu dem", "bei dem", "ins"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2l_01",
+      "skill": "lesen",
+      "question_de": "Text: „Am Samstag fährt Noa nach Hamburg. Am Sonntag kommt er zurück.“ Wann kommt er zurück?",
+      "question_ru": "Когда он возвращается по тексту?",
+      "options": ["в пятницу", "в субботу", "в воскресенье", "в понедельник"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2l_02",
+      "skill": "lesen",
+      "question_de": "Text: „Die Apotheke hat heute bis 18 Uhr geöffnet.“ — Wann schließt sie?",
+      "question_ru": "Когда закрывается аптека?",
+      "options": ["в 17:00", "в 18:00", "в 19:00", "в 20:00"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2l_03",
+      "skill": "lesen",
+      "question_de": "Text: „Lisa arbeitet jeden Sonntag nicht.“ — Was bedeutet das?",
+      "question_ru": "Что значит этот текст?",
+      "options": ["Она работает только по воскресеньям", "Она не работает по воскресеньям", "Она работает каждый день", "Она работает ночью"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2k_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort passt? — „Entschuldigung für die Verspätung.“",
+      "question_ru": "Выберите подходящий ответ.",
+      "options": ["Ничего страшного, бывает!", "Я голоден", "Автобус сейчас придёт", "Я живу в Кёльне"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_02",
+      "skill": "kommunikation",
+      "question_de": "Wähle die höfliche Form:",
+      "question_ru": "Выберите вежливую форму.",
+      "options": [
+        "Не могли бы вы мне помочь?",
+        "Помоги мне немедленно!",
+        "Иди сюда сейчас!",
+        "Ты делать помогать?"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Einladung ist freundlich und informell?",
+      "question_ru": "Выберите дружеское и неформальное приглашение.",
+      "options": [
+        "У тебя есть время в субботу на шашлыки?",
+        "Вы обязаны прийти в субботу.",
+        "Приходи в субботу. Конец.",
+        "Вы приглашены."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_04",
+      "skill": "kommunikation",
+      "question_de": "Welche E-Mail-Anrede ist korrekt?",
+      "question_ru": "Какое обращение в официальном письме правильное?",
+      "options": [
+        "Уважаемая госпожа Мюллер,",
+        "Привет, брат,",
+        "Привет, шеф",
+        "Йо, как дела?"
+      ],
+      "answer": 0
+    }
+
+  ]
+}

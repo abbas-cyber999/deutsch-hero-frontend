@@ -1,0 +1,1007 @@
+{
+"level": "A2",
+"title": "A2 – Almanca Dilbilgisi Kuralları",
+"grammar": [
+{
+"id": "A2_Grammar_01_Possessivpronomen",
+"title": {
+"tr": "Sahiplik Zamirleri",
+"de": "Possessivpronomen",
+"en": "Possessive Pronouns"
+},
+"interactiveScene": "Öğretmen diyor ki: Jeder hat etwas Eigenes! (Herkesin kendine ait bir şeyi var!) ve tahtaya yazıyor: Wessen Auto ist das? – Das ist mein Auto.",
+"explanation": [
+{ "de": "mein / meine", "tr": "benim" },
+{ "de": "dein / deine", "tr": "senin" },
+{ "de": "sein / seine", "tr": "onun (erkek)" },
+{ "de": "ihr / ihre", "tr": "onun (kadın)" },
+{ "de": "unser / unsere", "tr": "bizim" },
+{ "de": "euer / eure", "tr": "sizin (samimi çoğul)" },
+{ "de": "ihr / ihre", "tr": "onların" }
+],
+"phrasesTable": [
+{ "de": "Das ist mein Buch.", "tr": "Bu benim kitabım." },
+{ "de": "Ist das deine Tasche?", "tr": "Bu senin çantan mı?" },
+{ "de": "Ihr Hund ist süß.", "tr": "Onun köpeği tatlı." }
+],
+"tip": "Sahiplik zamiri ismin cinsiyeti ve sayısıyla uyumlu olmalı.\nÖrneğin: mein Vater – meine Mutter.",
+"dialogue": [
+{ "speaker": "👩‍🏫", "de": "Ist das euer Auto?", "tr": "Bu sizin arabanız mı?" },
+{ "speaker": "👨", "de": "Ja, das ist unser Auto.", "tr": "Evet, bu bizim arabamız." }
+],
+"summary": [
+{ "de": "mein → ich", "tr": "ben" },
+{ "de": "dein → du", "tr": "sen" },
+{ "de": "sein / ihr → er / sie", "tr": "o (erkek) / o (kadın)" },
+{ "de": "unser → wir", "tr": "biz" }
+],
+"quiz": [
+{
+"question": "____ Vater ist Arzt. (ich)",
+"options": ["Mein", "Dein", "Ihr"],
+"answer": 0,
+"hint": "ich ile → Mein."
+},
+{
+"question": "Wo ist ____ Handy? (du)",
+"options": ["mein", "dein", "sein"],
+"answer": 1,
+"hint": "du ile → dein."
+}
+]
+},
+{
+"id": "A2_Grammar_Modalverben_Teil1",
+"title": {
+"tr": "Yardımcı Fiiller – Bölüm 1 (können, müssen, sollen)",
+"de": "Modalverben – Teil 1",
+"en": "Modal verbs – Part 1"
+},
+"interactiveScene": "Öğretmen soruyor: „Kannst du Deutsch sprechen?“ 🇩🇪\nCevap veriyorsun: „Ja, ich kann ein bisschen!“ 😎\nSonra diyor ki: „Du musst mehr üben!“ 😅\nArkadaşın fısıldıyor: „Wir sollen Hausaufgaben machen…“ 📚\nVe böylece küçük ama cümleyi tamamen değiştiren fiillerle yolculuğun başlıyor!",
+"explanation": [
+{
+"de": "(Modalverben)",
+"tr": "Yardımcı fiiller başka bir fiille birlikte kullanılarak yetenek, zorunluluk veya tavsiye ifade eder.\nArdından gelen ana fiil cümlenin sonunda mastar haliyle (Infinitiv) yer alır."
+},
+{
+"de": "1. können",
+"tr": "🔹 = yapabilmek / becerebilmek"
+},
+{
+"de": "ich kann",
+"tr": "ben yapabilirim"
+},
+{
+"de": "du kannst",
+"tr": "sen yapabilirsin"
+},
+{
+"de": "er / sie / es kann",
+"tr": "o yapabilir"
+},
+{
+"de": "wir können",
+"tr": "biz yapabiliriz"
+},
+{
+"de": "ihr könnt",
+"tr": "siz yapabilirsiniz (samimi çoğul)"
+},
+{
+"de": "sie / Sie können",
+"tr": "onlar / siz yapabilirsiniz"
+},
+{
+"de": "2. müssen",
+"tr": "🔹 = zorunda olmak / mecbur olmak"
+},
+{
+"de": "ich muss",
+"tr": "ben zorunda kalırım"
+},
+{
+"de": "du musst",
+"tr": "sen zorunda kalırsın"
+},
+{
+"de": "er / sie / es muss",
+"tr": "o zorunda kalır"
+},
+{
+"de": "wir müssen",
+"tr": "biz zorunda kalırız"
+},
+{
+"de": "ihr müsst",
+"tr": "siz zorunda kalırsınız (samimi çoğul)"
+},
+{
+"de": "sie / Sie müssen",
+"tr": "onlar / siz zorunda kalırsınız"
+},
+{
+"de": "3. sollen",
+"tr": "🔹 = yapması iyi olur / tavsiye edilir"
+},
+{
+"de": "ich soll",
+"tr": "ben yapmalıyım (tavsiye)"
+},
+{
+"de": "du sollst",
+"tr": "sen yapmalısın (tavsiye)"
+},
+{
+"de": "er / sie / es soll",
+"tr": "o yapmalı (tavsiye)"
+},
+{
+"de": "wir sollen",
+"tr": "biz yapmalıyız (tavsiye)"
+},
+{
+"de": "ihr sollt",
+"tr": "siz yapmalısınız (samimi çoğul, tavsiye)"
+},
+{
+"de": "sie / Sie sollen",
+"tr": "onlar / siz yapmalısınız (tavsiye)"
+},
+{
+"de": " Ich kann gut schwimmen. / Ich muss früh aufstehen. / Du sollst lernen.",
+"tr": "💡 Hızlı kural:\nYardımcı fiil her zaman ikinci sıradadır, diğer fiil cümlenin sonunda yer alır."
+}
+],
+"phrasesTable": [
+{
+"de": "Ich kann Deutsch sprechen.",
+"tr": "Almanca konuşabilirim.",
+"note": "können → yetenek."
+},
+{
+"de": "Wir müssen morgen arbeiten.",
+"tr": "Yarın çalışmalıyız.",
+"note": "müssen → zorunluluk."
+},
+{
+"de": "Du sollst mehr schlafen.",
+"tr": "Daha fazla uyumalısın.",
+"note": "sollen → tavsiye."
+},
+{
+"de": "Er kann gut kochen.",
+"tr": "O iyi yemek yapabilir.",
+"note": "Diğer fiil sona gider."
+}
+],
+"tip": "✨ Hızlı ipucu:\n- können = yeteneğin var 🏃‍♂️\n- müssen = seçeneğin yok 😅\n- sollen = biri sana tavsiye veriyor 🤓",
+"dialogue": [
+{
+"speaker": "👩‍🏫",
+"de": "Kannst du schwimmen?",
+"tr": "Yüzme biliyor musun?"
+},
+{
+"speaker": "👨",
+"de": "Ja, ich kann gut schwimmen!",
+"tr": "Evet, iyi yüzerim!"
+},
+{
+"speaker": "👩‍🏫",
+"de": "Super! Und du musst mehr üben.",
+"tr": "Harika! Ve daha fazla pratik yapmalısın."
+}
+],
+"summary": [
+{ "de": "können = yapabilmek", "tr": "yapabilirim" },
+{ "de": "müssen = zorunda olmak", "tr": "zorundayım" },
+{ "de": "sollen = yapmalı (tavsiye)", "tr": "yapmalıyım (tavsiye)" },
+{ "de": "Modal fiil ikinci sırada, ana fiil sonda.", "tr": "Yardımcı fiil ikinci, ana fiil sonda." }
+],
+"quiz": [
+{
+"question": "Doğru cümle hangisi?",
+"options": [
+"Ich kann gut Deutsch sprechen.",
+"Ich kann sprechen gut Deutsch.",
+"Ich sprechen kann gut Deutsch."
+],
+"answer": 0,
+"hint": "Ana fiil sona gider."
+},
+{
+"question": "„müssen“ ne anlama gelir?",
+"options": [
+"İstiyorum",
+"Zorundayım",
+"Yapabilirim"
+],
+"answer": 1,
+"hint": "Zorunluluk ifadesi."
+},
+{
+"question": "„Du sollst lernen.“ ne demek?",
+"options": [
+"Öğrenmelisin (tavsiye).",
+"Öğrenebilirsin.",
+"Öğrenmek zorundasın."
+],
+"answer": 0,
+"hint": "Tavsiye veya iyi olur anlamı."
+}
+]
+},
+{
+"id": "A2_Grammar_02_Imperativ",
+"title": {
+"tr": "Emir Kipi",
+"de": "Imperativ",
+"en": "Imperative"
+},
+"interactiveScene": "Okulda öğretmen diyor ki: „Steht auf!“ (Ayağa kalkın!)\nÖğrenciler ayağa kalkıyor. Sonra: „Setzt euch!“ (Oturun!)\nHerkes oturuyor. Sonra gülüyor ve diyor: „Jetzt lernt!“ (Şimdi öğrenin!) 📖\nVe böylece emir kipini eğlenceli bir şekilde öğreniyorsun!",
+"explanation": [
+{
+"de": "Imperativ",
+"tr": "Emir kipi emir vermek, talimat veya rica için kullanılır.\n- du için: Mastar hali -en'i çıkar, -e ekle. (gehen → Geh!)\n- ihr için: Mastar hali -en'i çıkar, -t ekle. (gehen → Geht!)\n- Sie için: Mastar hali + Sie. (gehen → Gehen Sie!)"
+},
+{
+"de": "du-Form",
+"tr": "Samimi tekil için:\n- komm! (gel!)\n- mach! (yap!)\n- sei! (ol!) (sein özel hali)"
+},
+{
+"de": "ihr-Form",
+"tr": "Samimi çoğul için:\n- kommt! (gelin!)\n- macht! (yapın!)\n- seid! (olun!)"
+},
+{
+"de": "Sie-Form",
+"tr": "Resmi için:\n- kommen Sie! (gelin!)\n- machen Sie! (yapın!)\n- sein Sie! (olun!)"
+},
+{
+"de": "Bitte + Imperativ",
+"tr": "Rica etmek için 'bitte' ekle:\n- Bitte komm! (Lütfen gel!)"
+}
+],
+"phrasesTable": [
+{
+"de": "Komm her!",
+"tr": "Buraya gel! (du)",
+"note": "samimi"
+},
+{
+"de": "Kommt her!",
+"tr": "Buraya gelin! (ihr)",
+"note": "samimi çoğul"
+},
+{
+"de": "Kommen Sie her!",
+"tr": "Buraya gelin! (Sie)",
+"note": "resmi"
+},
+{
+"de": "Bitte sei leise!",
+"tr": "Lütfen sessiz ol!",
+"note": "rica"
+}
+],
+"tip": "✨ Hızlı ipucu:\n- du için: -e ekle (gib e → Gib!)\n- ihr için: -t ekle (gibt!)\n- Sie için: Cümleyi ters çevir (Gehen Sie!)\nÖzel fiiller: sein → sei! / seid! / seien Sie!",
+"dialogue": [
+{
+"speaker": "👩‍🏫",
+"de": "Steh auf!",
+"tr": "Ayağa kalk! (du)"
+},
+{
+"speaker": "👨",
+"de": "Ja, ich stehe auf.",
+"tr": "Evet, kalkıyorum."
+},
+{
+"speaker": "👩‍🏫",
+"de": "Bitte setzt euch!",
+"tr": "Lütfen oturun! (ihr)"
+},
+{
+"speaker": "👨",
+"de": "Danke!",
+"tr": "Teşekkürler!"
+}
+],
+"summary": [
+{ "de": "du: Geh!", "tr": "git! (samimi)" },
+{ "de": "ihr: Geht!", "tr": "gidin! (samimi çoğul)" },
+{ "de": "Sie: Gehen Sie!", "tr": "gidin! (resmi)" },
+{ "de": "Bitte + Imperativ = rica", "tr": "Lütfen + emir = rica" }
+],
+"quiz": [
+{
+"question": "Emir kipi (du) için: essen → ?",
+"options": [
+"Ess!",
+"Esse!",
+"Essen!"
+],
+"answer": 1,
+"hint": "Mastar -en'i çıkar, -e ekle."
+},
+{
+"question": "Resmi emir için: kommen → ?",
+"options": [
+"Komm Sie!",
+"Kommen Sie!",
+"Kommt Sie!"
+],
+"answer": 1,
+"hint": "Mastar + Sie."
+},
+{
+"question": "„Sei leise!“ ne demek?",
+"options": [
+"Sessiz ol!",
+"Gel!",
+"Otur!"
+],
+"answer": 0,
+"hint": "sein fiilinin emir hali."
+}
+]
+},
+{
+"id": "A2_Grammar_03_W-Fragen_und_Satzbau",
+"title": {
+"tr": "Soru Kelimeleri ve Cümle Yapısı",
+"de": "W-Fragen und Satzbau",
+"en": "W-questions and sentence structure"
+},
+"interactiveScene": "Bir partide arkadaşın soruyor: „Wer ist das?“ (O kim?)\nSen cevap veriyorsun: „Das ist mein Bruder.“ (O benim kardeşim.)\nSonra: „Wann kommst du?“ (Ne zaman geliyorsun?)\n„Morgen!“ (Yarın!)\nVe böylece soru kelimeleriyle günlük sohbetler daha eğlenceli hale geliyor!",
+"explanation": [
+{
+"de": "W-Fragen",
+"tr": "Soru kelimeleri (W ile başlayanlar):\n• Wer? (kim?)\n• Was? (ne?)\n• Wo? (nerede?)\n• Wann? (ne zaman?)\n• Wie? (nasıl?)\n• Warum? (neden?)\n• Wohin? (nereye?)\n• Woher? (nereden?)\nSoru kelimesinden sonra fiil gelir."
+},
+{
+"de": "Satzbau mit W-Fragen",
+"tr": "Soru cümlelerinde: Soru kelimesi + fiil + özne + diğerleri.\nÖrnek: Wann kommst du? (Ne zaman geliyorsun?)"
+},
+{
+"de": "Antworten auf W-Fragen",
+"tr": "Cevaplar soru kelimesine göre değişir:\n• Wer? → Eine Person (bir kişi)\n• Wann? → Eine Zeit (bir zaman)\n• Wo? → Ein Ort (bir yer)"
+}
+],
+"phrasesTable": [
+{
+"de": "Wer ist das?",
+"tr": "O kim?",
+"note": "kişi sormak için"
+},
+{
+"de": "Wann kommst du?",
+"tr": "Ne zaman geliyorsun?",
+"note": "zaman sormak için"
+},
+{
+"de": "Wo wohnst du?",
+"tr": "Nerede oturuyorsun?",
+"note": "yer sormak için"
+},
+{
+"de": "Warum lernst du Deutsch?",
+"tr": "Neden Almanca öğreniyorsun?",
+"note": "neden sormak için"
+}
+],
+"tip": "✨ Hızlı ipucu:\nSoru cümlelerinde fiil her zaman soru kelimesinden hemen sonra gelir. (Wann kommst du? – Ne zaman geliyorsun?)\nEvet/Hayır soruları için: Fiil başta. (Kommst du? – Geliyor musun?)",
+"dialogue": [
+{
+"speaker": "👩",
+"de": "Wer bist du?",
+"tr": "Sen kimsin?"
+},
+{
+"speaker": "👨",
+"de": "Ich bin Noa.",
+"tr": "Ben Noa'yım."
+},
+{
+"speaker": "👩",
+"de": "Wann hast du Zeit?",
+"tr": "Ne zaman vaktin var?"
+},
+{
+"speaker": "👨",
+"de": "Morgen Abend.",
+"tr": "Yarın akşam."
+}
+],
+"summary": [
+{ "de": "Wer? = kim?", "tr": "kim?" },
+{ "de": "Wann? = ne zaman?", "tr": "ne zaman?" },
+{ "de": "Wo? = nerede?", "tr": "nerede?" },
+{ "de": "Warum? = neden?", "tr": "neden?" }
+],
+"quiz": [
+{
+"question": "„Wer bist du?“ ne demek?",
+"options": [
+"Sen kimsin?",
+"Ne zaman?",
+"Nerede?"
+],
+"answer": 0,
+"hint": "Kişi sorusu."
+},
+{
+"question": "Doğru cümle hangisi?",
+"options": [
+"Wann kommst du?",
+"Du kommst wann?",
+"Kommst wann du?"
+],
+"answer": 0,
+"hint": "Soru kelimesi + fiil + özne."
+},
+{
+"question": "„Warum?“ ne sorar?",
+"options": [
+"Neden?",
+"Nerede?",
+"Kim?"
+],
+"answer": 0,
+"hint": "Sebep sorusu."
+}
+]
+},
+{
+"id": "A2_Grammar_04_Akkusativ_Objekte",
+"title": {
+"tr": "Akkusativ Nesneler",
+"de": "Akkusativ-Objekte",
+"en": "Accusative objects"
+},
+"interactiveScene": "Markette alışveriş yapıyorsun. Kasiyer soruyor: „Haben Sie eine Tüte?“ (Poşetiniz var mı?)\nSen: „Ja, ich habe eine Tüte.“ (Evet, poşetim var.)\nSonra: „Ich kaufe das Brot.“ (Bu ekmeği alıyorum.)\nVe böylece akkusativ halini günlük hayatta kullanıyorsun!",
+"explanation": [
+{
+"de": "Akkusativ",
+"tr": "Akkusativ hali nesneyi gösterir (fiilin etkilediği şey).\nBelirli artikeller:\n- der → den\n- die → die\n- das → das\n- die (çoğul) → die\nBelirsiz artikeller:\n- ein → einen\n- eine → eine\n- ein → ein"
+},
+{
+"de": "Verben mit Akkusativ",
+"tr": "Bazı fiiller akkusativ alır:\n• haben (sahip olmak)\n• essen (yemek)\n• trinken (içmek)\n• kaufen (satın almak)\n• sehen (görmek)"
+},
+{
+"de": "Beispiele",
+"tr": "Örnekler:\n• Ich habe den Apfel. (Elmam var.)\n• Ich esse das Brot. (Ekmeği yiyorum.)\n• Ich kaufe eine Tasche. (Bir çanta alıyorum.)"
+}
+],
+"phrasesTable": [
+{
+"de": "Ich habe den Ball.",
+"tr": "Topum var.",
+"note": "der → den"
+},
+{
+"de": "Ich esse die Banane.",
+"tr": "Muzu yiyorum.",
+"note": "die → die"
+},
+{
+"de": "Ich trinke das Wasser.",
+"tr": "Suyu içiyorum.",
+"note": "das → das"
+},
+{
+"de": "Ich kaufe einen Computer.",
+"tr": "Bir bilgisayar alıyorum.",
+"note": "ein → einen"
+}
+],
+"tip": "✨ Hızlı ipucu:\nAkkusativ'i 'den' ile hatırla: Erkek isimler der → den olur. Diğerleri aynı kalır.\nSoru: Wen oder was? (Kimi veya neyi?)",
+"dialogue": [
+{
+"speaker": "👩",
+"de": "Hast du den Apfel?",
+"tr": "Elman var mı?"
+},
+{
+"speaker": "👨",
+"de": "Ja, ich habe den Apfel.",
+"tr": "Evet, elmam var."
+},
+{
+"speaker": "👩",
+"de": "Iss die Banane!",
+"tr": "Muzu ye!"
+}
+],
+"summary": [
+{ "de": "der → den", "tr": "erkek isim → den" },
+{ "de": "ein → einen", "tr": "bir (erkek) → einen" },
+{ "de": "die / das / eine / ein → aynı kalır", "tr": "diğerleri değişmez" },
+{ "de": "Fiiller: haben, essen, trinken, kaufen", "tr": "Fiiller: haben, essen, trinken, kaufen" }
+],
+"quiz": [
+{
+"question": "Ich kaufe ___ Auto. (das)",
+"options": [
+"das",
+"den",
+"dem"
+],
+"answer": 0,
+"hint": "das değişmez."
+},
+{
+"question": "Ich sehe ___ Mann. (der)",
+"options": [
+"den",
+"der",
+"das"
+],
+"answer": 0,
+"hint": "der → den"
+},
+{
+"question": "Ich habe ___ Tasche. (eine)",
+"options": [
+"eine",
+"einen",
+"ein"
+],
+"answer": 0,
+"hint": "eine değişmez."
+}
+]
+},
+{
+"id": "A2_Grammar_05_Präteritum",
+"title": {
+"tr": "Präteritum (Basit Geçmiş Zaman)",
+"de": "Präteritum",
+"en": "Simple Past Tense"
+},
+"interactiveScene": "Dün arkadaşınla parkta oynadın. Bugün anlatıyorsun: „Gestern war ich im Park.“ (Dün parkta idim.)\nSonra: „Ich spielte Fußball.“ (Futbol oynadım.)\nVe böylece geçmiş zamanı öğreniyorsun!",
+"explanation": [
+{
+"de": "Präteritum",
+"tr": "Basit geçmiş zaman (hikaye anlatmak için):\nDüzenli fiiller: Mastar -en'i çıkar, -te ekle + çekim.\nÖrnek: lernen → lernte\n- ich lernte\n- du lerntest\n- er lernte\n- wir lernten\n- ihr lerntet\n- sie lernten"
+},
+{
+"de": "Unregelmäßige Verben",
+"tr": "Düzensiz fiiller kök değiştirir:\n• sein → war (idim)\n• haben → hatte (vardı)\n• gehen → ging (gitti)\n• essen → aß (yedi)"
+},
+{
+"de": "Beispiele",
+"tr": "Örnekler:\n• Ich war müde. (Yorgundum.)\n• Er hatte Zeit. (Vakti vardı.)\n• Wir gingen spazieren. (Yürüyüşe çıktık.)"
+}
+],
+"phrasesTable": [
+{
+"de": "Gestern war ich im Park.",
+"tr": "Dün parkta idim.",
+"note": "sein → war"
+},
+{
+"de": "Ich hatte Hunger.",
+"tr": "Açtım.",
+"note": "haben → hatte"
+},
+{
+"de": "Er ging nach Hause.",
+"tr": "Eve gitti.",
+"note": "gehen → ging"
+},
+{
+"de": "Wir lernten Deutsch.",
+"tr": "Almanca öğrendik.",
+"note": "düzenli"
+}
+],
+"tip": "✨ Hızlı ipucu:\nPräteritum hikaye anlatmak için kullanılır. Günlük konuşmada Perfekt daha yaygındır.\nsein ve haben gibi fiiller her zaman düzensizdir.",
+"dialogue": [
+{
+"speaker": "👩",
+"de": "Was hast du gestern gemacht?",
+"tr": "Dün ne yaptın?"
+},
+{
+"speaker": "👨",
+"de": "Ich war im Park und spielte Fußball.",
+"tr": "Parkta idim ve futbol oynadım."
+},
+{
+"speaker": "👩",
+"de": "War es schön?",
+"tr": "Güzel miydi?"
+},
+{
+"speaker": "👨",
+"de": "Ja, es war toll!",
+"tr": "Evet, harikaydı!"
+}
+],
+"summary": [
+{ "de": "Düzenli: -te + çekim", "tr": "düzenli: -te + çekim" },
+{ "de": "sein → war", "tr": "idim" },
+{ "de": "haben → hatte", "tr": "vardı" },
+{ "de": "Hikaye anlatmak için", "tr": "hikaye için" }
+],
+"quiz": [
+{
+"question": "gehen → Präteritum (ich): ?",
+"options": [
+"ging",
+"gehte",
+"gehtet"
+],
+"answer": 0,
+"hint": "düzensiz kök değişimi."
+},
+{
+"question": "lernen → Präteritum (wir): ?",
+"options": [
+"lernten",
+"lerntet",
+"lernte"
+],
+"answer": 0,
+"hint": "wir için -ten."
+},
+{
+"question": "sein → Präteritum (er): ?",
+"options": [
+"war",
+"waren",
+"warst"
+],
+"answer": 0,
+"hint": "er için war."
+}
+]
+},
+{
+"id": "A2_Grammar_06_Separablen_Verben",
+"title": {
+"tr": "Ayrılabilir Fiiller",
+"de": "Separablen Verben",
+"en": "Separable verbs"
+},
+"interactiveScene": "Sabah kalkıyorsun: „Ich stehe auf.“ (Kalkıyorum.)\nSonra telefon çalıyor: „Ich rufe an!“ (Arıyorum!)\nVe böylece ayrılabilir fiillerle günlük hayatı öğreniyorsun!",
+"explanation": [
+{
+"de": "Separablen Verben",
+"tr": "Ayrılabilir fiiller ön ek alır (an-, ab-, aus-, ein- vb.)\nCümlede ön ek sona gider.\nÖrnek: aufstehen → Ich stehe auf. (Kalkıyorum.)\nankommen → Der Zug kommt an. (Tren geliyor.)"
+},
+{
+"de": "Häufige Verben",
+"tr": "Yaygın örnekler:\n• anrufen (aramak) → Ich rufe an.\n• einkaufen (alışveriş yapmak) → Ich kaufe ein.\n• ausgehen (dışarı çıkmak) → Ich gehe aus.\n• mitnehmen (yanında almak) → Ich nehme mit."
+},
+{
+"de": "In anderen Sätzen",
+"tr": "Soru veya geçmişte ön ek sona gider:\n• Wann stehst du auf? (Ne zaman kalkıyorsun?)\n• Ich stand um 7 Uhr auf. (7'de kalktım.)"
+}
+],
+"phrasesTable": [
+{
+"de": "Ich rufe dich an.",
+"tr": "Seni arıyorum.",
+"note": "an- sona gider"
+},
+{
+"de": "Der Film fängt an.",
+"tr": "Film başlıyor.",
+"note": "anfangen → fängt an"
+},
+{
+"de": "Ich gehe aus.",
+"tr": "Dışarı çıkıyorum.",
+"note": "ausgehen → gehe aus"
+},
+{
+"de": "Ich kaufe ein.",
+"tr": "Alışveriş yapıyorum.",
+"note": "einkaufen → kaufe ein"
+}
+],
+"tip": "✨ Hızlı ipucu:\nAyrılabilir fiillerde ön ek (an, aus vb.) cümlenin sonuna gider. Geçmiş zamanda ön ek sona kalır: Ich rief an. (Aradım.)",
+"dialogue": [
+{
+"speaker": "👩",
+"de": "Wann stehst du auf?",
+"tr": "Ne zaman kalkıyorsun?"
+},
+{
+"speaker": "👨",
+"de": "Ich stehe um 7 Uhr auf.",
+"tr": "7'de kalkıyorum."
+},
+{
+"speaker": "👩",
+"de": "Ruf mich an!",
+"tr": "Beni ara!"
+},
+{
+"speaker": "👨",
+"de": "Okay, ich rufe dich an.",
+"tr": "Tamam, seni arıyorum."
+}
+],
+"summary": [
+{ "de": "Ön ek sona gider", "tr": "ön ek sona gider" },
+{ "de": "anrufen → rufe an", "tr": "arar → rufe an" },
+{ "de": "aufstehen → stehe auf", "tr": "kalkar → stehe auf" },
+{ "de": "Geçmişte: rief an", "tr": "geçmiş: rief an" }
+],
+"quiz": [
+{
+"question": "aufstehen → Ich ...",
+"options": [
+"stehe auf",
+"auf stehe",
+"steheauf"
+],
+"answer": 0,
+"hint": "ön ek sona."
+},
+{
+"question": "einkaufen → Wir ...",
+"options": [
+"kaufen ein",
+"ein kaufen",
+"kaufenein"
+],
+"answer": 0,
+"hint": "ein sona gider."
+},
+{
+"question": "Geçmişte: anrufen → Ich ...",
+"options": [
+"rief an",
+"an rief",
+"riefan"
+],
+"answer": 0,
+"hint": "ön ek sona kalır."
+}
+]
+},
+{
+"id": "A2_Grammar_07_Negation",
+"title": {
+"tr": "Olumsuzluk",
+"de": "Negation",
+"en": "Negation"
+},
+"interactiveScene": "Arkadaşın soruyor: „Bist du müde?“ (Yorgun musun?)\nSen: „Nein, ich bin nicht müde.“ (Hayır, yorgun değilim.)\nSonra: „Hast du ein Auto?“ (Araban var mı?)\n„Nein, ich habe kein Auto.“ (Hayır, arabam yok.)\nVe böylece olumsuz cümleleri öğreniyorsun!",
+"explanation": [
+{
+"de": "nicht",
+"tr": "nicht fiil veya sıfatı olumsuz yapar, cümlenin sonunda yer alır.\n• Ich bin nicht müde. (Yorgun değilim.)\n• Ich gehe nicht aus. (Dışarı çıkmıyorum.)"
+},
+{
+"de": "kein/keine",
+"tr": "kein belirsiz isimleri olumsuz yapar:\n• Ich habe kein Auto. (Arabam yok.)\n• Keine Zeit. (Vaktim yok.)"
+},
+{
+"de": "Andere Negationen",
+"tr": "Diğer olumsuz kelimeler:\n• nichts (hiçbir şey)\n• niemand (hiç kimse)\n• nie (asla)"
+}
+],
+"phrasesTable": [
+{
+"de": "Ich bin nicht müde.",
+"tr": "Yorgun değilim.",
+"note": "nicht + sıfat"
+},
+{
+"de": "Ich habe kein Geld.",
+"tr": "Param yok.",
+"note": "kein + isim"
+},
+{
+"de": "Ich sehe nichts.",
+"tr": "Hiçbir şey görmüyorum.",
+"note": "nichts"
+},
+{
+"de": "Niemand kommt.",
+"tr": "Kimse gelmiyor.",
+"note": "niemand"
+}
+],
+"tip": "✨ Hızlı ipucu:\n- nicht fiil veya sıfattan sonra: Ich gehe nicht.\n- kein isimden önce: kein Problem.\nOlumsuz cümlelerde nein ile başla.",
+"dialogue": [
+{
+"speaker": "👩",
+"de": "Bist du müde?",
+"tr": "Yorgun musun?"
+},
+{
+"speaker": "👨",
+"de": "Nein, ich bin nicht müde.",
+"tr": "Hayır, yorgun değilim."
+},
+{
+"speaker": "👩",
+"de": "Hast du Zeit?",
+"tr": "Vaktin var mı?"
+},
+{
+"speaker": "👨",
+"de": "Nein, ich habe keine Zeit.",
+"tr": "Hayır, vaktim yok."
+}
+],
+"summary": [
+{ "de": "nicht = değil (fiil/sıfat)", "tr": "değil (fiil/sıfat)" },
+{ "de": "kein = yok (isim)", "tr": "yok (isim)" },
+{ "de": "nichts = hiçbir şey", "tr": "hiçbir şey" },
+{ "de": "niemand = hiç kimse", "tr": "hiç kimse" }
+],
+"quiz": [
+{
+"question": "Ich bin ___ müde.",
+"options": [
+"nicht",
+"kein",
+"nichts"
+],
+"answer": 0,
+"hint": "sıfat olumsuzluğu"
+},
+{
+"question": "Ich habe ___ Auto.",
+"options": [
+"kein",
+"nicht",
+"niemand"
+],
+"answer": 0,
+"hint": "isim olumsuzluğu"
+},
+{
+"question": "Ich sehe ___.",
+"options": [
+"nichts",
+"kein",
+"nicht"
+],
+"answer": 0,
+"hint": "hiçbir şey"
+}
+]
+},
+{
+"id": "a2-lebenslauf-komplett",
+"title": {
+"de": "Lebenslauf – einfache Version",
+"tr": "Özgeçmiş – Basit Versiyon"
+},
+"interactiveScene": "📍 Almanya'da bir kariyer danışmanlık ofisinde Noa danışman Fabienne ile oturuyor.\n\nFabienne: Guten Morgen, Noa! Hast du schon deinen Lebenslauf dabei?\n\nNoa: Ähm… Lebenslauf? 😅\n\nFabienne: Ja! Das ist dein berufliches Selfie – aber auf Papier!\n\n*(Gülüyor ve basit bir özgeçmiş örneği gösteriyor.)*\n\nFabienne: Kein Stress. Wir schreiben das zusammen!",
+"explanation": [
+{
+"de": "Was ist ein Lebenslauf?",
+"tr": "Almanca özgeçmiş Lebenslauf olarak adlandırılır ve 'hayat yolu' anlamına gelir. Hikaye değil, basit bir tablo ile kim olduğun, nerede okuduğun ve nerede çalıştığın özetlenir."
+},
+{
+"de": "Struktur eines Lebenslaufs",
+"tr": "Özgeçmiş genellikle şu bölümlerden oluşur:\n• 👤 Persönliche Daten (Kişisel Bilgiler)\n• 🎓 Ausbildung (Eğitim)\n• 💼 Berufserfahrung (İş Deneyimi)\n• 🗣️ Sprachkenntnisse (Dil Becerileri)\n• 🎯 Interessen (İlgi Alanları)"
+},
+{
+"de": "Beispiel – Persönliche Daten",
+"tr": "Name: Noa Müller\nGeburtsdatum: 12. Mai 2000\nAdresse: Berlin, Hauptstraße 10\nTelefon: 0157 1234567\nE-Mail: noa.mueller@mail.de"
+},
+{
+"de": "Beispiel – Ausbildung & Erfahrung",
+"tr": "2016–2019: Schule in Berlin\n2020–2022: Ausbildung als Verkäufer\n2022–2024: Verkäufer bei Lidl"
+},
+{
+"de": "Beispiel – Sprachen & Interessen",
+"tr": "Deutsch: B1\nEnglisch: A2\nArabisch: Muttersprache\nInteressen: Lesen, Musik, Reisen"
+}
+],
+"phrasesTable": [
+{
+"de": "Ich habe eine Ausbildung als Verkäufer gemacht.",
+"tr": "Satıcı olarak mesleki eğitim aldım."
+},
+{
+"de": "Ich arbeite seit 2022 bei Lidl.",
+"tr": "2022'den beri Lidl'de çalışıyorum."
+},
+{
+"de": "Ich habe an der Schule in Berlin gelernt.",
+"tr": "Berlin'de bir okulda okudum."
+},
+{
+"de": "Ich spreche Deutsch und Arabisch.",
+"tr": "Almanca ve Arapça konuşuyorum."
+},
+{
+"de": "Meine Hobbys sind Musik und Reisen.",
+"tr": "Hobilerim müzik ve seyahat."
+}
+],
+"tip": "💡 Dil bilgisi:\nAlmanca özgeçmişte uzun cümleler yazma. Bilgileri basit ve düzenli olarak belirt.\n\n✅ Doğru örnek:\nAusbildung als Verkäufer\n\n❌ Yanlış:\nIch habe eine Ausbildung als Verkäufer gemacht, weil ich gern mit Kunden arbeite.",
+"dialogue": [
+{
+"speaker": "Fabienne",
+"de": "Noa, du brauchst einen Lebenslauf für deine Bewerbung.",
+"tr": "Noa, iş başvurun için özgeçmişe ihtiyacın var."
+},
+{
+"speaker": "Noa",
+"de": "Ich weiß nicht genau, was ich schreiben soll.",
+"tr": "Tam olarak ne yazacağımı bilmiyorum."
+},
+{
+"speaker": "Fabienne",
+"de": "Kein Problem! Schreib einfach: Ausbildung, Erfahrung, Sprachen.",
+"tr": "Sorun değil! Sadece yaz: Eğitim, Deneyim, Diller."
+},
+{
+"speaker": "Noa",
+"de": "Ah, das ist ja einfach! Danke!",
+"tr": "Ah, bu çok kolay! Teşekkürler!"
+}
+],
+"summary": [
+{
+"de": "Lebenslauf = dein berufliches Profil auf Papier.",
+"tr": "Özgeçmiş = kağıt üstünde mesleki profilin."
+},
+{
+"de": "Wichtige Teile: Daten, Ausbildung, Erfahrung, Sprachen.",
+"tr": "Önemli bölümler: Bilgiler, Eğitim, Deneyim, Diller."
+},
+{
+"de": "Schreibe klar und kurz.",
+"tr": "Açık ve kısa yaz."
+}
+],
+"quiz": [
+{
+"question": "Was bedeutet 'Lebenslauf'?",
+"options": [
+"Günlük plan",
+"Hayat yolu veya mesleki profil",
+"Yemek tarifi kitabı"
+],
+"answer": 1,
+"hint": "'Leben' hayat, 'Lauf' yol anlamına gelir."
+},
+{
+"question": "Was schreibt man unter 'Ausbildung'?",
+"options": [
+"Aile isimleri",
+"Nerede ve ne öğrendiğin",
+"Hobilerin"
+],
+"answer": 1,
+"hint": "Okuduğun veya öğrendiğin yeri düşün."
+},
+{
+"question": "Özgeçmişte dil bölümü nasıl yazılır?",
+"options": [
+"Deutsch: B1, Englisch: A2",
+"Ich liebe Deutsch",
+"Sprachen sind schön"
+],
+"answer": 0,
+"hint": "Dil ve seviyeni yaz, örneğin B1 veya A2."
+}
+],
+"writingExercise": {
+"instruction_de": "Schreibe deinen einfachen Lebenslauf mit 3–5 Abschnitten.",
+"instruction_tr": "Basit özgeçmişini yaz (3–5 bölüm): Kişisel bilgiler, Eğitim, Deneyim, Diller, İlgi Alanları.",
+"exampleAnswer": "Name: Abbas Alhasan\nGeburtsdatum: 15. Juni 1993\nAdresse: Duisburg, Deutschland\nTelefon: 0157 5555555\n\nAusbildung:\n2018–2020: Ausbildung als IT-Techniker\n\nBerufserfahrung:\n2020–2024: IT-Mitarbeiter bei BBQ Institut\n\nSprachen:\nDeutsch: B1, Arabisch: Muttersprache, Englisch: B2\n\nInteressen:\nLesen, Programmieren, Reisen",
+"keywords": ["Name", "Ausbildung", "Berufserfahrung", "Sprachen", "Interessen"],
+"feedbackHints": [
+"Bilgileri düzenli ve net yaz.",
+"İsim ve adresle başla, sonra eğitim ve deneyim.",
+"Dil ve ilgi alanlarını sona koy.",
+"Gereksiz uzun cümle veya kelime kullanma."
+]
+}
+}
+]
+}

@@ -1,0 +1,448 @@
+{
+  "questions": [
+
+    {
+      "id": "a1_01",
+      "level": "A1",
+      "question": "د جملې سم ترتیب کوم دی: «زه په جرمني کې اوسېږم»؟",
+      "options": [
+        "Ich lebe in Deutschland.",
+        "Ich Deutschland lebe.",
+        "Lebe ich in Deutschland."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_02",
+      "level": "A1",
+      "question": "د جملې «Ich habe Durst» معنی څه ده؟",
+      "options": [
+        "زه تږی یم.",
+        "زه وږی یم.",
+        "زه ستړی یم."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_03",
+      "level": "A1",
+      "question": "د وخت په اړه سمه پوښتنه غوره کړه:",
+      "options": [
+        "Wie spät ist es?",
+        "Wo spät ist es?",
+        "Was spät ist?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_04",
+      "level": "A1",
+      "question": "کومه کلمه د «پخلنځي» معنی لري؟",
+      "options": [
+        "die Küche",
+        "der Keller",
+        "das Zimmer"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_05",
+      "level": "A1",
+      "question": "د «billig» کلمې سمه معنی غوره کړه",
+      "options": [
+        "ارزان",
+        "ګران",
+        "نوې"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_06",
+      "level": "A1",
+      "question": "کومه جمله سمه ده؟",
+      "options": [
+        "Ich spreche ein bisschen Deutsch.",
+        "Ich sprechen ein bisschen Deutsch.",
+        "Ich spricht ein bisschen Deutsch."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_07",
+      "level": "A1",
+      "question": "د «das Kind» جمعي بڼه څه ده؟",
+      "options": [
+        "die Kinder",
+        "die Kinden",
+        "die Kinders"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_08",
+      "level": "A1",
+      "question": "د نوم په اړه سمه پوښتنه غوره کړه:",
+      "options": [
+        "Wie heißt du?",
+        "Wo heißt du?",
+        "Was heißt du?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_09",
+      "level": "A1",
+      "question": "کوم ضمیر د جملې سره مناسب دی: „___ wohne in Berlin“؟",
+      "options": [
+        "Ich",
+        "Du",
+        "Er"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_10",
+      "level": "A1",
+      "question": "د «Arzt» کلمې ژباړه غوره کړه",
+      "options": [
+        "ډاکټر",
+        "نرس",
+        "ناروغ"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_11",
+      "level": "A1",
+      "question": "د پوښتنې «Woher kommst du?» لپاره سم ځواب غوره کړه",
+      "options": [
+        "Ich komme aus Syrien.",
+        "Ich wohne Berlin.",
+        "Ich komme syrisch."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_12",
+      "level": "A1",
+      "question": "کومه کلمه د «سوپرمارکټ» معنی لري؟",
+      "options": [
+        "der Supermarkt",
+        "die Fabrik",
+        "der Flughafen"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_13",
+      "level": "A1",
+      "question": "«Guten Morgen» کله کارول کېږي؟",
+      "options": [
+        "سهار",
+        "شپه",
+        "مازدیګر"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_14",
+      "level": "A1",
+      "question": "د ملکیت په اړه سمه جمله غوره کړه",
+      "options": [
+        "Das ist mein Auto.",
+        "Das ist mich Auto.",
+        "Das ist mir Auto."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_15",
+      "level": "A1",
+      "question": "د «schwer» کلمې معنی غوره کړه",
+      "options": [
+        "دروند / ستونزمن",
+        "سپک",
+        "خوږ"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2_01",
+      "level": "A2",
+      "question": "له جلا کېدونکي فعل «aufstehen» سره سمه جمله غوره کړه",
+      "options": [
+        "Ich stehe um 7 Uhr auf.",
+        "Ich aufstehe 7 Uhr.",
+        "Ich stehe auf um 7 Uhr frühstücke."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_02",
+      "level": "A2",
+      "question": "د جملې «Ich habe keine Zeit» معنی څه ده؟",
+      "options": [
+        "زه وخت نه لرم.",
+        "زه ډېرې پیسې لرم.",
+        "زه به وروسته خواړه وکړم."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_03",
+      "level": "A2",
+      "question": "د «haben» فعل په Präteritum کې سمه جمله غوره کړه",
+      "options": [
+        "Ich hatte gestern Kopfschmerzen.",
+        "Ich habe gestern Kopfschmerzen.",
+        "Ich hat Kopfschmerzen gestern."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_04",
+      "level": "A2",
+      "question": "په ورځني ژوند کې کومه پوښتنه مناسبه ده؟",
+      "options": [
+        "Wie kann ich Ihnen helfen?",
+        "ته سبا چیرته الوزې؟",
+        "ته څومره ګرم یې؟"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_05",
+      "level": "A2",
+      "question": "کومه جمله له Akkusativ سره حرف جر لري؟",
+      "options": [
+        "Ich gehe durch den Park.",
+        "Ich wohne in dem Park.",
+        "Ich helfe dem Park."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_06",
+      "level": "A2",
+      "question": "د سبب جملې سم ترتیب غوره کړه: «زه جرمني زده کوم، ____ چې په جرمني کې ژوند وکړم غواړم.»",
+      "options": [
+        "weil",
+        "aber",
+        "oder"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_07",
+      "level": "A2",
+      "question": "د «Verkehr» کلمې معنی څه ده؟",
+      "options": [
+        "ترافیک / د موټرو حرکت",
+        "پخلنځی",
+        "باغچه"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_08",
+      "level": "A2",
+      "question": "رسمي او مهذبه جمله غوره کړه:",
+      "options": [
+        "Könnten Sie mir bitte helfen?",
+        "اوس راسره مرسته وکړه!",
+        "ته مرسته کولی شې؟"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_09",
+      "level": "A2",
+      "question": "کومه جمله Dativ لري؟",
+      "options": [
+        "Ich gebe dem Kind ein Buch.",
+        "Ich esse ein Brot.",
+        "Ich gehe den Park."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_10",
+      "level": "A2",
+      "question": "د «Der Zug hat Verspätung» معنی څه ده؟",
+      "options": [
+        "اورګاډی ځنډ لري.",
+        "اورګاډی ارزانه دی.",
+        "اورګاډی ډک دی."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_11",
+      "level": "A2",
+      "question": "سمه جمله غوره کړه:",
+      "options": [
+        "Ich interessiere mich für Musik.",
+        "Ich interessiere Musik.",
+        "Ich interessiere für Musik mich."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_12",
+      "level": "A2",
+      "question": "د «Rechnung» کلمې معنی غوره کړه",
+      "options": [
+        "بل / فاکتور",
+        "شهادت",
+        "کڅوړه"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_13",
+      "level": "A2",
+      "question": "کومه جمله احتمال څرګندوي؟",
+      "options": [
+        "Vielleicht komme ich morgen.",
+        "زه سبا حتماً راځم.",
+        "زه باید سبا راشم."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_14",
+      "level": "A2",
+      "question": "د «dürfen» فعل له «ich» سره سم تصریف غوره کړه",
+      "options": [
+        "ich darf",
+        "ich dürfe",
+        "ich dürfen"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_15",
+      "level": "A2",
+      "question": "کومه کلمه د «روغتون» معنی لري؟",
+      "options": [
+        "das Krankenhaus",
+        "die Fabrik",
+        "das Geschäft"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_01",
+      "level": "B1",
+      "question": "رسمي شکایت لپاره کومه جمله مناسبه ده؟",
+      "options": [
+        "Leider bin ich mit Ihrer Dienstleistung nicht zufrieden.",
+        "ای وروره، خدمت خراب و!",
+        "دا ډېر احمقه ده!"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_02",
+      "level": "B1",
+      "question": "جمله بشپړه کړه: «زه کورس پاس کړ، ____ چې ډېر څه مې زده کړل.»",
+      "options": [
+        "weil",
+        "trotzdem",
+        "obwohl"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_03",
+      "level": "B1",
+      "question": "کومه جمله Konjunktiv II (د احتمال یا ادب صیغه) لري؟",
+      "options": [
+        "Ich würde gerne kommen.",
+        "زه به وروسته راشم.",
+        "زه راغلی یم."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_04",
+      "level": "B1",
+      "question": "رسمي ایمیل لپاره غوره پیل غوره کړه:",
+      "options": [
+        "Sehr geehrte Damen und Herren,",
+        "سلام خلکو،",
+        "څنګه یئ؟"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_05",
+      "level": "B1",
+      "question": "د «verpflichtend» کلمې سمه معنی څه ده؟",
+      "options": [
+        "اجباري",
+        "اختیاري",
+        "موقتي"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_06",
+      "level": "B1",
+      "question": "سمه جمله غوره کړه:",
+      "options": [
+        "Obwohl es kalt ist, gehe ich spazieren.",
+        "ځکه چې یخ دی، بیا هم زه ګرځېږم.",
+        "یخ که څه هم دی زه ګرځېږم."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_07",
+      "level": "B1",
+      "question": "کومه جمله نظر څرګندوي؟",
+      "options": [
+        "Meiner Meinung nach ist Deutsch schwierig.",
+        "زه نن پیزا خورم.",
+        "ناسته سبا ده."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_08",
+      "level": "B1",
+      "question": "د «Außerdem» کلمې سمه معنی غوره کړه",
+      "options": [
+        "سر بېره پر دې",
+        "سرې سره سره",
+        "په هر صورت"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_09",
+      "level": "B1",
+      "question": "کومه جمله Passive (مجهول) لري؟",
+      "options": [
+        "Der Brief wurde gestern geschickt.",
+        "زه لیک لېږم.",
+        "زه به لیک ولېږم."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_10",
+      "level": "B1",
+      "question": "د «Vorteil» کلمې معنی غوره کړه",
+      "options": [
+        "ګټه / برتری",
+        "ستونزه",
+        "وړاندیز"
+      ],
+      "answer": 0
+    }
+
+  ]
+}

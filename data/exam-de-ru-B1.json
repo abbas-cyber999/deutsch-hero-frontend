@@ -1,0 +1,288 @@
+{
+  "level": "B1",
+  "title_de": "Abschlussprüfung B1 – Alltag, Grammatik & Kommunikation",
+  "title_ru": "Итоговый экзамен B1 – Повседневная жизнь, грамматика и общение",
+
+  "questions": [
+
+    {
+      "id": "b1_gram_01",
+      "type": "mcq",
+      "skill": "dativ",
+      "question_de": "Welche Form ist richtig? — Ich helfe ___ Frau.",
+      "question_ru": "Выберите правильный артикль (Dativ): Я помогаю женщине.",
+      "options": ["der", "den", "die", "eine"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_02",
+      "skill": "akkusativ",
+      "question_de": "Ergänze: Ich sehe ___ Mann. (der Mann)",
+      "question_ru": "Заполните: Я вижу мужчину.",
+      "options": ["den", "dem", "ein", "er"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_03",
+      "skill": "praepositionen",
+      "question_de": "Wähle die richtige Präposition: Ich gehe ___ das Kino. (Wohin?)",
+      "question_ru": "Выберите правильный предлог (в кино).",
+      "options": ["in", "im", "bei", "an"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_04",
+      "skill": "wechselpraep",
+      "question_de": "Welche Form ist richtig? — Das Bild hängt ___ der Wand.",
+      "question_ru": "Картина висит на стене.",
+      "options": ["an", "auf", "in", "über"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_05",
+      "skill": "perfekt",
+      "question_de": "Wie heißt die richtige Perfekt-Form? — Ich ___ gestern viel ___ . (lernen)",
+      "question_ru": "Выберите правильную форму Perfekt.",
+      "options": ["habe...gelernt", "Ich gelernt habe im Café.", "Im Café ich habe gelernt.", "Ich habe gelernt im Café gestern gemacht."],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_06",
+      "skill": "perfekt",
+      "question_de": "Er ___ nach Berlin ___. (fahren)",
+      "question_ru": "Заполните форму Perfekt для глагола fahren.",
+      "options": ["ist...gefahren", "hat...gefahren", "ist...fahrt", "hat...fahrt"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_07",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung ist korrekt?",
+      "question_ru": "Какой порядок слов правильный?",
+      "options": [
+        "Heute lerne ich deshalb gern zu Hause.",
+        "Heute ich lerne gern deshalb zu Hause.",
+        "Ich lerne zu Hause gern heute deshalb.",
+        "Deshalb heute zu Hause lerne ich gern."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_08",
+      "skill": "modal",
+      "question_de": "Welche Form passt? — Ich ___ heute länger arbeiten.",
+      "question_ru": "Выберите подходящий модальный глагол.",
+      "options": ["muss", "möchte", "kannst", "dürfen"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_09",
+      "skill": "pronomen",
+      "question_de": "Welches Pronomen im Akkusativ ist richtig? — Ich sehe ___ (du).",
+      "question_ru": "Выберите правильное местоимение.",
+      "options": ["dich", "dir", "du", "dein"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_10",
+      "skill": "praepositionen",
+      "question_de": "Welche Präposition verlangt immer Akkusativ?",
+      "question_ru": "Какой предлог всегда требует винительного падежа?",
+      "options": ["durch", "mit", "bei", "von"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_ru": "Что значит «Rechnung»?",
+      "options": ["счёт", "рецепт", "работа", "баланс"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_02",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „fit bleiben“?",
+      "question_ru": "Что значит «Оставаться в хорошей форме»?",
+      "options": ["оставаться здоровым", "много есть", "долго спать", "ничего не делать"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_03",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort ist richtig? — „Hausordnung“ bedeutet…",
+      "question_ru": "Что значит Hausordnung?",
+      "options": ["правила дома", "счёт", "приглашение", "аренда"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_04",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Umzug“?",
+      "question_ru": "Что значит \"Umzug\"?",
+      "options": ["переезд", "покупка", "продажа", "работа в группе"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_05",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „verheiratet sein“?",
+      "question_ru": "Что значит «быть женатым»?",
+      "options": ["женатый / замужем", "разведённый", "холостой", "вдовец"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_06",
+      "skill": "wohnen",
+      "question_de": "Was bedeutet „die Lage ist zentral“?",
+      "question_ru": "Что значит «Местоположение центральное»?",
+      "options": ["в центре города", "очень далеко", "рядом с лесом", "за городом"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_01",
+      "skill": "lesen",
+      "question_de": "Text: „Noa wohnt im dritten Stock in einer kleinen Wohnung.“ — Wo wohnt Noa?",
+      "question_ru": "Где живёт Ноа?",
+      "options": ["на третьем этаже", "на первом этаже", "за пределами города", "на первом этаже"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_02",
+      "skill": "lesen",
+      "question_de": "Text: „Er liest Nachrichten online.“ — Was macht er?",
+      "question_ru": "Что он делает?",
+      "options": ["читает новости онлайн", "пишет письмо", "играет на телефоне", "звонит другу"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_03",
+      "skill": "lesen",
+      "question_de": "Text: „Ich bin müde, aber mein neuer Job ist interessant.“ — Was sagt Noa?",
+      "question_ru": "Что говорит Ноа?",
+      "options": ["его работа интересная, но он устал", "его работа плохая", "у него нет работы", "он много спит"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort ist höflich? — „Könnten Sie mir bitte helfen?“",
+      "question_ru": "Какой ответ вежливый?",
+      "options": [
+        "Конечно, с удовольствием!",
+        "Нет.",
+        "Почему?",
+        "У меня нет желания."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_02",
+      "skill": "kommunikation",
+      "question_de": "Was sagt man, wenn jemand krank ist?",
+      "question_ru": "Что сказать больному человеку?",
+      "options": [
+        "Выздоравливай!",
+        "Спокойной ночи!",
+        "Приятного времяпровождения!",
+        "Поздравляю!"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Aussage ist eine Meinung?",
+      "question_ru": "Какое предложение выражает мнение?",
+      "options": [
+        "По моему мнению, немецкий сложный.",
+        "Поезд здесь.",
+        "Я живу в Берлине.",
+        "Сейчас 10 часов."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_satz_01",
+      "skill": "satzbau",
+      "question_de": "Ordne richtig: (lernen – ich – heute – in der Bibliothek)",
+      "question_ru": "Расставьте слова в правильном порядке.",
+      "options": [
+        "Heute lerne ich in der Bibliothek.",
+        "Ich heute lerne in der Bibliothek.",
+        "Ich lerne in der Bibliothek heute.",
+        "In der Bibliothek heute lerne ich."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_satz_02",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung ist korrekt? — (morgen – wir – fahren – nach Hamburg)",
+      "question_ru": "Расставьте слова в правильном порядке.",
+      "options": [
+        "Morgen fahren wir nach Hamburg.",
+        "Wir morgen fahren nach Hamburg.",
+        "Nach Hamburg morgen wir fahren.",
+        "Fahren nach Hamburg wir morgen."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_01",
+      "skill": "wechselpräpositionen",
+      "question_de": "Er sitzt ___ dem Stuhl. (Wo?)",
+      "question_ru": "Выберите правильный падеж для описания статичного места.",
+      "options": ["auf", "an", "in", "unter"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_02",
+      "skill": "dativ",
+      "question_de": "Welche Form ist Dativ Plural? — Ich gebe ___ Kindern ein Buch.",
+      "question_ru": "Выберите Dativ для множественного числа.",
+      "options": ["den", "die", "dem", "des"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_03",
+      "skill": "perfekt",
+      "question_de": "Welcher Satz ist korrekt?",
+      "question_ru": "Какое предложение в Perfekt правильное?",
+      "options": [
+        "Ich habe im Café gelernt.",
+        "Ich gelernt habe im Café.",
+        "Im Café ich habe gelernt.",
+        "Ich habe gelernt im Café gestern gemacht."
+      ],
+      "answer": 0
+    }
+
+  ]
+}

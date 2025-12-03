@@ -1,0 +1,664 @@
+{
+  "level": "A2",
+  "title": "A2 – Жизненные ситуации и письмо",
+  "lessons": [
+    {
+      "id": "A2_Lesson_Health_Doctor",
+      "title": {
+        "ru": "Здоровье и врач",
+        "de": "Gesundheit und Arzt",
+        "en": "Health and the doctor"
+      },
+      "interactiveScene": "Ты просыпаешься и чувствуешь, что голова стучит как барабан на рок-концерте 🎸.\nГоворишь себе: Ich glaube, ich bin krank.\nВ клинике врач спрашивает тебя с улыбкой: Na, was fehlt Ihnen?",
+      "explanation": [
+        { "de": "der Kopf – die Kopfschmerzen", "ru": "голова – головная боль" },
+        { "de": "der Hals – die Halsschmerzen", "ru": "горло – боль в горле" },
+        { "de": "der Bauch – die Bauchschmerzen", "ru": "живот – боль в животе" },
+        { "de": "die Grippe", "ru": "грипп" },
+        { "de": "das Fieber", "ru": "лихорадка / температура" },
+        { "de": "der Husten", "ru": "кашель" },
+        { "de": "die Tablette / die Medizin", "ru": "таблетка / лекарство" },
+        { "de": "die Praxis", "ru": "клиника врача" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe Kopfschmerzen.", "ru": "У меня головная боль.", "note": "" },
+        { "de": "Ich habe seit zwei Tagen Fieber.", "ru": "У меня температура уже два дня.", "note": "seit + период времени" },
+        { "de": "Mir ist schlecht.", "ru": "Мне плохо.", "note": "" },
+        { "de": "Ich brauche einen Termin beim Arzt.", "ru": "Мне нужен приём у врача.", "note": "" },
+        { "de": "Nehmen Sie diese Tabletten dreimal täglich.", "ru": "Принимайте эти таблетки три раза в день.", "note": "инструкции от врача" }
+      ],
+      "tip": "Многие слова для боли образуются от части тела + Schmerzen:\nKopf + Schmerzen → Kopfschmerzen\nBauch + Schmerzen → Bauchschmerzen.",
+      "dialogue": [
+        {
+          "speaker": "👩‍⚕️",
+          "de": "Guten Tag, was fehlt Ihnen?",
+          "ru": "Здравствуйте, что с Вами?"
+        },
+        {
+          "speaker": "👨",
+          "de": "Ich habe seit zwei Tagen Halsschmerzen und Fieber.",
+          "ru": "У меня боль в горле и температура уже два дня."
+        },
+        {
+          "speaker": "👩‍⚕️",
+          "de": "Sie bekommen ein Rezept und müssen viel Wasser trinken.",
+          "ru": "Вы получите рецепт и должны пить много воды."
+        },
+        {
+          "speaker": "👨",
+          "de": "Und darf ich auch Schokolade essen? 🍫",
+          "ru": "А могу ли я есть шоколад?"
+        }
+      ],
+      "summary": [
+        { "de": "Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen.", "ru": "У меня головная боль / боль в животе / боль в горле." },
+        { "de": "Ich brauche einen Termin beim Arzt.", "ru": "Мне нужен приём у врача." },
+        { "de": "Was fehlt Ihnen?", "ru": "Что с Вами? (форма уважения)" }
+      ],
+      "quiz": [
+        {
+          "question": "Как сказать: У меня головная боль?",
+          "options": [
+            "Ich habe Kopfschmerzen.",
+            "Ich bin Kopf.",
+            "Ich habe Kopf heiß."
+          ],
+          "answer": 0,
+          "hint": "Используйте слово Kopfschmerzen полностью."
+        },
+        {
+          "question": "Grippe значит:",
+          "options": [
+            "лёгкая простуда",
+            "грипп",
+            "лёгкая головная боль"
+          ],
+          "answer": 1,
+          "hint": "Часто требует врача и отдыха."
+        },
+        {
+          "question": "Предложение, подходящее для врача:",
+          "options": [
+            "Mir ist schlecht.",
+            "Ich bin Sofa.",
+            "Ich mache Haus."
+          ],
+          "answer": 0,
+          "hint": "Подумайте о физическом ощущении."
+        },
+        {
+          "question": "Как попросить приём?",
+          "options": [
+            "Ich brauche einen Termin.",
+            "Ich bin Termin.",
+            "Ich mache Arzt."
+          ],
+          "answer": 0,
+          "hint": "Termin = приём."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Transport",
+      "title": {
+        "ru": "Транспорт и направления",
+        "de": "Verkehr und Wegbeschreibung",
+        "en": "Transport and directions"
+      },
+      "interactiveScene": "Ты в новом городе, и карты на телефоне не работают 📵.\nСпрашиваешь у человека: Entschuldigung, wie komme ich zum Bahnhof?\nОн рисует рукой карту в воздухе и говорит быстро по-немецки.",
+      "explanation": [
+        { "de": "geradeaus", "ru": "прямо вперёд" },
+        { "de": "nach links / nach rechts", "ru": "налево / направо" },
+        { "de": "abbiegen", "ru": "поворачивать" },
+        { "de": "die Kreuzung", "ru": "перекрёсток" },
+        { "de": "die Ampel", "ru": "светофор" },
+        { "de": "die Bushaltestelle", "ru": "автобусная остановка" },
+        { "de": "die U-Bahn / die S-Bahn", "ru": "метро / пригородный поезд" }
+      ],
+      "phrasesTable": [
+        { "de": "Gehen Sie geradeaus.", "ru": "Идите прямо.", "note": "" },
+        { "de": "Dann biegen Sie links ab.", "ru": "Затем поверните налево.", "note": "" },
+        { "de": "An der Ampel rechts.", "ru": "На светофоре направо.", "note": "" },
+        { "de": "Die Bushaltestelle ist an der Ecke.", "ru": "Автобусная остановка на углу.", "note": "" }
+      ],
+      "tip": "Для вопроса о пути используйте:\nEntschuldigung, wie komme ich zum/zur ...?",
+      "dialogue": [
+        {
+          "speaker": "🚶",
+          "de": "Entschuldigung, wie komme ich zum Zentrum?",
+          "ru": "Извините, как добраться до центра?"
+        },
+        {
+          "speaker": "👩",
+          "de": "Gehen Sie geradeaus und dann an der Kreuzung links.",
+          "ru": "Идите прямо, затем на перекрёстке налево."
+        },
+        {
+          "speaker": "🚶",
+          "de": "Und die Bushaltestelle?",
+          "ru": "А автобусная остановка?"
+        },
+        {
+          "speaker": "👩",
+          "de": "Der Bus hält direkt vor dem Zentrum. 🚌",
+          "ru": "Автобус останавливается прямо перед центром."
+        }
+      ],
+      "summary": [
+        { "de": "geradeaus", "ru": "прямо" },
+        { "de": "links / rechts abbiegen", "ru": "поворачивать налево / направо" },
+        { "de": "Wie komme ich zum Bahnhof?", "ru": "Как добраться до вокзала?" }
+      ],
+      "quiz": [
+        {
+          "question": "Как сказать: Идите прямо, затем направо?",
+          "options": [
+            "Gehen Sie geradeaus und dann rechts.",
+            "Gehen Sie links und dann geradeaus.",
+            "Gehen Sie rechts und links."
+          ],
+          "answer": 0,
+          "hint": "geradeaus = прямо."
+        },
+        {
+          "question": "Kreuzung значит:",
+          "options": [
+            "угол",
+            "перекрёсток",
+            "мост"
+          ],
+          "answer": 1,
+          "hint": "Несколько улиц встречаются."
+        },
+        {
+          "question": "Правильный вопрос о пути:",
+          "options": [
+            "Wie komme ich zum Zentrum?",
+            "Wo Zentrum ich komme?",
+            "Ich komme Zentrum, oder?"
+          ],
+          "answer": 0,
+          "hint": "Используйте Wie komme ich ..."
+        },
+        {
+          "question": "Bushaltestelle это:",
+          "options": [
+            "вокзал",
+            "автобусная остановка",
+            "парковка для велосипедов"
+          ],
+          "answer": 1,
+          "hint": "Bus в самом слове."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Weather",
+      "title": {
+        "ru": "Погода и сезоны",
+        "de": "Wetter und Jahreszeiten",
+        "en": "Weather and seasons"
+      },
+      "interactiveScene": "В один и тот же день ты видишь четыре сезона за час: солнце, дождь, ветер, потом радугу 🌈.\nСмеёшься и говоришь другу: Heute spielt das Wetter ein Spiel!",
+      "explanation": [
+        { "de": "die Sonne → sonnig", "ru": "солнце → солнечно" },
+        { "de": "der Regen → regnerisch", "ru": "дождь → дождливо" },
+        { "de": "der Wind → windig", "ru": "ветер → ветрено" },
+        { "de": "die Wolke → bewölkt", "ru": "облако → облачно" },
+        { "de": "der Schnee → es schneit", "ru": "снег → идёт снег" },
+        { "de": "das Gewitter", "ru": "гроза" },
+        { "de": "heiß / warm / kühl / kalt", "ru": "жарко / тепло / прохладно / холодно" }
+      ],
+      "phrasesTable": [
+        { "de": "Es ist sonnig.", "ru": "Солнечно.", "note": "" },
+        { "de": "Es ist bewölkt und windig.", "ru": "Облачно и ветрено.", "note": "" },
+        { "de": "Es regnet den ganzen Tag.", "ru": "Дождь идёт весь день.", "note": "" },
+        { "de": "Im Winter ist es kalt.", "ru": "Зимой холодно.", "note": "Im Winter / Im Sommer ..." }
+      ],
+      "tip": "Часто начинаем предложения о погоде с 'Es ist ...' или 'Es ...':\nEs regnet. – Es ist kalt.",
+      "dialogue": [
+        {
+          "speaker": "👩",
+          "de": "Wie ist das Wetter bei dir?",
+          "ru": "Какая погода у тебя?"
+        },
+        {
+          "speaker": "👨",
+          "de": "Es ist sonnig, aber sehr windig.",
+          "ru": "Солнечно, но очень ветрено."
+        },
+        {
+          "speaker": "👩",
+          "de": "Perfekt für einen Kaffee drinnen! ☕",
+          "ru": "Идеально для кофе внутри!"
+        }
+      ],
+      "summary": [
+        { "de": "die Sonne → sonnig", "ru": "солнце → солнечно" },
+        { "de": "der Regen → regnerisch", "ru": "дождь → дождливо" },
+        { "de": "der Wind → windig", "ru": "ветер → ветрено" },
+        { "de": "Es ist sonnig / kalt / windig.", "ru": "Солнечно / холодно / ветрено." }
+      ],
+      "quiz": [
+        {
+          "question": "Как сказать: Погода солнечная?",
+          "options": [
+            "Es ist sonnig.",
+            "Es ist sonne.",
+            "Es ist sonneig."
+          ],
+          "answer": 0,
+          "hint": "sonnig = солнечно."
+        },
+        {
+          "question": "Gewitter значит:",
+          "options": [
+            "солнечно",
+            "гроза",
+            "ветрено"
+          ],
+          "answer": 1,
+          "hint": "С молниями и громом."
+        },
+        {
+          "question": "Правильное предложение о погоде:",
+          "options": [
+            "Es regnet den ganzen Tag.",
+            "Den ganzen Tag Es regnet.",
+            "Es den ganzen Tag regnet."
+          ],
+          "answer": 0,
+          "hint": "Es regnet = идёт дождь."
+        },
+        {
+          "question": "heiß значит:",
+          "options": [
+            "холодно",
+            "жарко",
+            "прохладно"
+          ],
+          "answer": 1,
+          "hint": "Лето в пустыне."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Family",
+      "title": {
+        "ru": "Семья и родные",
+        "de": "Familie und Verwandte",
+        "en": "Family and relatives"
+      },
+      "interactiveScene": "На семейном ужине все говорят одновременно, и ты пытаешься понять: Wer ist wer?\nДедушка рассказывает историю, бабушка готовит, а дети бегают вокруг.",
+      "explanation": [
+        { "de": "die Familie", "ru": "семья" },
+        { "de": "der Vater / die Mutter", "ru": "отец / мать" },
+        { "de": "der Bruder / die Schwester", "ru": "брат / сестра" },
+        { "de": "der Sohn / die Tochter", "ru": "сын / дочь" },
+        { "de": "der Großvater / die Großmutter", "ru": "дедушка / бабушка" },
+        { "de": "der Onkel / die Tante", "ru": "дядя / тётя" },
+        { "de": "verheiratet", "ru": "женатый / замужем" },
+        { "de": "geschieden", "ru": "разведённый" }
+      ],
+      "phrasesTable": [
+        { "de": "Das ist mein Vater.", "ru": "Это мой отец.", "note": "" },
+        { "de": "Ich habe zwei Geschwister.", "ru": "У меня два брата/сестры.", "note": "Geschwister = братья и сёстры" },
+        { "de": "Ich bin verheiratet.", "ru": "Я женат/замужем.", "note": "" },
+        { "de": "Wie viele Kinder haben Sie?", "ru": "Сколько у Вас детей?", "note": "" }
+      ],
+      "tip": "Для представления семьи используйте: Das ist mein ... / meine ...\nDas ist mein Bruder. / Das ist meine Schwester.",
+      "dialogue": [
+        {
+          "speaker": "👨",
+          "de": "Das ist meine Familie.",
+          "ru": "Это моя семья."
+        },
+        {
+          "speaker": "👩",
+          "de": "Wie viele Geschwister hast du?",
+          "ru": "Сколько у тебя братьев и сестёр?"
+        },
+        {
+          "speaker": "👨",
+          "de": "Ich habe einen Bruder und zwei Schwestern.",
+          "ru": "У меня один брат и две сестры."
+        },
+        {
+          "speaker": "👩",
+          "de": "Eine große Familie! 😊",
+          "ru": "Большая семья!"
+        }
+      ],
+      "summary": [
+        { "de": "der Vater / die Mutter", "ru": "отец / мать" },
+        { "de": "der Bruder / die Schwester", "ru": "брат / сестра" },
+        { "de": "Ich habe zwei Geschwister.", "ru": "У меня два брата/сестры." }
+      ],
+      "quiz": [
+        {
+          "question": "Как сказать: Это моя сестра?",
+          "options": [
+            "Das ist meine Schwester.",
+            "Das ist mein Schwester.",
+            "Das ist meine Bruder."
+          ],
+          "answer": 0,
+          "hint": "meine для женского рода."
+        },
+        {
+          "question": "Geschwister значит:",
+          "options": [
+            "дети",
+            "братья и сёстры",
+            "родители"
+          ],
+          "answer": 1,
+          "hint": "Братья и сёстры вместе."
+        },
+        {
+          "question": "verheiratet значит:",
+          "options": [
+            "холостой",
+            "женатый/замужем",
+            "разведённый"
+          ],
+          "answer": 1,
+          "hint": "С супругом."
+        },
+        {
+          "question": "Großvater это:",
+          "options": [
+            "дедушка",
+            "дядя",
+            "брат"
+          ],
+          "answer": 0,
+          "hint": "Отец отца или матери."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Job",
+      "title": {
+        "ru": "Работа и профессии",
+        "de": "Arbeit und Beruf",
+        "en": "Job and profession"
+      },
+      "interactiveScene": "В интервью тебя спрашивают: Was machen Sie beruflich?\nТы отвечаешь с улыбкой: Ich arbeite als Detektiv... nein, als Lehrer.",
+      "explanation": [
+        { "de": "die Arbeit", "ru": "работа" },
+        { "de": "der Job", "ru": "работа (неформально)" },
+        { "de": "der Beruf", "ru": "профессия" },
+        { "de": "die Firma", "ru": "компания" },
+        { "de": "der Kollege / die Kollegin", "ru": "коллега (мужчина / женщина)" },
+        { "de": "Vollzeit / Teilzeit", "ru": "полный рабочий день / частичная занятость" },
+        { "de": "Ich arbeite als ...", "ru": "Я работаю как ..." },
+        { "de": "Ich bin arbeitslos.", "ru": "Я безработный." }
+      ],
+      "phrasesTable": [
+        { "de": "Was machen Sie beruflich?", "ru": "Чем Вы занимаетесь? (форма уважения)", "note": "для уважения" },
+        { "de": "Ich arbeite als Verkäufer.", "ru": "Я работаю продавцом.", "note": "als + профессия" },
+        { "de": "Ich suche eine Arbeit.", "ru": "Я ищу работу.", "note": "" },
+        { "de": "Ich habe nette Kollegen.", "ru": "У меня приятные коллеги.", "note": "" }
+      ],
+      "tip": "Для указания профессии используйте конструкцию:\nIch arbeite als Lehrer / Ingenieur / Koch.",
+      "dialogue": [
+        {
+          "speaker": "👨",
+          "de": "Was machst du beruflich?",
+          "ru": "Чем ты занимаешься?"
+        },
+        {
+          "speaker": "👩",
+          "de": "Ich arbeite als Softwareentwicklerin.",
+          "ru": "Я работаю разработчиком ПО."
+        },
+        {
+          "speaker": "👨",
+          "de": "Klingt spannend! Und deine Kollegen?",
+          "ru": "Звучит интересно! А твои коллеги?"
+        },
+        {
+          "speaker": "👩",
+          "de": "Sind meistens nett. Meistens. 😉",
+          "ru": "В основном приятные. В основном."
+        }
+      ],
+      "summary": [
+        { "de": "Was machen Sie beruflich?", "ru": "Чем Вы занимаетесь (формально)?" },
+        { "de": "Ich arbeite als ...", "ru": "Я работаю как ..." },
+        { "de": "Ich suche eine Arbeit.", "ru": "Я ищу работу." }
+      ],
+      "quiz": [
+        {
+          "question": "Как сказать: Я работаю инженером?",
+          "options": [
+            "Ich arbeite als Ingenieur.",
+            "Ich mache Ingenieur.",
+            "Ich bin Arbeit Ingenieur."
+          ],
+          "answer": 0,
+          "hint": "Используйте als + профессия."
+        },
+        {
+          "question": "Beruf значит:",
+          "options": [
+            "хобби",
+            "профессия",
+            "семья"
+          ],
+          "answer": 1,
+          "hint": "Beruf = то, чем занимаешься как работой."
+        },
+        {
+          "question": "Предложение, подходящее на собеседовании:",
+          "options": [
+            "Ich suche eine Arbeit.",
+            "Ich bin Sofa.",
+            "Ich esse Arbeit."
+          ],
+          "answer": 0,
+          "hint": "Логично в теме работы."
+        },
+        {
+          "question": "Kollegen sind:",
+          "options": [
+            "коллеги на работе",
+            "соседи",
+            "учителя"
+          ],
+          "answer": 0,
+          "hint": "С тобой в одной компании."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Home",
+      "title": {
+        "ru": "Дом и жильё",
+        "de": "Wohnen und Zuhause",
+        "en": "Living and home"
+      },
+      "interactiveScene": "Ты ищешь квартиру в интернете.\nНаходишь объявление: 'Helle, gemütliche Wohnung, 2 Zimmer, Balkon, zentral gelegen.'\nЧувствуешь, что квартира красивее всей твоей текущей жизни 😅.",
+      "explanation": [
+        { "de": "die Wohnung", "ru": "квартира" },
+        { "de": "das Zimmer", "ru": "комната" },
+        { "de": "das Wohnzimmer / Schlafzimmer", "ru": "гостиная / спальня" },
+        { "de": "die Küche / das Bad", "ru": "кухня / ванная" },
+        { "de": "der Balkon", "ru": "балкон" },
+        { "de": "die Miete", "ru": "аренда" },
+        { "de": "möbliert / unmöbliert", "ru": "меблированная / немеблированная" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe eine kleine Wohnung.", "ru": "У меня маленькая квартира.", "note": "" },
+        { "de": "Die Wohnung ist im dritten Stock.", "ru": "Квартира на третьем этаже.", "note": "" },
+        { "de": "Wie hoch ist die Miete?", "ru": "Сколько стоит аренда?", "note": "" },
+        { "de": "Die Wohnung ist möbliert.", "ru": "Квартира меблированная.", "note": "" }
+      ],
+      "tip": "В объявлениях о жилье часто видишь:\n2-Zimmer-Wohnung, Balkon, Küche, Bad.",
+      "dialogue": [
+        {
+          "speaker": "📞",
+          "de": "Guten Tag, ich rufe wegen der Wohnung an.",
+          "ru": "Здравствуйте, звоню по поводу квартиры."
+        },
+        {
+          "speaker": "🏢",
+          "de": "Die Wohnung hat zwei Zimmer und einen Balkon.",
+          "ru": "В квартире две комнаты и балкон."
+        },
+        {
+          "speaker": "📞",
+          "de": "Und wie hoch ist die Miete?",
+          "ru": "И сколько аренда?"
+        },
+        {
+          "speaker": "🏢",
+          "de": "Nur 2000 Euro. Ein kleines Schnäppchen. 😉",
+          "ru": "Всего 2000 евро. Маленькая выгодная сделка."
+        }
+      ],
+      "summary": [
+        { "de": "die Wohnung", "ru": "квартира" },
+        { "de": "die Miete", "ru": "аренда" },
+        { "de": "Wie hoch ist die Miete?", "ru": "Сколько стоит аренда?" }
+      ],
+      "quiz": [
+        {
+          "question": "Как сказать: У меня маленькая квартира?",
+          "options": [
+            "Ich habe eine kleine Wohnung.",
+            "Ich bin kleine Wohnung.",
+            "Ich mache Wohnung klein."
+          ],
+          "answer": 0,
+          "hint": "habe + eine kleine Wohnung."
+        },
+        {
+          "question": "Miete это:",
+          "options": [
+            "полная цена квартиры",
+            "ежемесячная аренда",
+            "только цена мебели"
+          ],
+          "answer": 1,
+          "hint": "То, что платишь каждый месяц."
+        },
+        {
+          "question": "möbliert значит:",
+          "options": [
+            "без мебели",
+            "с мебелью",
+            "очень старое"
+          ],
+          "answer": 1,
+          "hint": "В ней Möbel = мебель."
+        },
+        {
+          "question": "Правильное предложение:",
+          "options": [
+            "Die Wohnung ist im dritten Stock.",
+            "Die Wohnung im dritten Stock ist.",
+            "Die Wohnung ist dritter Stock im."
+          ],
+          "answer": 0,
+          "hint": "Простой порядок: ist im dritten Stock."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Shopping",
+      "title": {
+        "ru": "Шопинг и покупки",
+        "de": "Einkaufen",
+        "en": "Shopping"
+      },
+      "interactiveScene": "В супермаркете видишь красные скидки везде 🔴.\nДумаешь: Я не нуждался в этой вещи, но скидка убедила меня!",
+      "explanation": [
+        { "de": "der Preis", "ru": "цена" },
+        { "de": "das Angebot", "ru": "предложение / скидка" },
+        { "de": "reduziert", "ru": "со скидкой" },
+        { "de": "bar bezahlen", "ru": "платить наличными" },
+        { "de": "mit Karte bezahlen", "ru": "платить картой" },
+        { "de": "die Kasse", "ru": "касса" }
+      ],
+      "phrasesTable": [
+        { "de": "Wie viel kostet das?", "ru": "Сколько это стоит?", "note": "" },
+        { "de": "Das ist im Angebot.", "ru": "Это в предложении.", "note": "" },
+        { "de": "Kann ich mit Karte bezahlen?", "ru": "Могу ли я заплатить картой?", "note": "" },
+        { "de": "Brauchen Sie eine Tüte?", "ru": "Вам нужен пакет?", "note": "Классический вопрос в Германии" }
+      ],
+      "tip": "Слово reduziert часто видишь во время скидок:\nAlles 50% reduziert!",
+      "dialogue": [
+        {
+          "speaker": "🛒",
+          "de": "Wie viel kostet das Brot?",
+          "ru": "Сколько стоит этот хлеб?"
+        },
+        {
+          "speaker": "👩‍💼",
+          "de": "1 Euro 20. Heute ist es reduziert.",
+          "ru": "1 евро 20. Сегодня на него скидка."
+        },
+        {
+          "speaker": "🛒",
+          "de": "Super! Kann ich mit Karte bezahlen?",
+          "ru": "Супер! Могу ли я заплатить картой?"
+        }
+      ],
+      "summary": [
+        { "de": "Wie viel kostet das?", "ru": "Сколько это стоит?" },
+        { "de": "Das ist im Angebot / reduziert.", "ru": "Это в предложении / со скидкой." },
+        { "de": "Kann ich mit Karte bezahlen?", "ru": "Могу ли я заплатить картой?" }
+      ],
+      "quiz": [
+        {
+          "question": "Как сказать: Сколько это стоит?",
+          "options": [
+            "Wie viel kostet das?",
+            "Wie viele ist das?",
+            "Was Preis ist das?"
+          ],
+          "answer": 0,
+          "hint": "kostet = стоит."
+        },
+        {
+          "question": "reduziert значит:",
+          "options": [
+            "просроченный",
+            "со скидкой",
+            "совершенно новый"
+          ],
+          "answer": 1,
+          "hint": "Часто в скидках."
+        },
+        {
+          "question": "Tüte это:",
+          "options": [
+            "пакет",
+            "ложка",
+            "коробка молока"
+          ],
+          "answer": 0,
+          "hint": "Спрашивают о ней на кассе."
+        },
+        {
+          "question": "Естественное предложение на кассе:",
+          "options": [
+            "Kann ich mit Karte bezahlen?",
+            "Ich bin Karte bezahlen.",
+            "Ich mache bezahlen Karte."
+          ],
+          "answer": 0,
+          "hint": "Kann ich ...? = Могу ли я?"
+        }
+      ]
+    }
+  ]
+}

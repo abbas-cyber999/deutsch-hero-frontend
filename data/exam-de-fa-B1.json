@@ -1,0 +1,259 @@
+{
+"level": "B1",
+"title_de": "Abschlussprüfung B1 – Alltag, Grammatik & Kommunikation",
+"title_fa": "آزمون نهایی سطح B1 – گرامر، ارتباط و زندگی روزمره",
+"questions": [
+{
+"id": "b1_gram_01",
+"type": "mcq",
+"skill": "dativ",
+"question_de": "Welche Form ist richtig? — Ich helfe ___ Frau.",
+"question_fa": "کدام شکل صحیح است؟ — من به این خانم کمک می‌کنم.",
+"options": ["der", "den", "die", "eine"],
+"answer": 0
+},
+{
+"id": "b1_gram_02",
+"skill": "akkusativ",
+"question_de": "Ergänze: Ich sehe ___ Mann. (der Mann)",
+"question_fa": "تکمیل کنید: من مرد را می‌بینم.",
+"options": ["den", "dem", "ein", "er"],
+"answer": 0
+},
+{
+"id": "b1_gram_03",
+"skill": "praepositionen",
+"question_de": "Wähle die richtige Präposition: Ich gehe ___ das Kino. (Wohin?)",
+"question_fa": "حرف اضافه صحیح را انتخاب کنید (به سینما می‌روم).",
+"options": ["in", "im", "bei", "an"],
+"answer": 0
+},
+{
+"id": "b1_gram_04",
+"skill": "wechselpraep",
+"question_de": "Welche Form ist richtig? — Das Bild hängt ___ der Wand.",
+"question_fa": "تصویر روی دیوار آویزان است.",
+"options": ["an", "auf", "in", "über"],
+"answer": 0
+},
+{
+"id": "b1_gram_05",
+"skill": "perfekt",
+"question_de": "Wie heißt die richtige Perfekt-Form? — Ich ___ gestern viel ___ . (lernen)",
+"question_fa": "شکل صحیح زمان Perfekt کدام است؟",
+"options": ["habe...gelernt", "bin...gelernt", "habe...lernen", "bin...lernen"],
+"answer": 0
+},
+{
+"id": "b1_gram_06",
+"skill": "perfekt",
+"question_de": "Er ___ nach Berlin ___. (fahren)",
+"question_fa": "شکل صحیح زمان Perfekt برای فعل fahren را تکمیل کنید.",
+"options": ["ist...gefahren", "hat...gefahren", "ist...fahrt", "hat...fahrt"],
+"answer": 0
+},
+{
+"id": "b1_gram_07",
+"skill": "satzbau",
+"question_de": "Welche Satzstellung ist korrekt?",
+"question_fa": "کدام ترتیب جمله صحیح است؟",
+"options": [
+"Heute lerne ich deshalb gern zu Hause.",
+"Heute ich lerne gern deshalb zu Hause.",
+"Ich lerne zu Hause gern heute deshalb.",
+"Deshalb heute zu Hause lerne ich gern."
+],
+"answer": 0
+},
+{
+"id": "b1_gram_08",
+"skill": "modal",
+"question_de": "Welche Form passt? — Ich ___ heute länger arbeiten.",
+"question_fa": "کدام فعل کمکی مناسب است؟",
+"options": ["muss", "möchte", "kannst", "dürfen"],
+"answer": 0
+},
+{
+"id": "b1_gram_09",
+"skill": "pronomen",
+"question_de": "Welches Pronomen im Akkusativ ist richtig? — Ich sehe ___ (du).",
+"question_fa": "کدام ضمیر در حالت Akkusativ صحیح است؟",
+"options": ["dich", "dir", "du", "dein"],
+"answer": 0
+},
+{
+"id": "b1_gram_10",
+"skill": "praepositionen",
+"question_de": "Welche Präposition verlangt immer Akkusativ?",
+"question_fa": "کدام حرف اضافه همیشه Akkusativ می‌گیرد؟",
+"options": ["durch", "mit", "bei", "von"],
+"answer": 0
+},
+{
+"id": "b1_word_01",
+"skill": "wortschatz",
+"question_de": "Was bedeutet „Rechnung“?",
+"question_fa": "«Rechnung» به چه معناست؟",
+"options": ["صورت‌حساب", "نسخه پزشکی", "کار", "موجودی حساب"],
+"answer": 0
+},
+{
+"id": "b1_word_02",
+"skill": "wortschatz",
+"question_de": "Was bedeutet „fit bleiben“?",
+"question_fa": "«fit bleiben» یعنی چه؟",
+"options": ["سالم و سرحال ماندن", "زیاد خوردن", "زیاد خوابیدن", "هیچ کاری نکردن"],
+"answer": 0
+},
+{
+"id": "b1_word_03",
+"skill": "wortschatz",
+"question_de": "Welche Antwort ist richtig? — „Hausordnung“ bedeutet…",
+"question_fa": "«Hausordnung» یعنی چه؟",
+"options": ["قوانین ساختمان", "صورت‌حساب", "دعوت‌نامه", "اجاره"],
+"answer": 0
+},
+{
+"id": "b1_word_04",
+"skill": "wortschatz",
+"question_de": "Was bedeutet „Umzug“?",
+"question_fa": "«Umzug» یعنی چه؟",
+"options": ["اسباب‌کشی", "جشن", "سفر", "خرید"],
+"answer": 0
+},
+{
+"id": "b1_word_05",
+"skill": "internet",
+"question_de": "Was bedeutet „Videoanruf“?",
+"question_fa": "«Videoanruf» یعنی چه؟",
+"options": ["تماس تصویری", "پیام متنی", "ایمیل", "جلسه کاری"],
+"answer": 0
+},
+{
+"id": "b1_word_06",
+"skill": "wohnen",
+"question_de": "Was bedeutet „die Lage ist zentral“?",
+"question_fa": "«die Lage ist zentral» یعنی چه؟",
+"options": ["موقعیت مرکزی شهر", "خیلی دور", "نزدیک جنگل", "خارج از شهر"],
+"answer": 0
+},
+{
+"id": "b1_read_01",
+"skill": "lesen",
+"question_de": "Text: „Noa wohnt im dritten Stock in einer kleinen Wohnung.“ — Wo wohnt Noa?",
+"question_fa": "نوا کجا زندگی می‌کند؟",
+"options": ["در طبقه سوم", "در طبقه همکف", "خارج از شهر", "در طبقه اول"],
+"answer": 0
+},
+{
+"id": "b1_read_02",
+"skill": "lesen",
+"question_de": "Text: „Er liest Nachrichten online.“ — Was macht er?",
+"question_fa": "او چه کاری انجام می‌دهد؟",
+"options": ["اخبار را آنلاین می‌خواند", "نامه می‌نویسد", "با گوشی بازی می‌کند", "با دوستش تماس می‌گیرد"],
+"answer": 0
+},
+{
+"id": "b1_read_03",
+"skill": "lesen",
+"question_de": "Text: „Ich bin müde, aber mein neuer Job ist interessant.“ — Was sagt Noa?",
+"question_fa": "نوا چه می‌گوید؟",
+"options": ["کارش جالب است اما خسته‌کننده", "کارش بد است", "شغلی ندارد", "زیاد می‌خوابد"],
+"answer": 0
+},
+{
+"id": "b1_comm_01",
+"skill": "kommunikation",
+"question_de": "Welche Antwort ist höflich? — „Könnten Sie mir bitte helfen?“",
+"question_fa": "کدام پاسخ مودبانه است؟",
+"options": [
+"البته، با کمال میل!",
+"نه.",
+"چرا؟",
+"حوصله ندارم."
+],
+"answer": 0
+},
+{
+"id": "b1_comm_02",
+"skill": "kommunikation",
+"question_de": "Was sagt man, wenn jemand krank ist?",
+"question_fa": "وقتی کسی مریض است چه می‌گویید؟",
+"options": [
+"زود خوب شو!",
+"شب بخیر بخواب!",
+"خوش بگذره!",
+"تولدت مبارک!"
+],
+"answer": 0
+},
+{
+"id": "b1_comm_03",
+"skill": "kommunikation",
+"question_de": "Welche Aussage ist eine Meinung?",
+"question_fa": "کدام جمله بیانگر نظر شخصی است؟",
+"options": [
+"به نظر من آلمانی سخت است.",
+"قطار آمده است.",
+"من در برلین زندگی می‌کنم.",
+"ساعت ۱۰ است."
+],
+"answer": 0
+},
+{
+"id": "b1_satz_01",
+"skill": "satzbau",
+"question_de": "Ordne richtig: (lernen – ich – heute – in der Bibliothek)",
+"question_fa": "جمله را به ترتیب صحیح مرتب کنید.",
+"options": [
+"امروز در کتابخانه درس می‌خوانم.",
+"من امروز درس می‌خوانم در کتابخانه.",
+"من در کتابخانه امروز درس می‌خوانم.",
+"در کتابخانه امروز من درس می‌خوانم."
+],
+"answer": 0
+},
+{
+"id": "b1_satz_02",
+"skill": "satzbau",
+"question_de": "Welche Satzstellung ist korrekt? — (morgen – wir – fahren – nach Hamburg)",
+"question_fa": "جمله را مرتب کنید.",
+"options": [
+"فردا ما به هامبورگ می‌رویم.",
+"ما فردا می‌رویم به هامبورگ.",
+"به هامبورگ فردا ما می‌رویم.",
+"می‌رویم به هامبورگ ما فردا."
+],
+"answer": 0
+},
+{
+"id": "b1_hard_01",
+"skill": "wechselpräpositionen",
+"question_de": "Er sitzt ___ dem Stuhl. (Wo?)",
+"question_fa": "کدام حالت برای مکان ثابت صحیح است؟",
+"options": ["auf", "an", "in", "unter"],
+"answer": 0
+},
+{
+"id": "b1_hard_02",
+"skill": "dativ",
+"question_de": "Welche Form ist Dativ Plural? — Ich gebe ___ Kindern ein Buch.",
+"question_fa": "حالت Dativ برای جمع کدام است؟",
+"options": ["den", "die", "dem", "des"],
+"answer": 0
+},
+{
+"id": "b1_hard_03",
+"skill": "perfekt",
+"question_de": "Welcher Satz ist korrekt?",
+"question_fa": "کدام جمله در زمان Perfekt صحیح است؟",
+"options": [
+"من در کافه درس خواندم.",
+"من درس خواندم در کافه.",
+"در کافه من درس خواندم.",
+"من دیروز در کافه درس خواندم."
+],
+"answer": 0
+}
+]
+}

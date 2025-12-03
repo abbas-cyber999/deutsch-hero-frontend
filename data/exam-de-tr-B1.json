@@ -1,0 +1,288 @@
+{
+  "level": "B1",
+  "title_de": "Abschlussprüfung B1 – Alltag, Grammatik & Kommunikation",
+  "title_tr": "B1 Seviye Sonu Sınavı – Günlük Hayat, Dilbilgisi ve İletişim",
+
+  "questions": [
+
+    {
+      "id": "b1_gram_01",
+      "type": "mcq",
+      "skill": "dativ",
+      "question_de": "Welche Form ist richtig? — Ich helfe ___ Frau.",
+      "question_tr": "Doğru Dativ formu hangisidir? — Kadına yardım ediyorum.",
+      "options": ["der", "den", "die", "eine"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_02",
+      "skill": "akkusativ",
+      "question_de": "Ergänze: Ich sehe ___ Mann. (der Mann)",
+      "question_tr": "Tamamlayın: Adamı görüyorum.",
+      "options": ["den", "dem", "ein", "er"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_03",
+      "skill": "praepositionen",
+      "question_de": "Wähle die richtige Präposition: Ich gehe ___ das Kino. (Wohin?)",
+      "question_tr": "Doğru edatı seçin (Nereye?): Sinemaya gidiyorum.",
+      "options": ["in", "im", "bei", "an"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_04",
+      "skill": "wechselpraep",
+      "question_de": "Welche Form ist richtig? — Das Bild hängt ___ der Wand.",
+      "question_tr": "Resim duvarda asılı. (Doğru hal?)",
+      "options": ["an", "auf", "in", "über"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_05",
+      "skill": "perfekt",
+      "question_de": "Wie heißt die richtige Perfekt-Form? — Ich ___ gestern viel ___ . (lernen)",
+      "question_tr": "Doğru Perfekt formu hangisidir? (öğrenmek fiili)",
+      "options": ["habe...gelernt", "bin...gelernt", "habe...lernen", "bin...lernen"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_06",
+      "skill": "perfekt",
+      "question_de": "Er ___ nach Berlin ___. (fahren)",
+      "question_tr": "Perfekt’te fahren fiilini tamamlayın.",
+      "options": ["ist...gefahren", "hat...gefahren", "ist...fahrt", "hat...fahrt"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_07",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung ist korrekt?",
+      "question_tr": "Doğru cümle sırası hangisidir?",
+      "options": [
+        "Heute lerne ich deshalb gern zu Hause.",
+        "Heute ich lerne gern deshalb zu Hause.",
+        "Ich lerne zu Hause gern heute deshalb.",
+        "Deshalb heute zu Hause lerne ich gern."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_08",
+      "skill": "modal",
+      "question_de": "Welche Form passt? — Ich ___ heute länger arbeiten.",
+      "question_tr": "Hangi modal fiil uygundur? — Bugün daha uzun çalışmam gerekiyor.",
+      "options": ["muss", "möchte", "kannst", "dürfen"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_09",
+      "skill": "pronomen",
+      "question_de": "Welches Pronomen im Akkusativ ist richtig? — Ich sehe ___ (du).",
+      "question_tr": "Doğru Akkusativ zamiri hangisidir? — Seni görüyorum.",
+      "options": ["dich", "dir", "du", "dein"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_gram_10",
+      "skill": "praepositionen",
+      "question_de": "Welche Präposition verlangt immer Akkusativ?",
+      "question_tr": "Hangi edat her zaman Akkusativ alır?",
+      "options": ["durch", "mit", "bei", "von"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_tr": "„Rechnung“ ne anlama gelir?",
+      "options": ["fatura", "reçete", "iş", "bakiye"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_02",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „fit bleiben“?",
+      "question_tr": "„Fit bleiben“ ne anlama gelir?",
+      "options": ["formda kalmak", "çok yemek", "uzun uyumak", "hiçbir şey yapmamak"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_03",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort ist richtig? — „Hausordnung“ bedeutet…",
+      "question_tr": "„Hausordnung“ ne anlama gelir?",
+      "options": ["bina kuralları", "fatura", "davetiye", "kira"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_04",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Umzug“?",
+      "question_tr": "„Umzug“ ne anlama gelir?",
+      "options": ["taşınma", "kutlama", "seyahat", "alışveriş"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_05",
+      "skill": "internet",
+      "question_de": "Was bedeutet „Videoanruf“?",
+      "question_tr": "„Videoanruf“ ne anlama gelir?",
+      "options": ["görüntülü arama", "metin mesajı", "e-posta", "iş toplantısı"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_word_06",
+      "skill": "wohnen",
+      "question_de": "Was bedeutet „die Lage ist zentral“?",
+      "question_tr": "„Die Lage ist zentral“ ne anlama gelir?",
+      "options": ["konum şehir merkezinde", "çok uzak", "ormana yakın", "şehir dışında"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_01",
+      "skill": "lesen",
+      "question_de": "Text: „Noa wohnt im dritten Stock in einer kleinen Wohnung.“ — Wo wohnt Noa?",
+      "question_tr": "Metin: „Noa küçük bir dairede üçüncü katta oturuyor.“ — Noa nerede oturuyor?",
+      "options": ["üçüncü katta", "zemin katta", "şehir dışında", "birinci katta"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_02",
+      "skill": "lesen",
+      "question_de": "Text: „Er liest Nachrichten online.“ — Was macht er?",
+      "question_tr": "Metin: „Haberleri internetten okuyor.“ — Ne yapıyor?",
+      "options": ["haberleri internetten okuyor", "mesaj yazıyor", "telefonda oyun oynuyor", "arkadaşını arıyor"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_read_03",
+      "skill": "lesen",
+      "question_de": "Text: „Ich bin müde, aber mein neuer Job ist interessant.“ — Was sagt Noa?",
+      "question_tr": "Metin: „Yorgunum ama yeni işim çok ilginç.“ — Noa ne diyor?",
+      "options": ["işi ilginç ama yorucu", "işi kötü", "işi yok", "çok uyuyor"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort ist höflich? — „Könnten Sie mir bitte helfen?“",
+      "question_tr": "Kibar cevap hangisidir? — „Bana yardım edebilir misiniz?“",
+      "options": [
+        "Tabii, memnuniyetle!",
+        "Hayır.",
+        "Neden?",
+        "Canım istemiyor."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_02",
+      "skill": "kommunikation",
+      "question_de": "Was sagt man, wenn jemand krank ist?",
+      "question_tr": "Birisi hasta olduğunda ne denir?",
+      "options": [
+        "Geçmiş olsun!",
+        "İyi uykular!",
+        "İyi eğlenceler!",
+        "Tebrikler!"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_comm_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Aussage ist eine Meinung?",
+      "question_tr": "Hangisi bir görüş cümlesidir?",
+      "options": [
+        "Bence Almanca zor.",
+        "Tren burada.",
+        "Berlin’de oturuyorum.",
+        "Saat 10."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_satz_01",
+      "skill": "satzbau",
+      "question_de": "Ordne richtig: (lernen – ich – heute – in der Bibliothek)",
+      "question_tr": "Doğru sıralayın: (öğrenmek – ben – bugün – kütüphanede)",
+      "options": [
+        "Heute lerne ich in der Bibliothek.",
+        "Ich heute lerne in der Bibliothek.",
+        "Ich lerne in der Bibliothek heute.",
+        "In der Bibliothek heute lerne ich."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_satz_02",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung ist korrekt? — (morgen – wir – fahren – nach Hamburg)",
+      "question_tr": "Doğru sıralama hangisidir? (yarın – biz – gidiyoruz – Hamburg’a)",
+      "options": [
+        "Morgen fahren wir nach Hamburg.",
+        "Wir morgen fahren nach Hamburg.",
+        "Nach Hamburg morgen wir fahren.",
+        "Fahren nach Hamburg wir morgen."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_01",
+      "skill": "wechselpräpositionen",
+      "question_de": "Er sitzt ___ dem Stuhl. (Wo?)",
+      "question_tr": "Sandalye üzerinde oturuyor. (Yer bildiren, sabit konum)",
+      "options": ["auf", "an", "in", "unter"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_02",
+      "skill": "dativ",
+      "question_de": "Welche Form ist Dativ Plural? — Ich gebe ___ Kindern ein Buch.",
+      "question_tr": "Çocuklara bir kitap veriyorum. (Dativ çoğul)",
+      "options": ["den", "die", "dem", "des"],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_hard_03",
+      "skill": "perfekt",
+      "question_de": "Welcher Satz ist korrekt?",
+      "question_tr": "Hangi cümle Perfekt’te doğrudur?",
+      "options": [
+        "Ich habe im Café gelernt.",
+        "Ich gelernt habe im Café.",
+        "Im Café ich habe gelernt.",
+        "Ich habe gelernt im Café gestern gemacht."
+      ],
+      "answer": 0
+    }
+
+  ]
+}

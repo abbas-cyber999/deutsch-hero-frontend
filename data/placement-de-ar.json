@@ -1,0 +1,449 @@
+{
+  "questions": [
+
+    {
+      "id": "a1_01",
+      "level": "A1",
+      "question": "ما الترتيب الصحيح للجملة: «أنا أعيش في ألمانيا»؟",
+      "options": [
+        "Ich lebe in Deutschland.",
+        "Ich Deutschland lebe.",
+        "Lebe ich in Deutschland."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_02",
+      "level": "A1",
+      "question": "ما معنى الجملة: „Ich habe Durst“ ؟",
+      "options": [
+        "أنا عطشان.",
+        "أنا جائع.",
+        "أنا متعب."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_03",
+      "level": "A1",
+      "question": "اختر السؤال الصحيح عن الوقت:",
+      "options": [
+        "Wie spät ist es?",
+        "Wo spät ist es?",
+        "Was spät ist?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_04",
+      "level": "A1",
+      "question": "أي كلمة تعني «المطبخ»؟",
+      "options": [
+        "die Küche",
+        "der Keller",
+        "das Zimmer"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_05",
+      "level": "A1",
+      "question": "اختر المعنى الصحيح لكلمة „billig“",
+      "options": [
+        "رخيص",
+        "غالي",
+        "جديد"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_06",
+      "level": "A1",
+      "question": "أي جملة صحيحة؟",
+      "options": [
+        "Ich spreche ein bisschen Deutsch.",
+        "Ich sprechen ein bisschen Deutsch.",
+        "Ich spricht ein bisschen Deutsch."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_07",
+      "level": "A1",
+      "question": "ما جمع كلمة „das Kind“ ؟",
+      "options": [
+        "die Kinder",
+        "die Kinden",
+        "die Kinders"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_08",
+      "level": "A1",
+      "question": "اختر السؤال الصحيح عن الاسم:",
+      "options": [
+        "Wie heißt du?",
+        "Wo heißt du?",
+        "Was heißt du?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_09",
+      "level": "A1",
+      "question": "أي ضمير يناسب الجملة: „___ wohne in Berlin“؟",
+      "options": [
+        "Ich",
+        "Du",
+        "Er"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_10",
+      "level": "A1",
+      "question": "اختَر ترجمة كلمة „Arzt“",
+      "options": [
+        "طبيب",
+        "ممرضة",
+        "مريض"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_11",
+      "level": "A1",
+      "question": "اختر الجواب الصحيح لسؤال: „Woher kommst du?“",
+      "options": [
+        "Ich komme aus Syrien.",
+        "Ich wohne Berlin.",
+        "Ich komme syrisch."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_12",
+      "level": "A1",
+      "question": "أي كلمة تعني «البقالية/السوبرماركت»؟",
+      "options": [
+        "der Supermarkt",
+        "die Fabrik",
+        "der Flughafen"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_13",
+      "level": "A1",
+      "question": "«Guten Morgen» تُستخدم في…؟",
+      "options": [
+        "الصباح",
+        "الليل",
+        "بعد الظهر"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_14",
+      "level": "A1",
+      "question": "أي جملة صحيحة عن الملكية؟",
+      "options": [
+        "Das ist mein Auto.",
+        "Das ist mich Auto.",
+        "Das ist mir Auto."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_15",
+      "level": "A1",
+      "question": "اختر معنى كلمة „schwer“",
+      "options": [
+        "ثقيل / صعب",
+        "خفيف",
+        "لطيف"
+      ],
+      "answer": 0
+    },
+
+
+    {
+      "id": "a2_01",
+      "level": "A2",
+      "question": "اختر الجملة الصحيحة مع الفعل المنفصل „aufstehen“",
+      "options": [
+        "Ich stehe um 7 Uhr auf.",
+        "Ich aufstehe 7 Uhr.",
+        "Ich stehe auf um 7 Uhr frühstücke."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_02",
+      "level": "A2",
+      "question": "ما معنى الجملة: „Ich habe keine Zeit.“ ؟",
+      "options": [
+        "ليس لدي وقت.",
+        "لدي الكثير من المال.",
+        "سآكل لاحقاً."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_03",
+      "level": "A2",
+      "question": "اختر الجملة الصحيحة مع الماضي (Präteritum) للفعل „haben“",
+      "options": [
+        "Ich hatte gestern Kopfschmerzen.",
+        "Ich habe gestern Kopfschmerzen.",
+        "Ich hat Kopfschmerzen gestern."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_04",
+      "level": "A2",
+      "question": "أي سؤال مناسب للمواقف اليومية؟",
+      "options": [
+        "Wie kann ich Ihnen helfen?",
+        "Wo fliegst du morgen?",
+        "Wie heiß ist du?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_05",
+      "level": "A2",
+      "question": "أي جملة تحتوي على حرف جر مع Akkusativ؟",
+      "options": [
+        "Ich gehe durch den Park.",
+        "Ich wohne in dem Park.",
+        "Ich helfe dem Park."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_06",
+      "level": "A2",
+      "question": "اختر الترتيب الصحيح في جملة السبب: „Ich lerne Deutsch, ____ ich in Deutschland leben möchte.“",
+      "options": [
+        "weil",
+        "aber",
+        "oder"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_07",
+      "level": "A2",
+      "question": "ما معنى كلمة „Verkehr“ ؟",
+      "options": [
+        "حركة المرور",
+        "المطبخ",
+        "الحديقة"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_08",
+      "level": "A2",
+      "question": "اختر الجملة الرسمية الصحيحة:",
+      "options": [
+        "Könnten Sie mir bitte helfen?",
+        "Hilf mir jetzt!",
+        "Kannst du hilfen?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_09",
+      "level": "A2",
+      "question": "اختر جملة تحتوي على Dativ.",
+      "options": [
+        "Ich gebe dem Kind ein Buch.",
+        "Ich esse ein Brot.",
+        "Ich gehe den Park."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_10",
+      "level": "A2",
+      "question": "ما معنى: „Der Zug hat Verspätung“ ؟",
+      "options": [
+        "القطار متأخر.",
+        "القطار رخيص.",
+        "القطار ممتلئ."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_11",
+      "level": "A2",
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Ich interessiere mich für Musik.",
+        "Ich interessiere Musik.",
+        "Ich interessiere für Musik mich."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_12",
+      "level": "A2",
+      "question": "اختر معنى كلمة „Rechnung“",
+      "options": [
+        "فاتورة",
+        "شهادة",
+        "حقيبة"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_13",
+      "level": "A2",
+      "question": "أي جملة تعبر عن الاحتمال؟",
+      "options": [
+        "Vielleicht komme ich morgen.",
+        "Ich komme morgen sicher.",
+        "Ich muss morgen kommen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_14",
+      "level": "A2",
+      "question": "اختر تصريف الفعل \"dürfen\" مع ضمير ich",
+      "options": [
+        "ich darf",
+        "ich dürfe",
+        "ich dürfen"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_15",
+      "level": "A2",
+      "question": "أي كلمة تعني «المستشفى»؟",
+      "options": [
+        "das Krankenhaus",
+        "die Fabrik",
+        "das Geschäft"
+      ],
+      "answer": 0
+    },
+
+      {
+      "id": "b1_01",
+      "level": "B1",
+      "question": "أي جملة مناسبة لكتابة شكوى رسمية؟",
+      "options": [
+        "Leider bin ich mit Ihrer Dienstleistung nicht zufrieden.",
+        "Ey Bruder, Service war schlecht.",
+        "Das ist richtig doof!"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_02",
+      "level": "B1",
+      "question": "اكمل الجملة: „Ich habe den Kurs bestanden, ____ ich viel gelernt habe.“",
+      "options": [
+        "weil",
+        "trotzdem",
+        "obwohl"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_03",
+      "level": "B1",
+      "question": "أي جملة تحتوي على Konjunktiv II (صيغة الاحتمال/التهذيب)؟",
+      "options": [
+        "Ich würde gerne kommen.",
+        "Ich komme später.",
+        "Ich bin gekommen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_04",
+      "level": "B1",
+      "question": "اختر أفضل بداية لإيميل رسمي:",
+      "options": [
+        "Sehr geehrte Damen und Herren,",
+        "Hallo Leute,",
+        "Na, wie geht’s?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_05",
+      "level": "B1",
+      "question": "أي معنى صحيح لكلمة „verpflichtend“ ؟",
+      "options": [
+        "إلزامي",
+        "اختياري",
+        "مؤقت"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_06",
+      "level": "B1",
+      "question": "اختر الجملة الصحيحة:",
+      "options": [
+        "Obwohl es kalt ist, gehe ich spazieren.",
+        "Weil es kalt ist, aber gehe ich spazieren.",
+        "Kalt obwohl ist gehe ich."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_07",
+      "level": "B1",
+      "question": "أي جملة تعبر عن وجهة نظر Opinion؟",
+      "options": [
+        "Meiner Meinung nach ist Deutsch schwierig.",
+        "Ich esse heute Pizza.",
+        "Der Termin ist morgen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_08",
+      "level": "B1",
+      "question": "اختر المعنى الصحيح لـ „Außerdem“",
+      "options": [
+        "بالإضافة إلى ذلك",
+        "بالرغم من ذلك",
+        "على أي حال"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_09",
+      "level": "B1",
+      "question": "أي جملة تحتوي على passive (المبني للمجهول)؟",
+      "options": [
+        "Der Brief wurde gestern geschickt.",
+        "Ich schicke den Brief.",
+        "Ich werde den Brief schicken."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_10",
+      "level": "B1",
+      "question": "اختر معنى كلمة „Vorteil“",
+      "options": [
+        "ميزة",
+        "مشكلة",
+        "اقتراح"
+      ],
+      "answer": 0
+    }
+
+  ]
+}

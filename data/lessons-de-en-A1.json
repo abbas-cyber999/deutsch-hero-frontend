@@ -1,0 +1,1310 @@
+{
+  "level": "A1",
+  "title": "A1",
+  "lessons": [
+
+    {
+  "id": "A1_L01_Greetings",
+  "title": {
+    "de": "Begrüßungen",
+    "en": "Greetings"
+  },
+  "interactiveScene": "Imagine you have just arrived at Berlin Airport. You put your suitcase on the belt, go through the electronic gate, and the passport officer smiles at you and says: „Guten Tag! Wie geht’s?“ You try to reply with a small smile despite being nervous and say: „Mir geht’s gut, danke!“ Then you shyly ask: „Und dir?“ She smiles and stamps your passport, saying: „Willkommen in Deutschland!“ 🇩🇪✈️",
+  "explanation": [
+    {
+      "de": "Hallo!",
+      "en": "The simplest and most famous greeting in Germany; can be used at any time."
+    },
+    {
+      "de": "Guten Morgen!",
+      "en": "Good morning. Used from early morning until around 11 o’clock."
+    },
+    {
+      "de": "Guten Tag!",
+      "en": "Good day. Used from about 11 a.m. until 6 p.m."
+    },
+    {
+      "de": "Guten Abend!",
+      "en": "Good evening. Used from about 6 p.m. until 10 p.m."
+    },
+    {
+      "de": "Gute Nacht!",
+      "en": "Good night. Usually said only before going to sleep."
+    },
+    {
+      "de": "Wie geht’s?",
+      "en": "How are you? (Informal, for friends or people you know)."
+    },
+    {
+      "de": "Wie geht es Ihnen?",
+      "en": "How are you? (Polite form for older people or strangers)."
+    },
+    {
+      "de": "Mir geht’s gut, danke!",
+      "en": "I’m fine, thank you."
+    },
+    {
+      "de": "Und dir? / Und Ihnen?",
+      "en": "And you? (informal / formal, to politely return the question)."
+    },
+    {
+      "de": "Danke! / Vielen Dank!",
+      "en": "Thanks! / Thank you very much!"
+    },
+    {
+      "de": "Bitte!",
+      "en": "Please / You’re welcome; used both when asking for something and when replying to thanks."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Hallo!",
+      "en": "Hello!",
+      "note": "Neutral; can be used in most situations."
+    },
+    {
+      "de": "Guten Morgen!",
+      "en": "Good morning.",
+      "note": "Preferred in slightly polite or formal situations."
+    },
+    {
+      "de": "Guten Abend!",
+      "en": "Good evening.",
+      "note": "Used when you enter or greet someone in the evening."
+    },
+    {
+      "de": "Wie geht’s?",
+      "en": "How are you?",
+      "note": "Informal; used with friends."
+    },
+    {
+      "de": "Wie geht es Ihnen?",
+      "en": "How are you?",
+      "note": "Formal; used with strangers or at work."
+    },
+    {
+      "de": "Mir geht’s gut, danke!",
+      "en": "I’m fine, thanks!",
+      "note": "A ready, polite answer."
+    },
+    {
+      "de": "Und dir?",
+      "en": "And you?",
+      "note": "For friends or people of the same age."
+    },
+    {
+      "de": "Und Ihnen?",
+      "en": "And you?",
+      "note": "Polite form."
+    },
+    {
+      "de": "Danke!",
+      "en": "Thank you!",
+      "note": "A basic polite word in all situations."
+    },
+    {
+      "de": "Bitte!",
+      "en": "Please / You’re welcome.",
+      "note": "A multi-meaning word depending on context."
+    }
+  ],
+  "tip": "In daily greetings you can almost always answer with the same word:\nGuten Morgen → Guten Morgen\nGuten Abend → Guten Abend\nHallo → Hallo\nThis makes conversation easy at the beginning and gives a friendly impression.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Guten Morgen! Wie geht’s?",
+      "en": "Good morning! How are you?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Mir geht’s gut, danke! Und dir?",
+      "en": "I’m fine, thanks! And you?"
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Auch gut, danke!",
+      "en": "Also fine, thanks!"
+    }
+  ],
+  "summary": [
+    {
+      "de": "Hallo!",
+      "en": "General greeting at any time."
+    },
+    {
+      "de": "Guten Morgen!",
+      "en": "Good morning."
+    },
+    {
+      "de": "Guten Tag!",
+      "en": "Good day."
+    },
+    {
+      "de": "Guten Abend!",
+      "en": "Good evening."
+    },
+    {
+      "de": "Gute Nacht!",
+      "en": "Good night (only before sleep)."
+    },
+    {
+      "de": "Wie geht’s?",
+      "en": "How are you? (informal)."
+    },
+    {
+      "de": "Wie geht es Ihnen?",
+      "en": "How are you? (formal)."
+    },
+    {
+      "de": "Danke / Bitte",
+      "en": "Thanks / You’re welcome."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Someone says to you: „Guten Abend!“. What is the best reply?",
+      "options": [
+        "Guten Abend!",
+        "Guten Morgen!",
+        "Wie geht’s?"
+      ],
+      "answer": 0,
+      "hint": "We usually answer with the same greeting we hear."
+    },
+    {
+      "question": "Which sentence do you use with someone you don’t know in a formal situation?",
+      "options": [
+        "Wie geht’s?",
+        "Wie geht es Ihnen?",
+        "Und dir?"
+      ],
+      "answer": 1,
+      "hint": "Pay attention to the polite form with Sie."
+    },
+    {
+      "question": "Which sentence means: I’m fine, thanks?",
+      "options": [
+        "Guten Tag!",
+        "Mir geht’s gut, danke!",
+        "Bitte!"
+      ],
+      "answer": 1,
+      "hint": "Look for the words gut and danke together."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L02_Introduction",
+  "title": {
+    "de": "Vorstellung",
+    "en": "Introduction"
+  },
+  "interactiveScene": "It is your first day in a German language course in Berlin. You sit in a circle with students from different countries. The teacher smiles and asks: “Wie heißt du?” You smile and answer: “Ich heiße Noa.” Then she asks: “Wie alt bist du?” You reply: “Ich bin 31 Jahre alt.” Afterwards she asks: “Woher kommst du?” — and you proudly say: “Ich komme aus Syrien.” In the end the teacher says: “Schön, dich kennenzulernen!” — and you feel that you have truly begun building a new bridge in a new language.",
+  "explanation": [
+    {
+      "de": "Wie heißt du?",
+      "en": "What is your name? (Informal, for friends or people your age)."
+    },
+    {
+      "de": "Wie heißen Sie?",
+      "en": "What is your name? (Formal form used with older people or strangers)."
+    },
+    {
+      "de": "Ich heiße Noa.",
+      "en": "My name is Noa."
+    },
+    {
+      "de": "Ich bin Noa.",
+      "en": "I am Noa."
+    },
+    {
+      "de": "Mein Name ist Noa.",
+      "en": "My name is Noa. (More formal style)."
+    },
+    {
+      "de": "Wie alt bist du?",
+      "en": "How old are you?"
+    },
+    {
+      "de": "Ich bin 31 Jahre alt.",
+      "en": "I am 31 years old."
+    },
+    {
+      "de": "Woher kommst du?",
+      "en": "Where are you from?"
+    },
+    {
+      "de": "Ich komme aus Syrien.",
+      "en": "I come from Syria."
+    },
+    {
+      "de": "Wo wohnst du?",
+      "en": "Where do you live?"
+    },
+    {
+      "de": "Ich wohne in Deutschland.",
+      "en": "I live in Germany."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Wie heißt du?",
+      "en": "What is your name?",
+      "note": "Informal; used with friends."
+    },
+    {
+      "de": "Wie heißen Sie?",
+      "en": "What is your name?",
+      "note": "Formal; used with strangers or at work."
+    },
+    {
+      "de": "Ich heiße Noa.",
+      "en": "My name is Noa.",
+      "note": "Standard answer to a name question."
+    },
+    {
+      "de": "Wie alt bist du?",
+      "en": "How old are you?",
+      "note": "A simple question about age."
+    },
+    {
+      "de": "Ich bin 31 Jahre alt.",
+      "en": "I am 31 years old.",
+      "note": "You can change the number to your age."
+    },
+    {
+      "de": "Woher kommst du?",
+      "en": "Where are you from?",
+      "note": "Question for introducing your origin."
+    },
+    {
+      "de": "Ich komme aus Syrien.",
+      "en": "I come from Syria.",
+      "note": "Replace the country name with yours."
+    },
+    {
+      "de": "Wo wohnst du?",
+      "en": "Where do you live?",
+      "note": "Question about your current residence."
+    },
+    {
+      "de": "Ich wohne in Deutschland.",
+      "en": "I live in Germany.",
+      "note": "You can replace Germany with any country or city."
+    },
+    {
+      "de": "Schön, dich kennenzulernen!",
+      "en": "Nice to meet you!",
+      "note": "Said when meeting someone for the first time."
+    }
+  ],
+  "tip": "In most simple German statements, the verb comes in the second position: Ich heiße Noa. (My name is Noa.) Ich bin 31 Jahre alt. (I am 31 years old.) Ich komme aus Syrien. (I come from Syria.) Golden rule: subject first, then verb, then the rest.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Wie heißt du?",
+      "en": "What is your name?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich heiße Noa.",
+      "en": "My name is Noa."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Wie alt bist du?",
+      "en": "How old are you?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich bin 31 Jahre alt.",
+      "en": "I am 31 years old."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Woher kommst du?",
+      "en": "Where are you from?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich komme aus Syrien.",
+      "en": "I come from Syria."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Schön, dich kennenzulernen!",
+      "en": "Nice to meet you!"
+    },
+    {
+      "speaker": "👨",
+      "de": "Danke, ebenfalls!",
+      "en": "Thanks, nice to meet you too!"
+    }
+  ],
+  "summary": [
+    {
+      "de": "Ich heiße ...",
+      "en": "My name is ..."
+    },
+    {
+      "de": "Ich bin ...",
+      "en": "I am ..."
+    },
+    {
+      "de": "Mein Name ist ...",
+      "en": "My name is ..."
+    },
+    {
+      "de": "Wie heißt du?",
+      "en": "What is your name? (informal)."
+    },
+    {
+      "de": "Wie heißen Sie?",
+      "en": "What is your name? (formal)."
+    },
+    {
+      "de": "Wie alt bist du?",
+      "en": "How old are you?"
+    },
+    {
+      "de": "Ich bin ... Jahre alt.",
+      "en": "I am ... years old."
+    },
+    {
+      "de": "Woher kommst du?",
+      "en": "Where are you from?"
+    },
+    {
+      "de": "Ich komme aus ...",
+      "en": "I come from ..."
+    },
+    {
+      "de": "Wo wohnst du?",
+      "en": "Where do you live?"
+    },
+    {
+      "de": "Ich wohne in ...",
+      "en": "I live in ..."
+    },
+    {
+      "de": "Schön, dich kennenzulernen!",
+      "en": "Nice to meet you!"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "The teacher asks: “Wie heißt du?”. What is the best answer?",
+      "options": [
+        "Ich heiße Noa.",
+        "Ich bin gut.",
+        "Guten Tag!"
+      ],
+      "answer": 0,
+      "hint": "Look for the sentence starting with ‘Ich heiße ...’"
+    },
+    {
+      "question": "Someone asks you: “Wie alt bist du?”. Which sentence matches?",
+      "options": [
+        "Ich bin 31 Jahre alt.",
+        "Ich komme aus Syrien.",
+        "Ich heiße Noa."
+      ],
+      "answer": 0,
+      "hint": "It’s the one with ‘Jahre alt’."
+    },
+    {
+      "question": "You want to say you are from Syria. What do you choose?",
+      "options": [
+        "Ich heiße Syrien.",
+        "Ich komme aus Syrien.",
+        "Ich bin Syrien Jahre alt."
+      ],
+      "answer": 1,
+      "hint": "The correct verb is ‘komme aus’."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L03_Numbers",
+  "title": {
+    "de": "Nummern",
+    "en": "Numbers"
+  },
+  "interactiveScene": "You enter a café in Berlin and say to the waiter: 'Einen Kaffee, bitte!' He smiles and asks: 'Wie viele Zucker?' — How many sugars? You think for a moment and answer: 'Zwei, bitte.' Then he asks: 'Nummer fünf oder sechs?' — Number five or six? You laugh and say: 'Fünf! Sechs is too strong!' And just like that, you’ve used numbers for the first time in a simple real situation.",
+  "explanation": [
+    { "de": "null", "en": "Zero." },
+    { "de": "eins", "en": "One." },
+    { "de": "zwei", "en": "Two." },
+    { "de": "drei", "en": "Three." },
+    { "de": "vier", "en": "Four." },
+    { "de": "fünf", "en": "Five." },
+    { "de": "sechs", "en": "Six." },
+    { "de": "sieben", "en": "Seven." },
+    { "de": "acht", "en": "Eight." },
+    { "de": "neun", "en": "Nine." },
+    { "de": "zehn", "en": "Ten." },
+    { "de": "elf", "en": "Eleven." },
+    { "de": "zwölf", "en": "Twelve." },
+    { "de": "zwanzig", "en": "Twenty." },
+    { "de": "dreißig", "en": "Thirty." },
+    { "de": "vierzig", "en": "Forty." },
+    { "de": "fünfzig", "en": "Fifty." },
+    { "de": "sechzig", "en": "Sixty." },
+    { "de": "siebzig", "en": "Seventy." },
+    { "de": "achtzig", "en": "Eighty." },
+    { "de": "neunzig", "en": "Ninety." },
+    { "de": "hundert", "en": "One hundred." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "eins, zwei, drei",
+      "en": "One, two, three.",
+      "note": "Useful for simple counting."
+    },
+    {
+      "de": "Wie viele?",
+      "en": "How many?",
+      "note": "A question about quantity or amount."
+    },
+    {
+      "de": "Wie viele Zucker?",
+      "en": "How many sugars?",
+      "note": "Useful in cafés or restaurants."
+    },
+    {
+      "de": "Ich bin dreißig Jahre alt.",
+      "en": "I am thirty years old.",
+      "note": "You can change the number freely."
+    },
+    {
+      "de": "Nummer fünf",
+      "en": "Number five.",
+      "note": "Used with tables, queues, tickets, etc."
+    }
+  ],
+  "tip": "From 21 to 99, German numbers are written with the ones first, then the tens. Example: 21 = einundzwanzig (one and twenty) 43 = dreiundvierzig (three and forty) 57 = siebenundfünfzig (seven and fifty).",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Wie alt bist du?",
+      "en": "How old are you?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Ich bin achtzehn.",
+      "en": "I am eighteen."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Und wie viele Geschwister hast du?",
+      "en": "And how many siblings do you have?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Drei. Zwei Brüder und eine Schwester.",
+      "en": "Three. Two brothers and one sister."
+    }
+  ],
+  "summary": [
+    { "de": "null", "en": "Zero." },
+    { "de": "eins, zwei, drei, vier, fünf", "en": "One, two, three, four, five." },
+    { "de": "sechs, sieben, acht, neun, zehn", "en": "Six, seven, eight, nine, ten." },
+    { "de": "zwanzig, dreißig, vierzig ...", "en": "Twenty, thirty, forty..." },
+    { "de": "hundert", "en": "One hundred." },
+    { "de": "Wie viele ...?", "en": "How many ...?" },
+    { "de": "Ich bin ... Jahre alt.", "en": "I am ... years old." }
+  ],
+  "quiz": [
+    {
+      "question": "What does “fünf” mean?",
+      "options": ["3", "5", "10"],
+      "answer": 1,
+      "hint": "Think of the example: 3 + 2 = ?"
+    },
+    {
+      "question": "Which word means: twenty?",
+      "options": ["zwölf", "zwanzig", "dreißig"],
+      "answer": 1,
+      "hint": "Look for the beginning ‘zwan-’"
+    },
+    {
+      "question": "You want to say: I am thirty years old. Which sentence is correct?",
+      "options": [
+        "Ich bin dreißig Jahre alt.",
+        "Ich bin zwanzig Jahre alt.",
+        "Ich bin hundert Jahre alt."
+      ],
+      "answer": 0,
+      "hint": "Search for the word ‘dreißig’."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L04_Colors",
+  "title": {
+    "de": "Farben",
+    "en": "Colors"
+  },
+  "interactiveScene": "You are in a clothing shop in Berlin. You hold two shirts and ask the saleswoman: 'Welches Hemd sieht besser aus – das hellblaue oder das dunkelblaue?' She smiles and replies: 'Das dunkelblaue steht dir besser!' — The dark blue one suits you better. You think for a moment and laugh: 'Aber meine Frau mag Rot!' — But my wife likes red!",
+  "explanation": [
+    { "de": "die Farbe", "en": "Color." },
+    { "de": "schwarz", "en": "Black." },
+    { "de": "weiß", "en": "White." },
+    { "de": "grau", "en": "Gray." },
+    { "de": "rot", "en": "Red." },
+    { "de": "blau", "en": "Blue." },
+    { "de": "grün", "en": "Green." },
+    { "de": "gelb", "en": "Yellow." },
+    { "de": "orange", "en": "Orange." },
+    { "de": "rosa", "en": "Pink." },
+    { "de": "lila", "en": "Purple." },
+    { "de": "braun", "en": "Brown." },
+    { "de": "hell", "en": "Light." },
+    { "de": "dunkel", "en": "Dark." },
+    { "de": "hellblau", "en": "Light blue." },
+    { "de": "dunkelblau", "en": "Dark blue." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Was ist deine Lieblingsfarbe?",
+      "en": "What is your favorite color?",
+      "note": "A common question in simple conversations."
+    },
+    {
+      "de": "Meine Lieblingsfarbe ist Rot.",
+      "en": "My favorite color is red.",
+      "note": "You can change the color freely."
+    },
+    {
+      "de": "Ich mag hellblau.",
+      "en": "I like light blue.",
+      "note": "Using 'hell' with a color makes it lighter."
+    },
+    {
+      "de": "Welche Farbe hat der Himmel?",
+      "en": "What color is the sky?",
+      "note": "The usual answer: blau."
+    },
+    {
+      "de": "Welche Farbe hat die Sonne?",
+      "en": "What color is the sun?",
+      "note": "The usual answer: gelb."
+    }
+  ],
+  "tip": "Colors in German are usually used as adjectives, so they are written with a lowercase letter. Example: Das Auto ist rot. (The car is red.) Ich trage heute ein blaues Hemd. (I am wearing a blue shirt today.) You can combine colors like building blocks: hell + blau → hellblau (light blue) dunkel + grün → dunkelgrün (dark green).",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Welche Farbe magst du am liebsten?",
+      "en": "Which color do you like the most?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Ich mag Schwarz. Es passt zu meiner Seele.",
+      "en": "I like black. It matches my soul."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Sehr interessant!",
+      "en": "Very interesting!"
+    }
+  ],
+  "summary": [
+    { "de": "schwarz / weiß / grau", "en": "Black / white / gray." },
+    { "de": "rot / blau / grün / gelb", "en": "Red / blue / green / yellow." },
+    { "de": "orange / rosa / lila / braun", "en": "Orange / pink / purple / brown." },
+    { "de": "hell + Farbe", "en": "Light color." },
+    { "de": "dunkel + Farbe", "en": "Dark color." },
+    { "de": "Was ist deine Lieblingsfarbe?", "en": "What is your favorite color?" }
+  ],
+  "quiz": [
+    {
+      "question": "„Welche Farbe hat die Sonne?“ — What is the correct answer?",
+      "options": ["Blau", "Gelb", "Schwarz"],
+      "answer": 1,
+      "hint": "Think of how the sun looks."
+    },
+    {
+      "question": "What does „grün“ mean?",
+      "options": ["Red", "Green", "Blue"],
+      "answer": 1,
+      "hint": "Think of the color of grass."
+    },
+    {
+      "question": "You want to say: I like light blue. Which one do you choose?",
+      "options": [
+        "Ich mag dunkelblau.",
+        "Ich mag hellblau.",
+        "Ich mag schwarz."
+      ],
+      "answer": 1,
+      "hint": "hell means light."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L05_Family",
+  "title": {
+    "de": "Familie",
+    "en": "Family"
+  },
+  "interactiveScene": "You are sitting in a German café watching a cheerful family talking. The child says: “Papa, ich will ein Eis!” — Dad, I want ice cream! The mother laughs and says: “Frag zuerst Mama!” — Ask Mom first! The child excitedly replies: “Mamaaaa, bitte!” You smile because you understood your first family conversation in German almost without translation.",
+  "explanation": [
+    { "de": "die Familie", "en": "The family." },
+    { "de": "der Vater", "en": "The father." },
+    { "de": "die Mutter", "en": "The mother." },
+    { "de": "der Sohn", "en": "The son." },
+    { "de": "die Tochter", "en": "The daughter." },
+    { "de": "die Eltern", "en": "The parents." },
+    { "de": "der Bruder", "en": "The brother." },
+    { "de": "die Schwester", "en": "The sister." },
+    { "de": "der Opa", "en": "Grandfather." },
+    { "de": "die Oma", "en": "Grandmother." },
+    { "de": "der Onkel", "en": "Uncle." },
+    { "de": "die Tante", "en": "Aunt." },
+    { "de": "das Kind", "en": "Child." },
+    { "de": "die Kinder", "en": "Children." },
+    { "de": "die Geschwister", "en": "Siblings." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Das ist mein Vater.",
+      "en": "This is my father.",
+      "note": "Used when introducing a family member."
+    },
+    {
+      "de": "Das ist meine Mutter.",
+      "en": "This is my mother.",
+      "note": "Notice the use of 'meine' with feminine nouns."
+    },
+    {
+      "de": "Ich habe zwei Brüder.",
+      "en": "I have two brothers.",
+      "note": "You can change the number easily."
+    },
+    {
+      "de": "Ich habe eine Schwester.",
+      "en": "I have one sister.",
+      "note": "'eine' is used for feminine singular."
+    },
+    {
+      "de": "Hast du Geschwister?",
+      "en": "Do you have siblings?",
+      "note": "A common question about family."
+    },
+    {
+      "de": "Ich liebe meine Familie.",
+      "en": "I love my family.",
+      "note": "A beautiful sentence in any language."
+    }
+  ],
+  "tip": "In German, possessive articles are used a lot when talking about family: mein Vater (my father), meine Mutter (my mother), meine Geschwister (my siblings). Use 'mein' with masculine and neuter singular nouns, and 'meine' with feminine and plural nouns.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Hast du Geschwister?",
+      "en": "Do you have siblings?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Ja, ich habe drei Brüder und eine Schwester.",
+      "en": "Yes, I have three brothers and one sister."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Und wie heißt deine Mutter?",
+      "en": "And what is your mother’s name?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Sie heißt Sara.",
+      "en": "Her name is Sara."
+    }
+  ],
+  "summary": [
+    { "de": "Vater / Mutter / Eltern", "en": "Father / mother / parents." },
+    { "de": "Sohn / Tochter", "en": "Son / daughter." },
+    { "de": "Bruder / Schwester", "en": "Brother / sister." },
+    { "de": "Opa / Oma", "en": "Grandfather / grandmother." },
+    { "de": "Onkel / Tante", "en": "Uncle / aunt." },
+    { "de": "Kind / Kinder", "en": "Child / children." },
+    { "de": "die Familie", "en": "The family." }
+  ],
+  "quiz": [
+    {
+      "question": "What is the correct translation of 'die Mutter'?",
+      "options": ["The father", "The mother", "The son"],
+      "answer": 1,
+      "hint": "Think of the English word 'mother'."
+    },
+    {
+      "question": "You want to say: This is my brother. What do you choose?",
+      "options": [
+        "Das ist mein Bruder.",
+        "Das ist meine Schwester.",
+        "Das ist mein Kind."
+      ],
+      "answer": 0,
+      "hint": "Look for the word 'Bruder'."
+    },
+    {
+      "question": "What does the question 'Hast du Geschwister?' mean?",
+      "options": [
+        "Do you have children?",
+        "Do you have siblings?",
+        "Do you have parents?"
+      ],
+      "answer": 1,
+      "hint": "Geschwister = brothers and sisters together."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L06_Home",
+  "title": {
+    "de": "Zuhause",
+    "en": "Home"
+  },
+  "interactiveScene": "You wake up in your warm home, with the smell of coffee coming from the kitchen. You open your eyes and look around your room: the bed is unmade, the clothes are on the chair, and the sun shines through the window. You hear someone in the living room calling: “Frühstück ist fertig!” — Breakfast is ready! You smile and think that without these little bits of chaos, a house would not feel like a real home.",
+  "explanation": [
+    { "de": "das Zuhause", "en": "Home; the place where you feel you belong." },
+    { "de": "das Haus", "en": "The house (the building itself)." },
+    { "de": "die Wohnung", "en": "The apartment." },
+    { "de": "das Zimmer", "en": "Room." },
+    { "de": "das Wohnzimmer", "en": "Living room." },
+    { "de": "das Schlafzimmer", "en": "Bedroom." },
+    { "de": "die Küche", "en": "Kitchen." },
+    { "de": "das Bad", "en": "Bathroom." },
+    { "de": "die Tür", "en": "The door." },
+    { "de": "das Fenster", "en": "The window." },
+    { "de": "der Tisch", "en": "The table." },
+    { "de": "der Stuhl", "en": "The chair." },
+    { "de": "das Bett", "en": "The bed." },
+    { "de": "der Schrank", "en": "The closet / wardrobe." },
+    { "de": "der Boden", "en": "The floor." },
+    { "de": "die Wand", "en": "The wall." },
+    { "de": "der Balkon", "en": "The balcony." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich wohne in einer Wohnung.",
+      "en": "I live in an apartment.",
+      "note": "Used to describe where you live."
+    },
+    {
+      "de": "Mein Wohnzimmer ist groß.",
+      "en": "My living room is big.",
+      "note": "Useful when describing your home."
+    },
+    {
+      "de": "Mein Schlafzimmer ist klein.",
+      "en": "My bedroom is small.",
+      "note": "Common description sentence."
+    },
+    {
+      "de": "Die Küche ist schmutzig.",
+      "en": "The kitchen is dirty.",
+      "note": "schmutzig = dirty / sauber = clean."
+    },
+    {
+      "de": "Ich mache das Fenster auf.",
+      "en": "I open the window.",
+      "note": "Using verbs with objects at home."
+    }
+  ],
+  "tip": "In German, rooms and furniture are often used with the article: der Tisch (the table), die Tür (the door), das Fenster (the window). When describing your home, use: Mein Zimmer ist ... (My room is ...), Die Küche ist ... (The kitchen is ...). Adjectives usually come after 'ist': groß (big), klein (small), sauber (clean), schmutzig (dirty).",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Wo wohnst du?",
+      "en": "Where do you live?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Ich wohne in einer kleinen Wohnung.",
+      "en": "I live in a small apartment."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Wie viele Zimmer hat sie?",
+      "en": "How many rooms does it have?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Drei: Wohnzimmer, Schlafzimmer und Küche.",
+      "en": "Three: living room, bedroom, and kitchen."
+    }
+  ],
+  "summary": [
+    { "de": "Zimmer, Wohnzimmer, Schlafzimmer, Küche", "en": "Room, living room, bedroom, kitchen." },
+    { "de": "Tür, Fenster, Tisch, Stuhl", "en": "Door, window, table, chair." },
+    { "de": "Ich bin zuhause.", "en": "I am at home." },
+    { "de": "Ich wohne in ...", "en": "I live in ..." }
+  ],
+  "quiz": [
+    {
+      "question": "Which word means: apartment?",
+      "options": ["das Haus", "die Wohnung", "das Zimmer"],
+      "answer": 1,
+      "hint": "Haus = house, Zimmer = room."
+    },
+    {
+      "question": "You want to say: I am at home. What do you choose?",
+      "options": ["Ich bin Haus.", "Ich bin zuhause.", "Ich bin Wohnung."],
+      "answer": 1,
+      "hint": "Use 'zuhause' without an article."
+    },
+    {
+      "question": "What is the meaning of “Die Küche ist schmutzig.”?",
+      "options": ["The kitchen is clean.", "The kitchen is dirty.", "The living room is dirty."],
+      "answer": 1,
+      "hint": "schmutzig is the opposite of sauber."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L07_Time",
+  "title": {
+    "de": "Uhrzeit",
+    "en": "Time"
+  },
+  "interactiveScene": "You are sitting at the bus stop in the morning. Your phone battery is dead, and you do not know the time. You turn to the person next to you and ask: “Wie spät ist es?” He looks at his watch and says: “Es ist halb neun.” — It’s half past eight. You think for a moment and say: “Ah, halb neun… so I still have time!” The bus arrives exactly on time — German-style.",
+  "explanation": [
+    { "de": "Wie spät ist es?", "en": "What time is it?" },
+    { "de": "Wie viel Uhr ist es?", "en": "What time is it? (literally: How many o'clock is it?)" },
+    { "de": "Es ist ... Uhr.", "en": "It is ... o'clock." },
+    { "de": "Es ist halb neun.", "en": "It is half past eight. (German 'half nine' means 8:30)" },
+    { "de": "Es ist Viertel nach acht.", "en": "It is a quarter past eight. (8:15)" },
+    { "de": "Es ist Viertel vor neun.", "en": "It is a quarter to nine. (8:45)" },
+    { "de": "Es ist zehn nach acht.", "en": "It is ten past eight." },
+    { "de": "Es ist zehn vor neun.", "en": "It is ten to nine." },
+    { "de": "der Morgen", "en": "Morning." },
+    { "de": "der Mittag", "en": "Noon." },
+    { "de": "der Nachmittag", "en": "Afternoon." },
+    { "de": "der Abend", "en": "Evening." },
+    { "de": "die Nacht", "en": "Night." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Wie spät ist es?",
+      "en": "What time is it?",
+      "note": "The most common question for time."
+    },
+    {
+      "de": "Es ist halb neun.",
+      "en": "It is half past eight.",
+      "note": "German half-hour is backwards."
+    },
+    {
+      "de": "Es ist Viertel vor neun.",
+      "en": "It is a quarter to nine.",
+      "note": "vor = before."
+    },
+    {
+      "de": "Es ist zehn nach acht.",
+      "en": "It is ten past eight.",
+      "note": "nach = after."
+    },
+    {
+      "de": "Es ist Punkt acht.",
+      "en": "It is exactly eight o’clock.",
+      "note": "Punkt = exactly."
+    }
+  ],
+  "tip": "German time expressions are different from English: 'halb neun' means 8:30 — half **before** nine. Examples: halb vier → 3:30 halb sieben → 6:30. For minutes: nach = past, vor = to. Viertel nach → quarter past. Viertel vor → quarter to.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Wie spät ist es, bitte?",
+      "en": "What time is it, please?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Es ist Viertel nach acht.",
+      "en": "It is a quarter past eight."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Danke!",
+      "en": "Thanks!"
+    }
+  ],
+  "summary": [
+    { "de": "Wie spät ist es?", "en": "What time is it?" },
+    { "de": "Es ist ... Uhr.", "en": "It is ... o’clock." },
+    { "de": "halb + nächste Stunde", "en": "Half past (one hour before the next)." },
+    { "de": "Viertel nach / Viertel vor", "en": "Quarter past / quarter to." },
+    { "de": "nach / vor", "en": "Past / to." }
+  ],
+  "quiz": [
+    {
+      "question": "What does “Es ist halb neun” mean?",
+      "options": [
+        "It is 9:30.",
+        "It is 8:30.",
+        "It is 7:30."
+      ],
+      "answer": 1,
+      "hint": "German 'half' goes towards the next hour."
+    },
+    {
+      "question": "What is “Viertel nach acht”?",
+      "options": ["8:15", "7:45", "8:45"],
+      "answer": 0,
+      "hint": "nach = past."
+    },
+    {
+      "question": "You want to say: It is ten to nine. Which one is correct?",
+      "options": [
+        "Es ist zehn vor neun.",
+        "Es ist zehn nach neun.",
+        "Es ist halb neun."
+      ],
+      "answer": 0,
+      "hint": "vor = before."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L08_Weather",
+  "title": {
+    "de": "Wetter",
+    "en": "Weather"
+  },
+  "interactiveScene": "You look out the window in the morning and see that the sky is gray. You check the weather app but it says: 'Vielleicht Regen.' — Maybe rain. You open the window, feel the cold air, and say to yourself: 'It definitely feels like rain.' When you go outside, your neighbor waves and says: 'Schönes Wetter heute!' — Beautiful weather today! You both laugh because the German weather is unpredictable.",
+  "explanation": [
+    { "de": "das Wetter", "en": "The weather." },
+    { "de": "die Sonne", "en": "The sun." },
+    { "de": "es ist sonnig", "en": "It is sunny." },
+    { "de": "der Regen", "en": "The rain." },
+    { "de": "es regnet", "en": "It is raining." },
+    { "de": "der Schnee", "en": "The snow." },
+    { "de": "es schneit", "en": "It is snowing." },
+    { "de": "windig", "en": "Windy." },
+    { "de": "bewölkt", "en": "Cloudy." },
+    { "de": "kalt", "en": "Cold." },
+    { "de": "warm", "en": "Warm." },
+    { "de": "heiß", "en": "Hot." },
+    { "de": "die Temperatur", "en": "Temperature." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Wie ist das Wetter heute?",
+      "en": "How is the weather today?",
+      "note": "The most common weather question."
+    },
+    {
+      "de": "Es ist sonnig.",
+      "en": "It is sunny.",
+      "note": "Used when the sun is shining."
+    },
+    {
+      "de": "Es ist bewölkt.",
+      "en": "It is cloudy.",
+      "note": "When the sky is full of clouds."
+    },
+    {
+      "de": "Es regnet.",
+      "en": "It is raining.",
+      "note": "Useful for everyday life in Germany."
+    },
+    {
+      "de": "Es ist kalt heute.",
+      "en": "It is cold today.",
+      "note": "kalt = cold / warm = warm."
+    }
+  ],
+  "tip": "In German, weather sentences often start with 'es': es regnet (it is raining), es schneit (it is snowing), es ist sonnig (it is sunny). To ask: Wie ist das Wetter? (How is the weather?), or Wie ist die Temperatur? (What is the temperature?).",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Wie ist das Wetter bei euch?",
+      "en": "How is the weather where you are?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Es ist kalt und es regnet.",
+      "en": "It is cold and it is raining."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Hier scheint die Sonne!",
+      "en": "Here the sun is shining!"
+    }
+  ],
+  "summary": [
+    { "de": "sonnig / bewölkt / windig", "en": "Sunny / cloudy / windy." },
+    { "de": "kalt / warm / heiß", "en": "Cold / warm / hot." },
+    { "de": "es regnet / es schneit", "en": "It is raining / it is snowing." },
+    { "de": "Wie ist das Wetter?", "en": "How is the weather?" }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'es regnet' mean?",
+      "options": [
+        "It is sunny.",
+        "It is raining.",
+        "It is windy."
+      ],
+      "answer": 1,
+      "hint": "Think of 'Regen' = rain."
+    },
+    {
+      "question": "You want to say: It is cold today. Which is correct?",
+      "options": [
+        "Es ist kalt heute.",
+        "Es ist heiß heute.",
+        "Es ist sonnig heute."
+      ],
+      "answer": 0,
+      "hint": "kalt = cold."
+    },
+    {
+      "question": "What does 'bewölkt' mean?",
+      "options": [
+        "Cloudy.",
+        "Windy.",
+        "Snowy."
+      ],
+      "answer": 0,
+      "hint": "Think of the sky full of clouds."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L09_Food_Drinks",
+  "title": {
+    "de": "Essen und Trinken",
+    "en": "Food and Drinks"
+  },
+  "interactiveScene": "You enter a small bakery in Germany. The smell of fresh bread fills the air. The seller smiles and asks: 'Was möchten Sie?' — What would you like? You look at the shelves and say: 'Ein Brötchen, bitte.' She then asks: 'Möchten Sie auch etwas trinken?' — Would you like something to drink? You answer proudly: 'Ja! Einen Kaffee, bitte!' — Your first German food order!",
+  "explanation": [
+    { "de": "das Essen", "en": "Food." },
+    { "de": "das Trinken", "en": "Drinks." },
+    { "de": "das Brot", "en": "Bread." },
+    { "de": "das Brötchen", "en": "Bread roll." },
+    { "de": "die Milch", "en": "Milk." },
+    { "de": "das Wasser", "en": "Water." },
+    { "de": "der Saft", "en": "Juice." },
+    { "de": "der Apfelsaft", "en": "Apple juice." },
+    { "de": "der Kaffee", "en": "Coffee." },
+    { "de": "der Tee", "en": "Tea." },
+    { "de": "das Obst", "en": "Fruit." },
+    { "de": "das Gemüse", "en": "Vegetables." },
+    { "de": "der Apfel", "en": "Apple." },
+    { "de": "die Banane", "en": "Banana." },
+    { "de": "die Orange", "en": "Orange." },
+    { "de": "die Tomate", "en": "Tomato." },
+    { "de": "die Kartoffel", "en": "Potato." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich möchte ein Brötchen.",
+      "en": "I would like a bread roll.",
+      "note": "Useful in bakeries."
+    },
+    {
+      "de": "Haben Sie Wasser?",
+      "en": "Do you have water?",
+      "note": "Basic drink question."
+    },
+    {
+      "de": "Ich hätte gern einen Kaffee.",
+      "en": "I would like a coffee.",
+      "note": "Polite restaurant/bakery request."
+    },
+    {
+      "de": "Möchten Sie etwas essen?",
+      "en": "Would you like something to eat?",
+      "note": "Common in cafés."
+    },
+    {
+      "de": "Das schmeckt gut!",
+      "en": "This tastes good!",
+      "note": "Useful praise in restaurants."
+    }
+  ],
+  "tip": "To order politely in German, use 'Ich möchte ...' or 'Ich hätte gern ...'. Both mean 'I would like ...'. Drink words usually take masculine or neuter articles: der Kaffee (coffee), der Tee (tea), das Wasser (water).",
+  "dialogue": [
+    {
+      "speaker": "👩‍🍳",
+      "de": "Was möchten Sie trinken?",
+      "en": "What would you like to drink?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich möchte einen Tee.",
+      "en": "I would like a tea."
+    },
+    {
+      "speaker": "👩‍🍳",
+      "de": "Mit Zucker?",
+      "en": "With sugar?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Nein, danke.",
+      "en": "No, thank you."
+    }
+  ],
+  "summary": [
+    { "de": "Brot / Brötchen", "en": "Bread / bread roll." },
+    { "de": "Wasser / Saft / Kaffee / Tee", "en": "Water / juice / coffee / tea." },
+    { "de": "Obst / Gemüse", "en": "Fruit / vegetables." },
+    { "de": "Ich möchte ...", "en": "I would like ..." }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'Ich möchte einen Kaffee' mean?",
+      "options": [
+        "I want a coffee.",
+        "I have a coffee.",
+        "I drink coffee now."
+      ],
+      "answer": 0,
+      "hint": "möchte = would like."
+    },
+    {
+      "question": "Which one is a drink?",
+      "options": ["die Tomate", "das Wasser", "die Kartoffel"],
+      "answer": 1,
+      "hint": "Think liquid."
+    },
+    {
+      "question": "You want to ask: Do you have water? Which sentence is correct?",
+      "options": [
+        "Haben Sie Wasser?",
+        "Ich esse Wasser.",
+        "Ich möchte Wasser."
+      ],
+      "answer": 0,
+      "hint": "Look for the verb 'haben'."
+    }
+  ]
+}
+,
+{
+  "id": "A1_L10_Train_Station",
+  "title": {
+    "de": "Am Bahnhof",
+    "en": "At the Train Station"
+  },
+  "interactiveScene": "You are at Berlin Hauptbahnhof, the main train station. Announcements echo through the hall: 'Achtung! Der Zug nach Hamburg hat zehn Minuten Verspätung!' — Attention! The train to Hamburg is delayed by ten minutes. You walk to the ticket machine and struggle for a moment, then go to the counter. The employee asks: 'Einfach oder hin und zurück?' — One-way or round trip? You answer confidently: 'Hin und zurück, bitte.' — Round trip, please.",
+  "explanation": [
+    { "de": "der Bahnhof", "en": "Train station." },
+    { "de": "der Zug", "en": "Train." },
+    { "de": "die Fahrkarte", "en": "Travel ticket." },
+    { "de": "das Ticket", "en": "Ticket (general word)." },
+    { "de": "das Gleis", "en": "Track / platform." },
+    { "de": "die Abfahrt", "en": "Departure." },
+    { "de": "die Ankunft", "en": "Arrival." },
+    { "de": "die Verspätung", "en": "Delay." },
+    { "de": "der Bahnsteig", "en": "Train platform." },
+    { "de": "der Sitzplatz", "en": "Seat." },
+    { "de": "der Koffer", "en": "Suitcase." },
+    { "de": "einfach", "en": "One-way." },
+    { "de": "hin und zurück", "en": "Round trip." },
+    { "de": "Wann fährt der Zug?", "en": "When does the train leave?" },
+    { "de": "Wie lange dauert die Fahrt?", "en": "How long is the journey?" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Wann fährt der Zug nach Berlin?",
+      "en": "When does the train to Berlin leave?",
+      "note": "Used to ask about departure times."
+    },
+    {
+      "de": "Der Zug hat Verspätung.",
+      "en": "The train is delayed.",
+      "note": "Common phrase in German train stations."
+    },
+    {
+      "de": "Auf welchem Gleis?",
+      "en": "On which track?",
+      "note": "Used when asking about platform numbers."
+    },
+    {
+      "de": "Einfach oder hin und zurück?",
+      "en": "One-way or round trip?",
+      "note": "Asked at the ticket counter."
+    },
+    {
+      "de": "Ich möchte eine Fahrkarte nach Berlin.",
+      "en": "I would like a ticket to Berlin.",
+      "note": "Standard ticket request sentence."
+    }
+  ],
+  "tip": "German train stations use many compound nouns: Fahrkarte (travel ticket), Bahnsteig (train platform), Abfahrt (departure), Ankunft (arrival). Tracks are marked with 'Gleis': Gleis 1, Gleis 2, Gleis 7. Be careful: 'halb neun' (half nine) is 8:30, not 9:30.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Einfach oder hin und zurück?",
+      "en": "One-way or round trip?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Hin und zurück, bitte.",
+      "en": "Round trip, please."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Der Zug fährt um acht Uhr ab.",
+      "en": "The train leaves at eight o’clock."
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Danke!",
+      "en": "Thank you!"
+    }
+  ],
+  "summary": [
+    { "de": "Bahnhof / Zug / Fahrkarte", "en": "Station / train / ticket." },
+    { "de": "Abfahrt / Ankunft", "en": "Departure / arrival." },
+    { "de": "Verspätung", "en": "Delay." },
+    { "de": "einfach / hin und zurück", "en": "One-way / round trip." },
+    { "de": "Auf welchem Gleis?", "en": "On which track?" }
+  ],
+  "quiz": [
+    {
+      "question": "You want to say: I want a ticket to Berlin. Which one is correct?",
+      "options": [
+        "Ich möchte eine Fahrkarte nach Berlin.",
+        "Ich bin nach Berlin.",
+        "Ich komme aus Berlin."
+      ],
+      "answer": 0,
+      "hint": "Look for the word Fahrkarte."
+    },
+    {
+      "question": "What does 'Der Zug hat Verspätung' mean?",
+      "options": [
+        "The train is delayed.",
+        "The train leaves now.",
+        "The train is canceled."
+      ],
+      "answer": 0,
+      "hint": "Verspätung = delay."
+    },
+    {
+      "question": "You hear: 'Einfach oder hin und zurück?' What does 'hin und zurück' mean?",
+      "options": [
+        "One-way only.",
+        "Round trip.",
+        "One stop only."
+      ],
+      "answer": 1,
+      "hint": "It means going and returning."
+    }
+  ]
+}
+
+    ]
+    }

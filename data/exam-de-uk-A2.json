@@ -1,0 +1,476 @@
+{
+  "level": "A2",
+  "title_de": "Abschlussprüfung A2 – Alltag & Sprache",
+  "title_uk": "Підсумковий іспит A2 – повсякденність і мова",
+  "questions": [
+    {
+      "id": "a2-q1",
+      "type": "mcq",
+      "skill": "grammatik",
+      "question_de": "Wähle die richtige Form: Ich ____ gestern spät nach Hause.",
+      "question_uk": "Оберіть правильну форму дієслова (kommen): «Я повернувся вчора пізно додому.»",
+      "options": [
+        "bin gekommen",
+        "habe gekommen",
+        "bin gekommt",
+        "war kommen"
+      ],
+      "answer": 0,
+      "explanation": "Mit «kommen» benutzt man im Perfekt das Hilfsverb «sein»: ich bin gekommen."
+    },
+    {
+      "id": "a2-q2",
+      "type": "mcq",
+      "skill": "grammatik",
+      "question_de": "Was passt? – Morgen ____ ich lange arbeiten, ich habe viel zu tun.",
+      "question_uk": "Яка форма правильна з модальним дієсловом (müssen)?",
+      "options": [
+        "muss",
+        "müssen",
+        "musst",
+        "müssen wir"
+      ],
+      "answer": 0,
+      "explanation": "Zum Pronomen «ich» gehört die Form «ich muss»."
+    },
+    {
+      "id": "a2-q3",
+      "type": "mcq",
+      "skill": "praeposition",
+      "question_de": "Wohin gehst du? – Ich gehe ____ die Küche.",
+      "question_uk": "Оберіть правильний прийменник для руху в напрямку місця (на кухню).",
+      "options": [
+        "in",
+        "im",
+        "auf dem",
+        "bei"
+      ],
+      "answer": 0,
+      "explanation": "Bei Bewegung in einen Raum benutzt man «in» + Akkusativ: in die Küche."
+    },
+    {
+      "id": "a2-q4",
+      "type": "mcq",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung mit «weil» ist richtig?",
+      "question_uk": "Яке речення з «weil» правильне?",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Weil ich krank bin, ich bleibe zu Hause.",
+        "Ich bin krank, weil bleibe ich zu Hause."
+      ],
+      "answer": 1,
+      "explanation": "Nach «weil» steht das Verb am Satzende."
+    },
+    {
+      "id": "a2-q5",
+      "type": "mcq",
+      "skill": "tekamolo",
+      "question_de": "Welche Reihenfolge ist typisch (Zeit – Art – Ort)?",
+      "question_uk": "Оберіть правильний порядок слів (час – спосіб – місце).",
+      "options": [
+        "Ich arbeite im Büro morgen sehr lange.",
+        "Morgen im Büro ich arbeite sehr lange.",
+        "Ich arbeite morgen sehr lange im Büro.",
+        "Ich sehr lange arbeite im Büro morgen."
+      ],
+      "answer": 2,
+      "explanation": "Reihenfolge: Zeit – Art – Ort."
+    },
+
+    {
+      "id": "a2-q6",
+      "type": "mcq",
+      "skill": "frage",
+      "question_de": "Welche Frage passt zur Antwort: «Ich komme aus Syrien.»",
+      "question_uk": "Яке запитання підходить до відповіді: «Я з Сирії»?",
+      "options": [
+        "Wo wohnst du?",
+        "Woher kommst du?",
+        "Wohin gehst du?",
+        "Wie alt bist du?"
+      ],
+      "answer": 1,
+      "explanation": "Zur Herkunft passt die Frage «Woher kommst du?».",
+      "explanation_uk": "Питання про походження: Woher kommst du?"
+    },
+
+    {
+      "id": "a2-q7",
+      "type": "mcq",
+      "skill": "pronomen",
+      "question_de": "Ergänze: Ich sehe ____ morgen im Kurs.",
+      "question_uk": "Доповніть речення займенником в Akkusativ: «Я бачу тебе завтра на курсі.»",
+      "options": ["du", "dir", "dich", "dein"],
+      "answer": 2,
+      "explanation": "Objekt im Akkusativ: ich sehe dich."
+    },
+
+    {
+      "id": "a2-q8",
+      "type": "mcq",
+      "skill": "lesen",
+      "question_de": "Lesen: «Am Samstag fährt Noa zu seinen Freunden nach Hamburg. Am Sonntag kommt er zurück.» – Wann kommt Noa zurück?",
+      "question_uk": "Коли Ноа повертається? (згідно тексту)",
+      "options": ["Am Freitag", "Am Samstag", "Am Sonntag", "Am Montag"],
+      "answer": 2,
+      "explanation": "Im Text steht: Am Sonntag kommt er zurück."
+    },
+
+    {
+      "id": "a2-q9",
+      "type": "mcq",
+      "skill": "komparativ",
+      "question_de": "Was ist richtig? – Berlin ist ____ als meine Stadt.",
+      "question_uk": "Оберіть правильну форму порівняння: «Берлін більший за моє місто.»",
+      "options": ["groß", "am größten", "größer", "mehr groß"],
+      "answer": 2,
+      "explanation": "Komparativ von «groß» ist «größer»."
+    },
+
+    {
+      "id": "a2-q10",
+      "type": "mcq",
+      "skill": "schreiben",
+      "question_de": "Welche E-Mail-Anrede ist passend und höflich?",
+      "question_uk": "Яке привітання підходить для формального листа?",
+      "options": [
+        "Hi Bruder, was geht?",
+        "Hallo Chef!",
+        "Sehr geehrte Frau Müller,",
+        "Tschüss, bis später,"
+      ],
+      "answer": 2,
+      "explanation": "In formellen E-Mails benutzt man „Sehr geehrte …“."
+    },
+
+    {
+      "level": "A2",
+      "title_de": "Abschlussprüfung A2 — Zusatzfragen",
+      "title_uk": "Підсумковий іспит A2 – додаткові запитання",
+      "questions": [
+
+        {
+          "question_de": "Welcher Satz ist korrekt?",
+          "question_uk": "Яке речення правильне?",
+          "options": [
+            "Ich gehe morgen zur Arbeit.",
+            "Ich gehe morgen auf Arbeit.",
+            "Ich gehe morgen im Arbeit.",
+            "Ich gehe morgen der Arbeit."
+          ],
+          "answer": 0,
+          "explanation": "„zur Arbeit“ ist korrekt.",
+          "explanation_uk": "До місця → zu + Dativ → zur Arbeit."
+        },
+
+        {
+          "question_de": "Welche Präposition passt? — Ich warte ___ den Bus.",
+          "question_uk": "Оберіть правильний прийменник: Я чекаю ___ автобус.",
+          "options": ["auf", "für", "mit", "bei"],
+          "answer": 0,
+          "explanation": "warten auf + Akk.",
+          "explanation_uk": "warten → auf + Akk."
+        },
+
+        {
+          "question_de": "Setze ins Perfekt: „Ich kaufe ein.“",
+          "question_uk": "Перетворіть у Perfekt: „Ich kaufe ein.“",
+          "options": [
+            "Ich habe eingekauft.",
+            "Ich bin eingekauft.",
+            "Ich habe eingekaufen.",
+            "Ich bin einkaufen."
+          ],
+          "answer": 0,
+          "explanation": "Trennbar: eingekauft.",
+          "explanation_uk": "einkaufen → eingekauft."
+        },
+
+        {
+          "question_de": "Wähle die höfliche Form:",
+          "question_uk": "Оберіть ввічливу форму:",
+          "options": [
+            "Könnten Sie mir bitte helfen?",
+            "Hilf mir sofort!",
+            "Du hilfst mir jetzt!",
+            "Hilfst du mir, ja?"
+          ],
+          "answer": 0,
+          "explanation": "Höflich: Könnten Sie …?",
+          "explanation_uk": "Ввічливо: Konjunktiv II + Sie."
+        },
+
+        {
+          "question_de": "Welche Antwort passt? — „Wie spät ist es?“",
+          "question_uk": "Яка відповідь підходить до: «Котра година?»",
+          "options": [
+            "Es ist halb fünf.",
+            "Ich bin sehr müde.",
+            "Morgen habe ich Zeit.",
+            "Das Wetter ist schön."
+          ],
+          "answer": 0,
+          "explanation": "Uhrzeit beginnt mit „Es ist…“.",
+          "explanation_uk": "Година → Es ist…"
+        },
+
+        {
+          "question_de": "Ergänze: Ich habe gestern ___ Bruder besucht.",
+          "question_uk": "Доповніть: Я вчора відвідав ___ брата.",
+          "options": ["meinen", "meinem", "meiner", "mein"],
+          "answer": 0,
+          "explanation": "Akkusativ maskulin.",
+          "explanation_uk": "Akkusativ → meinen."
+        },
+
+        {
+          "question_de": "Welche Reihenfolge ist richtig? (Hauptsatz)",
+          "question_uk": "Який порядок слів правильний?",
+          "options": [
+            "Ich gehe heute mit Freunden ins Kino.",
+            "Ich heute mit Freunden gehe ins Kino.",
+            "Heute ich gehe mit Freunden ins Kino.",
+            "Ich gehe ins Kino heute mit Freunden."
+          ],
+          "answer": 0,
+          "explanation": "Verb in Position 2.",
+          "explanation_uk": "Дієслово на 2-му місці."
+        },
+
+        {
+          "question_de": "Wähle das richtige Modalverb: Ich ___ morgen länger bleiben.",
+          "question_uk": "Оберіть модальне дієслово: Я ___ залишитися довше завтра.",
+          "options": ["muss", "kann", "möchte", "soll"],
+          "answer": 2,
+          "explanation": "möchte = Wunsch.",
+          "explanation_uk": "möchte → бажання."
+        },
+
+        {
+          "question_de": "Welche Form ist richtig? — „Er hat den Termin ___ .“",
+          "question_uk": "Оберіть правильну форму: «Він ___ зустріч.»",
+          "options": ["verschoben", "verschiebt", "verschiebte", "verschoben ist"],
+          "answer": 0,
+          "explanation": "Perfekt + Partizip II.",
+          "explanation_uk": "Partizip II → verschoben."
+        },
+
+        {
+          "question_de": "Ergänze: Sie fährt ___ Fahrrad zur Arbeit.",
+          "question_uk": "Доповніть: Вона їде ___ велосипедом на роботу.",
+          "options": ["mit dem", "zu dem", "ins", "bei dem"],
+          "answer": 0,
+          "explanation": "mit dem Fahrrad.",
+          "explanation_uk": "Транспорт → mit dem."
+        },
+
+        {
+          "question_de": "Welche Einladung ist passend (freundlich, informell)?",
+          "question_uk": "Яке запрошення підходить (неформальне, дружнє)?",
+          "options": [
+            "Hast du Zeit, am Samstag zu grillen?",
+            "Sie werden eingeladen, am Samstag zu grillen.",
+            "Du musst am Samstag kommen.",
+            "Komm am Samstag. Ende."
+          ],
+          "answer": 0,
+          "explanation": "Freundlich & locker.",
+          "explanation_uk": "Неформально та ввічливо."
+        },
+
+        {
+          "question_de": "Setze um: „weil“-Satz — Ich bleibe zu Hause. Es regnet.",
+          "question_uk": "Перетворіть у речення з «weil».",
+          "options": [
+            "Ich bleibe zu Hause, weil es regnet.",
+            "Ich bleibe zu Hause, weil regnet es.",
+            "Weil es regnet, ich bleibe zu Hause.",
+            "Ich bleibe, weil es regnet zu Hause."
+          ],
+          "answer": 0,
+          "explanation": "Verb am Ende.",
+          "explanation_uk": "У weil-реченні дієслово наприкінці."
+        },
+
+        {
+          "question_de": "Welche Pluralform ist richtig? — das Kind",
+          "question_uk": "Оберіть правильну множину для «das Kind».",
+          "options": ["die Kinder", "die Kinden", "die Kindern", "die Kindes"],
+          "answer": 0,
+          "explanation": "Plural: Kinder."
+        },
+
+        {
+          "question_de": "Ergänze: Ich habe seit zwei Jahren in Köln ___ .",
+          "question_uk": "Доповніть: Я вже два роки живу в Кельні.",
+          "options": ["gelebt", "leben", "gewohnt habe", "zu wohnen"],
+          "answer": 0,
+          "explanation": "Perfektform korrekt.",
+          "explanation_uk": "Perfekt → gelebt."
+        },
+
+        {
+          "question_de": "Welche Antwort passt? — „Könnten Sie mir sagen, wo das Rathaus ist?“",
+          "question_uk": "Яка відповідь підходить?",
+          "options": [
+            "Ja, gehen Sie geradeaus und dann links.",
+            "Ich esse gern Pizza.",
+            "Morgen ist Montag.",
+            "Die Farbe ist blau."
+          ],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Wähle die korrekt geteilte Form: „aufstehen“ – Präsens, ich ____ früh.",
+          "question_uk": "Оберіть правильну форму відокремлюваного дієслова:",
+          "options": [
+            "stehe früh auf",
+            "aufstehe früh",
+            "stehe auf früh",
+            "früh aufstehe"
+          ],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Welche Präposition mit Dativ? — Ich wohne ___ meinen Eltern.",
+          "question_uk": "Оберіть правильний прийменник з Dativ:",
+          "options": ["bei", "für", "um", "durch"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Steigerung: „billig“ → Komparativ?",
+          "question_uk": "Порівняльна форма слова „billig“:",
+          "options": ["billiger", "am billigsten", "billigste", "mehr billig"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Passende Reaktion: „Gute Besserung!“",
+          "question_uk": "Оберіть відповідну реакцію на «Gute Besserung!»",
+          "options": [
+            "Danke, das ist lieb!",
+            "Gern geschehen!",
+            "Schönen Abend noch!",
+            "Freut mich sehr!"
+          ],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Wähle die richtige Form: Ich habe den Bus ___ .",
+          "question_uk": "Оберіть правильну форму: Я пропустив автобус.",
+          "options": ["verpasst", "verpassen", "verpasste", "verpasset"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "„mögen“ im Präsens, 1. Person Plural:",
+          "question_uk": "Форма дієслова „mögen“ у Präsens (wir):",
+          "options": ["wir mögen", "wir mögt", "wir mag", "wir mögten"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Frage nach dem Subjekt: ___ kommt morgen?",
+          "question_uk": "Питання про підмет: ___ прийде завтра?",
+          "options": ["Wer", "Wen", "Wem", "Was für"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Ergänze mit „damit“:",
+          "question_uk": "Доповніть «damit»:",
+          "options": ["damit", "weil", "obwohl", "dass"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Wähle die richtige Uhrzeit: 7:45",
+          "question_uk": "Оберіть правильний вираз для часу 7:45:",
+          "options": [
+            "Viertel vor acht",
+            "Viertel nach sieben",
+            "Dreiviertel sieben",
+            "Zwanzig vor acht"
+          ],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Artikel/Kasus: Ich schenke ___ Mutter Blumen.",
+          "question_uk": "Оберіть правильну форму: Я дарую квіти ___ матері.",
+          "options": ["der", "die", "den", "dem"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Wähle die richtige Reihenfolge (Nebensatz mit „dass“):",
+          "question_uk": "Оберіть правильний порядок слів у реченні з „dass“:",
+          "options": [
+            "…, dass ich heute keine Zeit habe.",
+            "…, dass ich habe heute keine Zeit.",
+            "…, dass heute я keine Zeit habe.",
+            "…, dass keine Zeit ich heute habe."
+          ],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Welche Antwort passt? — „Entschuldigung für die Verspätung.“",
+          "question_uk": "Яка відповідь підходить до: «Вибачте за запізнення.»",
+          "options": [
+            "Kein Problem, das passiert!",
+            "Das Wetter ist kalt.",
+            "Ich habe Hunger.",
+            "Es ist grün."
+          ],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Vergleich: Mein Zimmer ist ___ als dein Zimmer.",
+          "question_uk": "Порівняння: Моя кімната ___ за твою.",
+          "options": ["größer", "am größten", "groß", "mehr groß"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Ergänze: Wir treffen uns ___ dem Kino.",
+          "question_uk": "Доповніть: Ми зустрічаємося ___ кінотеатру.",
+          "options": ["vor", "in", "zu", "durch"],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Welche E-Mail-Abschiedsformel ist höflich (neutral)?",
+          "question_uk": "Яка формула прощання є ввічливою?",
+          "options": [
+            "Mit freundlichen Grüßen",
+            "Ciao Kakao",
+            "Kuss",
+            "Bis dann 😉"
+          ],
+          "answer": 0
+        },
+
+        {
+          "question_de": "Richtig oder falsch? — „Ich bin nach Hause gegangen.“",
+          "question_uk": "Правильно чи неправильно? — «Ich bin nach Hause gegangen.»",
+          "options": [
+            "Richtig",
+            "Falsch",
+            "Nur im Präteritum richtig",
+            "Nur mit ‚sein‘ falsch"
+          ],
+          "answer": 0
+        }
+
+      ]
+    }
+  ]
+}

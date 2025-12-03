@@ -1,0 +1,660 @@
+{
+  "level": "A2",
+  "title": "A2 – المواقف الحياتية والكتابة",
+  "lessons": [
+
+    {
+      "id": "A2_Lesson_Health_Doctor",
+      "title": {
+        "ar": "الصحة والطبيب",
+        "de": "Gesundheit und Arzt",
+        "en": "Health and the doctor"
+      },
+      "interactiveScene": "تستيقظ وتشعر أن رأسك يدق مثل طبلة في حفلة روك 🎸.\nتقول لنفسك: Ich glaube, ich bin krank.\nفي العيادة يسألك الطبيب بابتسامة: Na, was fehlt Ihnen?",
+      "explanation": [
+        { "de": "der Kopf – die Kopfschmerzen", "ar": "الرأس – صداع" },
+        { "de": "der Hals – die Halsschmerzen", "ar": "الحلق – ألم الحلق" },
+        { "de": "der Bauch – die Bauchschmerzen", "ar": "البطن – ألم البطن" },
+        { "de": "die Grippe", "ar": "الإنفلونزا" },
+        { "de": "das Fieber", "ar": "الحمّى / الحرارة" },
+        { "de": "der Husten", "ar": "السعال" },
+        { "de": "die Tablette / die Medizin", "ar": "الحبة الدوائية / الدواء" },
+        { "de": "die Praxis", "ar": "عيادة الطبيب" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe Kopfschmerzen.", "ar": "لدي صداع.", "note": "" },
+        { "de": "Ich habe seit zwei Tagen Fieber.", "ar": "لدي حرارة منذ يومين.", "note": "seit + فترة زمنية" },
+        { "de": "Mir ist schlecht.", "ar": "أشعر بالغثيان.", "note": "" },
+        { "de": "Ich brauche einen Termin beim Arzt.", "ar": "أحتاج إلى موعد عند الطبيب.", "note": "" },
+        { "de": "Nehmen Sie diese Tabletten dreimal täglich.", "ar": "خذ هذه الحبوب ثلاث مرات يوميًا.", "note": "تعليمات من الطبيب" }
+      ],
+      "tip": "كثير من كلمات الألم تُكوَّن من جزء الجسم + Schmerzen:\nKopf + Schmerzen → Kopfschmerzen\nBauch + Schmerzen → Bauchschmerzen.",
+      "dialogue": [
+        {
+          "speaker": "👩‍⚕️",
+          "de": "Guten Tag, was fehlt Ihnen?",
+          "ar": "مرحبًا، ما مشكلتك؟"
+        },
+        {
+          "speaker": "👨",
+          "de": "Ich habe seit zwei Tagen Halsschmerzen und Fieber.",
+          "ar": "لدي ألم في الحلق وحرارة منذ يومين."
+        },
+        {
+          "speaker": "👩‍⚕️",
+          "de": "Sie bekommen ein Rezept und müssen viel Wasser trinken.",
+          "ar": "ستحصل على وصفة ويجب أن تشرب الكثير من الماء."
+        },
+        {
+          "speaker": "👨",
+          "de": "Und darf ich auch Schokolade essen? 🍫",
+          "ar": "وهل أستطيع أكل الشوكولاتة أيضًا؟"
+        }
+      ],
+      "summary": [
+        { "de": "Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen.", "ar": "لدي صداع / ألم بطن / ألم حلق." },
+        { "de": "Ich brauche einen Termin beim Arzt.", "ar": "أحتاج إلى موعد عند الطبيب." },
+        { "de": "Was fehlt Ihnen?", "ar": "ما هي مشكلتك؟ (للاحترام)" }
+      ],
+      "quiz": [
+        {
+          "question": "كيف تقول: لدي صداع؟",
+          "options": [
+            "Ich habe Kopfschmerzen.",
+            "Ich bin Kopf.",
+            "Ich habe Kopf heiß."
+          ],
+          "answer": 0,
+          "hint": "استخدم كلمة Kopfschmerzen كاملة."
+        },
+        {
+          "question": "Grippe تعني:",
+          "options": [
+            "زكام خفيف",
+            "إنفلونزا",
+            "صداع بسيط"
+          ],
+          "answer": 1,
+          "hint": "غالبًا تحتاج معها طبيب وراحة."
+        },
+        {
+          "question": "جملة مناسبة للطبيب:",
+          "options": [
+            "Mir ist schlecht.",
+            "Ich bin Sofa.",
+            "Ich mache Haus."
+          ],
+          "answer": 0,
+          "hint": "فكر في الشعور الجسدي."
+        },
+        {
+          "question": "كيف تطلب موعدًا؟",
+          "options": [
+            "Ich brauche einen Termin.",
+            "Ich bin Termin.",
+            "Ich mache Arzt."
+          ],
+          "answer": 0,
+          "hint": "Termin = موعد."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Transport",
+      "title": {
+        "ar": "المواصلات والاتجاهات",
+        "de": "Verkehr und Wegbeschreibung",
+        "en": "Transport and directions"
+      },
+      "interactiveScene": "أنت في مدينة جديدة، وخرائط هاتفك لا تعمل 📵.\nتسأل شخصًا: Entschuldigung, wie komme ich zum Bahnhof?\nيرسم لك بيده خريطة في الهواء وهو يتكلم بسرعة ألمانية.",
+      "explanation": [
+        { "de": "geradeaus", "ar": "إلى الأمام مباشرة" },
+        { "de": "nach links / nach rechts", "ar": "إلى اليسار / إلى اليمين" },
+        { "de": "abbiegen", "ar": "ينعطف" },
+        { "de": "die Kreuzung", "ar": "التقاطع" },
+        { "de": "die Ampel", "ar": "إشارة المرور" },
+        { "de": "die Bushaltestelle", "ar": "موقف الباص" },
+        { "de": "die U-Bahn / die S-Bahn", "ar": "المترو / القطار السريع" }
+      ],
+      "phrasesTable": [
+        { "de": "Gehen Sie geradeaus.", "ar": "امشِ إلى الأمام.", "note": "" },
+        { "de": "Dann biegen Sie links ab.", "ar": "ثم انعطف يسارًا.", "note": "" },
+        { "de": "An der Ampel rechts.", "ar": "عند الإشارة يمينًا.", "note": "" },
+        { "de": "Die Bushaltestelle ist an der Ecke.", "ar": "موقف الباص عند الزاوية.", "note": "" }
+      ],
+      "tip": "للسؤال عن الطريق استخدم:\nEntschuldigung, wie komme ich zum/zur ...?",
+      "dialogue": [
+        {
+          "speaker": "🚶",
+          "de": "Entschuldigung, wie komme ich zum Zentrum?",
+          "ar": "عذرًا، كيف أصل إلى المركز؟"
+        },
+        {
+          "speaker": "👩",
+          "de": "Gehen Sie geradeaus und dann an der Kreuzung links.",
+          "ar": "امشِ إلى الأمام ثم عند التقاطع يسارًا."
+        },
+        {
+          "speaker": "🚶",
+          "de": "Und die Bushaltestelle?",
+          "ar": "وموقف الباص؟"
+        },
+        {
+          "speaker": "👩",
+          "de": "Der Bus hält direkt vor dem Zentrum. 🚌",
+          "ar": "الباص يتوقف مباشرة أمام المركز."
+        }
+      ],
+      "summary": [
+        { "de": "geradeaus", "ar": "إلى الأمام" },
+        { "de": "links / rechts abbiegen", "ar": "ينعطف يسارًا / يمينًا" },
+        { "de": "Wie komme ich zum Bahnhof?", "ar": "كيف أصل إلى محطة القطار؟" }
+      ],
+      "quiz": [
+        {
+          "question": "كيف تقول: امشِ إلى الأمام ثم يمينًا؟",
+          "options": [
+            "Gehen Sie geradeaus und dann rechts.",
+            "Gehen Sie links und dann geradeaus.",
+            "Gehen Sie rechts und links."
+          ],
+          "answer": 0,
+          "hint": "geradeaus = إلى الأمام."
+        },
+        {
+          "question": "Kreuzung تعني:",
+          "options": [
+            "زاوية",
+            "تقاطع",
+            "جسر"
+          ],
+          "answer": 1,
+          "hint": "هناك عدة شوارع تلتقي."
+        },
+        {
+          "question": "سؤال صحيح عن الطريق:",
+          "options": [
+            "Wie komme ich zum Zentrum?",
+            "Wo Zentrum ich komme?",
+            "Ich komme Zentrum, oder?"
+          ],
+          "answer": 0,
+          "hint": "استخدم Wie komme ich ..."
+        },
+        {
+          "question": "Bushaltestelle هي:",
+          "options": [
+            "محطة القطار",
+            "موقف الباص",
+            "موقف الدراجات"
+          ],
+          "answer": 1,
+          "hint": "Bus في الكلمة نفسها."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Weather",
+      "title": {
+        "ar": "الطقس والفصول",
+        "de": "Wetter und Jahreszeiten",
+        "en": "Weather and seasons"
+      },
+      "interactiveScene": "في نفس اليوم ترى أربع فصول في ساعة واحدة: شمس، مطر، رياح، ثم قوس قزح 🌈.\nتضحك وتقول لصديقك: Heute spielt das Wetter ein Spiel!",
+      "explanation": [
+        { "de": "die Sonne → sonnig", "ar": "الشمس → مشمس" },
+        { "de": "der Regen → regnerisch", "ar": "المطر → ماطر" },
+        { "de": "der Wind → windig", "ar": "الريح → عاصف" },
+        { "de": "die Wolke → bewölkt", "ar": "السحابة → غائم" },
+        { "de": "der Schnee → es schneit", "ar": "الثلج → يتثلج" },
+        { "de": "das Gewitter", "ar": "عاصفة رعدية" },
+        { "de": "heiß / warm / kühl / kalt", "ar": "حار / دافئ / معتدل / بارد" }
+      ],
+      "phrasesTable": [
+        { "de": "Es ist sonnig.", "ar": "الجو مشمس.", "note": "" },
+        { "de": "Es ist bewölkt und windig.", "ar": "الجو غائم وعاصف.", "note": "" },
+        { "de": "Es regnet den ganzen Tag.", "ar": "إنه يمطر طوال اليوم.", "note": "" },
+        { "de": "Im Winter ist es kalt.", "ar": "في الشتاء الجو بارد.", "note": "Im Winter / Im Sommer ..." }
+      ],
+      "tip": "غالبًا نبدأ جمل الطقس بـ 'Es ist ...' أو 'Es ...':\nEs regnet. – Es ist kalt.",
+      "dialogue": [
+        {
+          "speaker": "👩",
+          "de": "Wie ist das Wetter bei dir?",
+          "ar": "كيف الطقس عندك؟"
+        },
+        {
+          "speaker": "👨",
+          "de": "Es ist sonnig, aber sehr windig.",
+          "ar": "مشمس، لكن عاصف جدًا."
+        },
+        {
+          "speaker": "👩",
+          "de": "Perfekt für einen Kaffee drinnen! ☕",
+          "ar": "مثالي لفنجان قهوة في الداخل!"
+        }
+      ],
+      "summary": [
+        { "de": "die Sonne → sonnig", "ar": "الشمس → مشمس" },
+        { "de": "der Regen → regnerisch", "ar": "المطر → ماطر" },
+        { "de": "die Wolke → bewölkt", "ar": "السحب → غائم" }
+      ],
+      "quiz": [
+        {
+          "question": "كيف تقول: الجو عاصف؟",
+          "options": [
+            "Es ist windig.",
+            "Es ist wolkig.",
+            "Es ist sonnig."
+          ],
+          "answer": 0,
+          "hint": "Wind → windig."
+        },
+        {
+          "question": "Wolke تعني:",
+          "options": [
+            "شمس",
+            "سحابة",
+            "ثلج"
+          ],
+          "answer": 1,
+          "hint": "bewölkt = غائم."
+        },
+        {
+          "question": "جملة صحيحة:",
+          "options": [
+            "Es regnet.",
+            "Es ist Regen.",
+            "Es macht Regen."
+          ],
+          "answer": 0,
+          "hint": "الفعل regnen يُستخدم كـ Es regnet."
+        },
+        {
+          "question": "كيف تقول: في الشتاء الجو بارد؟",
+          "options": [
+            "Im Winter ist es kalt.",
+            "In Winter es ist kalt.",
+            "Winter ist kalt es."
+          ],
+          "answer": 0,
+          "hint": "Im + فصل السنة."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Travel",
+      "title": {
+        "ar": "السفر والقطارات",
+        "de": "Reisen und Zug",
+        "en": "Travel and trains"
+      },
+      "interactiveScene": "أنت في محطة القطار. صوت مكبر الصوت يتكلم بسرعة غير إنسانية 🎙️.\nتسمع: Der Zug nach Berlin fährt von Gleis 5.\nتحاول أن تبدو هادئًا، لكن عيناك تبحثان عن الرقم 5 مثل لعبة فيديو.",
+      "explanation": [
+        { "de": "die Fahrkarte / das Ticket", "ar": "تذكرة السفر" },
+        { "de": "Hin- und Rückfahrt", "ar": "ذهاب وعودة" },
+        { "de": "einfach", "ar": "ذهاب فقط" },
+        { "de": "der Fahrplan", "ar": "جدول المواعيد" },
+        { "de": "das Gleis", "ar": "الرصيف / المنصّة" },
+        { "de": "der Zug / der ICE", "ar": "القطار / قطار سريع" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich möchte eine Fahrkarte nach Berlin.", "ar": "أود تذكرة إلى برلين.", "note": "" },
+        { "de": "Einfach oder Hin- und Rückfahrt?", "ar": "ذهاب فقط أم ذهاب وعودة؟", "note": "" },
+        { "de": "Der Zug fährt von Gleis 3.", "ar": "القطار يغادر من الرصيف 3.", "note": "" },
+        { "de": "Muss ich umsteigen?", "ar": "هل يجب أن أبدّل القطار؟", "note": "" }
+      ],
+      "tip": "للطلب المهذب استخدم: Ich möchte ... / Ich hätte gern ...",
+      "dialogue": [
+        {
+          "speaker": "👨",
+          "de": "Guten Tag, ich hätte gern ein Ticket nach Hamburg.",
+          "ar": "مرحبًا، أود تذكرة إلى هامبورغ."
+        },
+        {
+          "speaker": "🎫",
+          "de": "Einfach oder Hin- und Rückfahrt?",
+          "ar": "ذهاب فقط أم ذهاب وعودة؟"
+        },
+        {
+          "speaker": "👨",
+          "de": "Hin- und Rückfahrt, bitte. Und möglichst günstig. 😅",
+          "ar": "ذهاب وعودة، من فضلك. وأن يكون بأرخص سعر ممكن."
+        }
+      ],
+      "summary": [
+        { "de": "die Fahrkarte", "ar": "تذكرة السفر" },
+        { "de": "das Gleis", "ar": "الرصيف" },
+        { "de": "Ich möchte ...", "ar": "أود ..." }
+      ],
+      "quiz": [
+        {
+          "question": "كيف تقول: أود تذكرة إلى برلين؟",
+          "options": [
+            "Ich möchte eine Fahrkarte nach Berlin.",
+            "Ich mache Fahrkarte Berlin.",
+            "Ich will Berlin Karte."
+          ],
+          "answer": 0,
+          "hint": "الجملة المهذبة تبدأ بـ Ich möchte ..."
+        },
+        {
+          "question": "Gleis تعني:",
+          "options": [
+            "باب القطار",
+            "رصيف / منصّة القطار",
+            "مقعد في القطار"
+          ],
+          "answer": 1,
+          "hint": "تبحث عنه في الشاشات الإلكترونية."
+        },
+        {
+          "question": "Hin- und Rückfahrt هي:",
+          "options": [
+            "ذهاب فقط",
+            "عودة فقط",
+            "ذهاب وعودة"
+          ],
+          "answer": 2,
+          "hint": "اثنتان معًا."
+        },
+        {
+          "question": "سؤال منطقي في محطة القطار:",
+          "options": [
+            "Muss ich umsteigen?",
+            "Wie alt bist du?",
+            "Wo ist der Arzt?"
+          ],
+          "answer": 0,
+          "hint": "له علاقة بتغيير القطار."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Work",
+      "title": {
+        "ar": "العمل والمهنة",
+        "de": "Arbeit und Beruf",
+        "en": "Work and profession"
+      },
+      "interactiveScene": "في حفلة صغيرة، الجميع يسأل نفس السؤال الكلاسيكي الألماني:\nUnd, was machen Sie beruflich?\nتشعر أنك في مقابلة عمل مصغّرة 😅.",
+      "explanation": [
+        { "de": "der Beruf", "ar": "المهنة" },
+        { "de": "die Firma", "ar": "الشركة" },
+        { "de": "der Kollege / die Kollegin", "ar": "الزميل / الزميلة" },
+        { "de": "Vollzeit / Teilzeit", "ar": "دوام كامل / دوام جزئي" },
+        { "de": "Ich arbeite als ...", "ar": "أعمل كـ ..." },
+        { "de": "Ich bin arbeitslos.", "ar": "أنا عاطل عن العمل." }
+      ],
+      "phrasesTable": [
+        { "de": "Was machen Sie beruflich?", "ar": "ماذا تعمل حضراتكم؟", "note": "للاحترام" },
+        { "de": "Ich arbeite als Verkäufer.", "ar": "أعمل كبائع.", "note": "als + مهنة" },
+        { "de": "Ich suche eine Arbeit.", "ar": "أبحث عن عمل.", "note": "" },
+        { "de": "Ich habe nette Kollegen.", "ar": "لدي زملاء لطفاء.", "note": "" }
+      ],
+      "tip": "لتحديد المهنة استخدم البناء:\nIch arbeite als Lehrer / Ingenieur / Koch.",
+      "dialogue": [
+        {
+          "speaker": "👨",
+          "de": "Was machst du beruflich?",
+          "ar": "ماذا تعمل؟"
+        },
+        {
+          "speaker": "👩",
+          "de": "Ich arbeite als Softwareentwicklerin.",
+          "ar": "أعمل كمطوّرة برمجيات."
+        },
+        {
+          "speaker": "👨",
+          "de": "Klingt spannend! Und deine Kollegen?",
+          "ar": "يبدو مثيرًا! وماذا عن زملائك؟"
+        },
+        {
+          "speaker": "👩",
+          "de": "Sind meistens nett. Meistens. 😉",
+          "ar": "لطيفون في الغالب. في الغالب فقط."
+        }
+      ],
+      "summary": [
+        { "de": "Was machen Sie beruflich?", "ar": "ماذا تعمل (رسمي)؟" },
+        { "de": "Ich arbeite als ...", "ar": "أعمل كـ ..." },
+        { "de": "Ich suche eine Arbeit.", "ar": "أبحث عن عمل." }
+      ],
+      "quiz": [
+        {
+          "question": "كيف تقول: أعمل كمهندس؟",
+          "options": [
+            "Ich arbeite als Ingenieur.",
+            "Ich mache Ingenieur.",
+            "Ich bin Arbeit Ingenieur."
+          ],
+          "answer": 0,
+          "hint": "استخدم als + المهنة."
+        },
+        {
+          "question": "Beruf تعني:",
+          "options": [
+            "هواية",
+            "مهنة",
+            "عائلة"
+          ],
+          "answer": 1,
+          "hint": "Beruf = ما تفعله كعمل."
+        },
+        {
+          "question": "جملة مناسبة في مقابلة عمل:",
+          "options": [
+            "Ich suche eine Arbeit.",
+            "Ich bin Sofa.",
+            "Ich esse Arbeit."
+          ],
+          "answer": 0,
+          "hint": "منطقيّة مع موضوع العمل."
+        },
+        {
+          "question": "Kollegen sind:",
+          "options": [
+            "زملاء في العمل",
+            "الجيران",
+            "المدرسون"
+          ],
+          "answer": 0,
+          "hint": "معك في نفس الشركة."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Home",
+      "title": {
+        "ar": "المنزل والسكن",
+        "de": "Wohnen und Zuhause",
+        "en": "Living and home"
+      },
+      "interactiveScene": "تبحث عن شقة عبر الإنترنت.\nتجد إعلانًا مكتوب فيه: 'Helle, gemütliche Wohnung, 2 Zimmer, Balkon, zentral gelegen.'\nتشعر أن الشقة أجمل من حياتك الحالية كلها 😅.",
+      "explanation": [
+        { "de": "die Wohnung", "ar": "الشقة" },
+        { "de": "das Zimmer", "ar": "الغرفة" },
+        { "de": "das Wohnzimmer / Schlafzimmer", "ar": "غرفة الجلوس / غرفة النوم" },
+        { "de": "die Küche / das Bad", "ar": "المطبخ / الحمام" },
+        { "de": "der Balkon", "ar": "الشرفة" },
+        { "de": "die Miete", "ar": "الإيجار" },
+        { "de": "möbliert / unmöbliert", "ar": "مفروشة / غير مفروشة" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe eine kleine Wohnung.", "ar": "لدي شقة صغيرة.", "note": "" },
+        { "de": "Die Wohnung ist im dritten Stock.", "ar": "الشقة في الطابق الثالث.", "note": "" },
+        { "de": "Wie hoch ist die Miete?", "ar": "كم قيمة الإيجار؟", "note": "" },
+        { "de": "Die Wohnung ist möbliert.", "ar": "الشقة مفروشة.", "note": "" }
+      ],
+      "tip": "في إعلانات السكن ترى كثيرًا:\n2-Zimmer-Wohnung, Balkon, Küche, Bad.",
+      "dialogue": [
+        {
+          "speaker": "📞",
+          "de": "Guten Tag, ich rufe wegen der Wohnung an.",
+          "ar": "مرحبًا، أتصل بخصوص الشقة."
+        },
+        {
+          "speaker": "🏢",
+          "de": "Die Wohnung hat zwei Zimmer und einen Balkon.",
+          "ar": "الشقة فيها غرفتان وبلكون."
+        },
+        {
+          "speaker": "📞",
+          "de": "Und wie hoch ist die Miete?",
+          "ar": "وكم قيمة الإيجار؟"
+        },
+        {
+          "speaker": "🏢",
+          "de": "Nur 2000 Euro. Ein kleines Schnäppchen. 😉",
+          "ar": "فقط 2000 يورو. صفقة صغيرة جدًا."
+        }
+      ],
+      "summary": [
+        { "de": "die Wohnung", "ar": "الشقة" },
+        { "de": "die Miete", "ar": "الإيجار" },
+        { "de": "Wie hoch ist die Miete?", "ar": "كم قيمة الإيجار؟" }
+      ],
+      "quiz": [
+        {
+          "question": "كيف تقول: لدي شقة صغيرة؟",
+          "options": [
+            "Ich habe eine kleine Wohnung.",
+            "Ich bin kleine Wohnung.",
+            "Ich mache Wohnung klein."
+          ],
+          "answer": 0,
+          "hint": "habe + eine kleine Wohnung."
+        },
+        {
+          "question": "Miete هي:",
+          "options": [
+            "ثمن الشقة كاملًا",
+            "الإيجار الشهري",
+            "ثمن الأثاث فقط"
+          ],
+          "answer": 1,
+          "hint": "ما تدفعه كل شهر."
+        },
+        {
+          "question": "möbliert تعني:",
+          "options": [
+            "بدون أثاث",
+            "مع أثاث",
+            "قديم جدًا"
+          ],
+          "answer": 1,
+          "hint": "فيها Möbel = أثاث."
+        },
+        {
+          "question": "جملة صحيحة:",
+          "options": [
+            "Die Wohnung ist im dritten Stock.",
+            "Die Wohnung im dritten Stock ist.",
+            "Die Wohnung ist dritter Stock im."
+          ],
+          "answer": 0,
+          "hint": "ترتيب سهل: ist im dritten Stock."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Lesson_Shopping",
+      "title": {
+        "ar": "التسوق والشراء",
+        "de": "Einkaufen",
+        "en": "Shopping"
+      },
+      "interactiveScene": "في السوبرماركت ترى تخفيضات حمراء في كل مكان 🔴.\nتفكر: أنا لم أكن أحتاج هذا الشيء، لكن التخفيض أقنعني!",
+      "explanation": [
+        { "de": "der Preis", "ar": "السعر" },
+        { "de": "das Angebot", "ar": "عرض / تخفيض" },
+        { "de": "reduziert", "ar": "مخفّض" },
+        { "de": "bar bezahlen", "ar": "يدفع نقدًا" },
+        { "de": "mit Karte bezahlen", "ar": "يدفع بالبطاقة" },
+        { "de": "die Kasse", "ar": "الصندوق / الكاشير" }
+      ],
+      "phrasesTable": [
+        { "de": "Wie viel kostet das?", "ar": "كم ثمن هذا؟", "note": "" },
+        { "de": "Das ist im Angebot.", "ar": "هذا ضمن العرض.", "note": "" },
+        { "de": "Kann ich mit Karte bezahlen?", "ar": "هل يمكنني الدفع بالبطاقة؟", "note": "" },
+        { "de": "Brauchen Sie eine Tüte?", "ar": "هل تحتاج كيسًا؟", "note": "سؤال كلاسيكي في ألمانيا" }
+      ],
+      "tip": "كلمة reduziert تراها كثيرًا في فترة التخفيضات:\nAlles 50% reduziert!",
+      "dialogue": [
+        {
+          "speaker": "🛒",
+          "de": "Wie viel kostet das Brot?",
+          "ar": "كم ثمن هذا الخبز؟"
+        },
+        {
+          "speaker": "👩‍💼",
+          "de": "1 Euro 20. Heute ist es reduziert.",
+          "ar": "يورو وعشرون سنتًا. اليوم عليه تخفيض."
+        },
+        {
+          "speaker": "🛒",
+          "de": "Super! Kann ich mit Karte bezahlen?",
+          "ar": "رائع! هل أستطيع الدفع بالبطاقة؟"
+        }
+      ],
+      "summary": [
+        { "de": "Wie viel kostet das?", "ar": "كم ثمن هذا؟" },
+        { "de": "Das ist im Angebot / reduziert.", "ar": "هذا ضمن العرض / عليه تخفيض." },
+        { "de": "Kann ich mit Karte bezahlen?", "ar": "هل يمكنني الدفع بالبطاقة؟" }
+      ],
+      "quiz": [
+        {
+          "question": "كيف تقول: كم ثمن هذا؟",
+          "options": [
+            "Wie viel kostet das?",
+            "Wie viele ist das?",
+            "Was Preis ist das?"
+          ],
+          "answer": 0,
+          "hint": "kostet = يكلف."
+        },
+        {
+          "question": "reduziert تعني:",
+          "options": [
+            "منتهي الصلاحية",
+            "مخفّض السعر",
+            "جديد تمامًا"
+          ],
+          "answer": 1,
+          "hint": "تراها في التخفيضات."
+        },
+        {
+          "question": "Tüte هي:",
+          "options": [
+            "كيس",
+            "ملعقة",
+            "علبة حليب"
+          ],
+          "answer": 0,
+          "hint": "يسألونك عنها عند الكاشير."
+        },
+        {
+          "question": "جملة طبيعية عند الكاشير:",
+          "options": [
+            "Kann ich mit Karte bezahlen?",
+            "Ich bin Karte bezahlen.",
+            "Ich mache bezahlen Karte."
+          ],
+          "answer": 0,
+          "hint": "Kann ich ...? = هل أستطيع؟"
+        }
+      ]
+    }
+
+
+    
+
+
+  ]
+}

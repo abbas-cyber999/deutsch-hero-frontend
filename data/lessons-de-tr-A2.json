@@ -1,0 +1,436 @@
+{
+  "level": "A2",
+  "title": "A2 – Günlük Hayatta Kullanılan Durumlar ve Yazma",
+  "lessons": [
+    {
+      "id": "A2_Lesson_Health_Doctor",
+      "title": {
+        "tr": "Sağlık ve Doktora Gitmek",
+        "de": "Gesundheit und Arzt",
+        "en": "Health and the doctor"
+      },
+      "interactiveScene": "Sabah uyanıyorsun ve başın rock konserinde davul çalıyor gibi zonkluyor 🎸.\nKendi kendine diyorsun: Ich glaube, ich bin krank.\nMuayenehanede doktor gülümseyerek soruyor: Na, was fehlt Ihnen?",
+      "explanation": [
+        { "de": "der Kopf – die Kopfschmerzen", "tr": "baş – baş ağrısı" },
+        { "de": "der Hals – die Halsschmerzen", "tr": "boğaz – boğaz ağrısı" },
+        { "de": "der Bauch – die Bauchschmerzen", "tr": "karın – karın ağrısı" },
+        { "de": "die Grippe", "tr": "grip" },
+        { "de": "das Fieber", "tr": "ateş" },
+        { "de": "der Husten", "tr": "öksürük" },
+        { "de": "die Tablette / die Medizin", "tr": "hap / ilaç" },
+        { "de": "die Praxis", "tr": "muayenehane / doktor ofisi" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe Kopfschmerzen.", "tr": "Başım ağrıyor.", "note": "" },
+        { "de": "Ich habe seit zwei Tagen Fieber.", "tr": "İki gündür ateşim var.", "note": "seit + süre" },
+        { "de": "Mir ist schlecht.", "tr": "Midem bulanıyor.", "note": "" },
+        { "de": "Ich brauche einen Termin beim Arzt.", "tr": "Doktordan randevu almam lazım.", "note": "" },
+        { "de": "Nehmen Sie diese Tabletten dreimal täglich.", "tr": "Bu hapları günde üç kez alın.", "note": "doktor talimatı" }
+      ],
+      "tip": "Çoğu ağrı kelimesi vücut parçası + Schmerzen şeklinde oluşturulur:\nKopf + Schmerzen → Kopfschmerzen\nBauch + Schmerzen → Bauchschmerzen",
+      "dialogue": [
+        { "speaker": "👩‍⚕️", "de": "Guten Tag, was fehlt Ihnen?", "tr": "İyi günler, nereniz ağrıyor?" },
+        { "speaker": "👨", "de": "Ich habe seit zwei Tagen Halsschmerzen und Fieber.", "tr": "İki gündür boğazım ağrıyor ve ateşim var." },
+        { "speaker": "👩‍⚕️", "de": "Sie bekommen ein Rezept und müssen viel Wasser trinken.", "tr": "Size reçete yazacağım, bol su için." },
+        { "speaker": "👨", "de": "Und darf ich auch Schokolade essen? 🍫", "tr": "Çikolata da yiyebilir miyim? 🍫" }
+      ],
+      "summary": [
+        { "de": "Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen.", "tr": "Başım / karnım / boğazım ağrıyor." },
+        { "de": "Ich brauche einen Termin beim Arzt.", "tr": "Doktordan randevu almam lazım." },
+        { "de": "Was fehlt Ihnen?", "tr": "Nereniz ağrıyor? (resmi)" }
+      ],
+      "quiz": [
+        {
+          "question": "Başım ağrıyor nasıl söylenir?",
+          "options": ["Ich habe Kopfschmerzen.", "Ich bin Kopf.", "Ich habe Kopf heiß."],
+          "answer": 0,
+          "hint": "Tam olarak Kopfschmerzen kelimesi kullanılır."
+        },
+        {
+          "question": "Grippe ne demek?",
+          "options": ["Hafif soğuk algınlığı", "Grip", "Basit baş ağrısı"],
+          "answer": 1,
+          "hint": "Genelde doktor ve yatak istirahati gerektirir."
+        },
+        {
+          "question": "Doktora söylenecek uygun cümle:",
+          "options": ["Mir ist schlecht.", "Ich bin Sofa.", "Ich mache Haus."],
+          "answer": 0,
+          "hint": "Fiziksel bir rahatsızlık hissi."
+        },
+        {
+          "question": "Randevu nasıl istenir?",
+          "options": ["Ich brauche einen Termin.", "Ich bin Termin.", "Ich mache Arzt."],
+          "answer": 0,
+          "hint": "Termin = randevu"
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Transport",
+      "title": {
+        "tr": "Ulaşım ve Yol Tarifi",
+        "de": "Verkehr und Wegbeschreibung",
+        "en": "Transport and directions"
+      },
+      "interactiveScene": "Yeni bir şehirde haritan çalışmıyor 📵.\nBirine soruyorsun: Entschuldigung, wie komme ich zum Bahnhof?\nAdam havada el hareketleriyle sana yol tarif ediyor, hızlı Almanca konuşuyor.",
+      "explanation": [
+        { "de": "geradeaus", "tr": "düz gitmek" },
+        { "de": "nach links / nach rechts", "tr": "sola / sağa" },
+        { "de": "abbiegen", "tr": "dönmek" },
+        { "de": "die Kreuzung", "tr": "kavşak" },
+        { "de": "die Ampel", "tr": "trafik ışığı" },
+        { "de": "die Bushaltestelle", "tr": "otobüs durağı" },
+        { "de": "die U-Bahn / die S-Bahn", "tr": "metro / şehir içi hızlı tren" }
+      ],
+      "phrasesTable": [
+        { "de": "Gehen Sie geradeaus.", "tr": "Düz gidin.", "note": "" },
+        { "de": "Dann biegen Sie links ab.", "tr": "Sonra sola dönün.", "note": "" },
+        { "de": "An der Ampel rechts.", "tr": "Işıklarda sağa dönün.", "note": "" },
+        { "de": "Die Bushaltestelle ist an der Ecke.", "tr": "Otobüs durağı köşede.", "note": "" }
+      ],
+      "tip": "Yol sormak için: Entschuldigung, wie komme ich zum/zur ...?",
+      "dialogue": [
+        { "speaker": "🚶", "de": "Entschuldigung, wie komme ich zum Zentrum?", "tr": "Affedersiniz, merkeze nasıl giderim?" },
+        { "speaker": "👩", "de": "Gehen Sie geradeaus und dann an der Kreuzung links.", "tr": "Düz gidin, sonra kavşakta sola dönün." },
+        { "speaker": "🚶", "de": "Und die Bushaltestelle?", "tr": "Peki otobüs durağı?" },
+        { "speaker": "👩", "de": "Der Bus hält direkt vor dem Zentrum. 🚌", "tr": "Otobüs tam merkezin önünde duruyor. 🚌" }
+      ],
+      "summary": [
+        { "de": "geradeaus", "tr": "düz" },
+        { "de": "links / rechts abbiegen", "tr": "sola / sağa dönmek" },
+        { "de": "Wie komme ich zum Bahnhof?", "tr": "Tren istasyonuna nasıl giderim?" }
+      ],
+      "quiz": [
+        {
+          "question": "Düz gidin, sonra sağa dönün nasıl söylenir?",
+          "options": ["Gehen Sie geradeaus und dann rechts.", "Gehen Sie links und dann geradeaus.", "Gehen Sie rechts und links."],
+          "answer": 0,
+          "hint": "geradeaus = düz"
+        },
+        {
+          "question": "Kreuzung ne demek?",
+          "options": ["köşe", "kavşak", "köprü"],
+          "answer": 1,
+          "hint": "Birden fazla yolun birleştiği yer"
+        },
+        {
+          "question": "Doğru yol sorma cümlesi:",
+          "options": ["Wie komme ich zum Zentrum?", "Wo Zentrum ich komme?", "Ich komme Zentrum, oder?"],
+          "answer": 0,
+          "hint": "Wie komme ich ... kalıbı kullanılır"
+        },
+        {
+          "question": "Bushaltestelle nedir?",
+          "options": ["tren istasyonu", "otobüs durağı", "bisiklet park yeri"],
+          "answer": 1,
+          "hint": "Kelimenin içinde Bus var"
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Weather",
+      "title": {
+        "tr": "Hava Durumu ve Mevsimler",
+        "de": "Wetter und Jahreszeiten",
+        "en": "Weather and seasons"
+      },
+      "interactiveScene": "Aynı gün içinde dört mevsimi bir saatte yaşıyorsun: güneş, yağmur, rüzgâr, sonra gökkuşağı 🌈.\nArkadaşına gülerek diyorsun: Heute spielt das Wetter ein Spiel!",
+      "explanation": [
+        { "de": "die Sonne → sonnig", "tr": "güneş → güneşli" },
+        { "de": "der Regen → regnerisch", "tr": "yağmur → yağmurlu" },
+        { "de": "der Wind → windig", "tr": "rüzgâr → rüzgârlı" },
+        { "de": "die Wolke → bewölkt", "tr": "bulut → bulutlu" },
+        { "de": "der Schnee → es schneit", "tr": "kar → kar yağıyor" },
+        { "de": "das Gewitter", "tr": "gök gürültülü fırtına" },
+        { "de": "heiß / warm / kühl / kalt", "tr": "sıcak / ılık / serin / soğuk" }
+      ],
+      "phrasesTable": [
+        { "de": "Es ist sonnig.", "tr": "Hava güneşli.", "note": "" },
+        { "de": "Es ist bewölkt und windig.", "tr": "Hava bulutlu ve rüzgârlı.", "note": "" },
+        { "de": "Es regnet den ganzen Tag.", "tr": "Bütün gün yağmur yağıyor.", "note": "" },
+        { "de": "Im Winter ist es kalt.", "tr": "Kışın hava soğuk olur.", "note": "Im Winter / Im Sommer ..." }
+      ],
+      "tip": "Hava durumu cümleleri genellikle 'Es ist ...' ya da 'Es ...':\nEs regnet. – Es ist kalt.",
+      "dialogue": [
+        { "speaker": "👩", "de": "Wie ist das Wetter bei dir?", "tr": "Senin orada hava nasıl?" },
+        { "speaker": "👨", "de": "Es ist sonnig, aber sehr windig.", "tr": "Güneşli ama çok rüzgârlı." },
+        { "speaker": "👩", "de": "Perfekt für einen Kaffee drinnen! ☕", "tr": "Kapalı yerde kahve içmek için ideal! ☕" }
+      ],
+      "summary": [
+        { "de": "die Sonne → sonnig", "tr": "güneş → güneşli" },
+        { "de": "der Regen → regnerisch", "tr": "yağmur → yağmurlu" },
+        { "de": "die Wolke → bewölkt", "tr": "bulut → bulutlu" }
+      ],
+      "quiz": [
+        {
+          "question": "Hava rüzgârlı nasıl söylenir?",
+          "options": ["Es ist windig.", "Es ist wolkig.", "Es ist sonnig."],
+          "answer": 0,
+          "hint": "Wind → windig"
+        },
+        {
+          "question": "Wolke ne demek?",
+          "options": ["güneş", "bulut", "kar"],
+          "answer": 1,
+          "hint": "bewölkt = bulutlu"
+        },
+        {
+          "question": "Doğru cümle:",
+          "options": ["Es regnet.", "Es ist Regen.", "Es macht Regen."],
+          "answer": 0,
+          "hint": "Yağmur fiili Es regnet şeklinde kullanılır"
+        },
+        {
+          "question": "Kışın hava soğuk nasıl söylenir?",
+          "options": ["Im Winter ist es kalt.", "In Winter es ist kalt.", "Winter ist kalt es."],
+          "answer": 0,
+          "hint": "Im + mevsim"
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Travel",
+      "title": {
+        "tr": "Seyahat ve Tren",
+        "de": "Reisen und Zug",
+        "en": "Travel and trains"
+      },
+      "interactiveScene": "Tren istasyonundasın. Anonslar insanüstü bir hızla konuşuyor 🎙️.\nDuydun: Der Zug nach Berlin fährt von Gleis 5.\nSakin görünmeye çalışıyorsun ama gözlerin 5 numaralı peronu video oyunu gibi arıyor.",
+      "explanation": [
+        { "de": "die Fahrkarte / das Ticket", "tr": "tren bileti" },
+        { "de": "Hin- und Rückfahrt", "tr": "gidiş-dönüş" },
+        { "de": "einfach", "tr": "sadece gidiş" },
+        { "de": "der Fahrplan", "tr": "sefer tarifesi" },
+        { "de": "das Gleis", "tr": "peron" },
+        { "de": "der Zug / der ICE", "tr": "tren / hızlı tren" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich möchte eine Fahrkarte nach Berlin.", "tr": "Berlin’e bir bilet almak istiyorum.", "note": "" },
+        { "de": "Einfach oder Hin- und Rückfahrt?", "tr": "Sadece gidiş mi, gidiş-dönüş mü?" },
+        { "de": "Der Zug fährt von Gleis 3.", "tr": "Tren 3. perondan kalkıyor.", "note": "" },
+        { "de": "Muss ich umsteigen?", "tr": "Aktarma yapmam gerekiyor mu?" }
+      ],
+      "tip": "Nezaketle istemek için: Ich möchte ... / Ich hätte gern ...",
+      "dialogue": [
+        { "speaker": "👨", "de": "Guten Tag, ich hätte gern ein Ticket nach Hamburg.", "tr": "İyi günler, Hamburg’a bir bilet almak istiyorum." },
+        { "speaker": "🎫", "de": "Einfach oder Hin- und Rückfahrt?", "tr": "Sadece gidiş mi, gidiş-dönüş mü?" },
+        { "speaker": "👨", "de": "Hin- und Rückfahrt, bitte. Und möglichst günstig. 😅", "tr": "Gidiş-dönüş lütfen. Mümkünse en ucuz olsun. 😅" }
+      ],
+      "summary": [
+        { "de": "die Fahrkarte", "tr": "bilet" },
+        { "de": "das Gleis", "tr": "peron" },
+        { "de": "Ich möchte ...", "tr": "… istiyorum" }
+      ],
+      "quiz": [
+        {
+          "question": "Berlin’e bilet almak istiyorum nasıl söylenir?",
+          "options": ["Ich möchte eine Fahrkarte nach Berlin.", "Ich mache Fahrkarte Berlin.", "Ich will Berlin Karte."],
+          "answer": 0,
+          "hint": "Nezaketli ifade Ich möchte ..."
+        },
+        {
+          "question": "Gleis ne demek?",
+          "options": ["tren kapısı", "peron", "trende koltuk"],
+          "answer": 1,
+          "hint": "Ekranlarda numarasını ararsın"
+        },
+        {
+          "question": "Hin- und Rückfahrt nedir?",
+          "options": ["sadece gidiş", "sadece dönüş", "gidiş-dönüş"],
+          "answer": 2,
+          "hint": "İkisi birlikte"
+        },
+        {
+          "question": "Tren istasyonunda mantıklı soru:",
+          "options": ["Muss ich umsteigen?", "Wie alt bist du?", "Wo ist der Arzt?"],
+          "answer": 0,
+          "hint": "Aktarma ile ilgili"
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Work",
+      "title": {
+        "tr": "İş ve Meslek",
+        "de": "Arbeit und Beruf",
+        "en": "Work and profession"
+      },
+      "interactiveScene": "Küçük bir partidesin, herkes klasik Alman sorusunu soruyor:\nUnd, was machen Sie beruflich?\nKendini mini bir iş görüşmesinde gibi hissediyorsun 😅.",
+      "explanation": [
+        { "de": "der Beruf", "tr": "meslek" },
+        { "de": "die Firma", "tr": "şirket" },
+        { "de": "der Kollege / die Kollegin", "tr": "iş arkadaşı (erkek/kadın)" },
+        { "de": "Vollzeit / Teilzeit", "tr": "tam zamanlı / yarı zamanlı" },
+        { "de": "Ich arbeite als ...", "tr": "… olarak çalışıyorum" },
+        { "de": "Ich bin arbeitslos.", "tr": "İşsizim." }
+      ],
+      "phrasesTable": [
+        { "de": "Was machen Sie beruflich?", "tr": "Mesleğiniz nedir?", "note": "resmi" },
+        { "de": "Ich arbeite als Verkäufer.", "tr": "Satıcı olarak çalışıyorum.", "note": "als + meslek" },
+        { "de": "Ich suche eine Arbeit.", "tr": "İş arıyorum.", "note": "" },
+        { "de": "Ich habe nette Kollegen.", "tr": "Çok iyi iş arkadaşlarım var.", "note": "" }
+      ],
+      "tip": "Meslek belirtmek için: Ich arbeite als Lehrer / Ingenieur / Koch.",
+      "dialogue": [
+        { "speaker": "👨", "de": "Was machst du beruflich?", "tr": "Ne iş yapıyorsun?" },
+        { "speaker": "👩", "de": "Ich arbeite als Softwareentwicklerin.", "tr": "Yazılım geliştiricisi olarak çalışıyorum." },
+        { "speaker": "👨", "de": "Klingt spannend! Und deine Kollegen?", "tr": "Kulağa ilginç geliyor! İş arkadaşların nasıl?" },
+        { "speaker": "👩", "de": "Sind meistens nett. Meistens. 😉", "tr": "Çoğunlukla iyi. Çoğunlukla. 😉" }
+      ],
+      "summary": [
+        { "de": "Was machen Sie beruflich?", "tr": "Mesleğiniz nedir? (resmi)" },
+        { "de": "Ich arbeite als ...", "tr": "… olarak çalışıyorum" },
+        { "de": "Ich suche eine Arbeit.", "tr": "İş arıyorum." }
+      ],
+      "quiz": [
+        {
+          "question": "Mühendis olarak çalışıyorum nasıl söylenir?",
+          "options": ["Ich arbeite als Ingenieur.", "Ich mache Ingenieur.", "Ich bin Arbeit Ingenieur."],
+          "answer": 0,
+          "hint": "als + meslek kullanılır"
+        },
+        {
+          "question": "Beruf ne demek?",
+          "options": ["hobi", "meslek", "aile"],
+          "answer": 1,
+          "hint": "Para kazandığın iş"
+        },
+        {
+          "question": "İş görüşmesinde uygun cümle:",
+          "options": ["Ich suche eine Arbeit.", "Ich bin Sofa.", "Ich esse Arbeit."],
+          "answer": 0,
+          "hint": "Konuyla ilgili mantıklı cümle"
+        },
+        {
+          "question": "Kollegen kimlerdir?",
+          "options": ["iş arkadaşları", "komşular", "öğretmenler"],
+          "answer": 0,
+          "hint": "Aynı şirkette çalışanlar"
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Home",
+      "title": {
+        "tr": "Ev ve Konut",
+        "de": "Wohnen und Zuhause",
+        "en": "Living and home"
+      },
+      "interactiveScene": "İnternette daire arıyorsun. Bir ilan görüyorsun: 'Helle, gemütliche Wohnung, 2 Zimmer, Balkon, zentral gelegen.'\nDairenin şu anki hayatından daha güzel olduğunu düşünüyorsun 😅.",
+      "explanation": [
+        { "de": "die Wohnung", "tr": "daire" },
+        { "de": "das Zimmer", "tr": "oda" },
+        { "de": "das Wohnzimmer / Schlafzimmer", "tr": "oturma odası / yatak odası" },
+        { "de": "die Küche / das Bad", "tr": "mutfak / banyo" },
+        { "de": "der Balkon", "tr": "balkon" },
+        { "de": "die Miete", "tr": "kira" },
+        { "de": "möbliert / unmöbliert", "tr": "eşyalı / eşyasız" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe eine kleine Wohnung.", "tr": "Küçük bir dairem var.", "note": "" },
+        { "de": "Die Wohnung ist im dritten Stock.", "tr": "Daire üçüncü katta.", "note": "" },
+        { "de": "Wie hoch ist die Miete?", "tr": "Kira ne kadar?", "note": "" },
+        { "de": "Die Wohnung ist möbliert.", "tr": "Daire eşyalı.", "note": "" }
+      ],
+      "tip": "İlanlarda sıkça görürsün: 2-Zimmer-Wohnung, Balkon, Küche, Bad.",
+      "dialogue": [
+        { "speaker": "📞", "de": "Guten Tag, ich rufe wegen der Wohnung an.", "tr": "İyi günler, daire ilanı için arıyorum." },
+        { "speaker": "🏢", "de": "Die Wohnung hat zwei Zimmer und einen Balkon.", "tr": "Dairede iki oda ve balkon var." },
+        { "speaker": "📞", "de": "Und wie hoch ist die Miete?", "tr": "Kira ne kadar?" },
+        { "speaker": "🏢", "de": "Nur 2000 Euro. Ein kleines Schnäppchen. 😉", "tr": "Sadece 2000 Euro. Küçük bir fırsat. 😉" }
+      ],
+      "summary": [
+        { "de": "die Wohnung", "tr": "daire" },
+        { "de": "die Miete", "tr": "kira" },
+        { "de": "Wie hoch ist die Miete?", "tr": "Kira ne kadar?" }
+      ],
+      "quiz": [
+        {
+          "question": "Küçük bir dairem var nasıl söylenir?",
+          "options": ["Ich habe eine kleine Wohnung.", "Ich bin kleine Wohnung.", "Ich mache Wohnung klein."],
+          "answer": 0,
+          "hint": "habe + eine kleine Wohnung"
+        },
+        {
+          "question": "Miete nedir?",
+          "options": ["dairenin tamamı fiyatı", "aylık kira", "sadece mobilya fiyatı"],
+          "answer": 1,
+          "hint": "Her ay ödediğin para"
+        },
+        {
+          "question": "möbliert ne demek?",
+          "options": ["eşyasız", "eşyalı", "çok eski"],
+          "answer": 1,
+          "hint": "İçinde Möbel = mobilya var"
+        },
+        {
+          "question": "Doğru cümle:",
+          "options": ["Die Wohnung ist im dritten Stock.", "Die Wohnung im dritten Stock ist.", "Die Wohnung ist dritter Stock im."],
+          "answer": 0,
+          "hint": "Sıralama: ist im dritten Stock"
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Shopping",
+      "title": {
+        "tr": "Alışveriş",
+        "de": "Einkaufen",
+        "en": "Shopping"
+      },
+      "interactiveScene": "Süpermarkette her yerde kırmızı indirim etiketleri 🔴.\nDüşünüyorsun: Aslında buna ihtiyacım yoktu ama indirim beni ikna etti!",
+      "explanation": [
+        { "de": "der Preis", "tr": "fiyat" },
+        { "de": "das Angebot", "tr": "kampanya / indirim" },
+        { "de": "reduziert", "tr": "indirimli" },
+        { "de": "bar bezahlen", "tr": "nakit ödemek" },
+        { "de": "mit Karte bezahlen", "tr": "kartla ödemek" },
+        { "de": "die Kasse", "tr": "kasa" }
+      ],
+      "phrasesTable": [
+        { "de": "Wie viel kostet das?", "tr": "Bu kaç para?", "note": "" },
+        { "de": "Das ist im Angebot.", "tr": "Bu kampanyada.", "note": "" },
+        { "de": "Kann ich mit Karte bezahlen?", "tr": "Kartla ödeyebilir miyim?", "note": "" },
+        { "de": "Brauchen Sie eine Tüte?", "tr": "Poşete ihtiyacınız var mı?", "note": "Almanya’da klasik soru" }
+      ],
+      "tip": "İndirim dönemlerinde çok görürsün: Alles 50% reduziert!",
+      "dialogue": [
+        { "speaker": "🛒", "de": "Wie viel kostet das Brot?", "tr": "Bu ekmek kaç para?" },
+        { "speaker": "👩‍💼", "de": "1 Euro 20. Heute ist es reduziert.", "tr": "1 Euro 20 cent. Bugün indirimli." },
+        { "speaker": "🛒", "de": "Super! Kann ich mit Karte bezahlen?", "tr": "Harika! Kartla ödeyebilir miyim?" }
+      ],
+      "summary": [
+        { "de": "Wie viel kostet das?", "tr": "Bu kaç para?" },
+        { "de": "Das ist im Angebot / reduziert.", "tr": "Bu kampanyada / indirimli." },
+        { "de": "Kann ich mit Karte bezahlen?", "tr": "Kartla ödeyebilir miyim?" }
+      ],
+      "quiz": [
+        {
+          "question": "Bu kaç para? nasıl söylenir?",
+          "options": ["Wie viel kostet das?", "Wie viele ist das?", "Was Preis ist das?"],
+          "answer": 0,
+          "hint": "kostet = fiyatı olmak"
+        },
+        {
+          "question": "reduziert ne demek?",
+          "options": ["son kullanma tarihi geçmiş", "fiyatı indirilmiş", "yeni çıkmış"],
+          "answer": 1,
+          "hint": "İndirim etiketlerinde görürsün"
+        },
+        {
+          "question": "Tüte nedir?",
+          "options": ["poşet", "kaşık", "süt kutusu"],
+          "answer": 0,
+          "hint": "Kasada sorarlar"
+        },
+        {
+          "question": "Kasada doğal cümle:",
+          "options": ["Kann ich mit Karte bezahlen?", "Ich bin Karte bezahlen.", "Ich mache bezahlen Karte."],
+          "answer": 0,
+          "hint": "Kann ich ...? = yapabilir miyim?"
+        }
+      ]
+    }
+  ]
+}

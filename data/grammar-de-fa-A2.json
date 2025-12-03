@@ -1,0 +1,1354 @@
+{
+  "level": "A2",
+  "title": "A2 – دستور زبان آلمانی",
+  "grammar": [
+    {
+      "id": "A2_Grammar_01_Possessivpronomen",
+      "title": {
+        "fa": "ضمایر ملکی",
+        "de": "Possessivpronomen",
+        "en": "Possessive Pronouns"
+      },
+      "interactiveScene": "معلم می‌گوید: Jeder hat etwas Eigenes! (هر کسی چیزی مال خودش دارد!) و روی تخته می‌نویسد: Wessen Auto ist das? – Das ist mein Auto.",
+      "explanation": [
+        { "de": "mein / meine", "fa": "مال من" },
+        { "de": "dein / deine", "fa": "مال تو" },
+        { "de": "sein / seine", "fa": "مال او (مذکر)" },
+        { "de": "ihr / ihre", "fa": "مال او (مؤنث)" },
+        { "de": "unser / unsere", "fa": "مال ما" },
+        { "de": "euer / eure", "fa": "مال شما" },
+        { "de": "ihr / ihre", "fa": "مال آن‌ها" }
+      ],
+      "phrasesTable": [
+        { "de": "Das ist mein Buch.", "fa": "این کتاب من است." },
+        { "de": "Ist das deine Tasche?", "fa": "این کیف تو است؟" },
+        { "de": "Ihr Hund ist süß.", "fa": "سگ او (مؤنث) شیرین است." }
+      ],
+      "tip": "ضمیر ملکی با اسم در جنس و عدد توافق دارد.\nمثال: mein Vater – meine Mutter.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Ist das euer Auto?", "fa": "این ماشین شما است؟" },
+        { "speaker": "👨", "de": "Ja, das ist unser Auto.", "fa": "بله، این ماشین ما است." }
+      ],
+      "summary": [
+        { "de": "mein → ich", "fa": "من" },
+        { "de": "dein → du", "fa": "تو" },
+        { "de": "sein / ihr → er / sie", "fa": "او (مذکر) / او (مؤنث)" },
+        { "de": "unser → wir", "fa": "ما" }
+      ],
+      "quiz": [
+        {
+          "question": "____ Vater ist Arzt. (ich)",
+          "options": ["Mein", "Dein", "Ihr"],
+          "answer": 0,
+          "hint": "با ich → Mein."
+        },
+        {
+          "question": "Wo ist ____ Handy? (du)",
+          "options": ["mein", "dein", "sein"],
+          "answer": 1,
+          "hint": "با du → dein."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Modalverben_Teil1",
+      "title": {
+        "fa": "فعل‌های کمکی – بخش اول (können, müssen, sollen)",
+        "de": "Modalverben – Teil 1",
+        "en": "Modal verbs – Part 1"
+      },
+      "interactiveScene": "معلم از تو می‌پرسد: «Kannst du Deutsch sprechen?» 🇩🇪\nتو جواب می‌دهی: «Ja, ich kann ein bisschen!» 😎\nسپس می‌گوید: «Du musst mehr üben!» 😅\nو دوستت زمزمه می‌کند: «Wir sollen Hausaufgaben machen…» 📚\nو این‌طور سفرت با فعل‌های کوچک اما تغییر دهنده معنای جمله شروع می‌شود!",
+      "explanation": [
+        {
+          "de": "(Modalverben)",
+          "fa": "فعل‌های کمکی با فعل دیگری استفاده می‌شوند تا توانایی، اجبار یا پیشنهاد را بیان کنند.\nپس از آن‌ها فعل اصلی در انتهای جمله به صورت مصدر (Infinitiv) می‌آید."
+        },
+        {
+          "de": "**1. können",
+          "fa": "🔹 = می‌توانم / قادر هستم**"
+        },
+        {
+          "de": "ich kann",
+          "fa": "من می‌توانم"
+        },
+        {
+          "de": "du kannst",
+          "fa": "تو می‌توانی"
+        },
+        {
+          "de": "er / sie / es kann",
+          "fa": "او / او / آن می‌تواند"
+        },
+        {
+          "de": "wir können",
+          "fa": "ما می‌توانیم"
+        },
+        {
+          "de": "ihr könnt",
+          "fa": "شما می‌توانید"
+        },
+        {
+          "de": "sie / Sie können",
+          "fa": "آن‌ها / شما می‌توانید"
+        },
+        {
+          "de": "**2. müssen",
+          "fa": "🔹 = باید / مجبور هستم**"
+        },
+        {
+          "de": "ich muss",
+          "fa": "باید"
+        },
+        {
+          "de": "du musst",
+          "fa": "تو باید"
+        },
+        {
+          "de": "er / sie / es muss",
+          "fa": "او / او باید"
+        },
+        {
+          "de": "wir müssen",
+          "fa": "ما باید"
+        },
+        {
+          "de": "ihr müsst",
+          "fa": "شما باید"
+        },
+        {
+          "de": "sie / Sie müssen",
+          "fa": "آن‌ها / شما باید"
+        },
+        {
+          "de": "**3. sollen",
+          "fa": "🔹 = باید (پیشنهاد) / بهتر است که**"
+        },
+        {
+          "de": "ich soll",
+          "fa": "باید (من)"
+        },
+        {
+          "de": "du sollst",
+          "fa": "تو باید"
+        },
+        {
+          "de": "er / sie / es soll",
+          "fa": "او / او باید"
+        },
+        {
+          "de": "wir sollen",
+          "fa": "ما باید"
+        },
+        {
+          "de": "ihr sollt",
+          "fa": "شما باید"
+        },
+        {
+          "de": "sie / Sie sollen",
+          "fa": "آن‌ها / شما باید"
+        },
+        {
+          "de": "Ich kann Deutsch sprechen.",
+          "fa": "می‌توانم آلمانی صحبت کنم."
+        },
+        {
+          "de": "Du musst lernen.",
+          "fa": "باید یاد بگیری."
+        },
+        {
+          "de": "Wir sollen pünktlich sein.",
+          "fa": "باید سر وقت باشیم."
+        },
+        {
+          "de": "Sie können kommen.",
+          "fa": "می‌توانید بیایید."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich kann schwimmen.", "fa": "می‌توانم شنا کنم.", "note": "توانایی" },
+        { "de": "Du musst essen.", "fa": "باید بخوری.", "note": "اجبار" },
+        { "de": "Er soll schlafen.", "fa": "باید بخوابد.", "note": "پیشنهاد" },
+        { "de": "Wir können tanzen.", "fa": "می‌توانیم برقصیم.", "note": "" },
+        { "de": "Ihr müsst lernen.", "fa": "باید یاد بگیرید.", "note": "" },
+        { "de": "Sie sollen kommen.", "fa": "باید بیایند.", "note": "" },
+        { "de": "Kann ich helfen?", "fa": "می‌توانم کمک کنم؟", "note": "" }
+      ],
+      "tip": "فعل‌های کمکی تصریف می‌شوند، اما فعل اصلی همیشه به صورت مصدر (بدون تغییر) در انتها می‌آید.\nمثال: Ich muss lernen. (lernen مصدر است).",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Kannst du Deutsch sprechen?", "fa": "می‌توانی آلمانی صحبت کنی؟" },
+        { "speaker": "👨", "de": "Ja, ich kann Deutsch sprechen.", "fa": "بله، می‌توانم آلمانی صحبت کنم." },
+        { "speaker": "👩‍🏫", "de": "Musst du lernen?", "fa": "باید یاد بگیری؟" },
+        { "speaker": "👨", "de": "Ja, ich muss lernen.", "fa": "بله، باید یاد بگیرم." }
+      ],
+      "summary": [
+        { "de": "können = توانایی", "fa": "می‌توانم" },
+        { "de": "müssen = اجبار", "fa": "باید (مجبور)" },
+        { "de": "sollen = پیشنهاد", "fa": "باید (بهتر است)" },
+        { "de": "فعل اصلی در انتها", "fa": "فعل اصلی در انتها" }
+      ],
+      "quiz": [
+        {
+          "question": "تصریف können با ich:",
+          "options": ["kannst", "kann", "können"],
+          "answer": 1,
+          "hint": "ich kann."
+        },
+        {
+          "question": "کدام فعل یعنی باید (اجبار)؟",
+          "options": ["sollen", "können", "müssen"],
+          "answer": 2,
+          "hint": "müssen = باید (مجبور)."
+        },
+        {
+          "question": "جمله درست: Ich ____ lernen. (müssen)",
+          "options": ["muss", "musst", "müssen"],
+          "answer": 0,
+          "hint": "ich muss."
+        },
+        {
+          "question": "در جمله: Du sollst essen. فعل اصلی چیست؟",
+          "options": ["sollst", "essen", "Du"],
+          "answer": 1,
+          "hint": "فعل اصلی در انتها به صورت مصدر."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Modalverben_Teil2",
+      "title": {
+        "fa": "فعل‌های کمکی – بخش دوم (wollen, dürfen, mögen, möchten)",
+        "de": "Modalverben – Teil 2",
+        "en": "Modal verbs – Part 2"
+      },
+      "interactiveScene": "معلم می‌پرسد: «Was wollt ihr werden?» – چی می‌خواهید بشوید؟\nتو جواب می‌دهی: «Ich will Arzt werden.» – می‌خواهم پزشک شوم.\nسپس می‌گوید: «Darfst du rauchen?» – اجازه داری سیگار بکشی؟\nتو: «Nein, ich darf nicht.» – نه، اجازه ندارم.\nو دوستت می‌گوید: «Ich mag Pizza.» – پیتزا دوست دارم.\nمعلم: «Möchtest du etwas trinken?» – چیزی می‌خواهی بنوشی؟",
+      "explanation": [
+        {
+          "de": "**1. wollen",
+          "fa": "🔹 = می‌خواهم (خواستن قوی، اراده)**"
+        },
+        {
+          "de": "ich will",
+          "fa": "می‌خواهم"
+        },
+        {
+          "de": "du willst",
+          "fa": "تو می‌خواهی"
+        },
+        {
+          "de": "er / sie / es will",
+          "fa": "او می‌خواهد"
+        },
+        {
+          "de": "wir wollen",
+          "fa": "ما می‌خواهیم"
+        },
+        {
+          "de": "ihr wollt",
+          "fa": "شما می‌خواهید"
+        },
+        {
+          "de": "sie / Sie wollen",
+          "fa": "آن‌ها / شما می‌خواهند"
+        },
+        {
+          "de": "**2. dürfen",
+          "fa": "🔹 = اجازه داشتن / ممکن بودن**"
+        },
+        {
+          "de": "ich darf",
+          "fa": "اجازه دارم"
+        },
+        {
+          "de": "du darfst",
+          "fa": "اجازه داری"
+        },
+        {
+          "de": "er / sie / es darf",
+          "fa": "اجازه دارد"
+        },
+        {
+          "de": "wir dürfen",
+          "fa": "اجازه داریم"
+        },
+        {
+          "de": "ihr dürft",
+          "fa": "اجازه دارید"
+        },
+        {
+          "de": "sie / Sie dürfen",
+          "fa": "اجازه دارند"
+        },
+        {
+          "de": "**3. mögen",
+          "fa": "🔹 = دوست داشتن (برای چیزها یا فعالیت‌ها)**"
+        },
+        {
+          "de": "ich mag",
+          "fa": "دوست دارم"
+        },
+        {
+          "de": "du magst",
+          "fa": "دوست داری"
+        },
+        {
+          "de": "er / sie / es mag",
+          "fa": "دوست دارد"
+        },
+        {
+          "de": "wir mögen",
+          "fa": "دوست داریم"
+        },
+        {
+          "de": "ihr mögt",
+          "fa": "دوست دارید"
+        },
+        {
+          "de": "sie / Sie mögen",
+          "fa": "دوست دارند"
+        },
+        {
+          "de": "**4. möchten",
+          "fa": "🔹 = می‌خواهم (مهذب، برای درخواست‌ها)**"
+        },
+        {
+          "de": "ich möchte",
+          "fa": "می‌خواهم"
+        },
+        {
+          "de": "du möchtest",
+          "fa": "می‌خواهی"
+        },
+        {
+          "de": "er / sie / es möchte",
+          "fa": "می‌خواهد"
+        },
+        {
+          "de": "wir möchten",
+          "fa": "می‌خواهیم"
+        },
+        {
+          "de": "ihr möchtet",
+          "fa": "می‌خواهید"
+        },
+        {
+          "de": "sie / Sie möchten",
+          "fa": "می‌خواهند"
+        },
+        {
+          "de": "Ich will Arzt werden.",
+          "fa": "می‌خواهم پزشک شوم."
+        },
+        {
+          "de": "Du darfst nicht rauchen.",
+          "fa": "اجازه نداری سیگار بکشی."
+        },
+        {
+          "de": "Ich mag Pizza.",
+          "fa": "پیتزا دوست دارم."
+        },
+        {
+          "de": "Möchtest du etwas trinken?",
+          "fa": "چیزی می‌خواهی بنوشی؟"
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich will reisen.", "fa": "می‌خواهم سفر کنم.", "note": "خواست قوی" },
+        { "de": "Du darfst hier parken.", "fa": "اجازه داری اینجا پارک کنی.", "note": "اجازه" },
+        { "de": "Er mag Filme.", "fa": "فیلم دوست دارد.", "note": "دوست داشتن" },
+        { "de": "Möchtest du Kaffee?", "fa": "قهوه می‌خواهی؟", "note": "مهذب" },
+        { "de": "Wir wollen essen gehen.", "fa": "می‌خواهیم غذا بخوریم.", "note": "" },
+        { "de": "Ihr dürft spielen.", "fa": "اجازه دارید بازی کنید.", "note": "" },
+        { "de": "Sie mögen Musik.", "fa": "موسیقی دوست دارند.", "note": "" },
+        { "de": "Möchten Sie etwas essen?", "fa": "چیزی می‌خواهید بخورید؟", "note": "" }
+      ],
+      "tip": "فعل möchten شکل مهذب از wollen است و بیشتر در درخواست‌ها استفاده می‌شود.\nمثال: Ich möchte ein Eis. (می‌خواهم بستنی – مهذب).",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Was willst du werden?", "fa": "چی می‌خواهی بشوی؟" },
+        { "speaker": "👨", "de": "Ich will Ingenieur werden.", "fa": "می‌خواهم مهندس شوم." },
+        { "speaker": "👩‍🏫", "de": "Darfst du fernsehen?", "fa": "اجازه داری تلویزیون نگاه کنی؟" },
+        { "speaker": "👨", "de": "Ja, ich darf.", "fa": "بله، اجازه دارم." },
+        { "speaker": "👩‍🏫", "de": "Magst du Sport?", "fa": "ورزش دوست داری؟" },
+        { "speaker": "👨", "de": "Ja, ich mag Sport.", "fa": "بله، ورزش دوست دارم." }
+      ],
+      "summary": [
+        { "de": "wollen = خواست قوی", "fa": "می‌خواهم" },
+        { "de": "dürfen = اجازه", "fa": "اجازه دارم" },
+        { "de": "mögen = دوست داشتن", "fa": "دوست دارم" },
+        { "de": "möchten = می‌خواهم (مهذب)", "fa": "می‌خواهم (مهذب)" }
+      ],
+      "quiz": [
+        {
+          "question": "تصریف wollen با ich:",
+          "options": ["will", "wollst", "willst"],
+          "answer": 0,
+          "hint": "ich will."
+        },
+        {
+          "question": "کدام فعل یعنی اجازه داشتن؟",
+          "options": ["mögen", "dürfen", "wollen"],
+          "answer": 1,
+          "hint": "dürfen = اجازه."
+        },
+        {
+          "question": "جمله درست: Ich ____ Eis. (möchten)",
+          "options": ["möchte", "möchtest", "möchten"],
+          "answer": 0,
+          "hint": "ich möchte."
+        },
+        {
+          "question": "در جمله: Du magst Pizza. فعل اصلی چیست؟",
+          "options": ["magst", "Pizza", "Du"],
+          "answer": 0,
+          "hint": "فعل اصلی magst است، اما Pizza اسم است."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Dativ",
+      "title": {
+        "fa": "حال Dativ",
+        "de": "Dativ",
+        "en": "Dative case"
+      },
+      "interactiveScene": "معلم می‌گوید: «Ich helfe dir.» – به تو کمک می‌کنم.\nتو می‌پرسی: «Wem hilfst du?» – به کی کمک می‌کنی؟\nاو جواب می‌دهد: «Ich helfe dem Studenten.» – به دانشجو کمک می‌کنم.\nو فکر می‌کنی: Dativ برای نشان دادن دریافت‌کننده است.",
+      "explanation": [
+        {
+          "de": "Dativ",
+          "fa": "حال Dativ برای نشان دادن دریافت‌کننده (به کی؟) یا با برخی حروف جر استفاده می‌شود."
+        },
+        {
+          "de": "der → dem (مذکر)",
+          "fa": "der به dem تغییر می‌کند."
+        },
+        {
+          "de": "die → der (مؤنث)",
+          "fa": "die به der تغییر می‌کند."
+        },
+        {
+          "de": "das → dem (خنثی)",
+          "fa": "das به dem تغییر می‌کند."
+        },
+        {
+          "de": "die → den (جمع)",
+          "fa": "die به den تغییر می‌کند."
+        },
+        {
+          "de": "ein → einem (مذکر / خنثی)",
+          "fa": "ein به einem تغییر می‌کند."
+        },
+        {
+          "de": "eine → einer (مؤنث)",
+          "fa": "eine به einer تغییر می‌کند."
+        },
+        {
+          "de": "فعل‌هایی مثل helfen نیاز به Dativ دارند.",
+          "fa": "فعل‌هایی مثل helfen نیاز به Dativ دارند."
+        },
+        {
+          "de": "Ich helfe dem Freund.",
+          "fa": "به دوست کمک می‌کنم."
+        },
+        {
+          "de": "Das Geschenk ist für die Freundin.",
+          "fa": "هدیه برای دوست دختر است."
+        },
+        {
+          "de": "حروف جر با Dativ: aus, bei, mit, nach, von, zu, seit.",
+          "fa": "حروف جر با Dativ: aus, bei, mit, nach, von, zu, seit."
+        },
+        {
+          "de": "Ich komme aus Syrien.",
+          "fa": "از سوریه می‌آیم."
+        },
+        {
+          "de": "Ich bin bei der Familie.",
+          "fa": "با خانواده هستم."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich helfe dem Freund.", "fa": "به دوست کمک می‌کنم.", "note": "dem = Dativ مذکر" },
+        { "de": "Ich gebe der Schwester ein Buch.", "fa": "به خواهر کتاب می‌دهم.", "note": "der = Dativ مؤنث" },
+        { "de": "Ich erzähle dem Kind eine Geschichte.", "fa": "برای بچه داستان می‌گویم.", "note": "dem = Dativ خنثی" },
+        { "de": "Ich fahre mit dem Bus.", "fa": "با اتوبوس می‌روم.", "note": "mit + Dativ" },
+        { "de": "Ich komme aus der Stadt.", "fa": "از شهر می‌آیم.", "note": "aus + Dativ" }
+      ],
+      "tip": "Dativ اغلب بعد از فعل‌هایی مثل helfen, geben, schenken می‌آید.\nسؤال Dativ: Wem? = به کی؟",
+      "dialogue": [
+        { "speaker": "👨", "de": "Wem hilfst du?", "fa": "به کی کمک می‌کنی؟" },
+        { "speaker": "👩", "de": "Ich helfe dem Freund.", "fa": "به دوست کمک می‌کنم." },
+        { "speaker": "👨", "de": "Und der Schwester?", "fa": "و به خواهر؟" },
+        { "speaker": "👩", "de": "Ich gebe der Schwester ein Geschenk.", "fa": "به خواهر هدیه می‌دهم." }
+      ],
+      "summary": [
+        { "de": "der → dem, die → der, das → dem", "fa": "تغییرات Dativ." },
+        { "de": "ein → einem, eine → einer", "fa": "برای نکره." },
+        { "de": "حروف جر با Dativ: aus, bei, mit, nach, von, zu, seit", "fa": "حروف جر با Dativ." },
+        { "de": "Wem? = به کی؟", "fa": "سؤال Dativ." }
+      ],
+      "quiz": [
+        {
+          "question": "أكمل: Ich helfe ___ Freund. (der Freund)",
+          "options": ["der", "den", "dem"],
+          "answer": 2,
+          "hint": "helfen + Dativ → dem."
+        },
+        {
+          "question": "Dativ برای die Schwester:",
+          "options": ["der", "den", "dem"],
+          "answer": 0,
+          "hint": "مؤنث → der."
+        },
+        {
+          "question": "حرف جر aus می‌گیرد:",
+          "options": ["Nominativ", "Akkusativ", "Dativ"],
+          "answer": 2,
+          "hint": "aus + Dativ."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Akkusativ",
+      "title": {
+        "fa": "حال Akkusativ",
+        "de": "Akkusativ",
+        "en": "Accusative case"
+      },
+      "interactiveScene": "معلم می‌گوید: «Ich sehe dich!» – تو را می‌بینم!\nتو جواب می‌دهی: «Ich sehe den Freund.» – دوست را می‌بینم.\nاو می‌پرسد: «Wen siehst du?» – کی را می‌بینی؟",
+      "explanation": [
+        {
+          "de": "Akkusativ",
+          "fa": "حال Akkusativ برای نشان دادن مفعول مستقیم (چی را؟) یا با برخی حروف جر استفاده می‌شود."
+        },
+        {
+          "de": "der → den (مذکر)",
+          "fa": "der به den تغییر می‌کند."
+        },
+        {
+          "de": "die → die (مؤنث)",
+          "fa": "die بدون تغییر."
+        },
+        {
+          "de": "das → das (خنثی)",
+          "fa": "das بدون تغییر."
+        },
+        {
+          "de": "die → die (جمع)",
+          "fa": "die بدون تغییر."
+        },
+        {
+          "de": "ein → einen (مذکر)",
+          "fa": "ein به einen تغییر می‌کند."
+        },
+        {
+          "de": "eine → eine (مؤنث)",
+          "fa": "eine بدون تغییر."
+        },
+        {
+          "de": "ein → ein (خنثی)",
+          "fa": "ein بدون تغییر."
+        },
+        {
+          "de": "فعل‌هایی مثل sehen, essen نیاز به Akkusativ دارند.",
+          "fa": "فعل‌هایی مثل sehen, essen نیاز به Akkusativ دارند."
+        },
+        {
+          "de": "Ich sehe den Freund.",
+          "fa": "دوست را می‌بینم."
+        },
+        {
+          "de": "Ich esse die Banane.",
+          "fa": "موز را می‌خورم."
+        },
+        {
+          "de": "حروف جر با Akkusativ: durch, für, gegen, ohne, um.",
+          "fa": "حروف جر با Akkusativ: durch, für, gegen, ohne, um."
+        },
+        {
+          "de": "Ich gehe durch den Park.",
+          "fa": "از پارک عبور می‌کنم."
+        },
+        {
+          "de": "Das ist für dich.",
+          "fa": "این برای تو است."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich sehe den Freund.", "fa": "دوست را می‌بینم.", "note": "den = Akkusativ مذکر" },
+        { "de": "Ich esse die Banane.", "fa": "موز را می‌خورم.", "note": "die بدون تغییر برای مؤنث" },
+        { "de": "Ich lese das Buch.", "fa": "کتاب را می‌خوانم.", "note": "das بدون تغییر برای خنثی" },
+        { "de": "Ich gehe durch den Wald.", "fa": "از جنگل عبور می‌کنم.", "note": "durch + Akkusativ" },
+        { "de": "Das ist für die Kinder.", "fa": "این برای کودکان است.", "note": "für + Akkusativ" }
+      ],
+      "tip": "Akkusativ اغلب بعد از فعل‌هایی مثل sehen, essen, trinken می‌آید.\nسؤال Akkusativ: Wen / Was? = کی را / چی را؟",
+      "dialogue": [
+        { "speaker": "👨", "de": "Wen siehst du?", "fa": "کی را می‌بینی؟" },
+        { "speaker": "👩", "de": "Ich sehe den Freund.", "fa": "دوست را می‌بینم." },
+        { "speaker": "👨", "de": "Was isst du?", "fa": "چی می‌خوری؟" },
+        { "speaker": "👩", "de": "Ich esse die Banane.", "fa": "موز را می‌خورم." }
+      ],
+      "summary": [
+        { "de": "der → den, die → die, das → das", "fa": "تغییرات Akkusativ." },
+        { "de": "ein → einen, eine → eine, ein → ein", "fa": "برای نکره." },
+        { "de": "حروف جر با Akkusativ: durch, für, gegen, ohne, um", "fa": "حروف جر با Akkusativ." },
+        { "de": "Wen / Was? = کی را / چی را؟", "fa": "سؤال Akkusativ." }
+      ],
+      "quiz": [
+        {
+          "question": "أكمل: Ich sehe ___ Freund. (der Freund)",
+          "options": ["der", "den", "dem"],
+          "answer": 1,
+          "hint": "sehen + Akkusativ → den."
+        },
+        {
+          "question": "Akkusativ برای die Banane:",
+          "options": ["den", "die", "dem"],
+          "answer": 1,
+          "hint": "مؤنث → die بدون تغییر."
+        },
+        {
+          "question": "حرف جر durch می‌گیرد:",
+          "options": ["Dativ", "Akkusativ", "Genitiv"],
+          "answer": 1,
+          "hint": "durch + Akkusativ."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Praepositionen",
+      "title": {
+        "fa": "حروف جر",
+        "de": "Präpositionen",
+        "en": "Prepositions"
+      },
+      "interactiveScene": "معلم می‌گوید: «Ich gehe in die Schule.» – به مدرسه می‌روم.\nتو می‌پرسی: «Mit dem Bus?» – با اتوبوس؟\nاو: «Nein, zu Fuß.» – نه، پیاده.",
+      "explanation": [
+        {
+          "de": "in",
+          "fa": "در / به (داخل)"
+        },
+        {
+          "de": "auf",
+          "fa": "روی / به (روی)"
+        },
+        {
+          "de": "an",
+          "fa": "در کنار / به (کنار)"
+        },
+        {
+          "de": "unter",
+          "fa": "زیر / به زیر"
+        },
+        {
+          "de": "über",
+          "fa": "بالای / بالای"
+        },
+        {
+          "de": "vor",
+          "fa": "جلوی / در مقابل"
+        },
+        {
+          "de": "hinter",
+          "fa": "پشت / پشت"
+        },
+        {
+          "de": "neben",
+          "fa": "کنار / کنار"
+        },
+        {
+          "de": "zwischen",
+          "fa": "بین / بین"
+        },
+        {
+          "de": "mit",
+          "fa": "با"
+        },
+        {
+          "de": "zu",
+          "fa": "به (جهت)"
+        },
+        {
+          "de": "aus",
+          "fa": "از (خروج)"
+        },
+        {
+          "de": "von",
+          "fa": "از (منبع)"
+        },
+        {
+          "de": "nach",
+          "fa": "به (شهرها)"
+        },
+        {
+          "de": "bei",
+          "fa": "نزد / در کنار"
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich gehe in die Schule.", "fa": "به مدرسه می‌روم.", "note": "in + Akkusativ (حرکت)" },
+        { "de": "Ich bin in der Schule.", "fa": "در مدرسه هستم.", "note": "in + Dativ (مکان ثابت)" },
+        { "de": "Das Buch liegt auf dem Tisch.", "fa": "کتاب روی میز است.", "note": "auf + Dativ" },
+        { "de": "Ich lege das Buch auf den Tisch.", "fa": "کتاب را روی میز می‌گذارم.", "note": "auf + Akkusativ" },
+        { "de": "Ich fahre mit dem Bus.", "fa": "با اتوبوس می‌روم.", "note": "mit + Dativ" },
+        { "de": "Ich komme aus Syrien.", "fa": "از سوریه می‌آیم.", "note": "aus + Dativ" }
+      ],
+      "tip": "بعضی حروف جر دوگانه هستند (Wechselpräpositionen): in, auf, an, unter, über, vor, hinter, neben, zwischen.\n- اگر مکان ثابت (Wo?) → Dativ\n- اگر حرکت (Wohin?) → Akkusativ",
+      "dialogue": [
+        { "speaker": "👨", "de": "Wo ist das Buch?", "fa": "کتاب کجاست؟" },
+        { "speaker": "👩", "de": "Das Buch liegt auf dem Tisch.", "fa": "کتاب روی میز است." },
+        { "speaker": "👨", "de": "Wohin legst du das Buch?", "fa": "کتاب را کجا می‌گذاری؟" },
+        { "speaker": "👩", "de": "Ich lege es auf den Tisch.", "fa": "روی میز می‌گذارم." }
+      ],
+      "summary": [
+        { "de": "in, auf, an, unter, über, vor, hinter, neben, zwischen", "fa": "حروف جر دوگانه (Dativ یا Akkusativ بسته به حرکت یا ثابت بودن)." },
+        { "de": "mit, zu, aus, von, nach, bei", "fa": "حروف جر با Dativ ثابت." },
+        { "de": "durch, für, gegen, ohne, um", "fa": "حروف جر با Akkusativ ثابت." }
+      ],
+      "quiz": [
+        {
+          "question": "أكمل: Ich gehe ___ die Schule. (حرکت)",
+          "options": ["in", "in der", "auf"],
+          "answer": 0,
+          "hint": "حرکت → in + Akkusativ = in die."
+        },
+        {
+          "question": "أكمل: Ich bin ___ Schule. (مکان ثابت)",
+          "options": ["in die", "in der", "auf der"],
+          "answer": 1,
+          "hint": "ثابت → in + Dativ = in der."
+        },
+        {
+          "question": "mit می‌گیرد:",
+          "options": ["Akkusativ", "Dativ", "Genitiv"],
+          "answer": 1,
+          "hint": "mit + Dativ همیشه."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Perfekt",
+      "title": {
+        "fa": "زمان Perfekt (ماضی کامل)",
+        "de": "Perfekt",
+        "en": "Perfect tense"
+      },
+      "interactiveScene": "معلم می‌گوید: «Was hast du gestern gemacht?» – دیروز چی کار کردی؟\nتو جواب می‌دهی: «Ich habe gelernt.» – یاد گرفتم.\nاو می‌پرسد: «Bist du spazieren gegangen?» – قدم زدی؟\nتو: «Ja, ich bin spazieren gegangen.» – بله، قدم زدم.",
+      "explanation": [
+        {
+          "de": "Perfekt",
+          "fa": "زمان Perfekt برای صحبت کردن درباره گذشته استفاده می‌شود. از haben یا sein + Partizip II ساخته می‌شود."
+        },
+        {
+          "de": "haben + Partizip II",
+          "fa": "برای بیشتر فعل‌ها: haben + شکل گذشته (Partizip II)."
+        },
+        {
+          "de": "ich habe gelernt",
+          "fa": "یاد گرفته‌ام"
+        },
+        {
+          "de": "du hast gelernt",
+          "fa": "یاد گرفته‌ای"
+        },
+        {
+          "de": "er hat gelernt",
+          "fa": "یاد گرفته"
+        },
+        {
+          "de": "wir haben gelernt",
+          "fa": "یاد گرفته‌ایم"
+        },
+        {
+          "de": "ihr habt gelernt",
+          "fa": "یاد گرفته‌اید"
+        },
+        {
+          "de": "sie haben gelernt",
+          "fa": "یاد گرفته‌اند"
+        },
+        {
+          "de": "sein + Partizip II",
+          "fa": "برای فعل‌های حرکت یا تغییر وضعیت: sein + Partizip II."
+        },
+        {
+          "de": "ich bin gegangen",
+          "fa": "رفته‌ام"
+        },
+        {
+          "de": "du bist gegangen",
+          "fa": "رفته‌ای"
+        },
+        {
+          "de": "er ist gegangen",
+          "fa": "رفته"
+        },
+        {
+          "de": "wir sind gegangen",
+          "fa": "رفته‌ایم"
+        },
+        {
+          "de": "ihr seid gegangen",
+          "fa": "رفته‌اید"
+        },
+        {
+          "de": "sie sind gegangen",
+          "fa": "رفته‌اند"
+        },
+        {
+          "de": "Partizip II برای فعل‌های منظم: ge- + ساقه + -t",
+          "fa": "مثال: lernen → gelernt"
+        },
+        {
+          "de": "فعل‌های نامنظم: حفظی",
+          "fa": "مثال: gehen → gegangen, essen → gegessen"
+        },
+        {
+          "de": "در جمله، Partizip II در انتها می‌آید.",
+          "fa": "مثال: Ich habe gestern ein Buch gelesen."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich habe gegessen.", "fa": "خورده‌ام.", "note": "" },
+        { "de": "Du hast gelernt.", "fa": "یاد گرفته‌ای.", "note": "" },
+        { "de": "Wir haben gespielt.", "fa": "بازی کرده‌ایم.", "note": "" },
+        { "de": "Ich bin gegangen.", "fa": "رفته‌ام.", "note": "حرکت" },
+        { "de": "Du bist gekommen.", "fa": "آمده‌ای.", "note": "حرکت" },
+        { "de": "Er ist gefahren.", "fa": "رفته (با وسیله).", "note": "" }
+      ],
+      "tip": "فعل‌های حرکت (gehen, kommen, fahren) و تغییر وضعیت (werden, sein) با sein استفاده می‌شوند.\nبقیه فعل‌ها با haben.\nPartizip II برای فعل‌های منظم: ge + ساقه + t (lernen → gelernt).",
+      "dialogue": [
+        { "speaker": "👨", "de": "Was hast du gestern gemacht?", "fa": "دیروز چی کار کردی؟" },
+        { "speaker": "👩", "de": "Ich habe gelernt und bin spazieren gegangen.", "fa": "یاد گرفتم و قدم زدم." },
+        { "speaker": "👨", "de": "Hast du gut geschlafen?", "fa": "خوب خوابیدی؟" },
+        { "speaker": "👩", "de": "Ja, ich habe gut geschlafen.", "fa": "بله، خوب خوابیدم." }
+      ],
+      "summary": [
+        { "de": "haben + Partizip II", "fa": "برای بیشتر فعل‌ها." },
+        { "de": "sein + Partizip II", "fa": "برای حرکت و تغییر." },
+        { "de": "Partizip II در انتها", "fa": "شکل گذشته در انتها." },
+        { "de": "Ich habe gelernt.", "fa": "یاد گرفته‌ام." },
+        { "de": "Ich bin gegangen.", "fa": "رفته‌ام." }
+      ],
+      "quiz": [
+        {
+          "question": "Partizip II برای lernen:",
+          "options": ["lernt", "gelernt", "gelernen"],
+          "answer": 1,
+          "hint": "ge- + -t."
+        },
+        {
+          "question": "برای gehen استفاده می‌شود:",
+          "options": ["haben", "sein", "gehen"],
+          "answer": 1,
+          "hint": "فعل حرکت → sein."
+        },
+        {
+          "question": "جمله درست: Ich ____ ein Buch gelesen.",
+          "options": ["habe", "bin", "hat"],
+          "answer": 0,
+          "hint": "lesen با haben."
+        },
+        {
+          "question": "برای kommen: Ich ____ gekommen.",
+          "options": ["habe", "bin", "hat"],
+          "answer": 1,
+          "hint": "حرکت → bin."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Präteritum",
+      "title": {
+        "fa": "زمان Präteritum (ماضی ساده)",
+        "de": "Präteritum",
+        "en": "Simple past"
+      },
+      "interactiveScene": "معلم می‌گوید: «Gestern war ich in der Stadt.» – دیروز در شهر بودم.\nتو می‌پرسی: «Was hast du gemacht?» – چی کار کردی؟\nاو: «Ich kaufte ein Buch.» – کتاب خریدم.\nتو فکر می‌کنی: Präteritum برای داستان‌ها و اخبار خوب است.",
+      "explanation": [
+        {
+          "de": "Präteritum",
+          "fa": "زمان Präteritum برای گذشته در داستان‌ها، اخبار یا توصیف استفاده می‌شود. شبیه Perfekt اما رسمی‌تر."
+        },
+        {
+          "de": "برای فعل‌های منظم: ساقه + -te + پایان‌ها",
+          "fa": "مثال: lernen → lernte"
+        },
+        {
+          "de": "ich lernte",
+          "fa": "یاد گرفتم"
+        },
+        {
+          "de": "du lerntest",
+          "fa": "یاد گرفتی"
+        },
+        {
+          "de": "er lernte",
+          "fa": "یاد گرفت"
+        },
+        {
+          "de": "wir lernten",
+          "fa": "یاد گرفتیم"
+        },
+        {
+          "de": "ihr lerntet",
+          "fa": "یاد گرفتید"
+        },
+        {
+          "de": "sie lernten",
+          "fa": "یاد گرفتند"
+        },
+        {
+          "de": "فعل‌های نامنظم: تغییر در ساقه",
+          "fa": "مثال: gehen → ging"
+        },
+        {
+          "de": "ich ging",
+          "fa": "رفتم"
+        },
+        {
+          "de": "du gingst",
+          "fa": "رفتی"
+        },
+        {
+          "de": "er ging",
+          "fa": "رفت"
+        },
+        {
+          "de": "wir gingen",
+          "fa": "رفتیم"
+        },
+        {
+          "de": "ihr gingt",
+          "fa": "رفتید"
+        },
+        {
+          "de": "sie gingen",
+          "fa": "رفتند"
+        },
+        {
+          "de": "فعل sein در Präteritum: war",
+          "fa": "ich war, du warst, er war, wir waren, ihr wart, sie waren"
+        },
+        {
+          "de": "فعل haben: hatte",
+          "fa": "ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten"
+        },
+        {
+          "de": "Ich lernte gestern.",
+          "fa": "دیروز یاد گرفتم."
+        },
+        {
+          "de": "Er ging nach Hause.",
+          "fa": "به خانه رفت."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich lernte Deutsch.", "fa": "آلمانی یاد گرفتم.", "note": "" },
+        { "de": "Du gingst spazieren.", "fa": "قدم زدی.", "note": "" },
+        { "de": "Wir waren in Berlin.", "fa": "در برلین بودیم.", "note": "sein → war" },
+        { "de": "Ich hatte Zeit.", "fa": "وقت داشتم.", "note": "haben → hatte" },
+        { "de": "Sie kauften ein Auto.", "fa": "ماشین خریدند.", "note": "" }
+      ],
+      "tip": "Präteritum بیشتر در نوشته‌ها و داستان‌ها استفاده می‌شود، در حالی که Perfekt در گفتگوی روزمره.\nفعل‌های نامنظم را باید حفظ کرد.",
+      "dialogue": [
+        { "speaker": "👨", "de": "Was war gestern?", "fa": "دیروز چی بود؟" },
+        { "speaker": "👩", "de": "Ich war im Park.", "fa": "در پارک بودم." },
+        { "speaker": "👨", "de": "Was hast du gemacht?", "fa": "چی کار کردی؟" },
+        { "speaker": "👩", "de": "Ich lernte.", "fa": "یاد گرفتم." }
+      ],
+      "summary": [
+        { "de": "منظم: -te + پایان‌ها", "fa": "lernte, lerntest, lernte, lernten, lerntet, lernten." },
+        { "de": "نامنظم: تغییر ساقه", "fa": "ging, gingst, ging, gingen, gingt, gingen." },
+        { "de": "sein → war", "fa": "was, warst, war, waren, wart, waren." },
+        { "de": "haben → hatte", "fa": "hatte, hattest, hatte, hatten, hattet, hatten." }
+      ],
+      "quiz": [
+        {
+          "question": "Präteritum برای lernen با ich:",
+          "options": ["lernte", "lernst", "lernt"],
+          "answer": 0,
+          "hint": "ich lernte."
+        },
+        {
+          "question": "برای gehen با du:",
+          "options": ["gehte", "gingst", "ging"],
+          "answer": 1,
+          "hint": "du gingst."
+        },
+        {
+          "question": "برای sein با wir:",
+          "options": ["war", "waren", "wart"],
+          "answer": 1,
+          "hint": "wir waren."
+        },
+        {
+          "question": "جمله درست: Ich ____ ein Buch. (kaufen, Präteritum)",
+          "options": ["kaufte", "kaufst", "kauf"],
+          "answer": 0,
+          "hint": "kaufen → kaufte."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Konjunktiv_II",
+      "title": {
+        "fa": "Konjunktiv II (برای آرزوها و فرضیات)",
+        "de": "Konjunktiv II",
+        "en": "Subjunctive II"
+      },
+      "interactiveScene": "معلم می‌گوید: «Wenn ich reich wäre...» – اگر ثروتمند بودم...\nتو ادامه می‌دهی: «würde ich reisen!» – سفر می‌کردم!\nاو می‌پرسد: «Was würdest du machen?» – چی کار می‌کردی؟",
+      "explanation": [
+        {
+          "de": "Konjunktiv II",
+          "fa": "برای بیان آرزوها، فرضیات یا پیشنهادهای مهذب استفاده می‌شود."
+        },
+        {
+          "de": "würde + Infinitiv",
+          "fa": "برای فعل‌های منظم: würde + مصدر فعل."
+        },
+        {
+          "de": "ich würde lernen",
+          "fa": "یاد می‌گرفتم"
+        },
+        {
+          "de": "du würdest lernen",
+          "fa": "یاد می‌گرفتی"
+        },
+        {
+          "de": "er würde lernen",
+          "fa": "یاد می‌گرفت"
+        },
+        {
+          "de": "wir würden lernen",
+          "fa": "یاد می‌گرفتیم"
+        },
+        {
+          "de": "ihr würdet lernen",
+          "fa": "یاد می‌گرفتید"
+        },
+        {
+          "de": "sie würden lernen",
+          "fa": "یاد می‌گرفتند"
+        },
+        {
+          "de": "برای فعل‌های نامنظم: تغییر خاص",
+          "fa": "مثال: sein → wäre, haben → hätte"
+        },
+        {
+          "de": "ich wäre",
+          "fa": "بودم"
+        },
+        {
+          "de": "du wärst",
+          "fa": "بودی"
+        },
+        {
+          "de": "er wäre",
+          "fa": "بود"
+        },
+        {
+          "de": "wir wären",
+          "fa": "بودیم"
+        },
+        {
+          "de": "ihr wärt",
+          "fa": "بودید"
+        },
+        {
+          "de": "sie wären",
+          "fa": "بودند"
+        },
+        {
+          "de": "Wenn ich Zeit hätte, würde ich reisen.",
+          "fa": "اگر وقت داشتم، سفر می‌کردم."
+        },
+        {
+          "de": "Ich wäre gern reich.",
+          "fa": "دوست داشتم ثروتمند باشم."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Wenn ich reich wäre, würde ich reisen.", "fa": "اگر ثروتمند بودم، سفر می‌کردم.", "note": "" },
+        { "de": "Ich hätte gern einen Kaffee.", "fa": "یک قهوه می‌خواهم (مهذب).", "note": "" },
+        { "de": "Wärst du müde?", "fa": "خسته بودی؟", "note": "" },
+        { "de": "Wir würden kommen.", "fa": "می‌آمدیم.", "note": "" }
+      ],
+      "tip": "Konjunktiv II با wenn برای جملات شرطی استفاده می‌شود.\nwürde برای فعل‌های منظم، و شکل خاص برای نامنظم مثل wäre, hätte.",
+      "dialogue": [
+        { "speaker": "👨", "de": "Wenn ich Zeit hätte...", "fa": "اگر وقت داشتم..." },
+        { "speaker": "👩", "de": "würde ich schlafen!", "fa": "می‌خوابیدم!" },
+        { "speaker": "👨", "de": "Wärst du reich, was würdest du machen?", "fa": "اگر ثروتمند بودی، چی کار می‌کردی؟" },
+        { "speaker": "👩", "de": "Ich würde reisen!", "fa": "سفر می‌کردم!" }
+      ],
+      "summary": [
+        { "de": "würde + Infinitiv", "fa": "برای فعل‌های منظم." },
+        { "de": "wäre, hätte", "fa": "برای sein و haben." },
+        { "de": "Wenn + Konjunktiv II", "fa": "برای شرطی." },
+        { "de": "Ich hätte gern...", "fa": "می‌خواهم (مهذب)." }
+      ],
+      "quiz": [
+        {
+          "question": "Konjunktiv II برای lernen با ich:",
+          "options": ["würde lernen", "wäre lernen", "hätte lernen"],
+          "answer": 0,
+          "hint": "würde + مصدر."
+        },
+        {
+          "question": "برای sein با du:",
+          "options": ["warst", "wärst", "würdest"],
+          "answer": 1,
+          "hint": "du wärst."
+        },
+        {
+          "question": "جمله درست: Wenn ich reich ___, würde ich reisen.",
+          "options": ["bin", "wäre", "würde"],
+          "answer": 1,
+          "hint": "wäre برای شرطی."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Satzbau_Nebensaetze",
+      "title": {
+        "fa": "ساختار جمله – جملات وابسته",
+        "de": "Nebensätze",
+        "en": "Subordinate clauses"
+      },
+      "interactiveScene": "معلم می‌گوید: «Ich lerne Deutsch, weil es wichtig ist.» – آلمانی یاد می‌گیرم چون مهم است.\nتو متوجه می‌شوی که بعد از weil فعل به انتها می‌رود.",
+      "explanation": [
+        {
+          "de": "Nebensätze",
+          "fa": "جملات وابسته با کلماتی مثل weil, dass, wenn شروع می‌شوند و فعل در انتها می‌آید."
+        },
+        {
+          "de": "weil",
+          "fa": "چون / زیرا"
+        },
+        {
+          "de": "dass",
+          "fa": "که (برای جملات وابسته)"
+        },
+        {
+          "de": "wenn",
+          "fa": "اگر"
+        },
+        {
+          "de": "ob",
+          "fa": "آیا"
+        },
+        {
+          "de": "Ich weiß, dass du kommst.",
+          "fa": "می‌دانم که می‌آیی. (فعل kommst در انتها)"
+        },
+        {
+          "de": "Ich lerne, weil ich muss.",
+          "fa": "یاد می‌گیرم چون باید. (muss در انتها)"
+        },
+        {
+          "de": "Wenn es regnet, bleibe ich zu Hause.",
+          "fa": "اگر باران ببارد، خانه می‌مانم."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich lerne Deutsch, weil es Spaß macht.", "fa": "آلمانی یاد می‌گیرم چون楽しい است.", "note": "" },
+        { "de": "Ich denke, dass du recht hast.", "fa": "فکر می‌کنم که حق داری.", "note": "" },
+        { "de": "Wenn ich Zeit habe, gehe ich spazieren.", "fa": "اگر وقت داشته باشم، قدم می‌زنم.", "note": "" },
+        { "de": "Ich frage, ob er kommt.", "fa": "می‌پرسم آیا می‌آید.", "note": "" }
+      ],
+      "tip": "در جملات وابسته، فعل همیشه به انتها می‌رود.\nکلمه ربط (weil, dass, wenn) جمله وابسته را شروع می‌کند.",
+      "dialogue": [
+        { "speaker": "👨", "de": "Warum lernst du Deutsch?", "fa": "چرا آلمانی یاد می‌گیری؟" },
+        { "speaker": "👩", "de": "Weil ich in Deutschland lebe.", "fa": "چون در آلمان زندگی می‌کنم." },
+        { "speaker": "👨", "de": "Weißt du, dass es regnet?", "fa": "می‌دانی که باران می‌بارد؟" },
+        { "speaker": "👩", "de": "Ja, ich weiß das.", "fa": "بله، می‌دانم." }
+      ],
+      "summary": [
+        { "de": "weil, dass, wenn, ob", "fa": "کلمات ربط برای جملات وابسته." },
+        { "de": "فعل در انتها", "fa": "فعل در انتها." },
+        { "de": "Ich lerne, weil ...", "fa": "یاد می‌گیرم چون ..." }
+      ],
+      "quiz": [
+        {
+          "question": "أكمل: Ich lerne, weil ich ___ . (müssen)",
+          "options": ["muss", "musst", "müssen"],
+          "answer": 0,
+          "hint": "weil + فعل در انتها."
+        },
+        {
+          "question": "در جمله وابسته فعل کجا می‌آید؟",
+          "options": ["در ابتدا", "در وسط", "در انتها"],
+          "answer": 2,
+          "hint": "همیشه در انتها."
+        },
+        {
+          "question": "dass یعنی:",
+          "options": ["چون", "که", "اگر"],
+          "answer": 1,
+          "hint": "برای جملات وابسته مثل Ich weiß, dass..."
+        }
+      ]
+    },
+
+    {
+      "id": "A2_Grammar_Lebenslauf",
+      "title": {
+        "fa": "نوشتن رزومه",
+        "de": "Lebenslauf schreiben",
+        "en": "Writing a CV"
+      },
+      "interactiveScene": "تو در جستجوی شغل هستی و باید رزومه بنویسی.\nمعلم می‌گوید: «Lebenslauf باید ساده و مرتب باشد!» 📄\nتو شروع می‌کنی به نوشتن: نام، تاریخ تولد، تحصیلات...",
+      "explanation": [
+        {
+          "de": "Lebenslauf",
+          "fa": "رزومه یا CV، سندی کوتاه درباره زندگی حرفه‌ای‌ات."
+        },
+        {
+          "de": "Persönliche Daten",
+          "fa": "اطلاعات شخصی: نام، تاریخ تولد، آدرس، تلفن."
+        },
+        {
+          "de": "Ausbildung",
+          "fa": "تحصیلات: جایی که درس خواندی و چه چیزی."
+        },
+        {
+          "de": "Berufserfahrung",
+          "fa": "تجربه کاری: جایی که کار کردی و چه کردی."
+        },
+        {
+          "de": "Sprachen",
+          "fa": "زبان‌ها: چه زبانی و سطح (مثل B1)."
+        },
+        {
+          "de": "Interessen",
+          "fa": "علاقه‌ها: هوبی‌ها یا فعالیت‌های اوقات فراغت."
+        },
+        {
+          "de": "Beispiel – Persönliche Daten",
+          "fa": "نام: عباس الحسن\nتاریخ تولد: ۱۵ ژوئن ۱۹۹۳\nآدرس: دویسبورگ، آلمان\nتلفن: ۰۱۵۷ ۵۵۵۵۵۵۵"
+        },
+        {
+          "de": "Beispiel – Ausbildung & Erfahrung",
+          "fa": "۲۰۱۶–۲۰۱۹: مدرسه در برلین\n۲۰۲۰–۲۰۲۲: آموزش به عنوان فروشنده\n۲۰۲۲–۲۰۲۴: فروشنده در Lidl"
+        },
+        {
+          "de": "Beispiel – Sprachen & Interessen",
+          "fa": "آلمانی: B1\nانگلیسی: A2\nعربی: زبان مادری\nعلاقه‌ها: خواندن، موسیقی، سفر"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich habe eine Ausbildung als Verkäufer gemacht.",
+          "fa": "آموزش حرفه‌ای به عنوان فروشنده را تمام کرده‌ام."
+        },
+        {
+          "de": "Ich arbeite seit 2022 bei Lidl.",
+          "fa": "از سال ۲۰۲۲ در Lidl کار می‌کنم."
+        },
+        {
+          "de": "Ich habe an der Schule in Berlin gelernt.",
+          "fa": "در مدرسه‌ای در برلین درس خوانده‌ام."
+        },
+        {
+          "de": "Ich spreche Deutsch und Arabisch.",
+          "fa": "آلمانی و عربی صحبت می‌کنم."
+        },
+        {
+          "de": "Meine Hobbys sind Musik und Reisen.",
+          "fa": "هوبی‌هایم موسیقی و سفر هستند."
+        }
+      ],
+      "tip": "💡 **نکته زبانی:**\nدر رزومه آلمانی جملات طولانی ننویس. فقط اطلاعات را ساده و مرتب ذکر کن.\n\n✅ مثال درست:\nAusbildung als Verkäufer\n\n❌ اشتباه:\nIch habe eine Ausbildung als Verkäufer gemacht, weil ich gern mit Kunden arbeite.",
+      "dialogue": [
+        {
+          "speaker": "Fabienne",
+          "de": "Noa, du brauchst einen Lebenslauf für deine Bewerbung.",
+          "fa": "نوا، برای درخواست شغلی‌ات به رزومه نیاز داری."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ich weiß nicht genau, was ich schreiben soll.",
+          "fa": "دقیقاً نمی‌دانم چی بنویسم."
+        },
+        {
+          "speaker": "Fabienne",
+          "de": "Kein Problem! Schreib einfach: Ausbildung, Erfahrung, Sprachen.",
+          "fa": "مشکل ندارد! فقط بنویس: تحصیلات، تجربه، زبان‌ها."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ah, das ist ja einfach! Danke!",
+          "fa": "آه، خیلی ساده است! ممنون!"
+        }
+      ],
+      "summary": [
+        {
+          "de": "Lebenslauf = dein berufliches Profil auf Papier.",
+          "fa": "رزومه یعنی پروفایل حرفه‌ای‌ات روی کاغذ."
+        },
+        {
+          "de": "Wichtige Teile: Daten, Ausbildung, Erfahrung, Sprachen.",
+          "fa": "بخش‌های مهم: اطلاعات، تحصیلات، تجربه، زبان‌ها."
+        },
+        {
+          "de": "Schreibe klar und kurz.",
+          "fa": "واضح و کوتاه بنویس."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Was bedeutet 'Lebenslauf'?",
+          "options": [
+            "برنامه روزانه",
+            "مسیر زندگی یا پروفایل حرفه‌ای",
+            "کتاب دستور غذا"
+          ],
+          "answer": 1,
+          "hint": "یادت باشه 'Leben' یعنی زندگی، و 'Lauf' یعنی مسیر یا راه."
+        },
+        {
+          "question": "Was schreibt man unter 'Ausbildung'?",
+          "options": [
+            "نام خانواده",
+            "جایی که درس خواندی و چه چیزی",
+            "هوبی‌هایت"
+          ],
+          "answer": 1,
+          "hint": "به چیزی که درس خواندی فکر کن."
+        },
+        {
+          "question": "Welche Sprache schreibt man im Lebenslauf?",
+          "options": [
+            "عربی: زبان مادری، آلمانی: B1",
+            "دوست دارم آلمانی",
+            "زبان‌ها زیبا هستند"
+          ],
+          "answer": 0,
+          "hint": "زبان و سطح آن را بنویس، مثل B1 یا A2."
+        }
+      ],
+      "writingExercise": {
+        "instruction_de": "Schreibe deinen einfachen Lebenslauf mit 3–5 Abschnitten.",
+        "instruction_fa": "رزومه ساده‌ات را بنویس (۳–۵ بخش): اطلاعات شخصی، تحصیلات، تجربه، زبان‌ها، هوبی‌ها.",
+        "exampleAnswer": "Name: Abbas Alhasan\nGeburtsdatum: 15. Juni 1993\nAdresse: Duisburg, Deutschland\nTelefon: 0157 5555555\n\nAusbildung:\n2018–2020: Ausbildung als IT-Techniker\n\nBerufserfahrung:\n2020–2024: IT-Mitarbeiter bei BBQ Institut\n\nSprachen:\nDeutsch: B1, Arabisch: Muttersprache, Englisch: B2\n\nInteressen:\nLesen, Programmieren, Reisen",
+        "keywords": ["Name", "Ausbildung", "Berufserfahrung", "Sprachen", "Interessen"],
+        "feedbackHints": [
+          "اطلاعات را واضح و مرتب بنویس.",
+          "با نام و آدرس شروع کن، سپس تحصیلات و تجربه.",
+          "بخش زبان‌ها و هوبی‌ها را در انتها بگذار.",
+          "از جملات طولانی یا کلمات غیر ضروری استفاده نکن."
+        ]
+      }
+    }
+
+    
+  ]
+}
+

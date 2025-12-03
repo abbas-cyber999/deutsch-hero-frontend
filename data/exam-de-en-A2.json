@@ -1,0 +1,239 @@
+{
+  "level": "A2",
+  "title_de": "Abschlussprüfung A2 – Alltag, Grammatik & Kommunikation",
+  "title_en": "A2 Final Exam – Everyday Life, Grammar & Communication",
+
+  "questions": [
+
+    {
+      "id": "a2g_01",
+      "type": "mcq",
+      "skill": "grammatik",
+      "question_de": "Wähle die richtige Form: Ich ____ gestern spät nach Hause.",
+      "question_en": "Choose the correct form of kommen in the perfect tense: “I came home late yesterday.”",
+      "options": ["bin gekommen", "habe gekommen", "bin gekommt", "war kommen"],
+      "answer": 0,
+      "explanation": "kommen → Perfekt with sein → ich bin gekommen."
+    },
+
+    {
+      "id": "a2g_02",
+      "type": "mcq",
+      "skill": "modalverb",
+      "question_de": "Morgen ____ ich lange arbeiten, ich habe viel zu tun.",
+      "question_en": "Which form of müssen is correct with ich?",
+      "options": ["muss", "musst", "müssen", "müssen wir"],
+      "answer": 0,
+      "explanation": "With ich → ich muss."
+    },
+
+    {
+      "id": "a2g_03",
+      "skill": "praeposition",
+      "question_de": "Wohin gehst du? – Ich gehe ____ die Küche.",
+      "question_en": "Choose the correct preposition for movement into a room (kitchen).",
+      "options": ["in", "im", "auf dem", "bei"],
+      "answer": 0,
+      "explanation": "Movement into a room → in + accusative."
+    },
+
+    {
+      "id": "a2g_04",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung mit «weil» ist richtig?",
+      "question_en": "Which sentence with weil has the correct word order?",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Weil ich krank bin, ich bleibe zu Hause.",
+        "Ich bin krank, weil bleibe ich zu Hause."
+      ],
+      "answer": 1,
+      "explanation": "After weil the verb goes to the end."
+    },
+
+    {
+      "id": "a2g_05",
+      "skill": "tekamolo",
+      "question_de": "Welche Reihenfolge ist richtig (Zeit–Art–Ort)?",
+      "question_en": "Choose the correct order: time – manner – place.",
+      "options": [
+        "Ich arbeite im Büro morgen sehr lange.",
+        "Morgen im Büro ich arbeite sehr lange.",
+        "Ich arbeite morgen sehr lange im Büro.",
+        "Ich sehr lange arbeite im Büro morgen."
+      ],
+      "answer": 2,
+      "explanation": "Time – manner – place → morgen – sehr lange – im Büro."
+    },
+
+    {
+      "id": "a2g_06",
+      "skill": "frage",
+      "question_de": "Welche Frage passt zur Antwort: «Ich komme aus Syrien.»",
+      "question_en": "Which question matches the answer “I come from Syria.”?",
+      "options": ["Wo wohnst du?", "Woher kommst du?", "Wohin gehst du?", "Wie alt bist du?"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_07",
+      "skill": "pronomen",
+      "question_de": "Ergänze: Ich sehe ____ morgen im Kurs.",
+      "question_en": "Complete with the correct accusative pronoun (you – informal).",
+      "options": ["du", "dir", "dich", "dein"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2g_08",
+      "skill": "komparativ",
+      "question_de": "Berlin ist ____ als meine Stadt.",
+      "question_en": "Choose the correct comparative form (Berlin is … than my city).",
+      "options": ["groß", "größer", "mehr groß", "am größten"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_09",
+      "skill": "perfekt",
+      "question_de": "Setze ins Perfekt: „Ich kaufe ein.“",
+      "question_en": "Put the sentence into the perfect tense: “I do the shopping.”",
+      "options": ["Ich habe eingekauft.", "Ich bin eingekauft.", "Ich habe eingekaufen.", "Ich bin einkaufen."],
+      "answer": 0
+    },
+
+    {
+      "id": "a2g_10",
+      "skill": "modalverb",
+      "question_de": "Ich ___ morgen länger bleiben.",
+      "question_en": "Choose the suitable modal verb: “I’d like to stay longer tomorrow.”",
+      "options": ["muss", "kann", "möchte", "soll"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2w_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_en": "What does Rechnung mean?",
+      "options": ["bill / invoice", "certificate", "bag", "office"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_02",
+      "skill": "wortschatz",
+      "question_de": "Welche Pluralform ist richtig? — das Kind",
+      "question_en": "What is the correct plural of das Kind?",
+      "options": ["die Kinder", "die Kinden", "die Kinders", "Kinderen"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_03",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Verkehr“?",
+      "question_en": "What does Verkehr mean in everyday language?",
+      "options": ["traffic", "kitchen", "garden", "office"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_04",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort passt zu „Gute Besserung!“ ?",
+      "question_en": "Which reply fits best to “Get well soon!”?",
+      "options": ["Thank you, that’s kind!", "No", "Maybe later", "I’ll come tomorrow"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_05",
+      "skill": "wortschatz",
+      "question_de": "Wähle das korrekte Verkehrsmittel: ____ Fahrrad.",
+      "question_en": "Choose the correct preposition for “by bike”.",
+      "options": ["mit dem", "zu dem", "bei dem", "ins"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2l_01",
+      "skill": "lesen",
+      "question_de": "Text: „Am Samstag fährt Noa nach Hamburg. Am Sonntag kommt er zurück.“ Wann kommt er zurück?",
+      "question_en": "Text: “On Saturday Noa travels to Hamburg. On Sunday he comes back.” When does he come back?",
+      "options": ["Friday", "Saturday", "Sunday", "Monday"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2l_02",
+      "skill": "lesen",
+      "question_de": "Text: „Die Apotheke hat heute bis 18 Uhr geöffnet.“ — Wann schließt sie?",
+      "question_en": "Text: “The pharmacy is open today until 6 p.m.” When does it close?",
+      "options": ["5 p.m.", "6 p.m.", "7 p.m.", "8 p.m."],
+      "answer": 1
+    },
+
+    {
+      "id": "a2l_03",
+      "skill": "lesen",
+      "question_de": "Text: „Lisa arbeitet jeden Sonntag nicht.“ — Was bedeutet das?",
+      "question_en": "Text: “Lisa doesn’t work every Sunday.” What does this mean?",
+      "options": ["She only works on Sundays", "She never works on Sundays", "She works every day", "She works at night"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2k_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort passt? — „Entschuldigung für die Verspätung.“",
+      "question_en": "Best reply to “Sorry I’m late.”",
+      "options": ["No problem, it happens!", "I’m hungry", "The bus is coming soon", "I live in Cologne"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_02",
+      "skill": "kommunikation",
+      "question_de": "Wähle die höfliche Form:",
+      "question_en": "Choose the polite request:",
+      "options": [
+        "Could you please help me?",
+        "Help me now!",
+        "Come right now!",
+        "You help do?"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Einladung ist freundlich und informell?",
+      "question_en": "Which invitation is friendly and informal?",
+      "options": [
+        "Do you have time to barbecue on Saturday?",
+        "You must come on Saturday.",
+        "Come on Saturday. End of discussion.",
+        "You are hereby invited."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_04",
+      "skill": "kommunikation",
+      "question_de": "Welche E-Mail-Anrede ist korrekt?",
+      "question_en": "Which email greeting is formally correct?",
+      "options": [
+        "Dear Ms Müller,",
+        "Hi bro,",
+        "Hello boss",
+        "Yo, what’s up?"
+      ],
+      "answer": 0
+    }
+
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "level": "A0",
+  "title": "A0 – Pronunciation and Letters",
+  "lessons": [
+    {
+      "id": "Pronunciation_Alphabet",
+      "title": {
+        "de": "Das deutsche Alphabet",
+        "en": "German Alphabet"
+      },
+      "video": "https://www.youtube.com/watch?v=example1",
+      "interactiveScene": "The teacher says: Heute lernen wir das Alphabet! 🔤\nShe starts reading the letters slowly: A, B, C, D, E...\nAnd you repeat after each letter.",
+      "explanation": [
+        { "de": "A – ausgesprochen [aː]", "en": "A" },
+        { "de": "B – ausgesprochen [beː]", "en": "B" },
+        { "de": "C – ausgesprochen [tseː]", "en": "C (tse)" },
+        { "de": "D – ausgesprochen [deː]", "en": "D" },
+        { "de": "E – ausgesprochen [eː]", "en": "E" },
+        { "de": "F – ausgesprochen [ɛf]", "en": "F" }
+      ],
+      "phrasesTable": [
+        { "de": "A wie Auto", "en": "A like Auto (car)" },
+        { "de": "B wie Ball", "en": "B like Ball (ball)" },
+        { "de": "C wie Computer", "en": "C like Computer (computer)" },
+        { "de": "D wie Deutschland", "en": "D like Deutschland (Germany)" },
+        { "de": "E wie Elefant", "en": "E like Elefant (elephant)" }
+      ],
+      "tip": "You can listen to each letter several times 🔊 and remember that some letters are pronounced a bit differently than in English.",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Wie buchstabiert man deinen Namen?",
+          "en": "How do you spell your name?"
+        },
+        {
+          "speaker": "👨",
+          "de": "N – O – A, Noa.",
+          "en": "N – O – A, Noa."
+        }
+      ],
+      "summary": [
+        { "de": "A – aː", "en": "A" },
+        { "de": "E – eː", "en": "E" },
+        { "de": "I – iː", "en": "Short i" },
+        { "de": "O – oː", "en": "O" },
+        { "de": "U – uː", "en": "Closed u" }
+      ],
+      "quiz": [
+        {
+          "question": "The letter that is pronounced 'tse' is:",
+          "options": ["C", "Z", "S"],
+          "answer": 0,
+          "hint": "We say: C wie Computer."
+        },
+        {
+          "question": "The letter that is pronounced 'bee' is:",
+          "options": ["P", "B", "D"],
+          "answer": 1,
+          "hint": "B wie Ball."
+        }
+      ]
+    },
+
+    {
+      "id": "Pronunciation_Umlaut",
+      "title": {
+        "de": "Umlaute und Vokale",
+        "en": "Umlauts and vowels"
+      },
+      "video": "https://www.youtube.com/watch?v=example2",
+      "interactiveScene": "The teacher smiles and says: Heute machen wir Musik mit dem Mund! 🎶\nShe writes on the board: ä – ö – ü.\nAnd she says: Diese Buchstaben heißen 'Umlaute'.",
+      "explanation": [
+        { "de": "ä – klingt wie 'e' aber länger", "en": "ä is pronounced like a long 'e'" },
+        { "de": "ö – zwischen o und e", "en": "ö is a sound between 'o' and 'e'" },
+        { "de": "ü – zwischen u und i", "en": "ü is a sound between 'u' and a closed 'i'" },
+        { "de": "ß – gesprochen wie 'ss'", "en": "ß is pronounced like 'ss'" }
+      ],
+      "phrasesTable": [
+        { "de": "schön", "en": "beautiful", "note": "ö is a mid sound" },
+        { "de": "Mädchen", "en": "girl", "note": "soft ä" },
+        { "de": "grün", "en": "green", "note": "ü is a deep sound" },
+        { "de": "Fuß", "en": "foot", "note": "ß like ss" }
+      ],
+      "tip": "Umlauts are sometimes written as ae, oe, ue when you can't type the dots (for example in an email).",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Wie heißt das? schön oder schon?",
+          "en": "Do you say schön or schon?"
+        },
+        {
+          "speaker": "👨",
+          "de": "schön!",
+          "en": "Beautiful!"
+        }
+      ],
+      "summary": [
+        { "de": "ä → wie e lange", "en": "soft open sound" },
+        { "de": "ö → zwischen o und e", "en": "mid sound" },
+        { "de": "ü → zwischen u und i", "en": "closed sound" },
+        { "de": "ß → wie ss", "en": "pronounced like a long s" }
+      ],
+      "quiz": [
+        {
+          "question": "Which word has the letter ü?",
+          "options": ["grün", "Mädchen", "schön"],
+          "answer": 0,
+          "hint": "The sound ü is in grün."
+        },
+        {
+          "question": "How do you write ä if you don't have umlauts on the keyboard?",
+          "options": ["ae", "ah", "ai"],
+          "answer": 0,
+          "hint": "ä = ae."
+        }
+      ]
+    },
+
+    {
+      "id": "Pronunciation_SpecialPairs",
+      "title": {
+        "de": "Buchstabenkombinationen",
+        "en": "Special letter combinations"
+      },
+      "video": "https://www.youtube.com/watch?v=example3",
+      "interactiveScene": "Today we read words that are a bit difficult 😅.\nThe teacher writes on the board: ei, ie, sch, ch, sp, st.\nAnd she says: Diese Kombinationen haben eigene Laute!",
+      "explanation": [
+        { "de": "ei → pronounced wie 'ai'", "en": "like the word nein (no)" },
+        { "de": "ie → pronounced wie 'iː'", "en": "like the word Sie (you)" },
+        { "de": "sch → pronounced wie 'ʃ'", "en": "like Schule (school)" },
+        { "de": "ch → ein weicher Laut im Hals", "en": "like ich (I)" },
+        { "de": "sp / st → am Wortanfang 'ʃp / ʃt'", "en": "like Straße (street)" }
+      ],
+      "phrasesTable": [
+        { "de": "nein", "en": "no", "note": "ei → like 'ai'" },
+        { "de": "Sie", "en": "you", "note": "ie → long 'ee'" },
+        { "de": "Schule", "en": "school", "note": "sch → 'sh'" },
+        { "de": "ich", "en": "I", "note": "ch → soft sound" },
+        { "de": "Straße", "en": "street", "note": "st → 'sht' at the start" }
+      ],
+      "tip": "Only at the beginning of the word are sp / st pronounced 'shp' / 'sht'. In the middle they stay as a normal s.",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Wie spricht man 'Straße'?",
+          "en": "How do we read the word Straße?"
+        },
+        {
+          "speaker": "👨",
+          "de": "Shtrasse!",
+          "en": "Shtrasse!"
+        },
+        {
+          "speaker": "👩‍🏫",
+          "de": "Sehr gut!",
+          "en": "Very good!"
+        }
+      ],
+      "summary": [
+        { "de": "ei → ay", "en": "like nein" },
+        { "de": "ie → iː", "en": "like Sie" },
+        { "de": "sch → ʃ", "en": "like Schule" },
+        { "de": "ch → weicher Laut", "en": "like ich" },
+        { "de": "sp/st → ʃp/ʃt", "en": "only at the beginning of the word" }
+      ],
+      "quiz": [
+        {
+          "question": "A word with 'sch' is pronounced:",
+          "options": ["s", "sh", "z"],
+          "answer": 1,
+          "hint": "sch → sh."
+        },
+        {
+          "question": "The word 'nein' is pronounced:",
+          "options": ["neen", "nine", "nee"],
+          "answer": 1,
+          "hint": "ei → like 'ai'."
+        },
+        {
+          "question": "In the word 'Straße', 'st' is pronounced:",
+          "options": ["st", "sht", "s"],
+          "answer": 1,
+          "hint": "At the beginning it is pronounced 'sht'."
+        }
+      ]
+    }
+  ]
+}

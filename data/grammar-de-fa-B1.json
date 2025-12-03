@@ -1,0 +1,709 @@
+{
+"level": "B1",
+"title": "Der Akkusativ – دستور زبان سطح B1",
+"lessons": [
+{
+"id": "gram-akkusativ-b1",
+"title": {
+"de": "Der Akkusativ",
+"fa": "Der Akkusativ – حالت مفعولی در زبان آلمانی (B1)"
+},
+"interactiveScene": "🎬 خودتان را در یک رستوران آلمانی تصور کنید 🍽️\nپیشخدمت از شما می‌پرسد: „Was möchtest du essen?“ (چه چیزی می‌خواهی بخوری؟)\nپاسخ می‌دهید: „Ich möchte einen Apfel essen.“ (می‌خواهم یک سیب بخورم 🍎)\n\nتوجه: در فرهنگ لغت کلمه „der Apfel“ است اما در جمله به „einen Apfel“ پس از فعل تبدیل شده است.\nاین حالت Akkusativ است: شکلی که کلمه وقتی مفعول مستقیم (چیزی که فعل بر آن تأثیر می‌گذارد) می‌گیرد.",
+"explanation": [
+{
+"de": "Ich möchte einen Apfel essen.",
+"fa": "می‌خواهم یک سیب بخورم. اینجا „einen Apfel“ در حالت مفعولی (Akkusativ) است زیرا چیزی است که فعل بر آن تأثیر می‌گذارد."
+},
+{
+"de": "Akkusativ: Wen? oder Was?",
+"fa": "حالت مفعولی Akkusativ را با سؤال: Wen? (کی؟) یا Was? (چی؟) استفاده می‌کنیم – یعنی کی یا چی فعل را دریافت می‌کند."
+},
+{
+"de": "Ich sehe den Mann.",
+"fa": "من مرد را می‌بینم. „den Mann“ مفعول مستقیم در حالت مفعولی است."
+},
+{
+"de": "Er hat einen Hund.",
+"fa": "او یک سگ دارد. „einen Hund“ در حالت مفعولی با فعل „haben“ زیرا چیزی است که مالک آن است."
+},
+{
+"de": "Bestimmte Artikel im Akkusativ: den, die, das, die",
+"fa": "حروف تعریف در حالت مفعولی:\n• مذکر: der ⟶ den\n• مؤنث: die ⟶ die (تغییر نمی‌کند)\n• خنثی: das ⟶ das (تغییر نمی‌کند)\n• جمع: die ⟶ die (تغییر نمی‌کند)"
+},
+{
+"de": "Unbestimmte Artikel im Akkusativ: einen, eine, ein",
+"fa": "حروف نکره در حالت مفعولی:\n• مذکر: ein ⟶ einen\n• مؤنث: eine ⟶ eine (تغییر نمی‌کند)\n• خنثی: ein ⟶ ein (تغییر نمی‌کند)\n• برای جمع حرف نکره وجود ندارد."
+},
+{
+"de": "Nur der maskuline Artikel ändert sich.",
+"fa": "قانون طلایی: فقط مذکر در حالت مفعولی تغییر می‌کند، اما مؤنث، خنثی و جمع همان‌طور می‌مانند."
+}
+],
+"phrasesTable": [
+{
+"de": "Ich sehe den Mann.",
+"fa": "من مرد را می‌بینم.",
+"note": "فعل sehen مفعول مستقیم می‌گیرد، بنابراین با مذکر از den استفاده می‌شود."
+},
+{
+"de": "Sie hat eine Katze.",
+"fa": "او یک گربه دارد.",
+"note": "با مؤنث حرف همان‌طور می‌ماند: eine در Akkusativ."
+},
+{
+"de": "Wir kaufen ein Auto.",
+"fa": "ما یک ماشین می‌خریم.",
+"note": "خنثی „das Auto“ به „ein Auto“ در نکره تبدیل می‌شود و در مفعولی تغییر نمی‌کند."
+},
+{
+"de": "Ich liebe dich.",
+"fa": "من تو را دوست دارم ❤️.",
+"note": "ضمیر „du“ در حالت مفعولی به „dich“ تبدیل می‌شود."
+},
+{
+"de": "Er trinkt den Kaffee.",
+"fa": "او قهوه را می‌نوشد ☕.",
+"note": "قهوه چیزی است که نوشیده می‌شود → مفعول مستقیم در حالت مفعولی."
+},
+{
+"de": "Ich brauche einen Stift.",
+"fa": "به یک خودکار نیاز دارم ✏️.",
+"note": "فعل brauchen همیشه Akkusativ می‌گیرد."
+}
+],
+"tip": "💡 افعالی که همیشه Akkusativ می‌گیرند:\nsehen (می‌بیند)، haben (دارد)، lieben (دوست دارد)، trinken (می‌نوشد)، essen (می‌خورد)، kaufen (می‌خرد)، finden (پیدا می‌کند)، brauchen (نیاز دارد)، kennen (می‌شناسد شخص را)، hören (می‌شنود).\n\nهمه این افعال معمولاً با سؤال Wen? یا Was? می‌آیند → یعنی به مفعول مستقیم در حالت مفعولی نیاز دارند.\n\nنکات هوشمند Noa:\n1️⃣ فقط مذکر در حالت مفعولی تغییر می‌کند (der ⟶ den، ein ⟶ einen).\n2️⃣ هر فعلی که به سؤال „کی؟“ یا „چی؟“ پاسخ می‌دهد معمولاً به Akkusativ نیاز دارد.\n3️⃣ توجه: sein (بودن) مفعول نمی‌گیرد، اما haben (داشتن) می‌گیرد:\n   • Ich bin müde. (خسته‌ام) → مفعولی وجود ندارد.\n   • Ich habe einen Hund. (سگ دارم) → مفعول وجود دارد، بنابراین Akkusativ.\n4️⃣ ضمایر Akkusativ بسیار مهم در مکالمه روزمره (mich, dich, ihn, sie, es, uns, euch, sie).",
+"dialogue": [
+{
+"speaker": "Kellner",
+"de": "Was möchtest du essen?",
+"fa": "چه چیزی می‌خواهی بخوری؟"
+},
+{
+"speaker": "Noa",
+"de": "Ich möchte einen Apfel essen.",
+"fa": "می‌خواهم یک سیب بخورم."
+},
+{
+"speaker": "Kellner",
+"de": "Möchtest du auch einen Saft?",
+"fa": "آیا آبمیوه هم می‌خواهی؟"
+},
+{
+"speaker": "Noa",
+"de": "Ja, ich nehme einen Orangensaft.",
+"fa": "بله، آب پرتقال می‌گیرم."
+}
+],
+"summary": [
+{
+"de": "Akkusativ = direktes Objekt.",
+"fa": "حالت مفعولی Akkusativ با مفعول مستقیم (چیزی که فعل بر آن تأثیر می‌گذارد) استفاده می‌شود."
+},
+{
+"de": "Fragen im Akkusativ: Wen? Was?",
+"fa": "برای شناسایی حالت مفعولی سؤال می‌پرسیم: Wen? (کی؟) و Was? (چی؟)."
+},
+{
+"de": "Nur der maskuline Artikel ändert sich (der ⟶ den, ein ⟶ einen).",
+"fa": "فقط حرف مذکر در حالت مفعولی تغییر می‌کند (der ⟶ den، ein ⟶ einen)."
+},
+{
+"de": "Viele Verben brauchen Akkusativ: sehen, haben, lieben, trinken, essen, kaufen, finden, brauchen, kennen, hören.",
+"fa": "بسیاری از افعال به مفعول مستقیم نیاز دارند و Akkusativ می‌گیرند مانند: sehen, haben, lieben, trinken, essen, kaufen, finden, brauchen, kennen, hören."
+},
+{
+"de": "Pronomen im Akkusativ: mich, dich, ihn, sie, es, uns, euch, sie.",
+"fa": "ضمایر مهم حالت مفعولی: mich, dich, ihn, sie, es, uns, euch, sie."
+}
+],
+"quiz": [
+{
+"question": "جای خالی را با حرف مفعولی صحیح پر کنید:\nIch sehe ___ Mann. (der Mann)",
+"options": ["den", "dem", "der", "ein"],
+"answer": 0,
+"hint": "یادتان باشد: مذکر در حالت مفعولی با حرف تعریف به den تبدیل می‌شود."
+},
+{
+"question": "جای خالی را با حرف نکره صحیح در حالت مفعولی پر کنید:\nSie hat ___ Katze. (eine Katze)",
+"options": ["die", "den", "eine", "einen"],
+"answer": 2,
+"hint": "مؤنث در نکره همیشه „eine“ باقی می‌ماند حتی در حالت مفعولی."
+},
+{
+"question": "حرف نکره صحیح در حالت مفعولی را انتخاب کنید:\nWir kaufen ___ Auto. (ein Auto)",
+"options": ["einen", "ein", "dem", "den"],
+"answer": 1,
+"hint": "„das Auto“ خنثی است و در نکره با Akkusativ به „ein“ باقی می‌ماند."
+},
+{
+"question": "حرف صحیح را انتخاب کنید:\nEr liebt ___ Frau. (die Frau)",
+"options": ["die", "der", "den", "eine"],
+"answer": 0,
+"hint": "با حرف تعریف برای مؤنث „die“ باقی می‌ماند حتی در حالت مفعولی."
+},
+{
+"question": "جای خالی را پر کنید:\nDu hörst ___ Lehrer. (der Lehrer)",
+"options": ["der", "den", "dem", "einen"],
+"answer": 1,
+"hint": "„der Lehrer“ مذکر در حالت مفعولی با حرف تعریف ⟶ den."
+},
+{
+"question": "ضمیر صحیح در حالت مفعولی را انتخاب کنید:\nIch sehe ___ . (du)",
+"options": ["dich", "dir", "du", "dein"],
+"answer": 0,
+"hint": "ضمیر du در حالت مفعولی به dich تبدیل می‌شود."
+},
+{
+"question": "ضمیر صحیح در حالت مفعولی را انتخاب کنید:\nEr kennt ___ . (wir)",
+"options": ["uns", "ihr", "wir", "euch"],
+"answer": 0,
+"hint": "„wir“ در حالت مفعولی به „uns“ تبدیل می‌شود."
+},
+{
+"question": "کدام سؤال با حالت مفعولی (Akkusativ) مناسب است؟",
+"options": ["Wo?", "Wann?", "Wen oder Was?", "Warum?"],
+"answer": 2,
+"hint": "Akkusativ به سؤال Wen? یا Was? پاسخ می‌دهد."
+}
+]
+},
+{
+"id": "gram-dativ-b1",
+"title": {
+"de": "Der Dativ",
+"fa": "Der Dativ – حالت غیرمستقیم در زبان آلمانی"
+},
+"interactiveScene": "🎬 موقعیت زیر را تصور کنید:\n„Ich gebe dem Mann ein Buch.“ (من به مرد یک کتاب می‌دهم.) 📘\nچه کسی کتاب را می‌گیرد؟ → مرد → dem Mann.\nبنابراین کلمه در حالت Dativ است زیرا شخصی است که چیزی دریافت می‌کند.",
+"explanation": [
+{
+"de": "Ich gebe dem Mann ein Buch.",
+"fa": "من به مرد یک کتاب می‌دهم. شخصی که کتاب را می‌گیرد (dem Mann) در حالت Dativ است زیرا مفعول غیرمستقیم است."
+},
+{
+"de": "Dativ wird mit Verben wie geben, helfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren verwendet.",
+"fa": "حالت Dativ با افعالی مانند: geben (می‌دهد)، helfen (کمک می‌کند)، danken (تشکر می‌کند)، gehören (متعلق به)، gefallen (خوشش می‌آید)، glauben (باور می‌کند / اعتماد می‌کند)، antworten (پاسخ می‌دهد)، folgen (دنبال می‌کند)، gratulieren (تبریک می‌گوید) استفاده می‌شود."
+},
+{
+"de": "Fragen im Dativ: Wem? oder Wo?",
+"fa": "Dativ به سؤال: Wem? (برای کی؟) یا Wo? (نزد کی؟) پاسخ می‌دهد."
+},
+{
+"de": "Ich helfe meinem Freund.",
+"fa": "من به دوستم کمک می‌کنم. فعل helfen به مفعول غیرمستقیم در حالت Dativ نیاز دارد."
+},
+{
+"de": "Sie dankt der Frau.",
+"fa": "او از زن تشکر می‌کند. der Frau در حالت Dativ است."
+}
+],
+"phrasesTable": [
+{
+"de": "Ich gebe dem Mann ein Buch.",
+"fa": "من به مرد یک کتاب می‌دهم.",
+"note": "فعل geben (می‌دهد) همیشه مفعول غیرمستقیم در Dativ می‌گیرد."
+},
+{
+"de": "Sie hilft der Frau.",
+"fa": "او به زن کمک می‌کند.",
+"note": "فعل helfen به Dativ نیاز دارد."
+},
+{
+"de": "Wir danken dem Lehrer.",
+"fa": "ما از معلم تشکر می‌کنیم.",
+"note": "danken از افعالی است که همیشه Dativ می‌گیرد."
+},
+{
+"de": "Das Kind spielt mit dem Hund.",
+"fa": "کودک با سگ بازی می‌کند.",
+"note": "حرف اضافه mit همیشه Dativ می‌گیرد."
+},
+{
+"de": "Ich wohne bei meinen Eltern.",
+"fa": "من نزد والدینم زندگی می‌کنم.",
+"note": "حرف اضافه bei همیشه Dativ می‌گیرد."
+}
+],
+"tip": "📘 حروف تعریف در Dativ:\n• مذکر: der ⟶ dem\n• مؤنث: die ⟶ der\n• خنثی: das ⟶ dem\n• جمع: die ⟶ den + n\n\n📘 حروف نکره:\n• مذکر: einem\n• مؤنث: einer\n• خنثی: einem\n• جمع: —\n\n💡 در جمع معمولاً -n به انتهای اسم اضافه می‌شود.\n\n🧠 افعال Dativ رایج:\nhelfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren.\n\n⚙️ قانون طلایی:\nDativ وقتی استفاده می‌شود که فعل بر ",
+"dialogue": [
+{
+"speaker": "Noa",
+"de": "Ich danke dir für deine Hilfe.",
+"fa": "از کمکت تشکر می‌کنم."
+},
+{
+"speaker": "Freund",
+"de": "Kein Problem! Ich helfe dir gern.",
+"fa": "مشکلی نیست! با کمال میل کمکت می‌کنم."
+},
+{
+"speaker": "Noa",
+"de": "Gehört das Buch dem Lehrer?",
+"fa": "آیا این کتاب متعلق به معلم است؟"
+},
+{
+"speaker": "Freund",
+"de": "Ja, es gehört ihm.",
+"fa": "بله، متعلق به او است."
+}
+],
+"summary": [
+{
+"de": "Dativ = indirektes Objekt.",
+"fa": "Dativ مفعول غیرمستقیم است (شخصی که چیزی دریافت می‌کند)."
+},
+{
+"de": "Fragen im Dativ: Wem? Wo?",
+"fa": "سؤال‌هایی که به Dativ اشاره دارند: برای کی؟ نزد کی؟"
+},
+{
+"de": "Artikel im Dativ: dem, der, dem, den + n.",
+"fa": "حروف تعریف در Dativ: dem برای مذکر و خنثی، der برای مؤنث، den + n برای جمع."
+},
+{
+"de": "Verben mit Dativ: helfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren.",
+"fa": "افعالی که همیشه Dativ می‌گیرند."
+},
+{
+"de": "Dativ-Präpositionen: mit, bei, von, zu, nach, aus.",
+"fa": "حروف اضافه که همیشه با Dativ می‌آیند: mit, bei, von, zu, nach, aus."
+}
+],
+"quiz": [
+{
+"question": "جای خالی را پر کنید:\nIch helfe ___ Mann. (der Mann)",
+"options": ["dem", "den", "der", "einem"],
+"answer": 0,
+"hint": "مذکر در Dativ به dem تبدیل می‌شود."
+},
+{
+"question": "جای خالی را پر کنید:\nSie dankt ___ Frau. (die Frau)",
+"options": ["der", "dem", "die", "einer"],
+"answer": 0,
+"hint": "مؤنث در Dativ به der تبدیل می‌شود."
+},
+{
+"question": "پاسخ صحیح را انتخاب کنید:\nWir spielen mit ___ Kindern. (die Kinder)",
+"options": ["die", "den", "dem", "einen"],
+"answer": 1,
+"hint": "در جمع -n اضافه می‌شود و از den استفاده می‌شود."
+},
+{
+"question": "پاسخ صحیح را انتخاب کنید:\nEr gibt ___ Lehrer das Buch. (der Lehrer)",
+"options": ["dem", "den", "der", "ein"],
+"answer": 0,
+"hint": "اسم مذکر در Dativ به dem تبدیل می‌شود."
+},
+{
+"question": "حرف اضافه مناسب را انتخاب کنید:\nIch wohne ___ meinen Eltern.",
+"options": ["mit", "bei", "nach", "für"],
+"answer": 1,
+"hint": "حرف bei Dativ می‌گیرد."
+}
+]
+},
+{
+"id": "gram-praepositionen-akk-dat-b1",
+"title": {
+"de": "Präpositionen mit Akkusativ und Dativ",
+"fa": "حروف اضافه با Akkusativ و Dativ"
+},
+"interactiveScene": "🎬 روز طولانی Noa را در شهر تصور کنید:\n\nصبح با اتوبوس به مدرسه می‌رود.\nدر زمان استراحت بدون دوستان قدم می‌زند.\nبعداً از پارک عبور می‌کند و روی صندلی در کافه می‌نشیند.\nعصر به سمت دوستش می‌رود و روی کاناپه جلوی تلویزیون می‌نشیند.\n\nهمه جملات حروف اضافه متفاوت دارند:\n• mit dem Bus (Dativ)\n• ohne Freunde (Akkusativ)\n• durch den Park (Akkusativ)\n• auf dem Stuhl (Dativ: مکان)\n• auf das Sofa (Akkusativ: حرکت به سمت مکان)\n\nوظیفه: درک کنیم کی از Akkusativ استفاده کنیم، کی از Dativ، و کی هر دو بسته به معنی.",
+"explanation": [
+{
+"de": "Nur Akkusativ: durch, für, gegen, ohne, um, bis, entlang.",
+"fa": "این حروف همیشه بعدشان اسامی در حالت مفعولی Akkusativ می‌آیند."
+},
+{
+"de": "Beispiele mit Akkusativ",
+"fa": "durch den Park، für meinen Freund، gegen den Wind، ohne Geld، um die Stadt. توجه کنید که حرف همیشه در Akkusativ است."
+},
+{
+"de": "Nur Dativ: aus, bei, mit, nach, seit, von, zu, gegenüber.",
+"fa": "این حروف همیشه بعدشان اسامی در حالت غیرمستقیم Dativ می‌آیند."
+},
+{
+"de": "Beispiele mit Dativ",
+"fa": "mit dem Bus، bei dem Arzt، nach der Arbeit، seit einem Jahr، zu meiner Mutter. همه این اسامی در Dativ هستند."
+},
+{
+"de": "Wechselpräpositionen: in, an, auf, unter, über, vor, hinter, neben, zwischen.",
+"fa": "این حروف می‌توانند با Akkusativ یا Dativ بیایند بسته به جمله."
+},
+{
+"de": "Akkusativ = Bewegung (Wohin?)",
+"fa": "وقتی حرکت به سمت مکان وجود دارد (به کجا؟) از Akkusativ استفاده می‌کنیم: Ich gehe in die Schule."
+},
+{
+"de": "Dativ = Position (Wo?)",
+"fa": "وقتی مکان ثابت را توصیف می‌کنیم (کجا؟) از Dativ استفاده می‌کنیم: Ich bin in der Schule."
+}
+],
+"phrasesTable": [
+{
+"de": "Ich laufe durch den Park.",
+"fa": "از پارک عبور می‌کنم.",
+"note": "durch → همیشه Akkusativ."
+},
+{
+"de": "Das Geschenk ist für meinen Bruder.",
+"fa": "هدیه برای برادرم است.",
+"note": "für → همیشه Akkusativ، به معنای "
+},
+{
+"de": "Sie fährt mit dem Zug.",
+"fa": "او با قطار سفر می‌کند.",
+"note": "mit → همیشه Dativ: وسیله یا با شخص."
+},
+{
+"de": "Ich arbeite bei der Firma.",
+"fa": "در شرکت کار می‌کنم.",
+"note": "bei → همیشه Dativ: نزد / در."
+},
+{
+"de": "Noa sitzt auf dem Stuhl.",
+"fa": "Noa روی صندلی می‌نشیند.",
+"note": "auf + Dativ اینجا زیرا جمله مکان ثابت را توصیف می‌کند (Wo?)."
+},
+{
+"de": "Noa setzt sich auf den Stuhl.",
+"fa": "Noa (انتقال می‌دهد) روی صندلی می‌نشیند.",
+"note": "auf + Akkusativ اینجا زیرا حرکت به سمت مکان وجود دارد (Wohin?)."
+},
+{
+"de": "Das Bild hängt an der Wand.",
+"fa": "تصویر روی دیوار آویزان است.",
+"note": "an + Dativ: مکان ثابت."
+},
+{
+"de": "Ich hänge das Bild an die Wand.",
+"fa": "تصویر را روی دیوار آویزان می‌کنم.",
+"note": "an + Akkusativ: حرکت به دیوار."
+}
+],
+"tip": "📌 خلاصه سریع:\n\n✅ حروف اضافه با Akkusativ فقط:\n• durch, für, gegen, ohne, um, bis, entlang\n\n✅ حروف اضافه با Dativ فقط:\n• aus, bei, mit, nach, seit, von, zu, gegenüber\n\n✅ حروف اضافه متغیر (Wechselpräpositionen):\n• in, an, auf, unter, über, vor, hinter, neben, zwischen\n\n⚙️ قانون طلایی با این حروف:\n• Akkusativ = Bewegung (Wohin?) → به کجا؟\n  مثال: Ich gehe in die Stadt.\n• Dativ = Position (Wo?) → کجا؟\n  مثال: Ich bin in der Stadt.\n\n💡 نکات هوشمند Noa:\n1️⃣ گروه‌های حروف را مثل یک آهنگ کوچک در ذهن حفظ کنید.\n2️⃣ وقتی فعل حرکت (gehen, fahren, legen, stellen, setzen) می‌بینید به Akkusativ فکر کنید.\n3️⃣ وقتی فعل وضعیت/ثبات (sein, sitzen, liegen, stehen) می‌بینید به Dativ فکر کنید.",
+"dialogue": [
+{
+"speaker": "Noa",
+"de": "Guten Tag, ich interessiere mich für Ihren Deutschkurs.",
+"fa": "روز بخیر، به دوره زبان آلمانی شما علاقه‌مندم."
+},
+{
+"speaker": "Sekretärin",
+"de": "Natürlich! Welches Niveau möchten Sie lernen?",
+"fa": "البته! کدام سطح را می‌خواهید یاد بگیرید؟"
+},
+{
+"speaker": "Noa",
+"de": "Ich brauche Informationen über den B1-Kurs.",
+"fa": "به اطلاعات دوره B1 نیاز دارم."
+},
+{
+"speaker": "Sekretärin",
+"de": "Der Kurs beginnt im Mai und kostet 250 Euro.",
+"fa": "دوره در ماه می شروع می‌شود و 250 یورو هزینه دارد."
+},
+{
+"speaker": "Noa",
+"de": "Vielen Dank für die Auskunft!",
+"fa": "تشکر از اطلاعات!"
+}
+],
+"summary": [
+{
+"de": "📦 Zusammenfassung",
+"fa": "در این درس یاد گرفتید چطور استعلام رسمی برای درخواست اطلاعات با وضوح و مودبانه بنویسید. همیشه از سؤال‌های دقیق مانند 'Wie viel kostet ...?' و 'Wann beginnt ...?' استفاده کنید."
+}
+],
+"quiz": [
+{
+"question": "Was bedeutet „Anfrage“?",
+"options": ["دعوت", "شکایت", "درخواست اطلاعات", "عذرخواهی"],
+"answer": 2,
+"hint": "Anfrage = سؤال رسمی برای دریافت اطلاعات"
+},
+{
+"question": "Wie kann man höflich Informationen erfragen?",
+"options": [
+"Ich will wissen!",
+"Können Sie mir sagen?",
+"Könnten Sie mir bitte Informationen schicken?",
+"Sag mir bitte!"
+],
+"answer": 2,
+"hint": "همیشه از 'Könnten Sie' در زبان رسمی استفاده کنید"
+},
+{
+"question": "Welche Grußformel passt am Ende einer formellen E-Mail?",
+"options": [
+"Liebe Grüße",
+"Mit freundlichen Grüßen",
+"Tschüss!",
+"Bis bald!"
+],
+"answer": 1
+}
+],
+"writingExercise": {
+"instruction_de": "Sie möchten Informationen über einen Online-Deutschkurs. Schreiben Sie eine formelle E-Mail an die Sprachschule. Fragen Sie nach Preis, Beginn und Dauer. Schreiben Sie etwa 100 Wörter.",
+"instruction_fa": "اطلاعات در مورد دوره آلمانی آنلاین می‌خواهید. ایمیل رسمی به مدرسه زبان بنویسید و در مورد قیمت، شروع و مدت بپرسید. حدود 100 کلمه بنویسید.",
+"keywords": ["Kurs", "Preis", "Beginn", "Dauer", "Informationen"],
+"exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für Ihren Online-Deutschkurs und möchte gern mehr Informationen bekommen. Könnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet?\n\nIch möchte auch wissen, wie lange der Kurs dauert und wie viele Stunden pro Woche stattfinden.\n\nIch bedanke mich im Voraus für Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan",
+"feedbackHints": [
+"با سلام رسمی 'Sehr geehrte Damen und Herren,' شروع کنید.",
+"سؤال‌های واضح و مشخص بپرسید.",
+"با سلام رسمی 'Mit freundlichen Grüßen' تمام کنید."
+]
+}
+},
+{
+"id": "b1_bewerbung_anmeldung",
+"title": {
+"de": "Bewerbung / Anmeldung – Einen Antrag oder eine Bewerbung schreiben",
+"fa": "Bewerbung / Anmeldung – ارائه درخواست یا ثبت‌نام رسمی"
+},
+"interactiveScene": "👔 Noa آموزش حرفه‌ای‌اش را تمام کرده و حالا به دنبال شغل جدید است.\n🎓 نوا آموزش حرفه‌ای‌اش را تمام کرد و حالا به دنبال شغل جدید است.\n\nآگهی جالب پیدا می‌کند: „Softwareentwickler gesucht!“\n💻 آگهی جالب پیدا کرد: “مطور نرم‌افزار مورد نیاز!”\n\nWord را باز می‌کند و شروع به نوشتن می‌کند: „Sehr geehrte Damen und Herren...“\n🖊️ Word را باز کرد و شروع به نوشتن کرد: “خانم‌ها و آقایان محترم…”\n\nاما چطور درخواست خوب بنویسد؟ چه بگوید تا تأثیر خوبی بگذارد؟\n🤔 اما فکر می‌کند: چطور درخواست شغل خوب بنویسم؟ چه بگویم تا تأثیر عالی بگذارم؟\n\nامروز با Noa یاد می‌گیرید چطور ایمیل درخواست – گام به گام بنویسید.\n🎯 امروز با نوا یاد می‌گیرید چطور ایمیل درخواست حرفه‌ای گام به گام بنویسید.",
+"explanation": [
+{
+"de": "Was ist eine Bewerbung oder Anmeldung?",
+"fa": "Bewerbung به معنای 'ارائه درخواست' (معمولاً برای شغل یا تحصیل)، و Anmeldung به معنای 'ثبت‌نام رسمی' (در دوره یا سازمان یا رویداد) است."
+},
+{
+"de": "Wie schreibt man eine Bewerbung oder Anmeldung im B1-Examen?",
+"fa": "در این نوع نوشتاری، احترام و سازماندهی نشان دهید:\n\n• خودتان را کوتاه معرفی کنید. (خودتان را کوتاه معرفی کنید.)\n• بگویید چرا درخواست می‌دهید یا ثبت‌نام می‌کنید. (دلیل تمایل به درخواست یا ثبت‌نام را توضیح دهید.)\n• تجربه یا انگیزه‌تان را ذکر کنید. (تجربه یا اشتیاقتان را ذکر کنید.)\n• درخواست پاسخ یا تأیید کنید. (پاسخ یا تأیید بخواهید.)\n• با فرمول سلام مودبانه تمام کنید. (با سلام رسمی تمام کنید.)"
+},
+{
+"de": "🗣️ Nützliche Redemittel (عبارات مفيدة)",
+"fa": "• Ich möchte mich für ... bewerben. (می‌خواهم برای ... درخواست دهم.)\n• Ich möchte mich für den Kurs anmelden. (می‌خواهم در دوره ثبت‌نام کنم.)\n• Ich habe schon Erfahrung mit ... (تجربه در ... دارم)\n• Ich interessiere mich sehr für ... (به ... خیلی علاقه‌مندم)\n• Ich freue mich auf Ihre Antwort. (به پاسخ شما منتظرم.)\n• Mit freundlichen Grüßen. (با احترامات دوستانه.)"
+},
+{
+"de": "📧 Beispieltext (ca. 110–130 Wörter)",
+"fa": "Sehr geehrte Damen und Herren,\n\nich möchte mich für Ihren Deutschkurs B1 anmelden. Ich habe bereits den Kurs A2 abgeschlossen und möchte nun mein Deutsch verbessern.\n\nIch arbeite momentan halbtags, deshalb wäre ein Abendkurs für mich ideal. Ich interessiere mich sehr für Sprachen und lerne motiviert.\n\nKönnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet?\n\nIch freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan\n\nترجمه به فارسی:\n\nخانم‌ها و آقایان محترم،\n\nمی‌خواهم در دوره آلمانی B1 ثبت‌نام کنم. قبلاً دوره A2 را تمام کردم و حالا می‌خواهم آلمانی‌ام را بهبود بخشم.\n\nحالا نیمه‌وقت کار می‌کنم، بنابراین دوره عصر برایم ایده‌آل است. به زبان‌ها خیلی علاقه‌مندم و با انگیزه یاد می‌گیرم.\n\nلطفاً بگویید دوره کی شروع می‌شود و چقدر هزینه دارد؟\n\nبه پاسخ شما منتظرم.\n\nبا احترامات دوستانه\nنوا الحسن"
+}
+],
+"phrasesTable": [
+{
+"de": "sich bewerben um / für",
+"fa": "برای ... درخواست دادن",
+"note": "رسمی"
+},
+{
+"de": "sich anmelden für",
+"fa": "در ... ثبت‌نام کردن",
+"note": "رسمی"
+},
+{
+"de": "die Bewerbung",
+"fa": "درخواست (کار یا تحصیل)",
+"note": "کلمه مهم"
+},
+{
+"de": "die Anmeldung",
+"fa": "ثبت‌نام رسمی",
+"note": "کلمه مهم"
+},
+{
+"de": "Ich freue mich auf Ihre Antwort.",
+"fa": "به پاسخ شما منتظرم.",
+"note": "پایان رسمی رایج"
+}
+],
+"tip": "💡 نکته زبانی – نصیحت زبانی:\nپس از فعل sich bewerben همیشه حرف اضافه für یا um استفاده می‌شود:\n\n• Ich bewerbe mich für den Kurs. ✅\n• Ich bewerbe mich um die Stelle. ✅\n\nو فراموش نکنید فعل همیشه انعکاسی (sich) است.",
+"dialogue": [
+{
+"speaker": "Noa",
+"de": "Guten Tag, ich möchte mich für Ihren Abendkurs anmelden.",
+"fa": "روز بخیر، می‌خواهم در دوره عصر شما ثبت‌نام کنم."
+},
+{
+"speaker": "Sekretärin",
+"de": "Natürlich! Haben Sie schon Vorkenntnisse?",
+"fa": "البته! دانش قبلی دارید؟"
+},
+{
+"speaker": "Noa",
+"de": "Ja, ich habe bereits den A2-Kurs gemacht.",
+"fa": "بله، قبلاً دوره A2 را گذراندم."
+},
+{
+"speaker": "Sekretärin",
+"de": "Der B1-Kurs beginnt im März und kostet 220 Euro.",
+"fa": "دوره B1 در مارس شروع می‌شود و 220 یورو هزینه دارد."
+},
+{
+"speaker": "Noa",
+"de": "Das ist perfekt, danke!",
+"fa": "عالی است، تشکر!"
+}
+],
+"summary": [
+{
+"de": "📦 Zusammenfassung",
+"fa": "در این درس یاد گرفتید چطور درخواست ثبت‌نام یا درخواست با سبک رسمی، منظم و مودبانه بنویسید. با معرفی خود شروع کنید، سپس دلیل درخواست، سپس جزئیات مورد نیاز، و با سلام رسمی تمام کنید."
+}
+],
+"quiz": [
+{
+"question": "Was bedeutet 'Bewerbung'?",
+"options": ["استعلام", "شکایت", "درخواست ارائه", "عذرخواهی"],
+"answer": 2,
+"hint": "Bewerbung = ارائه درخواست رسمی برای شغل یا آموزش یا تحصیل"
+},
+{
+"question": "Wie schreibt man höflich, dass man sich anmelden möchte?",
+"options": [
+"Ich will kommen!",
+"Ich möchte mich anmelden.",
+"Ich geh hin.",
+"Ich bin interessiert."
+],
+"answer": 1,
+"hint": "همیشه از 'möchte' به جای 'will' برای نامه‌های رسمی استفاده کنید"
+},
+{
+"question": "Was gehört in eine Bewerbung?",
+"options": [
+"فقط نامتان",
+"سؤال در مورد هوا",
+"اطلاعات شخصی و دلیل درخواست",
+"فقط عکس"
+],
+"answer": 2
+}
+],
+"writingExercise": {
+"instruction_de": "Sie möchten sich für einen Computerkurs anmelden. Schreiben Sie eine formelle E-Mail an die Schule. Nennen Sie Ihren Namen, Grund und Ihre Wünsche. Schreiben Sie etwa 100–120 Wörter.",
+"instruction_fa": "می‌خواهید در دوره کامپیوتر ثبت‌نام کنید. ایمیل رسمی به مدرسه بنویسید، نامتان و دلیل علاقه و درخواستتان را ذکر کنید. حدود 100 تا 120 کلمه بنویسید.",
+"keywords": ["Computer", "Kurs", "anmelden", "möchte", "Antwort"],
+"exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich möchte mich für Ihren Computerkurs anmelden. Ich arbeite oft mit dem Computer, aber ich möchte noch besser werden.\n\nIch habe vormittags Zeit und würde gern am Kurs teilnehmen. Könnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet?\n\nIch freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan",
+"feedbackHints": [
+"با سلام رسمی 'Sehr geehrte Damen und Herren,' شروع کنید.",
+"دلیل ثبت‌نام را واضح ذکر کنید.",
+"با سلام رسمی 'Mit freundlichen Grüßen' تمام کنید."
+]
+}
+},
+{
+"id": "b1_produktrueckgabe_reklamation",
+"title": {
+"de": "Produktrückgabe / Reklamation – Eine Beschwerde oder Rückgabe schreiben",
+"fa": "Produktrückgabe / Reklamation – نوشتن نامه بازگشت محصول یا شکایت رسمی"
+},
+"interactiveScene": "📦 Noa آنلاین هدفون جدید خریده.\n🛍️ نوا هدفون جدید از اینترنت خریده.\n\nدو روز بعد دیگر کار نمی‌کند!\n😤 فقط دو روز بعد، کار نمی‌کند!\n\nفکر می‌کند: آیا آن را برگردانم یا اول بنویسم؟\n💭 فکر می‌کند: آیا آن را با پست بفرستم یا اول نامه بنویسم؟\n\nاپ ایمیل را باز می‌کند و شروع می‌کند: „Sehr geehrte Damen und Herren...“\n💻 اپ ایمیل را باز کرد و شروع کرد: “خانم‌ها و آقایان محترم…”\n\nامروز یاد می‌گیرید چطور Reklamation بنویسید، وقتی محصول خراب یا معیوب است.\n🎯 امروز یاد می‌گیرید چطور نامه شکایت در مورد محصول خراب یا معیوب بنویسید.",
+"explanation": [
+{
+"de": "Was ist eine Reklamation?",
+"fa": "Reklamation به معنای 'شکایت یا مطالبه' پس از خرید محصول یا استفاده از خدمتی که درست کار نکرده."
+},
+{
+"de": "Wie schreibt man eine Reklamation im B1-Examen?",
+"fa": "در نامه شکایت، واقع‌بین و مودب باشید:\n\n• مشکل را توصیف کنید. (مشکل را توصیف کنید.)\n• تاریخ یا سفارش را ذکر کنید. (تاریخ یا شماره سفارش را ذکر کنید.)\n• بگویید چه می‌خواهید: جایگزین، بازپرداخت یا تعمیر. (واضح بگویید چه می‌خواهید: جایگزین، بازپرداخت، یا تعمیر.)\n• مودبانه تشکر کنید و با فرمول سلام تمام کنید. (مودبانه تشکر کنید و با سلام رسمی تمام کنید.)"
+},
+{
+"de": "🗣️ Nützliche Redemittel (عبارات مفيدة)",
+"fa": "• Ich habe am ... bei Ihnen ... gekauft. (در تاریخ ... از شما ... خریدم.)\n• Leider funktioniert ... nicht richtig. (متأسفانه ... درست کار نمی‌کند.)\n• Ich möchte das Produkt zurückgeben / umtauschen. (می‌خواهم محصول را برگردانم / جایگزین کنم.)\n• Bitte teilen Sie mir mit, wie wir das Problem lösen können. (لطفاً بگویید چطور مشکل را حل کنیم.)\n• Ich hoffe auf eine schnelle Antwort. (امیدوارم پاسخ سریع بگیرید.)\n• Mit freundlichen Grüßen. (با احترامات دوستانه.)"
+},
+{
+"de": "📧 Beispieltext (ca. 110–130 Wörter)",
+"fa": "Sehr geehrte Damen und Herren,\n\nich habe am 3. Mai 2025 in Ihrem Online-Shop eine kabellose Kopfhörer bestellt (Bestellnummer: 2468). Leider funktioniert der linke Kopfhörer nach zwei Tagen nicht mehr.\n\nIch bitte Sie, mir das Produkt zu ersetzen oder mir den Kaufpreis zu erstatten. Ich sende Ihnen das defekte Gerät zurück.\n\nBitte teilen Sie mir mit, wie ich weiter vorgehen soll.\n\nIch hoffe auf eine schnelle Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan\n\nترجمه به فارسی:\n\nخانم‌ها و آقایان محترم،\n\nدر 3 می 2025 هدفون بی‌سیم از فروشگاه آنلاین شما سفارش دادم (شماره سفارش: 2468). متأسفانه هدفون چپ پس از دو روز کار نمی‌کند.\n\nاز شما می‌خواهم محصول را جایگزین کنید یا قیمت خرید را بازگردانید. دستگاه معیوب را برایتان می‌فرستم.\n\nلطفاً بگویید چطور ادامه دهم.\n\nامیدوارم پاسخ سریع بگیرید.\n\nبا احترامات دوستانه\nنوا الحسن"
+}
+],
+"phrasesTable": [
+{
+"de": "eine Reklamation einreichen",
+"fa": "شکایت رسمی ارائه می‌دهد",
+"note": "رسمی"
+},
+{
+"de": "das Produkt umtauschen",
+"fa": "محصول را جایگزین کردن",
+"note": "عبارت مهم"
+},
+{
+"de": "eine Rückerstattung bekommen",
+"fa": "بازپرداخت گرفتن",
+"note": "بسیار مفید"
+},
+{
+"de": "defekt sein",
+"fa": "معیوب بودن",
+"note": "کلمه اساسی"
+},
+{
+"de": "Kundenservice",
+"fa": "خدمات مشتریان",
+"note": "نام رایج"
+}
+],
+"tip": "💡 نکته زبانی – نصیحت زبانی:\nدر نامه‌های رسمی هرگز از عبارات خشم یا هیجان مانند 'Ich bin sehr wütend!' استفاده نکنید ❌.\nبه جای آن از عبارات مودبانه استفاده کنید:\n• Leider bin ich nicht zufrieden mit ... ✅\n• Ich hoffe, dass Sie mir helfen können. ✅",
+"dialogue": [
+{
+"speaker": "Noa",
+"de": "Guten Tag, ich habe bei Ihnen eine Kopfhörer bestellt, aber sie funktionieren nicht.",
+"fa": "روز بخیر، از شما هدفون سفارش دادم اما کار نمی‌کنند."
+},
+{
+"speaker": "Kundendienst",
+"de": "Das tut uns leid! Können Sie uns bitte die Bestellnummer schicken?",
+"fa": "متأسفیم! لطفاً شماره سفارش را بفرستید؟"
+},
+{
+"speaker": "Noa",
+"de": "Ja, die Nummer ist 2468. Ich möchte die Kopfhörer zurückgeben.",
+"fa": "بله، شماره 2468 است. می‌خواهم هدفون‌ها را برگردانم."
+},
+{
+"speaker": "Kundendienst",
+"de": "Kein Problem, wir schicken Ihnen ein neues Produkt.",
+"fa": "مشکلی نیست، محصول جدید برایتان می‌فرستیم."
+},
+{
+"speaker": "Noa",
+"de": "Vielen Dank für Ihre Hilfe!",
+"fa": "تشکر از کمکتان!"
+}
+],
+"summary": [
+{
+"de": "📦 Zusammenfassung",
+"fa": "در این درس یاد گرفتید چطور نامه شکایت یا بازگشت محصول با سبک رسمی بنویسید. با خشم یا تهدید ننویسید، بلکه از سبک مودبانه و منظم برای توضیح مشکل و درخواست حل استفاده کنید."
+}
+],
+"quiz": [
+{
+"question": "Was bedeutet 'Reklamation'?",
+"options": ["درخواست", "استعلام", "شکایت پس از خرید", "دعوت"],
+"answer": 2,
+"hint": "Reklamation = شکایت در مورد محصول یا خدمت"
+},
+{
+"question": "Wie schreibt man höflich, dass etwas nicht funktioniert?",
+"options": [
+"Ich bin wütend!",
+"Leider funktioniert ... nicht richtig.",
+"Ich hasse dieses Produkt!",
+"Das ist schlecht!"
+],
+"answer": 1,
+"hint": "از 'Leider ...' برای مودب بودن استفاده کنید"
+},
+{
+"question": "Was passt? — Ich möchte das Produkt ...",
+"options": ["beschweren", "zurückgeben", "verkaufen", "kaufen"],
+"answer": 1
+}
+],
+"writingExercise": {
+"instruction_de": "Sie haben online ein defektes Produkt bekommen. Schreiben Sie eine formelle E-Mail an den Kundenservice. Beschreiben Sie das Problem und sagen Sie, was Sie möchten. Schreiben Sie etwa 110–130 Wörter.",
+"instruction_fa": "محصول معیوب از فروشگاه آنلاین دریافت کردید. ایمیل رسمی به خدمات مشتریان بنویسید. مشکل را توصیف کنید و بگویید چه می‌خواهید (جایگزین / بازپرداخت). حدود 110 تا 130 کلمه بنویسید.",
+"keywords": ["defekt", "Produkt", "zurückgeben", "Kundenservice", "Bestellnummer"],
+"exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich habe letzte Woche eine Lampe in Ihrem Online-Shop gekauft (Bestellnummer: 5372). Leider ist das Glas nach einem Tag kaputt gegangen.\n\nIch möchte die Lampe zurückgeben und bitte um eine Rückerstattung. Ich sende Ihnen das Produkt sofort zurück.\n\nBitte teilen Sie mir mit, wie ich weiter vorgehen soll.\n\nMit freundlichen Grüßen\nNoa Alhasan",
+"feedbackHints": [
+"با سلام رسمی 'Sehr geehrte Damen und Herren,' شروع کنید.",
+"محصول و شماره سفارش را واضح ذکر کنید.",
+"مشکل را توضیح دهید سپس بگویید چه می‌خواهید (جایگزین / بازپرداخت).",
+"با سلام رسمی 'Mit freundlichen Grüßen' تمام کنید."
+]
+}
+}
+]
+}

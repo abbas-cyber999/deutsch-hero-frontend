@@ -1,0 +1,962 @@
+{
+  "level": "A2",
+  "title": "A2 – د جرمني ژبې قواعد",
+  "grammar": [
+    {
+      "id": "A2_Grammar_01_Possessivpronomen",
+      "title": {
+        "af": "د ملکیت ضمیرونه",
+        "de": "Possessivpronomen",
+        "en": "Possessive Pronouns"
+      },
+      "interactiveScene": "ښوونکی وایي: Jeder hat etwas Eigenes! (هر څوک یو څه خپل لري!) او په تخته لیکي: Wessen Auto ist das? – Das ist mein Auto.",
+      "explanation": [
+        { "de": "mein / meine", "af": "زما" },
+        { "de": "dein / deine", "af": "ستا" },
+        { "de": "sein / seine", "af": "د ده" },
+        { "de": "ihr / ihre", "af": "د دې" },
+        { "de": "unser / unsere", "af": "زموږ" },
+        { "de": "euer / eure", "af": "ستاسو" },
+        { "de": "ihr / ihre", "af": "د دوي" }
+      ],
+      "phrasesTable": [
+        { "de": "Das ist mein Buch.", "af": "دا زما کتاب دی." },
+        { "de": "Ist das deine Tasche?", "af": "آیا دا ستا کڅوړه ده؟" },
+        { "de": "Ihr Hund ist süß.", "af": "د دې سپی خوږ دی." }
+      ],
+      "tip": "د ملکیت ضمیر د اسم سره په جنس او شمېر کې موافق وي.\nمثال: mein Vater – meine Mutter.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Ist das euer Auto?", "af": "آیا دا ستاسو موټر دی؟" },
+        { "speaker": "👨", "de": "Ja, das ist unser Auto.", "af": "هو، دا زموږ موټر دی." }
+      ],
+      "summary": [
+        { "de": "mein → ich", "af": "زه" },
+        { "de": "dein → du", "af": "ته" },
+        { "de": "sein / ihr → er / sie", "af": "دی / ده" },
+        { "de": "unser → wir", "af": "موږ" }
+      ],
+      "quiz": [
+        {
+          "question": "____ Vater ist Arzt. (ich)",
+          "options": ["Mein", "Dein", "Ihr"],
+          "answer": 0,
+          "hint": "د ich سره → Mein."
+        },
+        {
+          "question": "Wo ist ____ Handy? (du)",
+          "options": ["mein", "dein", "sein"],
+          "answer": 1,
+          "hint": "د du سره → dein."
+        }
+      ]
+    },
+    {
+      "id": "A2_Grammar_Modalverben_Teil1",
+      "title": {
+        "af": "مرستندویه فعلونه – لومړۍ برخه (können, müssen, sollen)",
+        "de": "Modalverben – Teil 1",
+        "en": "Modal verbs – Part 1"
+      },
+      "interactiveScene": "ښوونکې ستا پوښتنه کوي: „Kannst du Deutsch sprechen?“ 🇩🇪\nته ځواب ورکوې: „Ja, ich kann ein bisschen!“ 😎\nبیا وایي: „Du musst mehr üben!“ 😅\nاو ستا ملګری په غوږ کې وایي: „Wir sollen Hausaufgaben machen…“ 📚\nاو په دې ډول ستا سفر له کوچنیو فعلونو سره پیلېږي، خو د جمله معنی په بشپړ ډول بدلوي!",
+      "explanation": [
+        {
+          "de": "(Modalverben)",
+          "af": "مرستندویه فعلونه له بل فعل سره کارول کېږي ترڅو د توان، وجوب یا مشورې څرګندونه وکړي.\nوروسته اصلي فعل **د جملې په پای کې** په مصدري بڼه (Infinitiv) راځي."
+        },
+        {
+          "de": "**1. können",
+          "af": "🔹  = کولی شم / توان لرم**"
+        },
+        {
+          "de": "ich kann",
+          "af": "زه کولی شم"
+        },
+        {
+          "de": "du kannst",
+          "af": "ته کولی شې"
+        },
+        {
+          "de": "er / sie / es kann",
+          "af": "دی / ده کولی شي"
+        },
+        {
+          "de": "wir können",
+          "af": "موږ کولی شو"
+        },
+        {
+          "de": "ihr könnt",
+          "af": "تاسو کولی شئ"
+        },
+        {
+          "de": "sie / Sie können",
+          "af": "دوي / تاسو کولی شئ"
+        },
+        {
+          "de": "**2. müssen",
+          "af": "🔹  = باید / مجبور یم**"
+        },
+        {
+          "de": "ich muss",
+          "af": "زه باید"
+        },
+        {
+          "de": "du musst",
+          "af": "ته باید"
+        },
+        {
+          "de": "er / sie / es muss",
+          "af": "دی / ده باید"
+        },
+        {
+          "de": "wir müssen",
+          "af": "موږ باید"
+        },
+        {
+          "de": "ihr müsst",
+          "af": "تاسو باید"
+        },
+        {
+          "de": "sie / Sie müssen",
+          "af": "دوي / تاسو باید"
+        },
+        {
+          "de": "**3. sollen",
+          "af": "🔹  = باید / ښه ده چې**"
+        },
+        {
+          "de": "ich soll",
+          "af": "زه باید"
+        },
+        {
+          "de": "du sollst",
+          "af": "ته باید"
+        },
+        {
+          "de": "er / sie / es soll",
+          "af": "دی / ده باید"
+        },
+        {
+          "de": "wir sollen",
+          "af": "موږ باید"
+        },
+        {
+          "de": "ihr sollt",
+          "af": "تاسو باید"
+        },
+        {
+          "de": "sie / Sie sollen",
+          "af": "دوي / تاسو باید"
+        },
+        {
+          "de": " Ich kann gut schwimmen. / Ich muss früh aufstehen. / Du sollst lernen.",
+          "af": "💡 چټکه قاعده:\nمرستندویه فعل تل دوهم ځای کې وي، او بل فعل په پای کې."
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich kann Deutsch sprechen.",
+          "af": "زه کولی شم جرمني خبرې وکړم.",
+          "note": "können → توان."
+        },
+        {
+          "de": "Wir müssen morgen arbeiten.",
+          "af": "موږ باید سبا کار وکړو.",
+          "note": "müssen → وجوب یا الزام."
+        },
+        {
+          "de": "Du sollst mehr schlafen.",
+          "af": "ته باید ډېر خوب وکړې.",
+          "note": "sollen → مشوره یا وړاندیز."
+        },
+        {
+          "de": "Er kann gut kochen.",
+          "af": "دی کولی شي ښه پخلی وکړي.",
+          "note": "بل فعل په پای کې."
+        }
+      ],
+      "tip": "✨ **چټکه تلمیح:**\n- können = ته توان لرې 🏃‍♂️\n- müssen = ته انتخاب نشته 😅\n- sollen = یو څوک درته مشوره درکوي 🤓",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Kannst du schwimmen?",
+          "af": "آیا ته لامبو کولی شې؟"
+        },
+        {
+          "speaker": "👨",
+          "de": "Ja, ich kann gut schwimmen!",
+          "af": "هو، زه ښه لامبو کولی شم!"
+        },
+        {
+          "speaker": "👩‍🏫",
+          "de": "Und was musst du heute machen?",
+          "af": "او نن باید څه وکړې؟"
+        },
+        {
+          "speaker": "👨",
+          "de": "Ich muss lernen... leider. 😭",
+          "af": "زه باید درس وایم... افسوس. 😭"
+        },
+        {
+          "speaker": "👩‍🏫",
+          "de": "Du sollst auch Pause machen!",
+          "af": "ته باید استراحت هم وکړې!"
+        }
+      ],
+      "summary": [
+        {
+          "de": "können – کولی شم",
+          "af": "د توان څرګندونه."
+        },
+        {
+          "de": "müssen – باید",
+          "af": "د الزام څرګندونه."
+        },
+        {
+          "de": "sollen – باید",
+          "af": "د مشورې یا اخلاقي وجوب څرګندونه."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "د فعل müssen معنی څه ده؟",
+          "options": ["کولی شم", "باید", "غواړم"],
+          "answer": 1,
+          "hint": "په وجوب یا الزام دلالت کوي."
+        },
+        {
+          "question": "څنګه وایې: باید درس وایم؟",
+          "options": [
+            "Ich kann lernen.",
+            "Ich muss lernen.",
+            "Ich soll lernen kann."
+          ],
+          "answer": 1,
+          "hint": "müssen = باید."
+        },
+        {
+          "question": "سمه جمله غوره کړه:",
+          "options": [
+            "Ich kann gut tanzen.",
+            "Ich tanzen gut kann.",
+            "Kann ich tanzen gut."
+          ],
+          "answer": 0,
+          "hint": "مرستندویه فعل دوهم، بل فعل په پای کې."
+        },
+        {
+          "question": "ستا ملګری ناروغ دی. ورته څه وایې؟",
+          "options": [
+            "Du kannst schlafen.",
+            "Du musst schlafen.",
+            "Du sollst schlafen."
+          ],
+          "answer": 2,
+          "hint": "sollen → دوستانه مشوره."
+        }
+      ]
+    },
+    {
+      "id": "A2_Grammar_Modalverben_Teil2",
+      "title": {
+        "af": "مرستندویه فعلونه – دویمه برخه (wollen, möchten, dürfen, mögen)",
+        "de": "Modalverben – Teil 2",
+        "en": "Modal verbs – Part 2"
+      },
+      "interactiveScene": "په رستورانت کې 🍽️ ویټر وایي: „Was möchten Sie trinken?“ ☕\nته په نرمۍ ځواب ورکوې: „Ich möchte einen Kaffee.“ 😋\nخو په دیوال لیکل شوي: „Man darf hier nicht rauchen!“ 🚭\nاو ستا ملګری وایي: „Ich will Pizza!“ 🍕\nته خاندې او وایې: „Ich mag Pizza auch!“ 😂",
+      "explanation": [
+        {
+          "de": "",
+          "af": "په دې برخه کې څلور نوي او ډېر مهم فعلونه زده کوو چې د ورځني ژوند لپاره ضروري دي:\n🔹 wollen = غواړي\n🔹 möchten = په نرمۍ غواړي / هیله کوي\n🔹 dürfen = اجازه لري\n🔹 mögen = خوښوي"
+        },
+        {
+          "de": "",
+          "af": "دا فعلونه د ارادې، اجازې یا خوښې څرګندونه کوي.\nاو د هماغه قاعدې پیروي کوي: مرستندویه فعل دوهم ځای کې، اصلي فعل په پای کې."
+        },
+        {
+          "de": " **wollen",
+          "af": "🔹 (غواړي)**"
+        },
+        { "de": "ich will", "af": "زه غواړم" },
+        { "de": "du willst", "af": "ته غواړې" },
+        { "de": "er / sie / es will", "af": "دی / ده غواړي" },
+        { "de": "wir wollen", "af": "موږ غواړو" },
+        { "de": "ihr wollt", "af": "تاسو غواړئ" },
+        { "de": "sie / Sie wollen", "af": "دوي / تاسو غواړئ" },
+        {
+          "de": "**möchten",
+          "af": "🔹  (په نرمۍ غواړي / هیله کوي)** – د wollen مهذبه بڼه"
+        },
+        { "de": "ich möchte", "af": "زه غواړم / هیله کوم" },
+        { "de": "du möchtest", "af": "ته غواړې" },
+        { "de": "er / sie / es möchte", "af": "دی / ده غواړي" },
+        { "de": "wir möchten", "af": "موږ غواړو" },
+        { "de": "ihr möchtet", "af": "تاسو غواړئ" },
+        { "de": "sie / Sie möchten", "af": "دوي / تاسو غواړئ" },
+        {
+          "de": "**dürfen",
+          "af": "🔹  (اجازه لري / کولی شي)**"
+        },
+        { "de": "ich darf", "af": "زه اجازه لرم" },
+        { "de": "du darfst", "af": "ته اجازه لرې" },
+        { "de": "er / sie / es darf", "af": "دی / ده اجازه لري" },
+        { "de": "wir dürfen", "af": "موږ اجازه لرو" },
+        { "de": "ihr dürft", "af": "تاسو اجازه لرئ" },
+        { "de": "sie / Sie dürfen", "af": "دوي / تاسو اجازه لرئ" },
+        {
+          "de": "**mögen",
+          "af": "🔹  (خوښوي / ترجیح ورکوي)**"
+        },
+        { "de": "ich mag", "af": "زه خوښوم" },
+        { "de": "du magst", "af": "ته خوښوې" },
+        { "de": "er / sie / es mag", "af": "دی / ده خوښوي" },
+        { "de": "wir mögen", "af": "موږ خوښوو" },
+        { "de": "ihr mögt", "af": "تاسو خوښوئ" },
+        { "de": "sie / Sie mögen", "af": "دوي / تاسو خوښوئ" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich will schlafen.", "af": "زه غواړم خوب وکړم.", "note": "قوي اراده." },
+        { "de": "Ich möchte einen Kaffee, bitte.", "af": "زه یو قهوه غواړم، مهرباني وکړئ.", "note": "د wollen په پرتله مهذبه بڼه." },
+        { "de": "Darf ich hier sitzen?", "af": "آیا زه دلته کېناستلی شم؟", "note": "dürfen → د اجازې پوښتنه." },
+        { "de": "Ich mag Pizza.", "af": "زه پیزا خوښوم.", "note": "د خوښې څرګندونه." }
+      ],
+      "tip": "🧠 **په اسانۍ سره توپیر وکړئ:**\n- wollen → په قوت غواړم! 💪\n- möchten → په نرمۍ هیله کوم ☕\n- dürfen → آیا اجازه ده؟ 🚫\n- mögen → خوښوم ❤️",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Was möchtest du trinken?", "af": "ته څه څښل غواړې؟" },
+        { "speaker": "👨", "de": "Ich möchte einen Tee.", "af": "زه یو چای غواړم." },
+        { "speaker": "👩‍🏫", "de": "Darf man hier essen?", "af": "آیا دلته خواړه خوړلی شو؟" },
+        { "speaker": "👨", "de": "Nein, man darf hier nicht essen. 😅", "af": "نه، دلته خواړه نه خوړلی کېږي. 😅" }
+      ],
+      "summary": [
+        { "de": "wollen = غواړي", "af": "قوي اراده." },
+        { "de": "möchten = په نرمۍ غواړي", "af": "مهذبه غوښتنه." },
+        { "de": "dürfen = اجازه لري", "af": "اجازه یا منع." },
+        { "de": "mögen = خوښوي", "af": "د خوښې څرګندونه." }
+      ],
+      "quiz": [
+        {
+          "question": "د wollen او möchten تر منځ توپیر څه دی؟",
+          "options": [
+            "هیڅ توپیر نشته.",
+            "möchten د wollen په پرتله مهذبه ده.",
+            "wollen د möchten په پرتله مهذبه ده."
+          ],
+          "answer": 1,
+          "hint": "möchten د مهذبه غوښتنې لپاره کارول کېږي."
+        },
+        {
+          "question": "څنګه وایې: آیا زه دلته کېناستلی شم؟",
+          "options": [
+            "Kann ich hier sitzen?",
+            "Darf ich hier sitzen?",
+            "Will ich hier sitzen?"
+          ],
+          "answer": 1,
+          "hint": "dürfen → اجازه یا سماح."
+        },
+        {
+          "question": "څنګه وایې: زه قهوه خوښوم؟",
+          "options": [
+            "Ich mag Kaffee.",
+            "Ich möchte Kaffee.",
+            "Ich will Kaffee."
+          ],
+          "answer": 0,
+          "hint": "mögen → عمومي خوښه."
+        },
+        {
+          "question": "د خواړو غوښتنې لپاره مهذبه جمله غوره کړه:",
+          "options": [
+            "Ich will Pizza.",
+            "Ich möchte Pizza, bitte.",
+            "Ich mag Pizza, bitte."
+          ],
+          "answer": 1,
+          "hint": "möchte + bitte = غوره لاره!"
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Modalverben_Sentences",
+      "title": {
+        "af": "د مرستندویه فعلونو سره جملې جوړول (Modalverben)",
+        "de": "Satzbau mit Modalverben",
+        "en": "Sentence structure with modal verbs"
+      },
+      "interactiveScene": "په صنف کې ښوونکې وایي: Ich kann schwimmen! 🏊‍♂️ بیا ستا لوري ته ګوري او وایي: Und du? ته په ګډوډۍ ځواب ورکوې: Ich kann... äh... schlafen? 😅",
+      "explanation": [
+        { "de": "Modalverben هي أفعال مساعدة مثل: können, müssen, dürfen, wollen, sollen, mögen.", "af": "مرستندویه فعلونه فعلونه دي چې له بل فعل سره کارول کېږي ترڅو معنی روښانه کړي لکه: کولی شم، باید، اجازه لرم..." },
+        { "de": "Ich kann Deutsch sprechen.", "af": "زه کولی شم جرمني خبرې وکړم." },
+        { "de": "Er muss jeden Tag arbeiten.", "af": "دی باید هره ورځ کار وکړي." },
+        { "de": "Wir dürfen hier nicht rauchen.", "af": "موږ دلته سګرټ څکولی نه شو." },
+        { "de": "Ich will Arzt werden.", "af": "زه غواړم ډاکټر شم." },
+        { "de": "Man soll viel Wasser trinken.", "af": "مشوره ده چې ډېرې اوبه وڅښل شي." }
+      ],
+      "phrasesTable": [
+        { "de": "können", "af": "کولی شم", "note": "Ich kann schwimmen." },
+        { "de": "müssen", "af": "باید", "note": "Ich muss arbeiten." },
+        { "de": "dürfen", "af": "اجازه لرم", "note": "Wir dürfen hier nicht parken." },
+        { "de": "wollen", "af": "غواړم", "note": "Ich will nach Berlin fahren." },
+        { "de": "sollen", "af": "باید / مشوره ده", "note": "Du sollst mehr schlafen." },
+        { "de": "mögen", "af": "خوښوم", "note": "Ich mag Pizza." }
+      ],
+      "tip": "په Modalverben سره جملو کې بل فعل د جملې په پای کې **په مصدري بڼه (Infinitiv)** راځي:\nIch kann Deutsch **sprechen**.\nEr will Fußball **spielen**.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Kannst du kochen?", "af": "آیا ته پخلی کولی شې؟" },
+        { "speaker": "👨", "de": "Ein bisschen! Ich kann Spaghetti machen. 🍝", "af": "لږ! زه کولی شم سپاګیټي جوړ کړم. 🍝" },
+        { "speaker": "👩‍🏫", "de": "Musst du heute lernen?", "af": "آیا نن باید درس وایې؟" },
+        { "speaker": "👨", "de": "Ja, leider... ich muss viel Hausaufgaben machen.", "af": "هو، افسوس... زه باید ډېر کورني کارونه وکړم." }
+      ],
+      "summary": [
+        { "de": "Modalverben + Verb im Infinitiv am Ende", "af": "مرستندویه فعل + فعل په پای کې په مصدري بڼه" },
+        { "de": "Ich kann Deutsch sprechen.", "af": "زه کولی شم جرمني خبرې وکړم." },
+        { "de": "Er muss arbeiten.", "af": "دی باید کار وکړي." }
+      ],
+      "quiz": [
+        {
+          "question": "د Modalverben سره بل فعل چیرته راځي؟",
+          "options": [
+            "د جملې په پای کې.",
+            "د فاعل مخکې.",
+            "د مرستندویه فعل وروسته مستقیم."
+          ],
+          "answer": 0,
+          "hint": "Infinitiv تل په پای کې."
+        },
+        {
+          "question": "څنګه وایې: غواړم جرمني زده کړم؟",
+          "options": [
+            "Ich will Deutsch lernen.",
+            "Ich will lernen Deutsch.",
+            "Ich lerne will Deutsch."
+          ],
+          "answer": 0,
+          "hint": "فعل lernen په پای کې."
+        },
+        {
+          "question": "د جملې Wir dürfen hier nicht rauchen. ژباړه څه ده؟",
+          "options": [
+            "موږ دلته خواړه نه کولی شو.",
+            "موږ دلته سګرټ څکولی شو.",
+            "موږ دلته سګرټ نه څکولی شو."
+          ],
+          "answer": 2,
+          "hint": "dürfen + nicht = اجازه نشته."
+        },
+        {
+          "question": "کلمه müssen معنی څه ده؟",
+          "options": [
+            "غواړم",
+            "باید",
+            "کولی شم"
+          ],
+          "answer": 1,
+          "hint": "د انګلیسي 'must' څخه."
+        }
+      ]
+    },
+    {
+      "id": "A2_Grammar_04_Trennbare_Verben",
+      "title": {
+        "af": "جلا کېدونکي فعلونه (Trennbare Verben)",
+        "de": "Trennbare Verben",
+        "en": "Separable Verbs"
+      },
+      "interactiveScene": "په صنف کې ناست یې، ښوونکې وایي: „Ich stehe jeden Tag um 7 Uhr auf.“ 😴\nته سترګې پرانیزې او فکر کوې: څه؟ ولې 'auf' د جملې په پای کې ځای پر ځای کړ؟ آیا کلمه هېره کړه؟ نه ملګریه، دا د جلا کېدونکو فعلونو درس دی!",
+      "explanation": [
+        {
+          "de": "بعض الأفعال في الألمانية تتكوّن من كلمتين: (الفعل الأساسي + مقطع في البداية يسمى Präfix).",
+          "af": "په جرمني کې ځینې فعلونه له دوو کلماتو جوړ شوي: اصلي فعل + پیل کې مقطع چې Präfix ورته وایي (پخوانی)."
+        },
+        {
+          "de": "عند تصريف الفعل في الجملة، يُفصل هذا المقطع ويذهب إلى نهاية الجملة.",
+          "af": "کله چې فعل تصریف کوو، دا مقطع (پخوانی) جلا کېږي او د جملې په پای کې ځي."
+        },
+        {
+          "de": "مثال: aufstehen → Ich stehe um 7 Uhr auf.",
+          "af": "فعل aufstehen (پاڅېدل) → زه په ۷ بجو پاڅېږم."
+        },
+        {
+          "de": "abfahren → Ich fahre morgen ab.",
+          "af": "سفر کول → زه سبا سفر کوم."
+        }
+      ],
+      "phrasesTable": [
+        { "de": "Ich stehe früh auf.", "af": "زه زر پاڅېږم.", "note": "aufstehen → پاڅېدل" },
+        { "de": "Ich fahre um 8 Uhr ab.", "af": "زه په ۸ بجو سفر کوم.", "note": "abfahren → سفر کول" },
+        { "de": "Ich rufe dich an.", "af": "زه درته زنګ وهم.", "note": "anrufen → زنګ وهل" },
+        { "de": "Ich mache die Tür auf.", "af": "زه دروازه پرانیزم.", "note": "aufmachen → پرانستل" }
+      ],
+      "tip": "په جملو کې جلا کېدونکي فعلونه تل جلا کېږي:\nاصلي فعل دوهم ځای کې، پخوانی په پای کې.\nمثال: Ich **stehe** um 7 Uhr **auf**.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Wann stehst du auf?", "af": "ته کله پاڅېږې؟" },
+        { "speaker": "👨", "de": "Ich stehe um 7 Uhr auf.", "af": "زه په ۷ بجو پاڅېږم." },
+        { "speaker": "👩‍🏫", "de": "Und wann fährst du ab?", "af": "او کله سفر کوې؟" },
+        { "speaker": "👨", "de": "Ich fahre um 8 Uhr ab.", "af": "زه په ۸ بجو سفر کوم." }
+      ],
+      "summary": [
+        { "de": "Trennbare Verben = فعل + پخوانی جلا کېږي.", "af": "جلا کېدونکي فعلونه = فعل + پخوانی جلا کېږي." },
+        { "de": "Ich stehe auf.", "af": "زه پاڅېږم." },
+        { "de": "Ich rufe an.", "af": "زه زنګ وهم." }
+      ],
+      "quiz": [
+        {
+          "question": "په جمله کې د جلا کېدونکي فعل پخوانی چیرته ځي؟",
+          "options": [
+            "په پیل کې.",
+            "په پای کې.",
+            "د فعل سره یو ځای."
+          ],
+          "answer": 1,
+          "hint": "پخوانی په پای کې ځي."
+        },
+        {
+          "question": "سمه جمله غوره کړه:",
+          "options": [
+            "Ich aufstehe um 7 Uhr.",
+            "Ich stehe um 7 Uhr auf.",
+            "Ich stehe auf um 7 Uhr."
+          ],
+          "answer": 1,
+          "hint": "اصلي فعل دوهم، پخوانی پای کې."
+        }
+      ]
+    },
+    {
+      "id": "A2_Lesson_Invitations_Writing",
+      "title": {
+        "af": "د دعوت رسالې لیکل",
+        "de": "Einladungen schreiben",
+        "en": "Writing invitations"
+      },
+      "interactiveScene": "ښوونکې وایي: 'Heute lernen wir, wie man eine Einladung schreibt.'\nته فکر کوې: 'Das klingt einfach, oder?' 😏\nخو بیا وایي: 'Und die Antwort – Zusage oder Absage?'\nته: 'Äh... ja, nein, vielleicht?' 😅",
+      "explanation": [
+        { "de": "Einladung: دعوة لحفلة أو لقاء.", "af": "د دعوت رساله: د یوې پارټۍ یا ملاقات لپاره دعوت." },
+        { "de": "Zusage: موافقة أو قبول.", "af": "موافقه: هو یا قبول." },
+        { "de": "Absage: اعتذار أو رفض.", "af": "اعتذار: نه یا رد." },
+        { "de": "Wichtige Sätze:", "af": "مهمې جملې:" },
+        { "de": "Die Party ist am Samstag um 18 Uhr.", "af": "پارټي د شنبې په ورځ په ۱۸ بجو ده." },
+        { "de": "Die Party ist bei mir zu Hause.", "af": "پارټي زما په کور کې ده." },
+        { "de": "Ich komme gern.", "af": "زه په خوښۍ راځم." },
+        { "de": "Ich kann leider nicht kommen.", "af": "افسوس زه نه شم راځلی." },
+        { "de": "Vielen Dank für deine Einladung.", "af": "ستا د دعوت لپاره ډېره مننه." }
+      ],
+      "tip": "💡 **لغوي معلومات:**\nد دعوت لپاره ډېر وخت einladen فعل کاروو چې جلا کېدونکی دی:\n• Ich **lade** dich zu meiner Party **ein**. (زه تاته زما پارټۍ ته دعوت درکوم.)\n• Er **lädt** seine Freunde **ein**. (دی خپلو ملګرو ته دعوت ورکوي.)\nاو له ملګرو سره سلام لکه: *Hallo* / *Liebe Anna* / *Lieber Tom*. او په رسمي پیغامونو کې: *Sehr geehrte Frau ...*.",
+      "dialogue": [
+        {
+          "speaker": "Sara",
+          "de": "Hallo Ali! Ich mache am Samstag eine kleine Party.",
+          "af": "سلام علی! زه د شنبې په ورځ یوه کوچنۍ پارټي جوړوم."
+        },
+        {
+          "speaker": "Sara",
+          "de": "Die Party ist bei mir zu Hause um 18 Uhr.",
+          "af": "پارټي زما په کور کې په ۱۸ بجو ده."
+        },
+        {
+          "speaker": "Sara",
+          "de": "Ich lade dich herzlich ein!",
+          "af": "زه تاته له زړه دعوت درکوم!"
+        },
+        {
+          "speaker": "Ali",
+          "de": "Vielen Dank für deine Einladung!",
+          "af": "ستا د دعوت لپاره ډېره مننه!"
+        }
+      ],
+      "summary": [
+        {
+          "de": "Beispiel: Einladung",
+          "af": "مثال ۱: ساده دعوت پیغام"
+        },
+        {
+          "de": "Liebe Sara,",
+          "af": "عزیزې سارا،"
+        },
+        {
+          "de": "wie geht es dir?",
+          "af": "حال دې څنګه دی؟"
+        },
+        {
+          "de": "Ich schreibe dir, weil ich am Samstag eine Party mache.",
+          "af": "زه درته لیکم ځکه چې د شنبې په ورځ پارټي جوړوم."
+        },
+        {
+          "de": "Die Party ist um 18 Uhr bei mir zu Hause.",
+          "af": "پارټي په ۱۸ بجو زما په کور کې ده."
+        },
+        {
+          "de": "Ich lade dich herzlich ein.",
+          "af": "زه تاته له زړه دعوت درکوم."
+        },
+        {
+          "de": "Ich freue mich auf dich!",
+          "af": "زه ستا په لیدو خوښ یم!"
+        },
+        {
+          "de": "Liebe Grüße,",
+          "af": "دوستانه سلامونه،"
+        },
+        {
+          "de": "Ali",
+          "af": "علي"
+        },
+        {
+          "de": "Beispiel: Antwort – Zusage",
+          "af": "مثال ۲: د دعوت قبول"
+        },
+        {
+          "de": "Liebe Ali,",
+          "af": "عزیز علي،"
+        },
+        {
+          "de": "vielen Dank für deine Einladung.",
+          "af": "ستا د دعوت لپاره ډېره مننه."
+        },
+        {
+          "de": "Ich komme am Samstag gern zu deiner Party.",
+          "af": "زه د شنبې په ورځ ستا پارټۍ ته په خوښۍ راځم."
+        },
+        {
+          "de": "Die Uhrzeit ist perfekt für mich.",
+          "af": "وخت زما لپاره مناسب دی."
+        },
+        {
+          "de": "Brauche ich etwas mitzubringen?",
+          "af": "آیا زه باید یو څه راوړم؟"
+        },
+        {
+          "de": "Viele Grüße,",
+          "af": "ډېر سلامونه،"
+        },
+        {
+          "de": "Anna",
+          "af": "آنا"
+        },
+        {
+          "de": "Beispiel: Antwort – Absage",
+          "af": "مثال ۳: د دعوت اعتذار"
+        },
+        {
+          "de": "Liebe Ali,",
+          "af": "عزیز علي،"
+        },
+        {
+          "de": "vielen Dank für deine Einladung.",
+          "af": "ستا د دعوت لپاره مننه."
+        },
+        {
+          "de": "Leider kann ich am Samstag nicht kommen.",
+          "af": "افسوس د شنبې په ورځ نه شم راځلی."
+        },
+        {
+          "de": "Ich muss arbeiten und habe keine Zeit.",
+          "af": "زه باید کار وکړم او وخت نه لرم."
+        },
+        {
+          "de": "Ich hoffe, wir sehen uns bald.",
+          "af": "هیله لرم چې ژر به ووینو."
+        },
+        {
+          "de": "Liebe Grüße,",
+          "af": "دوستانه سلامونه،"
+        },
+        {
+          "de": "Anna",
+          "af": "آنا"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Welche Anrede passt zu einer Freundin?",
+          "options": [
+            "Sehr geehrte Frau Müller,",
+            "Liebe Anna,",
+            "Guten Tag, Herr Direktor,"
+          ],
+          "answer": 1,
+          "hint": "له ملګرو سره Liebe / Lieber کاروو."
+        },
+        {
+          "question": "Was passt als höfliche Absage?",
+          "options": [
+            "Ich komme nicht, tschüss.",
+            "Ich habe keine Lust.",
+            "Leider kann ich nicht kommen."
+          ],
+          "answer": 2,
+          "hint": "'leider' د مهذبه اعتذار لپاره کاروو."
+        },
+        {
+          "question": "Was schreibt man am Ende einer freundlichen Nachricht?",
+          "options": [
+            "Viele Grüße,",
+            "Ende.",
+            "Tschau."
+          ],
+          "answer": 0
+        }
+      ],
+      "writingExercise": {
+        "instruction_de": "Schreibe eine kurze Nachricht an einen Freund oder eine Freundin. Lade ihn oder sie zu deiner Party ein ODER antworte auf eine Einladung (Zusage oder Absage). Schreibe 4–5 Sätze.",
+        "instruction_af": "یو ملګري یا ملګرې ته لنډ پیغام ولیکئ. یا یې خپلې پارټۍ ته دعوت کړئ، یا په دعوت ځواب ورکړئ (قبول یا اعتذار). له ۴ څخه تر ۵ جملو ولیکئ.",
+        "exampleAnswer": "Liebe Lara, ich mache am Freitag eine kleine Party bei mir zu Hause. Die Party beginnt um 19 Uhr. Ich lade dich herzlich ein und freue mich auf dich. Liebe Grüße, Noor",
+        "feedbackHints": [
+          "پیغام په مناسبه سلام پیل کړئ لکه: Liebe Lara, / Lieber Ali,",
+          "ورځ او وخت په روښانه ډول ذکر کړئ: am Freitag, um 19 Uhr.",
+          "ووایئ چې راځئ یا اعتذار کوئ: Ich komme gern. / Leider kann ich nicht kommen.",
+          "پیغام په ښه خاتمه پای ته ورسوئ لکه: Viele Grüße / Liebe Grüße + ستاسو نوم."
+        ]
+      }
+    },
+    {
+      "id": "a2-email-einfach-1",
+      "title": {
+        "de": "Eine einfache E-Mail schreiben",
+        "af": "یو ساده ایمیل لیکل"
+      },
+      "interactiveScene": "په ورځني ژوند کې، او په ژبې امتحان کې هم، ته به ډېر وخت یو ایمیل یا د ایمیل ځواب لیکلو ته اړتیا لرې.\n\nتصور وکړه چې ستا ملګري درته پیغام لیږلی چې پوښتنه کوي آیا ته غواړې سبا ورسره ووینې.\n\nاوس ته د کمپیوټر مخکې ناست یې، او غواړې ورته یو ساده او روښانه پیغام ولیکې.\n\nپه دې درس کې به موږ یو ځای د ایمیل شکل او ځینې مهمې جملې زده کړو چې ستا په ورځني ژوند او امتحان کې به ګټورې وي.",
+      "explanation": [
+        {
+          "de": "Wie schreibt man eine einfache E-Mail?",
+          "af": "یو ساده ایمیل څنګه لیکل کېږي:\n\n• Betreff: Einladung zum Kaffee. (موضوع په پورتنۍ برخه کې، مثال: د قهوې لپاره دعوت.)\n• Anrede: Hallo Ben, (پیل کې سلام، مثال: سلام بن،)\n• Hauptteil: Wie geht es dir? Ich möchte dich morgen im Café treffen. (د پیغام منځپانګه: حال دې څنګه دی؟ غواړم سبا په کیفې کې درسره ووینم.)\n• Schluss: Viele Grüße, Noa (پای کې خاتمه: ډېر سلامونه، نوا)"
+        },
+        {
+          "de": "Nützliche Sätze in einer E-Mail",
+          "af": "په ایمیل کې ګټورې جملې:\n• Wie geht es dir? (حال دې څنګه دی؟)\n• Ich möchte dich morgen treffen. (غواړم سبا درسره ووینم.)\n• Hast du morgen Zeit? (آیا سبا وخت لرې؟)\n• Danke für deine E-Mail. (ستا د ایمیل لپاره مننه.)\n• Ich freue mich auf deine Antwort. (ستا ځواب ته منتظر یم.)"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Betreff: Einladung zum Kaffee",
+          "af": "موضوع: د قهوې لپاره دعوت",
+          "note": "لږ رسمي"
+        },
+        {
+          "de": "Hallo Ben,",
+          "af": "سلام بن،",
+          "note": "غیر رسمي / د ملګرو لپاره"
+        },
+        {
+          "de": "Viele Grüße,",
+          "af": "ډېر سلامونه،",
+          "note": "په ایمیل کې ډېر عام"
+        },
+        {
+          "de": "Ich freue mich auf deine Antwort.",
+          "af": "ستا ځواب ته خوښ یم.",
+          "note": "مهذبه او ښه"
+        }
+      ],
+      "tip": "💡 **لغوي معلومات:**\nپه جرمني ایمیل کې:\n1️⃣ **Betreff** ډېر وخت پرته له نقطې لیکو.\n2️⃣ له **Anrede** (سلام) وروسته کاما ږدو او ډېر وخت بل سطر په لوی حرف پیلوو.\n3️⃣ په خاتمه کې یو تعبیر لکه **Viele Grüße** لیکو بیا نوم په بل سطر کې.",
+      "dialogue": [
+        {
+          "speaker": "Noa",
+          "de": "Ich möchte Ben eine E-Mail schreiben.",
+          "af": "زه غواړم بن ته ایمیل ولیکم."
+        },
+        {
+          "speaker": "Freund",
+          "de": "Dann schreib zuerst den Betreff.",
+          "af": "نو لومړی موضوع ولیکه."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Gute Idee! Dann ist die E-Mail übersichtlich.",
+          "af": "ښه نظر! نو ایمیل به روښانه وي."
+        }
+      ],
+      "summary": [
+        {
+          "de": "Struktur einer einfachen E-Mail",
+          "af": "• Betreff (موضوع)\n• Anrede (سلام)\n• Hauptteil (د پیغام منځپانګه)\n• Schluss (خاتمه او نوم)"
+        },
+        {
+          "de": "Beispiel-E-Mail",
+          "af": "Betreff: Einladung zum Kaffee\nHallo Ben,\nwie geht es dir? Ich möchte dich morgen im Café treffen.\nViele Grüße,\nNoa"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Was steht ganz oben in einer E-Mail?",
+          "options": [
+            "Betreff",
+            "Schluss",
+            "Anrede"
+          ],
+          "answer": 0,
+          "hint": "دلته موضوع لیکو."
+        },
+        {
+          "question": "Welche Anrede passt gut zu einem Freund?",
+          "options": [
+            "Sehr geehrte Damen und Herren,",
+            "Hallo Ben,",
+            "Mit freundlichen Grüßen"
+          ],
+          "answer": 1,
+          "hint": "دا غیر رسمي سلام د ملګرو لپاره دی."
+        },
+        {
+          "question": "Was schreibt man am Ende der E-Mail?",
+          "options": [
+            "Betreff",
+            "Viele Grüße, Noa",
+            "Guten Morgen"
+          ],
+          "answer": 1,
+          "hint": "دا د \"Schluss\" برخه ده."
+        }
+      ],
+      "writingExercise": {
+        "instruction_de": "Schreibe eine kurze E-Mail an deinen Freund oder deine Freundin. Lade ihn/sie zu einem Treffen ein (z.B. im Café oder im Park).",
+        "instruction_af": "یو ملګري یا ملګرې ته لنډ ایمیل ولیکئ. هغه / هغې ته د ملاقات لپاره دعوت ورکړئ (مثال په کیفې یا پارک کې). له ۳ څخه تر ۴ ساده جملو ولیکئ.",
+        "exampleAnswer": "Betreff: Treffen im Café\nHallo Ben,\nwie geht es dir? Ich möchte dich morgen im Café treffen. Hast du Zeit?\nViele Grüße,\nNoa",
+        "feedbackHints": [
+          "ډاډ ترلاسه کړئ چې ایمیل مو: Betreff + Anrede + Hauptteil + Schluss لري.",
+          "ساده جملې په حال وخت کې وکاروئ لکه: Ich möchte ..., Ich habe Zeit ..., Wir treffen uns ....",
+          "له سلام وروسته کاما مه هېروئ، او د جملو په پای کې نقطې."
+        ],
+        "keywords": [
+          "Betreff",
+          "Hallo",
+          "Viele Grüße",
+          "treffen",
+          "Zeit"
+        ]
+      }
+    },
+    {
+      "id": "a2-lebenslauf-komplett",
+      "title": {
+        "de": "Lebenslauf – einfache Version",
+        "af": "سیره ذاتي – ساده نسخه"
+      },
+      "interactiveScene": "📍 په المان کې د مسلکي مشورې دفتر کې، نوا له مشورې ورکوونکې فابیان سره ناست دی.\n\n**Fabienne:** ښه سهار، نوا! آیا ستا سیره ذاتي له ځانه سره لرې؟\n\n**Noa:** اه... سیره ذاتي؟ 😅\n\n**Fabienne:** هو! دا ستا مسلکي سیلفي ده – خو په کاغذ باندې!\n\n*(خانده کوي او یو ساده سیره ذاتي نمونې ورته ښیي.)*\n\n**Fabienne:** فشار مه اخله. موږ به یو ځای ولیکو!",
+      "explanation": [
+        {
+          "de": "Was ist ein Lebenslauf?",
+          "af": "په جرمني کې سیره ذاتي **Lebenslauf** ورته وایي چې \"د ژوند لار\" معنی لري. دا نه کیسه ده، بلکې ساده جدول دی چې خلاصه کوي چې ته څوک یې، چیرته درس ویلی، او چیرته کار کړی."
+        },
+        {
+          "de": "Struktur eines Lebenslaufs",
+          "af": "سیره ذاتي معمولاً له لاندې برخو جوړه وي:\n• 👤 Persönliche Daten (شخصي معلومات)\n• 🎓 Ausbildung (تعلیم یا زده کړه)\n• 💼 Berufserfahrung (کاري تجربه)\n• 🗣️ Sprachkenntnisse (د ژبو مهارتونه)\n• 🎯 Interessen (لیوالتیاوې)"
+        },
+        {
+          "de": "Beispiel – Persönliche Daten",
+          "af": "Name: Noa Müller\nGeburtsdatum: 12. Mai 2000\nAdresse: Berlin, Hauptstraße 10\nTelefon: 0157 1234567\nE-Mail: noa.mueller@mail.de"
+        },
+        {
+          "de": "Beispiel – Ausbildung & Erfahrung",
+          "af": "2016–2019: Schule in Berlin\n2020–2022: Ausbildung als Verkäufer\n2022–2024: Verkäufer bei Lidl"
+        },
+        {
+          "de": "Beispiel – Sprachen & Interessen",
+          "af": "Deutsch: B1\nEnglisch: A2\nArabisch: Muttersprache\nInteressen: Lesen, Musik, Reisen"
+        }
+      ],
+      "phrasesTable": [
+        {
+          "de": "Ich habe eine Ausbildung als Verkäufer gemacht.",
+          "af": "ما د پلورونکي په توګه روزنه بشپړه کړې."
+        },
+        {
+          "de": "Ich arbeite seit 2022 bei Lidl.",
+          "af": "زه له ۲۰۲۲ راهیسې په Lidl کې کار کوم."
+        },
+        {
+          "de": "Ich habe an der Schule in Berlin gelernt.",
+          "af": "ما په برلین کې په ښوونځي کې زده کړه کړې."
+        },
+        {
+          "de": "Ich spreche Deutsch und Arabisch.",
+          "af": "زه جرمني او عربي خبرې کوم."
+        },
+        {
+          "de": "Meine Hobbys sind Musik und Reisen.",
+          "af": "زما شوقونه موسيقي او سفر دي."
+        }
+      ],
+      "tip": "💡 **لغوي معلومات:**\nپه جرمني سیره ذاتي کې اوږدې جملې نه لیکو. یوازې معلومات په ساده او منظم ډول ذکر کوو.\n\n✅ سم مثال:\nAusbildung als Verkäufer\n\n❌ غلط:\nIch habe eine Ausbildung als Verkäufer gemacht, weil ich gern mit Kunden arbeite.",
+      "dialogue": [
+        {
+          "speaker": "Fabienne",
+          "de": "Noa, du brauchst einen Lebenslauf für deine Bewerbung.",
+          "af": "نوا، ستا د کار غوښتنې لپاره سیره ذاتي ته اړتیا لرې."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ich weiß nicht genau, was ich schreiben soll.",
+          "af": "زه په دقیق ډول نه پوهېږم چې څه ولیکم."
+        },
+        {
+          "speaker": "Fabienne",
+          "de": "Kein Problem! Schreib einfach: Ausbildung, Erfahrung, Sprachen.",
+          "af": "مشکل نشته! یوازې لیکه: زده کړه، تجربه، ژبې."
+        },
+        {
+          "speaker": "Noa",
+          "de": "Ah, das ist ja einfach! Danke!",
+          "af": "آه، دا خو ډېر ساده دی! مننه!"
+        }
+      ],
+      "summary": [
+        {
+          "de": "Lebenslauf = dein berufliches Profil auf Papier.",
+          "af": "سیره ذاتي = ستا مسلکي پروفایل په کاغذ باندې."
+        },
+        {
+          "de": "Wichtige Teile: Daten, Ausbildung, Erfahrung, Sprachen.",
+          "af": "مهمې برخې: معلومات، زده کړه، تجربه، ژبې."
+        },
+        {
+          "de": "Schreibe klar und kurz.",
+          "af": "په روښانه او لنډ ډول ولیکه."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Was bedeutet 'Lebenslauf'?",
+          "options": [
+            "ورځنی پلان",
+            "د ژوند لار یا مسلکي پروفایل",
+            "د خوړو کتاب"
+          ],
+          "answer": 1,
+          "hint": "'Leben' د ژوند معنی لري، 'Lauf' د لار یا مسیر معنی."
+        },
+        {
+          "question": "Was schreibt man unter 'Ausbildung'?",
+          "options": [
+            "د کورنۍ نومونه",
+            "چیرته او څه زده کړې دې کړې",
+            "ستا شوقونه"
+          ],
+          "answer": 1,
+          "hint": "هغه څه چې زده کړې دې کړې فکر وکړه."
+        },
+        {
+          "question": "Welche Sprache schreibt man im Lebenslauf?",
+          "options": [
+            "Arabisch: Muttersprache, Deutsch: B1",
+            "Ich liebe Deutsch",
+            "Sprachen sind schön"
+          ],
+          "answer": 0,
+          "hint": "ژبه او سطح یې لیکو، لکه B1 یا A2."
+        }
+      ],
+      "writingExercise": {
+        "instruction_de": "Schreibe deinen einfachen Lebenslauf mit 3–5 Abschnitten.",
+        "instruction_af": "خپله ساده سیره ذاتي (۳–۵ برخې) ولیکه: شخصي معلومات، زده کړه، تجربه، ژبې، شوقونه.",
+        "exampleAnswer": "Name: Abbas Alhasan\nGeburtsdatum: 15. Juni 1993\nAdresse: Duisburg, Deutschland\nTelefon: 0157 5555555\n\nAusbildung:\n2018–2020: Ausbildung als IT-Techniker\n\nBerufserfahrung:\n2020–2024: IT-Mitarbeiter bei BBQ Institut\n\nSprachen:\nDeutsch: B1, Arabisch: Muttersprache, Englisch: B2\n\nInteressen:\nLesen, Programmieren, Reisen",
+        "keywords": ["Name", "Ausbildung", "Berufserfahrung", "Sprachen", "Interessen"],
+        "feedbackHints": [
+          "معلومات په روښانه او منظم ډول ولیکه.",
+          "د نوم او پتې سره پیل کړه، بیا زده کړه او تجربه.",
+          "د ژبو او شوقونو برخه په پای کې ږده.",
+          "اوږدې جملې یا غیر ضروري کلمې مه کاروه."
+        ]
+      }
+    }
+  ]
+}

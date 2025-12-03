@@ -1,0 +1,1469 @@
+{
+  "level": "A2",
+  "title": " grammar A2",
+  "lessons": [
+    {
+  "id": "A2_Grammar_01_Possessivpronomen",
+  "title": {
+    "de": "Possessivpronomen",
+    "en": "Possessive Pronouns"
+  },
+  "interactiveScene": "The teacher says: 'Jeder hat etwas Eigenes!' — Everyone has something of their own! She writes on the board: 'Wessen Auto ist das?' (Whose car is this?) — 'Das ist mein Auto.'",
+  "explanation": [
+    { "de": "mein / meine", "en": "my" },
+    { "de": "dein / deine", "en": "your (informal singular)" },
+    { "de": "sein / seine", "en": "his" },
+    { "de": "ihr / ihre", "en": "her" },
+    { "de": "unser / unsere", "en": "our" },
+    { "de": "euer / eure", "en": "your (plural informal)" },
+    { "de": "ihr / ihre", "en": "their" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Das ist mein Buch.",
+      "en": "This is my book.",
+      "note": ""
+    },
+    {
+      "de": "Ist das deine Tasche?",
+      "en": "Is this your bag?",
+      "note": ""
+    },
+    {
+      "de": "Ihr Hund ist süß.",
+      "en": "Her dog is cute.",
+      "note": ""
+    }
+  ],
+  "tip": "Possessive pronouns in German must match the gender and number of the noun. Example: mein Vater (masc.) – meine Mutter (fem.).",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Ist das euer Auto?",
+      "en": "Is this your (plural) car?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ja, das ist unser Auto.",
+      "en": "Yes, this is our car."
+    }
+  ],
+  "summary": [
+    { "de": "mein → ich", "en": "my → I" },
+    { "de": "dein → du", "en": "your → you (singular informal)" },
+    { "de": "sein / ihr → er / sie", "en": "his / her → he / she" },
+    { "de": "unser → wir", "en": "our → we" }
+  ],
+  "quiz": [
+    {
+      "question": "____ Vater ist Arzt. (ich)",
+      "options": ["Mein", "Dein", "Ihr"],
+      "answer": 0,
+      "hint": "For 'ich' you use 'mein'."
+    },
+    {
+      "question": "Wo ist ____ Handy? (du)",
+      "options": ["mein", "dein", "sein"],
+      "answer": 1,
+      "hint": "'du' → 'dein'."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Grammar_Modalverben_Teil1",
+  "title": {
+    "de": "Modalverben – Teil 1",
+    "en": "Modal Verbs – Part 1"
+  },
+  "interactiveScene": "The teacher asks: 'Kannst du Deutsch sprechen?' — Can you speak German? This is your first encounter with tiny verbs that completely change the meaning of a sentence!",
+  "explanation": [
+    {
+      "de": "(Modalverben)",
+      "en": "Modal verbs are used with another verb to express ability, necessity, permission, or obligation. The modal verb is conjugated, and the main verb goes to the end in the infinitive form."
+    },
+    { "de": "1. können", "en": "= can / be able to" },
+    { "de": "ich kann", "en": "I can" },
+    { "de": "du kannst", "en": "you can (informal)" },
+    { "de": "er / sie / es kann", "en": "he / she / it can" },
+    { "de": "wir können", "en": "we can" },
+    { "de": "ihr könnt", "en": "you all can" },
+    { "de": "sie / Sie können", "en": "they / you (formal) can" },
+
+    { "de": "2. müssen", "en": "= must / have to" },
+    { "de": "ich muss", "en": "I must" },
+    { "de": "du musst", "en": "you must" },
+    { "de": "er / sie / es muss", "en": "he / she / it must" },
+    { "de": "wir müssen", "en": "we must" },
+    { "de": "ihr müsst", "en": "you all must" },
+    { "de": "sie / Sie müssen", "en": "they / you (formal) must" },
+
+    { "de": "3. sollen", "en": "= should / supposed to" },
+    { "de": "ich soll", "en": "I should" },
+    { "de": "du sollst", "en": "you should" },
+    { "de": "er / sie / es soll", "en": "he / she / it should" },
+    { "de": "wir sollen", "en": "we should" },
+    { "de": "ihr sollt", "en": "you all should" },
+    { "de": "sie / Sie sollen", "en": "they / you (formal) should" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich kann Deutsch sprechen.",
+      "en": "I can speak German.",
+      "note": ""
+    },
+    {
+      "de": "Du musst arbeiten.",
+      "en": "You must work.",
+      "note": ""
+    },
+    {
+      "de": "Er soll mehr schlafen.",
+      "en": "He should sleep more.",
+      "note": ""
+    }
+  ],
+  "tip": "Remember: the modal verb is conjugated and stands in second position. The main verb stays in the infinitive at the end of the sentence.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Kannst du heute kommen?",
+      "en": "Can you come today?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Nein, ich muss arbeiten.",
+      "en": "No, I have to work."
+    }
+  ],
+  "summary": [
+    { "de": "können", "en": "can" },
+    { "de": "müssen", "en": "must / have to" },
+    { "de": "sollen", "en": "should" }
+  ],
+  "quiz": [
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Ich muss lernen.",
+        "Ich soll lernen kann.",
+        "Ich kann lernen muss."
+      ],
+      "answer": 0,
+      "hint": "One modal verb per sentence."
+    },
+    {
+      "question": "Choose the correct word order:",
+      "options": [
+        "Ich kann gut tanzen.",
+        "Ich tanzen gut kann.",
+        "Kann ich tanzen gut."
+      ],
+      "answer": 0,
+      "hint": "Modal verb in second position, main verb at the end."
+    },
+    {
+      "question": "Your friend is sick. What is the best advice?",
+      "options": [
+        "Du kannst schlafen.",
+        "Du musst schlafen.",
+        "Du sollst schlafen."
+      ],
+      "answer": 2,
+      "hint": "sollen = friendly advice."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Grammar_Modalverben_Teil2",
+  "title": {
+    "de": "Modalverben – Teil 2",
+    "en": "Modal Verbs – Part 2"
+  },
+  "interactiveScene": "You are in a restaurant 🍽️. The waiter asks: „Was möchten Sie trinken?“ — What would you like to drink? You answer confidently: „Ich will Pizza!“ 🍕 He laughs, and you correct yourself politely: „Ich möchte Pizza.“ 😂",
+  "explanation": [
+    {
+      "de": "wollen",
+      "en": "to want (strong intention)"
+    },
+    {
+      "de": "ich will",
+      "en": "I want"
+    },
+    {
+      "de": "du willst",
+      "en": "you want (informal)"
+    },
+    {
+      "de": "er / sie / es will",
+      "en": "he / she / it wants"
+    },
+    {
+      "de": "wir wollen",
+      "en": "we want"
+    },
+    {
+      "de": "ihr wollt",
+      "en": "you all want"
+    },
+    {
+      "de": "sie / Sie wollen",
+      "en": "they / you (formal) want"
+    },
+
+    {
+      "de": "möchten",
+      "en": "would like (polite request)"
+    },
+    {
+      "de": "ich möchte",
+      "en": "I would like"
+    },
+    {
+      "de": "du möchtest",
+      "en": "you would like"
+    },
+    {
+      "de": "er / sie / es möchte",
+      "en": "he / she / it would like"
+    },
+
+    {
+      "de": "dürfen",
+      "en": "may / to be allowed"
+    },
+    {
+      "de": "ich darf",
+      "en": "I may / I am allowed"
+    },
+    {
+      "de": "du darfst",
+      "en": "you may"
+    },
+    {
+      "de": "er / sie / es darf",
+      "en": "he / she / it may"
+    },
+
+    {
+      "de": "mögen",
+      "en": "to like (general preference)"
+    },
+    {
+      "de": "ich mag",
+      "en": "I like"
+    },
+    {
+      "de": "du magst",
+      "en": "you like"
+    },
+    {
+      "de": "er / sie / es mag",
+      "en": "he / she / it likes"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich möchte ein Wasser, bitte.",
+      "en": "I would like a water, please.",
+      "note": ""
+    },
+    {
+      "de": "Darf ich hier sitzen?",
+      "en": "May I sit here?",
+      "note": ""
+    },
+    {
+      "de": "Ich mag Kaffee.",
+      "en": "I like coffee.",
+      "note": ""
+    }
+  ],
+  "tip": "Remember: 'möchte' is the polite version of 'wollen'. Use 'dürfen' to ask for permission, and 'mögen' to talk about general preferences.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Was möchten Sie essen?",
+      "en": "What would you like to eat?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich möchte Pizza.",
+      "en": "I would like pizza."
+    },
+    {
+      "speaker": "👩",
+      "de": "Darf ich Ihnen etwas empfehlen?",
+      "en": "May I recommend something?"
+    }
+  ],
+  "summary": [
+    { "de": "wollen", "en": "to want" },
+    { "de": "möchten", "en": "would like (polite)" },
+    { "de": "dürfen", "en": "may / permission" },
+    { "de": "mögen", "en": "to like" }
+  ],
+  "quiz": [
+    {
+      "question": "Which sentence is polite?",
+      "options": [
+        "Ich will Pizza.",
+        "Ich möchte Pizza, bitte.",
+        "Ich mag Pizza, bitte."
+      ],
+      "answer": 1,
+      "hint": "Use 'möchte' for politeness."
+    },
+    {
+      "question": "How do you ask for permission?",
+      "options": [
+        "Kann ich sitzen?",
+        "Darf ich hier sitzen?",
+        "Will ich hier sitzen?"
+      ],
+      "answer": 1,
+      "hint": "dürfen = permission."
+    },
+    {
+      "question": "Which sentence means: I like coffee?",
+      "options": [
+        "Ich möchte Kaffee.",
+        "Ich mag Kaffee.",
+        "Ich will Kaffee."
+      ],
+      "answer": 1,
+      "hint": "mögen = general liking."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Lesson_Modalverben_Sentences",
+  "title": {
+    "de": "Satzbau mit Modalverben",
+    "en": "Sentence Structure with Modal Verbs"
+  },
+  "interactiveScene": "In class, the teacher proudly says: 'Ich kann schwimmen!' She smiles at you and asks: 'Und du?' You panic and answer: 'Ich kann... uh... schlafen?' 😅",
+  "explanation": [
+    {
+      "de": "Modalverben sind Hilfsverben wie: können, müssen, dürfen, wollen, sollen, mögen.",
+      "en": "Modal verbs are auxiliary verbs such as: can, must, may, want, should, like."
+    },
+    {
+      "de": "Ich kann Deutsch sprechen.",
+      "en": "I can speak German."
+    },
+    {
+      "de": "Er muss jeden Tag arbeiten.",
+      "en": "He must work every day."
+    },
+    {
+      "de": "Wir dürfen hier nicht rauchen.",
+      "en": "We are not allowed to smoke here."
+    },
+    {
+      "de": "Ich will Arzt werden.",
+      "en": "I want to become a doctor."
+    },
+    {
+      "de": "Man soll viel Wasser trinken.",
+      "en": "One should drink plenty of water."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "können",
+      "en": "can / be able to",
+      "note": "Ich kann schwimmen. (I can swim.)"
+    },
+    {
+      "de": "müssen",
+      "en": "must / have to",
+      "note": "Ich muss arbeiten. (I must work.)"
+    },
+    {
+      "de": "dürfen",
+      "en": "may / be allowed to",
+      "note": "Wir dürfen hier nicht rauchen. (We may not smoke here.)"
+    },
+    {
+      "de": "wollen",
+      "en": "to want",
+      "note": "Ich will schlafen. (I want to sleep.)"
+    },
+    {
+      "de": "sollen",
+      "en": "should / supposed to",
+      "note": "Du sollst lernen. (You should study.)"
+    }
+  ],
+  "tip": "In German, modal verbs take the second position in the sentence, and the main verb stays at the end in the infinitive form.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Kannst du mir helfen?",
+      "en": "Can you help me?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ja, ich kann kommen.",
+      "en": "Yes, I can come."
+    },
+    {
+      "speaker": "👩",
+      "de": "Du sollst früher schlafen.",
+      "en": "You should sleep earlier."
+    }
+  ],
+  "summary": [
+    { "de": "Verb at the end", "en": "Main verb moves to the end with modal verbs." },
+    { "de": "Modalverb in Position 2", "en": "Modal verb stays in position 2." },
+    { "de": "Infinitiv", "en": "Main verb stays in infinitive form." }
+  ],
+  "quiz": [
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "Ich kann Deutsch sprechen.",
+        "Ich sprechen kann Deutsch.",
+        "Kann ich sprechen Deutsch."
+      ],
+      "answer": 0,
+      "hint": "Modal verb second, main verb at the end."
+    },
+    {
+      "question": "How do you say: 'I want to learn German'?",
+      "options": [
+        "Ich will Deutsch lernen.",
+        "Ich will lernen Deutsch.",
+        "Ich lerne will Deutsch."
+      ],
+      "answer": 0,
+      "hint": "lernen must be at the end."
+    },
+    {
+      "question": "Translation of: Wir dürfen hier nicht rauchen.",
+      "options": [
+        "We cannot eat here.",
+        "We are allowed to smoke here.",
+        "We are not allowed to smoke here."
+      ],
+      "answer": 2,
+      "hint": "dürfen + nicht = not allowed."
+    },
+    {
+      "question": "What does müssen mean?",
+      "options": [
+        "to want",
+        "must / have to",
+        "to be able to"
+      ],
+      "answer": 1,
+      "hint": "müssen = must."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Grammar_04_Trennbare_Verben",
+  "title": {
+    "de": "Trennbare Verben",
+    "en": "Separable Verbs"
+  },
+  "interactiveScene": "You sit in class and the teacher says: “Ich stehe jeden Tag früh auf.” You look confused — why is the verb split? Welcome to separable verbs!",
+  "explanation": [
+    {
+      "de": "Manche Verben bestehen aus einem Verb + Präfix.",
+      "en": "Some German verbs consist of a main verb plus a prefix."
+    },
+    {
+      "de": "Beim Konjugieren trennt sich das Präfix und steht am Satzende.",
+      "en": "When conjugated, the prefix separates and moves to the end of the sentence."
+    },
+    {
+      "de": "aufstehen → Ich stehe um 7 Uhr auf.",
+      "en": "aufstehen → I get up at 7 o'clock."
+    },
+    {
+      "de": "abfahren → Ich fahre morgen ab.",
+      "en": "abfahren → I depart tomorrow."
+    },
+    {
+      "de": "fernsehen → Er sieht abends fern.",
+      "en": "fernsehen → He watches TV in the evening."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "aufstehen",
+      "en": "to get up",
+      "note": ""
+    },
+    {
+      "de": "abfahren",
+      "en": "to depart",
+      "note": ""
+    },
+    {
+      "de": "fernsehen",
+      "en": "to watch TV",
+      "note": ""
+    },
+    {
+      "de": "anrufen",
+      "en": "to call",
+      "note": ""
+    },
+    {
+      "de": "einkaufen",
+      "en": "to shop",
+      "note": ""
+    }
+  ],
+  "tip": "In the infinitive form, the verb stays together. In present tense sentences, the prefix moves to the end.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Rufst du mich später an?",
+      "en": "Will you call me later?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ja, ich rufe dich um 18 Uhr an.",
+      "en": "Yes, I will call you at 6 PM."
+    }
+  ],
+  "summary": [
+    { "de": "aufstehen", "en": "to get up" },
+    { "de": "anrufen", "en": "to call" },
+    { "de": "einkaufen", "en": "to shop" }
+  ],
+  "quiz": [
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "Ich stehe um 7 Uhr auf.",
+        "Ich aufstehe um 7 Uhr.",
+        "Ich stehe auf um 7 Uhr."
+      ],
+      "answer": 0,
+      "hint": "The prefix goes to the end."
+    },
+    {
+      "question": "What does “einkaufen” mean?",
+      "options": ["to shop", "to eat", "to watch"],
+      "answer": 0,
+      "hint": "ein + kaufen = to buy."
+    },
+    {
+      "question": "How do you say: I will call you tomorrow?",
+      "options": [
+        "Ich rufe dich morgen an.",
+        "Ich anrufe dich morgen.",
+        "Ich rufe morgen dich an."
+      ],
+      "answer": 0,
+      "hint": "The prefix (an) goes to the end."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Grammar_05_Komparativ_Superlativ",
+  "title": {
+    "de": "Komparativ und Superlativ",
+    "en": "Comparative and Superlative"
+  },
+  "interactiveScene": "You hear two friends arguing: 'Mein Auto ist schneller!' – 'Nein! Mein Auto ist am schnellsten!' You suddenly realize German loves comparisons just as much as people do 😅.",
+  "explanation": [
+    {
+      "de": "Der Komparativ wird mit -er gebildet.",
+      "en": "The comparative is formed by adding -er."
+    },
+    {
+      "de": "Der Superlativ wird mit am + -sten gebildet.",
+      "en": "The superlative is formed with am + -sten."
+    },
+    {
+      "de": "schnell → schneller → am schnellsten",
+      "en": "fast → faster → the fastest"
+    },
+    {
+      "de": "groß → größer → am größten",
+      "en": "big → bigger → the biggest"
+    },
+    {
+      "de": "langsam → langsamer → am langsamsten",
+      "en": "slow → slower → the slowest"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Mein Haus ist größer.",
+      "en": "My house is bigger.",
+      "note": ""
+    },
+    {
+      "de": "Er ist schneller als ich.",
+      "en": "He is faster than me.",
+      "note": ""
+    },
+    {
+      "de": "Das ist am besten.",
+      "en": "This is the best.",
+      "note": ""
+    }
+  ],
+  "tip": "In German, many adjectives add ‘-er’ for comparative and ‘am + -sten’ for superlative. If the adjective ends in -t/-d/-s, the ending might add an extra ‘e’: schnell → am schnellsten.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Welches Kleid ist schöner?",
+      "en": "Which dress is prettier?"
+    },
+    {
+      "speaker": "👧",
+      "de": "Das rote Kleid ist schöner.",
+      "en": "The red dress is prettier."
+    },
+    {
+      "speaker": "👩",
+      "de": "Und welches ist am schönsten?",
+      "en": "And which one is the prettiest?"
+    }
+  ],
+  "summary": [
+    { "de": "Komparativ: -er", "en": "Comparative: -er" },
+    { "de": "Superlativ: am + -sten", "en": "Superlative: am + -sten" },
+    { "de": "größer / am größten", "en": "bigger / the biggest" }
+  ],
+  "quiz": [
+    {
+      "question": "What is the correct comparative form of 'langsam'?",
+      "options": ["langsamer", "am langsamsten", "langsamste"],
+      "answer": 0,
+      "hint": "Comparative = -er."
+    },
+    {
+      "question": "What does 'am besten' mean?",
+      "options": ["better", "the best", "the fastest"],
+      "answer": 1,
+      "hint": "Superlative uses 'am + -sten'."
+    },
+    {
+      "question": "Choose the correct German sentence:",
+      "options": [
+        "Mein Hund ist am schnellsten.",
+        "Mein Hund ist schnellster am.",
+        "Mein Hund am ist schnellsten."
+      ],
+      "answer": 0,
+      "hint": "Superlative goes after 'am'."
+    },
+    {
+      "question": "Translate: 'He is taller than me.'",
+      "options": [
+        "Er ist größer als ich.",
+        "Er ist groß als ich.",
+        "Er ist am größer als ich."
+      ],
+      "answer": 0,
+      "hint": "größer = taller."
+    }
+  ]
+}
+,
+{
+  "id": "gram-nebensaetze-a2",
+  "title": {
+    "de": "Nebensätze mit weil, dass, wenn, obwohl",
+    "en": "Subordinate Clauses with weil, dass, wenn, obwohl"
+  },
+  "interactiveScene": "Imagine your friend says: “Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.” Suddenly you realize subordinate clauses in German push the verb to the end ― like a ninja move!",
+  "explanation": [
+    {
+      "de": "Was ist ein Nebensatz?",
+      "en": "A subordinate clause cannot stand alone and depends on the main clause. Words like weil, dass, wenn, obwohl create subordinate clauses, and the verb moves to the end."
+    },
+    {
+      "de": "Hauptsatz + Nebensatz",
+      "en": "In the main clause, the verb stays in the 2nd position. In the subordinate clause, the verb moves to the end. Example: Ich bleibe zu Hause, weil ich krank bin."
+    },
+    {
+      "de": "Nebensatz + Hauptsatz",
+      "en": "A subordinate clause can come first. Example: Weil ich krank bin, bleibe ich zu Hause. The subordinate clause ends with the verb; the main clause begins with the verb in position 2."
+    },
+    {
+      "de": "Konjunktion: weil",
+      "en": "weil is used to express a reason. Example: Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte."
+    },
+    {
+      "de": "Konjunktion: dass",
+      "en": "dass is used after verbs of thinking or believing. Example: Ich glaube, dass er sehr fleißig ist."
+    },
+    {
+      "de": "Konjunktion: wenn",
+      "en": "wenn means 'when' (repeated actions) or 'if'. Example: Wenn ich Zeit habe, lerne ich Deutsch."
+    },
+    {
+      "de": "Konjunktion: obwohl",
+      "en": "obwohl means 'although'. It expresses contrast. Example: Obwohl ich müde bin, gehe ich arbeiten."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich bleibe zu Hause, weil ich krank bin.",
+      "en": "I stay at home because I am sick.",
+      "note": ""
+    },
+    {
+      "de": "Ich glaube, dass er recht hat.",
+      "en": "I believe that he is right.",
+      "note": ""
+    },
+    {
+      "de": "Wenn es regnet, nehme ich einen Regenschirm.",
+      "en": "When it rains, I take an umbrella.",
+      "note": ""
+    },
+    {
+      "de": "Obwohl es kalt ist, gehe ich spazieren.",
+      "en": "Although it is cold, I go for a walk.",
+      "note": ""
+    }
+  ],
+  "tip": "In subordinate clauses with weil, dass, wenn, obwohl, the conjugated verb must always be at the end. If the subordinate clause comes first, the main clause must begin with the verb.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Warum bleibst du zu Hause?",
+      "en": "Why are you staying at home?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Weil ich krank bin.",
+      "en": "Because I am sick."
+    },
+    {
+      "speaker": "👩",
+      "de": "Gehst du morgen arbeiten?",
+      "en": "Are you going to work tomorrow?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Wenn es mir besser geht, ja.",
+      "en": "If I feel better, yes."
+    }
+  ],
+  "summary": [
+    { "de": "weil", "en": "because (reason)" },
+    { "de": "dass", "en": "that (after verbs of thought)" },
+    { "de": "wenn", "en": "when / if" },
+    { "de": "obwohl", "en": "although (contrast)" },
+    { "de": "Verb am Ende", "en": "Verb at the end of the subordinate clause" }
+  ],
+  "quiz": [
+    {
+      "question": "Which sentence contains a correct subordinate clause with 'weil'?",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Weil ich krank, bleibe ich zu Hause."
+      ],
+      "answer": 1,
+      "hint": "Verb must be at the end."
+    },
+    {
+      "question": "Which sentence uses 'dass' correctly?",
+      "options": [
+        "Ich glaube, dass er kommt.",
+        "Ich glaube, er dass kommt.",
+        "Dass ich glaube, er kommt."
+      ],
+      "answer": 0,
+      "hint": "dass → verb at the end."
+    },
+    {
+      "question": "Which sentence expresses contrast?",
+      "options": [
+        "Wenn ich krank bin, bleibe ich zu Hause.",
+        "Obwohl ich krank bin, gehe ich zur Arbeit.",
+        "Ich glaube, dass ich krank bin."
+      ],
+      "answer": 1,
+      "hint": "Look for obwohl."
+    },
+    {
+      "question": "Which sentence has correct structure with a subordinate clause first?",
+      "options": [
+        "Weil ich müde bin, ich gehe früh ins Bett.",
+        "Weil ich müde bin, gehe ich früh ins Bett.",
+        "Weil ich bin müde, gehe ich früh ins Bett."
+      ],
+      "answer": 1,
+      "hint": "After the comma, verb must be in position 2."
+    },
+    {
+      "question": "Choose the correct word: Ich weiß, ___ er heute nicht kommt.",
+      "options": ["weil", "dass", "wenn", "obwohl"],
+      "answer": 1,
+      "hint": "After 'wissen' we often use dass."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Grammar_08_Futur_I",
+  "title": {
+    "de": "Futur I mit werden",
+    "en": "Future Tense with 'werden'"
+  },
+  "interactiveScene": "The teacher enters the classroom excitedly and asks: 'Was wirst du nächstes Jahr machen?' — What will you do next year? This is your introduction to Futur I!",
+  "explanation": [
+    {
+      "de": "Wir bilden Futur I mit: werden + Verb im Infinitiv (am Satzende).",
+      "en": "We form Futur I with: werden + verb in the infinitive at the end of the sentence."
+    },
+    { "de": "ich werde", "en": "I will" },
+    { "de": "du wirst", "en": "you will (informal)" },
+    { "de": "er / sie / es wird", "en": "he / she / it will" },
+    { "de": "wir werden", "en": "we will" },
+    { "de": "ihr werdet", "en": "you all will" },
+    { "de": "sie / Sie werden", "en": "they / you (formal) will" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich werde morgen früh aufstehen.",
+      "en": "I will get up early tomorrow.",
+      "note": "A personal plan for the future."
+    },
+    {
+      "de": "Wir werden nächstes Jahr nach Deutschland reisen.",
+      "en": "We will travel to Germany next year.",
+      "note": "Long-term future intention."
+    },
+    {
+      "de": "Er wird Arzt werden.",
+      "en": "He will become a doctor.",
+      "note": "Future profession."
+    }
+  ],
+  "tip": "werden is conjugated, while the main verb stays in the infinitive at the end. Example: Ich werde Deutsch lernen.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Wirst du morgen kommen?",
+      "en": "Will you come tomorrow?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ja, ich werde kommen.",
+      "en": "Yes, I will come."
+    },
+    {
+      "speaker": "👩",
+      "de": "Was wirst du am Wochenende machen?",
+      "en": "What will you do on the weekend?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich werde meine Familie besuchen.",
+      "en": "I will visit my family."
+    }
+  ],
+  "summary": [
+    { "de": "werden + Infinitiv", "en": "werden + infinitive" },
+    { "de": "Verb am Ende", "en": "Main verb stays at the end" },
+    { "de": "Zukunftspläne", "en": "Used for future plans and predictions" }
+  ],
+  "quiz": [
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Ich werde morgen Deutsch lernen.",
+        "Ich werde Deutsch morgen lernt.",
+        "Ich lerne werde morgen Deutsch."
+      ],
+      "answer": 0,
+      "hint": "werden is in second position, infinitive at the end."
+    },
+    {
+      "question": "How do you ask: 'Will you come tomorrow?'",
+      "options": [
+        "Wirst du morgen kommen?",
+        "Du wirst morgen kommen?",
+        "Werde du morgen kommst?"
+      ],
+      "answer": 0,
+      "hint": "Questions start with the conjugated verb."
+    },
+    {
+      "question": "Translate: 'We will cook tomorrow.'",
+      "options": [
+        "Wir werden morgen kochen.",
+        "Wir werden kochen morgen.",
+        "Wir kochen werden morgen."
+      ],
+      "answer": 0,
+      "hint": "kochen stays at the end."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Grammar_Adjektivendungen_Einfach",
+  "title": {
+    "de": "Adjektivendungen (Einfach)",
+    "en": "Adjective Endings (Basic)"
+  },
+  "interactiveScene": "You walk into a shop and see a sign saying: 'Wir haben frische Tomaten!' Another sign says: 'Wir haben große Tomaten!' Suddenly you notice how German adjectives change depending on what comes before.",
+  "explanation": [
+    {
+      "de": "Adjektive bekommen Endungen, wenn sie vor einem Nomen stehen.",
+      "en": "Adjectives take endings when they stand before a noun."
+    },
+    {
+      "de": "Bestimmter Artikel (der/die/das):",
+      "en": "Definite article (der/die/das):"
+    },
+    {
+      "de": "der große Hund",
+      "en": "the big dog"
+    },
+    {
+      "de": "die schöne Blume",
+      "en": "the beautiful flower"
+    },
+    {
+      "de": "das kleine Haus",
+      "en": "the small house"
+    },
+    {
+      "de": "Unbestimmter Artikel (ein/eine):",
+      "en": "Indefinite article (ein/eine):"
+    },
+    {
+      "de": "ein großer Hund",
+      "en": "a big dog"
+    },
+    {
+      "de": "eine schöne Blume",
+      "en": "a beautiful flower"
+    },
+    {
+      "de": "ein kleines Haus",
+      "en": "a small house"
+    },
+    {
+      "de": "Ohne Artikel:",
+      "en": "Without an article:"
+    },
+    {
+      "de": "großer Hund",
+      "en": "big dog"
+    },
+    {
+      "de": "schöne Blume",
+      "en": "beautiful flower"
+    },
+    {
+      "de": "kleines Haus",
+      "en": "small house"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "der kalte Tag",
+      "en": "the cold day",
+      "note": ""
+    },
+    {
+      "de": "eine große Stadt",
+      "en": "a big city",
+      "note": ""
+    },
+    {
+      "de": "ein neuer Computer",
+      "en": "a new computer",
+      "note": ""
+    },
+    {
+      "de": "frisches Brot",
+      "en": "fresh bread",
+      "note": ""
+    }
+  ],
+  "tip": "Adjective endings change depending on the article before the noun. With der/die/das, the adjective often ends with -e. With ein/eine, the adjective often ends with -er/-e/-es. Without an article, endings behave like der-words.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Möchtest du das große Stück Kuchen?",
+      "en": "Would you like the big piece of cake?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Nein, ich möchte ein kleines Stück.",
+      "en": "No, I would like a small piece."
+    }
+  ],
+  "summary": [
+    { "de": "der große Hund", "en": "the big dog" },
+    { "de": "ein großer Hund", "en": "a big dog" },
+    { "de": "großer Hund", "en": "big dog" }
+  ],
+  "quiz": [
+    {
+      "question": "Choose the correct form:",
+      "options": [
+        "eine schön Blume",
+        "eine schöne Blume",
+        "eine schönen Blume"
+      ],
+      "answer": 1,
+      "hint": "With 'eine', feminine adjectives end in -e."
+    },
+    {
+      "question": "Translate: 'a small house'",
+      "options": [
+        "ein kleines Haus",
+        "ein kleiner Haus",
+        "eine kleines Haus"
+      ],
+      "answer": 0,
+      "hint": "Haus = neuter → kleines"
+    },
+    {
+      "question": "Which is correct?",
+      "options": [
+        "das groß Auto",
+        "das große Auto",
+        "der großes Auto"
+      ],
+      "answer": 1,
+      "hint": "With das → große."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Lesson_Prapositionen_Basic",
+  "title": {
+    "de": "Präpositionen im Alltag",
+    "en": "Basic Prepositions in Daily Life"
+  },
+  "interactiveScene": "You’re in the kitchen 🍳. Your friend asks: 'Wo ist der Zucker?' You start looking: in the fridge? on the table? under the chair? Welcome to the magic world of prepositions!",
+  "explanation": [
+    { "de": "in", "en": "in" },
+    { "de": "auf", "en": "on / on top of" },
+    { "de": "unter", "en": "under" },
+    { "de": "über", "en": "above / over" },
+    { "de": "neben", "en": "next to" },
+    { "de": "vor", "en": "in front of" },
+    { "de": "hinter", "en": "behind" },
+    { "de": "zwischen", "en": "between" },
+    { "de": "mit", "en": "with" },
+    { "de": "ohne", "en": "without" },
+    { "de": "bei", "en": "at / near / with" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich bin in der Küche.",
+      "en": "I am in the kitchen.",
+      "note": ""
+    },
+    {
+      "de": "Das Buch liegt auf dem Tisch.",
+      "en": "The book is lying on the table.",
+      "note": ""
+    },
+    {
+      "de": "Die Katze ist unter dem Bett.",
+      "en": "The cat is under the bed.",
+      "note": ""
+    },
+    {
+      "de": "Der Schlüssel ist neben der Tasche.",
+      "en": "The key is next to the bag.",
+      "note": ""
+    }
+  ],
+  "tip": "Prepositions describe locations or relations. Many of them require the dative case when talking about location (wo?). Example: in der Küche, auf dem Tisch, unter dem Bett.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Wo bist du?",
+      "en": "Where are you?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich bin im Wohnzimmer.",
+      "en": "I am in the living room."
+    },
+    {
+      "speaker": "👩",
+      "de": "Wo ist dein Handy?",
+      "en": "Where is your phone?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Es liegt auf dem Sofa.",
+      "en": "It is lying on the sofa."
+    }
+  ],
+  "summary": [
+    { "de": "in / auf / unter", "en": "in / on / under" },
+    { "de": "neben / hinter / vor", "en": "next to / behind / in front of" },
+    { "de": "mit / ohne / bei", "en": "with / without / at" }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'Ich bin in der Küche' mean?",
+      "options": ["I am in the kitchen.", "I am on the kitchen.", "I am under the kitchen."],
+      "answer": 0,
+      "hint": "in = in"
+    },
+    {
+      "question": "How do you say: 'The cat is under the bed'?",
+      "options": [
+        "Die Katze ist unter dem Bett.",
+        "Die Katze ist auf dem Bett.",
+        "Die Katze ist hinter dem Bett."
+      ],
+      "answer": 0,
+      "hint": "unter = under"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Ich gehe mit meinem Freund.",
+        "Ich gehe ohne meinem Freund.",
+        "Ich gehe bei meinem Freund."
+      ],
+      "answer": 0,
+      "hint": "mit = with"
+    }
+  ]
+}
+,
+{
+  "id": "a2-einladung-und-antworten",
+  "title": {
+    "de": "Eine Einladung und zwei Antworten",
+    "en": "A Simple Invitation and Two Responses"
+  },
+  "interactiveScene": "You receive a message from a friend: “Ich lade dich zu meiner Party ein!” You smile and now must decide: accept politely or decline kindly.",
+  "explanation": [
+    {
+      "de": "Teile einer einfachen Nachricht",
+      "en": "Parts of a simple German message: greeting, reason or invitation, response (accept or decline), closing phrase like 'Viele Grüße'."
+    },
+    {
+      "de": "Typische Wendungen",
+      "en": "Useful expressions for invitations and replies."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich lade dich zu meiner Party ein.",
+      "en": "I invite you to my party.",
+      "note": ""
+    },
+    {
+      "de": "Die Party ist am Samstag um 18 Uhr.",
+      "en": "The party is on Saturday at 6 PM.",
+      "note": ""
+    },
+    {
+      "de": "Die Party ist bei mir zu Hause.",
+      "en": "The party is at my place.",
+      "note": ""
+    },
+    {
+      "de": "Ich komme gern.",
+      "en": "I will gladly come.",
+      "note": ""
+    },
+    {
+      "de": "Ich kann leider nicht kommen.",
+      "en": "Unfortunately, I cannot come.",
+      "note": ""
+    },
+    {
+      "de": "Vielen Dank für deine Einladung.",
+      "en": "Thank you very much for your invitation.",
+      "note": ""
+    }
+  ],
+  "tip": "When accepting an invitation, use 'Ich komme gern'. When declining, use 'Leider kann ich nicht kommen'. Always end with a polite closing like 'Viele Grüße'.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Ich mache am Freitag eine kleine Feier. Möchtest du kommen?",
+      "en": "I'm having a small gathering on Friday. Would you like to come?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ja, ich komme gern!",
+      "en": "Yes, I would gladly come!"
+    },
+    {
+      "speaker": "👩",
+      "de": "Super! Dann bis Freitag!",
+      "en": "Great! See you on Friday!"
+    },
+    {
+      "speaker": "👦",
+      "de": "Viele Grüße!",
+      "en": "Kind regards!"
+    }
+  ],
+  "summary": [
+    { "de": "Ich lade dich ein", "en": "I invite you" },
+    { "de": "Ich komme gern", "en": "I gladly come (accept)" },
+    { "de": "Leider kann ich nicht kommen", "en": "Unfortunately I cannot come (decline)" },
+    { "de": "Viele Grüße", "en": "Kind regards" }
+  ],
+  "quiz": [
+    {
+      "question": "Which is a polite acceptance?",
+      "options": ["Ich komme gern.", "Ich komme vielleicht.", "Ich weiß nicht."],
+      "answer": 0,
+      "hint": "Acceptance must be clear and polite."
+    },
+    {
+      "question": "Which sentence means: 'Unfortunately I cannot come'?",
+      "options": [
+        "Ich komme gern.",
+        "Leider kann ich nicht kommen.",
+        "Ich lade dich ein."
+      ],
+      "answer": 1,
+      "hint": "Look for 'leider'."
+    },
+    {
+      "question": "What is a correct closing in a friendly message?",
+      "options": ["Viele Grüße,", "Ende.", "Nein."],
+      "answer": 0,
+      "hint": "Polite closings are important in German writing."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe eine kurze Nachricht an eine Freundin oder einen Freund: eine Einladung oder eine Antwort (Zusage oder Absage). Schreibe 4–5 Sätze.",
+    "instruction_en": "Write a short message to a friend: either an invitation or a reply (accepting or declining). Write 4–5 sentences.",
+    "exampleAnswer": "Liebe Lara, ich mache am Freitag eine kleine Feier und möchte dich herzlich einladen. Die Party beginnt um 19 Uhr. Ich hoffe, du kannst kommen. Viele Grüße, Noor",
+    "feedbackHints": [
+      "Begin the message with an appropriate greeting such as: Liebe Lara / Lieber Ali.",
+      "Mention the day and time clearly.",
+      "State clearly whether you are accepting or declining.",
+      "End with a polite closing such as: Viele Grüße + your name."
+    ]
+  }
+}
+,
+{
+  "id": "a2-email-einfach-1",
+  "title": {
+    "de": "Eine einfache E-Mail schreiben",
+    "en": "Writing a Simple Email"
+  },
+  "interactiveScene": "You need to write a quick email to a friend: an invitation, a question, or a simple update. Simple structure, polite phrases, and you're ready!",
+  "explanation": [
+    {
+      "de": "Wie schreibt man eine einfache E-Mail?",
+      "en": "A simple email usually follows this structure: \n• Subject (Betreff)\n• Greeting (Anrede)\n• Main text (reason, invitation, information)\n• Closing phrase (Schluss) such as 'Viele Grüße, Ben'"
+    },
+    {
+      "de": "Nützliche Sätze in einer E-Mail",
+      "en": "Useful sentences in an email:\n• Wie geht es dir? – How are you?\n• Vielen Dank für deine Nachricht. – Thank you for your message.\n• Kannst du morgen kommen? – Can you come tomorrow?\n• Ich freue mich auf deine Antwort. – I look forward to your reply."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Betreff: Einladung zum Kaffee",
+      "en": "Subject: Invitation for coffee",
+      "note": "Semi-formal"
+    },
+    {
+      "de": "Hallo Ben,",
+      "en": "Hello Ben,",
+      "note": "Informal greeting"
+    },
+    {
+      "de": "Viele Grüße,",
+      "en": "Kind regards,",
+      "note": "Very common closing"
+    },
+    {
+      "de": "Ich freue mich auf deine Antwort.",
+      "en": "I look forward to your reply.",
+      "note": ""
+    }
+  ],
+  "tip": "A short email should be clear: Subject + Greeting + 2–3 simple sentences + a polite closing such as 'Viele Grüße'.",
+  "dialogue": [
+    {
+      "speaker": "📧",
+      "de": "Kannst du morgen Zeit finden?",
+      "en": "Can you find time tomorrow?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ja, ich habe am Nachmittag Zeit.",
+      "en": "Yes, I have time in the afternoon."
+    }
+  ],
+  "summary": [
+    { "de": "Betreff", "en": "subject line" },
+    { "de": "Hallo ...", "en": "informal greeting" },
+    { "de": "Viele Grüße", "en": "polite closing" }
+  ],
+  "quiz": [
+    {
+      "question": "Which part is the subject?",
+      "options": ["Hallo Ben", "Betreff: Einladung", "Viele Grüße"],
+      "answer": 1,
+      "hint": "Betreff means subject."
+    },
+    {
+      "question": "Which is an informal greeting?",
+      "options": ["Sehr geehrte Damen und Herren,", "Hallo Ben,", "Mit freundlichen Grüßen"],
+      "answer": 1,
+      "hint": "Used for friends."
+    },
+    {
+      "question": "What do you write at the end of an email?",
+      "options": ["Betreff", "Viele Grüße, Noa", "Guten Morgen"],
+      "answer": 1,
+      "hint": "This is the closing."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe eine kurze E-Mail an einen Freund oder eine Freundin. Lade ihn/sie zu einem Treffen ein (z.B. im Café oder im Park). Schreibe 3–4 einfache Sätze.",
+    "instruction_en": "Write a short email to a friend. Invite them to a meeting (e.g., in a café or in the park). Write 3–4 simple sentences.",
+    "exampleAnswer": "Betreff: Treffen im Café\nHallo Ben,\nwie geht es dir? Ich möchte dich morgen im Café treffen. Hast du Zeit?\nViele Grüße,\nNoa",
+    "feedbackHints": [
+      "Include: Subject + Greeting + Main text + Closing.",
+      "Use simple present tense: Ich möchte..., Ich habe Zeit..., Wir treffen uns...",
+      "Don't forget the comma after the greeting and periods at the end of sentences."
+    ],
+    "keywords": ["Betreff", "Hallo", "Viele Grüße", "treffen", "Zeit"]
+  }
+}
+,
+{
+  "id": "a2-lebenslauf-komplett",
+  "title": {
+    "de": "Lebenslauf – einfache Version",
+    "en": "CV – Simple Version"
+  },
+  "interactiveScene": "You are at a career center in Germany. The advisor smiles and says: 'Wir machen jetzt deinen Lebenslauf!' — We will prepare your CV now! You realize a German CV is short, clear, and very structured.",
+  "explanation": [
+    {
+      "de": "Was ist ein Lebenslauf?",
+      "en": "A Lebenslauf is a German-style CV. It is not a story, but a clear table of your personal data, education, work experience, languages, and interests."
+    },
+    {
+      "de": "Struktur eines Lebenslaufs",
+      "en": "A simple CV usually contains: personal data, education, work experience, language skills, and interests."
+    },
+    {
+      "de": "Beispiel – Persönliche Daten",
+      "en": "Example – Personal Data:\nName: Noa Müller\nDate of Birth: 12 May 2000\nAddress: Berlin, Sonnenstraße 10\nPhone: 0157 1234567\nEmail: noa.mueller@mail.de"
+    },
+    {
+      "de": "Beispiel – Ausbildung & Erfahrung",
+      "en": "Example – Education & Experience:\n2016–2019: School in Berlin\n2020–2022: Training as a salesperson\n2022–2024: Salesperson at Lidl"
+    },
+    {
+      "de": "Beispiel – Sprachen & Interessen",
+      "en": "Example – Languages & Interests:\nGerman: B1\nEnglish: A2\nArabic: Native\nInterests: reading, music, traveling"
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich habe eine Ausbildung als Verkäufer gemacht.",
+      "en": "I completed vocational training as a salesperson.",
+      "note": ""
+    },
+    {
+      "de": "Ich habe Berufserfahrung im Einzelhandel.",
+      "en": "I have work experience in retail.",
+      "note": ""
+    },
+    {
+      "de": "Ich spreche Deutsch auf B1-Niveau.",
+      "en": "I speak German at B1 level.",
+      "note": ""
+    },
+    {
+      "de": "Ich suche eine neue Arbeitsstelle.",
+      "en": "I am looking for a new job.",
+      "note": ""
+    }
+  ],
+  "tip": "A German CV is short and clear. Write only keywords, not long sentences. Begin with personal data, then education, then experience, then languages and interests.",
+  "dialogue": [
+    {
+      "speaker": "👩",
+      "de": "Hast du deinen Lebenslauf schon geschrieben?",
+      "en": "Have you already written your CV?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Nein, ich brauche Hilfe.",
+      "en": "No, I need help."
+    },
+    {
+      "speaker": "👩",
+      "de": "Kein Problem! Wir machen das zusammen.",
+      "en": "No problem! We'll do it together."
+    }
+  ],
+  "summary": [
+    { "de": "Persönliche Daten", "en": "Personal data" },
+    { "de": "Ausbildung", "en": "Education" },
+    { "de": "Berufserfahrung", "en": "Work experience" },
+    { "de": "Sprachen", "en": "Languages" },
+    { "de": "Interessen", "en": "Interests" }
+  ],
+  "quiz": [
+    {
+      "question": "What belongs in the personal data section?",
+      "options": ["Your hobbies", "Your name and address", "Your favorite food"],
+      "answer": 1,
+      "hint": "Personal data = basic information."
+    },
+    {
+      "question": "What is correct for education?",
+      "options": [
+        "2019–2021: Ausbildung als Verkäufer",
+        "Ich habe Schule",
+        "Meine Schule war gut"
+      ],
+      "answer": 0,
+      "hint": "Use dates + position."
+    },
+    {
+      "question": "How do you write language skills?",
+      "options": ["Ich liebe Deutsch", "Deutsch B1, Englisch A2", "Sprachen sind schön"],
+      "answer": 1,
+      "hint": "Write the language and the level."
+    }
+  ],
+  "writingExercise": {
+    "instruction_de": "Schreibe deinen einfachen Lebenslauf mit 3–5 Abschnitten.",
+    "instruction_en": "Write your simple CV with 3–5 sections.",
+    "exampleAnswer": "Name: Abbas Alhasan\nDate of Birth: 15 June 1994\nAddress: Moers, Germany\nPhone: 0176 ...\n\nEducation:\n2010–2013: School in Syria\n2024–2026: IT Training\n\nExperience:\n2023: Volunteer work\n\nLanguages:\nGerman B2, English B2, Arabic: native\n\nInterests:\nReading, programming, traveling",
+    "keywords": ["Name", "Education", "Work experience", "Languages", "Interests"],
+    "feedbackHints": [
+      "Write your information clearly and in order.",
+      "Start with personal data, then education and experience.",
+      "Add languages and interests at the end.",
+      "Avoid long sentences—use simple structure."
+    ]
+  }
+}
+
+]
+}

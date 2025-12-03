@@ -1,0 +1,775 @@
+{
+  "level": "A1",
+  "title": " grammar A1",
+  "lessons": [
+
+    {
+  "id": "G01_Personalpronomen",
+  "title": {
+    "de": "Personalpronomen",
+    "en": "Personal Pronouns (Subject Pronouns)"
+  },
+  "interactiveScene": "The teacher points at the students and says: “Ich bin Lehrerin.” — I am a teacher. She laughs. Then she asks: “Wer bist du?” — Who are you? You reply: “Ich bin Noa.” Then she points at your classmate: “Er ist neu.” — He is new. At the end she smiles and says to everyone: “Ihr seid super!” — You are great!",
+  "explanation": [
+    { "de": "ich", "en": "I." },
+    { "de": "du", "en": "you (informal, singular)." },
+    { "de": "er", "en": "he." },
+    { "de": "sie", "en": "she." },
+    { "de": "es", "en": "it." },
+    { "de": "wir", "en": "we." },
+    { "de": "ihr", "en": "you (plural, informal)." },
+    { "de": "sie", "en": "they." },
+    { "de": "Sie", "en": "you (formal)." },
+    { "de": "Ich bin Noa.", "en": "I am Noa." },
+    { "de": "Du bist müde.", "en": "You are tired." },
+    { "de": "Er ist neu.", "en": "He is new." },
+    { "de": "Wir lernen Deutsch.", "en": "We are learning German." },
+    { "de": "Ihr seid laut.", "en": "You are loud." },
+    { "de": "Sie sind freundlich.", "en": "They are friendly." }
+  ],
+  "phrasesTable": [
+    { "de": "Ich bin müde.", "en": "I am tired.", "note": "" },
+    { "de": "Du bist nett.", "en": "You are nice.", "note": "Informal, used with friends." },
+    { "de": "Er ist Student.", "en": "He is a student.", "note": "" },
+    { "de": "Sie ist Ärztin.", "en": "She is a doctor.", "note": "" },
+    { "de": "Wir sind هنا.", "en": "We are here.", "note": "" },
+    { "de": "Ihr seid laut.", "en": "You are loud.", "note": "For several people you know." },
+    { "de": "Sie sind neu هنا.", "en": "They are new here.", "note": "sie = they." },
+    { "de": "Wie heißt du?", "en": "What is your name?", "note": "With du." },
+    { "de": "Wie heißen Sie?", "en": "What is your name? (formal)", "note": "With Sie (formal)." }
+  ],
+  "tip": "Pronouns tell who is performing the action: ich = I, du = you, er/sie/es = he/she/it, wir = we, ihr = you (plural), sie = they, Sie = you (formal). In formal situations with strangers, always use Sie.",
+  "dialogue": [
+    { "speaker": "👩‍🏫", "de": "Wer bist du?", "en": "Who are you?" },
+    { "speaker": "👨", "de": "Ich bin Noa.", "en": "I am Noa." },
+    { "speaker": "👩‍🏫", "de": "Woher kommst du?", "en": "Where are you from?" },
+    { "speaker": "👨", "de": "Ich komme aus Syrien.", "en": "I come from Syria." },
+    { "speaker": "👩‍🏫", "de": "Ihr seid eine tolle Gruppe!", "en": "You are a great group!" }
+  ],
+  "summary": [
+    { "de": "ich, du, er, sie, es", "en": "I, you, he, she, it." },
+    { "de": "wir, ihr, sie", "en": "we, you (plural), they." },
+    { "de": "Sie (groß)", "en": "you (formal)." },
+    { "de": "Ich bin ...", "en": "I am ..." },
+    { "de": "Wir sind ...", "en": "We are ..." }
+  ],
+  "quiz": [
+    {
+      "question": "Choose the correct pronoun: ___ bin müde.",
+      "options": ["Du", "Ich", "Sie"],
+      "answer": 1,
+      "hint": "The sentence means: I am tired."
+    },
+    {
+      "question": "Which pronoun fits: ___ seid laut. (You are loud)",
+      "options": ["Er", "Wir", "Ihr"],
+      "answer": 2,
+      "hint": "Used for a group of familiar people."
+    },
+    {
+      "question": "For a stranger, which is correct? ___ sind Herr Müller?",
+      "options": ["Du", "Sie", "Ihr"],
+      "answer": 1,
+      "hint": "Formal pronoun Sie."
+    }
+  ]
+}
+,
+{
+  "id": "G02_Sein_Haben",
+  "title": {
+    "de": "Verben sein und haben",
+    "en": "The Verbs 'sein' and 'haben'"
+  },
+  "interactiveScene": "You enter the classroom and hear the teacher say: “Ich bin müde heute.” — I am tired today. A student laughs and replies: “Ich habe Kaffee!” — I have coffee! Everyone smiles because in German, the verbs 'sein' (to be) and 'haben' (to have) appear everywhere — every day, in every sentence.",
+  "explanation": [
+    { "de": "sein", "en": "to be." },
+    { "de": "ich bin", "en": "I am." },
+    { "de": "du bist", "en": "you are (informal)." },
+    { "de": "er/sie/es ist", "en": "he/she/it is." },
+    { "de": "wir sind", "en": "we are." },
+    { "de": "ihr seid", "en": "you (plural) are." },
+    { "de": "sie sind", "en": "they are." },
+    { "de": "Sie sind", "en": "you (formal) are." },
+    { "de": "haben", "en": "to have." },
+    { "de": "ich habe", "en": "I have." },
+    { "de": "du hast", "en": "you have (informal)." },
+    { "de": "er/sie/es hat", "en": "he/she/it has." },
+    { "de": "wir haben", "en": "we have." },
+    { "de": "ihr habt", "en": "you (plural) have." },
+    { "de": "sie haben", "en": "they have." },
+    { "de": "Sie haben", "en": "you (formal) have." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich bin müde.",
+      "en": "I am tired.",
+      "note": ""
+    },
+    {
+      "de": "Du bist mein Freund.",
+      "en": "You are my friend.",
+      "note": "Informal."
+    },
+    {
+      "de": "Er ist Lehrer.",
+      "en": "He is a teacher.",
+      "note": ""
+    },
+    {
+      "de": "Wir sind hier.",
+      "en": "We are here.",
+      "note": ""
+    },
+    {
+      "de": "Ich habe Hunger.",
+      "en": "I am hungry.",
+      "note": "Literally 'I have hunger'."
+    },
+    {
+      "de": "Sie hat ein Auto.",
+      "en": "She has a car.",
+      "note": ""
+    },
+    {
+      "de": "Wir haben Zeit.",
+      "en": "We have time.",
+      "note": ""
+    },
+    {
+      "de": "Hast du Geschwister?",
+      "en": "Do you have siblings?",
+      "note": ""
+    }
+  ],
+  "tip": "'sein' (to be) describes states and identity: I am tired, you are a student, he is here. 'haben' (to have) expresses possession or conditions: I have time, you have a car, we have a problem. In German everyday language: Ich habe Hunger (I am hungry), Ich habe Durst (I am thirsty).",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Wie geht’s dir heute?",
+      "en": "How are you today?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich bin müde, aber ich habe Kaffee.",
+      "en": "I am tired, but I have coffee."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Gut! Dann können wir anfangen.",
+      "en": "Good! Then we can start."
+    }
+  ],
+  "summary": [
+    { "de": "sein → bin, bist, ist, sind, seid, sind", "en": "to be → am, are, is..." },
+    { "de": "haben → habe, hast, hat, haben, habt, haben", "en": "to have → have, has..." },
+    { "de": "Ich bin ...", "en": "I am ..." },
+    { "de": "Ich habe ...", "en": "I have ..." }
+  ],
+  "quiz": [
+    {
+      "question": "Choose the correct form: Ich ___ müde.",
+      "options": ["bist", "bin", "hast"],
+      "answer": 1,
+      "hint": "ich → bin"
+    },
+    {
+      "question": "Which is correct for: He has a car?",
+      "options": [
+        "Er hat ein Auto.",
+        "Er ist ein Auto.",
+        "Er habe ein Auto."
+      ],
+      "answer": 0,
+      "hint": "haben → hat (for er)."
+    },
+    {
+      "question": "Complete: Wir ___ Zeit.",
+      "options": ["seid", "haben", "hat"],
+      "answer": 1,
+      "hint": "wir → haben"
+    }
+  ]
+}
+,
+{
+  "id": "G03_Verbkonjugation_Praesens",
+  "title": {
+    "de": "Verbkonjugation im Präsens",
+    "en": "Verb Conjugation in the Present Tense"
+  },
+  "interactiveScene": "Your friend asks you: “Kommst du mit?” — Are you coming with me? You answer happily: “Ja, ich komme!” — Yes, I am coming! You notice how the verb changes depending on the pronoun.",
+  "explanation": [
+    { "de": "lernen", "en": "to learn." },
+    { "de": "spielen", "en": "to play." },
+    { "de": "kommen", "en": "to come." },
+    { "de": "arbeiten", "en": "to work." },
+
+    { "de": "ich lerne", "en": "I learn." },
+    { "de": "du lernst", "en": "you learn (informal)." },
+    { "de": "er/sie lernt", "en": "he/she learns." },
+    { "de": "wir lernen", "en": "we learn." },
+    { "de": "ihr lernt", "en": "you (plural) learn." },
+    { "de": "sie lernen", "en": "they learn." },
+
+    { "de": "ich spiele", "en": "I play." },
+    { "de": "du spielst", "en": "you play." },
+    { "de": "er/sie spielt", "en": "he/she plays." },
+    { "de": "wir spielen", "en": "we play." },
+    { "de": "ihr spielt", "en": "you (plural) play." },
+    { "de": "sie spielen", "en": "they play." },
+
+    { "de": "ich komme", "en": "I come." },
+    { "de": "du kommst", "en": "you come." },
+    { "de": "er/sie kommt", "en": "he/she comes." },
+    { "de": "wir kommen", "en": "we come." },
+    { "de": "ihr kommt", "en": "you (plural) come." },
+    { "de": "sie kommen", "en": "they come." },
+
+    { "de": "ich arbeite", "en": "I work." },
+    { "de": "du arbeitest", "en": "you work." },
+    { "de": "er/sie arbeitet", "en": "he/she works." },
+    { "de": "wir arbeiten", "en": "we work." },
+    { "de": "ihr arbeitet", "en": "you (plural) work." },
+    { "de": "sie arbeiten", "en": "they work." },
+
+    { "de": "ich -e", "en": "I → -e ending: ich lerne." },
+    { "de": "du -st", "en": "you → -st ending: du lernst." },
+    { "de": "er/sie/es -t", "en": "he/she/it → -t ending: er lernt." },
+    { "de": "wir -en", "en": "we → -en: wir lernen." },
+    { "de": "ihr -t, sie -en", "en": "you (plural) -t, they -en." }
+  ],
+  "quiz": [
+    {
+      "question": "Complete the sentence: Ich ___ jeden Tag Deutsch. (lernen)",
+      "options": ["lernt", "lerne", "lernst"],
+      "answer": 1,
+      "hint": "ich → -e"
+    },
+    {
+      "question": "Du ___ Fußball. (spielen)",
+      "options": ["spielst", "spiele", "spielt"],
+      "answer": 0,
+      "hint": "du → -st"
+    },
+    {
+      "question": "Wir ___ in Berlin. (arbeiten)",
+      "options": ["arbeitet", "arbeite", "arbeiten"],
+      "answer": 2,
+      "hint": "wir → -en"
+    }
+  ]
+}
+,
+{
+  "id": "G04_Artikel_Nomen_Plural",
+  "title": {
+    "de": "Artikel, Nomen und Plural",
+    "en": "Articles, Nouns, and Plural Forms"
+  },
+  "interactiveScene": "You enter a German bookstore and pick up a book. On the label you read: 'das Buch' — the book. Next to it you see 'die Bücher' — the books. You notice how German nouns change in plural, and how each noun has its own article: der, die, or das. You smile because this is the beginning of understanding one of the most important parts of German.",
+  "explanation": [
+    { "de": "der", "en": "masculine article (the)." },
+    { "de": "die", "en": "feminine article (the)." },
+    { "de": "das", "en": "neuter article (the)." },
+    { "de": "der Tisch", "en": "the table." },
+    { "de": "die Lampe", "en": "the lamp." },
+    { "de": "das Auto", "en": "the car." },
+    { "de": "Plural", "en": "The plural form." },
+    { "de": "der Tisch – die Tische", "en": "the table – the tables." },
+    { "de": "die Lampe – die Lampen", "en": "the lamp – the lamps." },
+    { "de": "das Auto – die Autos", "en": "the car – the cars." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Der Tisch ist groß.",
+      "en": "The table is big.",
+      "note": ""
+    },
+    {
+      "de": "Die Lampe ist neu.",
+      "en": "The lamp is new.",
+      "note": ""
+    },
+    {
+      "de": "Das Auto ist schnell.",
+      "en": "The car is fast.",
+      "note": ""
+    },
+    {
+      "de": "Die Tische sind alt.",
+      "en": "The tables are old.",
+      "note": ""
+    },
+    {
+      "de": "Die Autos sind teuer.",
+      "en": "The cars are expensive.",
+      "note": ""
+    }
+  ],
+  "tip": "Every German noun has a gender: der (masculine), die (feminine), das (neuter). The plural of nouns always takes 'die'. Many plurals are formed by adding -e, -en, -er, -s, or sometimes changing the vowel: der Tisch → die Tische; die Lampe → die Lampen; das Buch → die Bücher.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🦰",
+      "de": "Wie heißt das?",
+      "en": "What is this called?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Das ist der Tisch.",
+      "en": "This is the table."
+    },
+    {
+      "speaker": "👩‍🦰",
+      "de": "Und das?",
+      "en": "And this?"
+    },
+    {
+      "speaker": "👨‍🦱",
+      "de": "Das ist die Lampe.",
+      "en": "This is the lamp."
+    }
+  ],
+  "summary": [
+    { "de": "der / die / das", "en": "the (masculine / feminine / neuter)." },
+    { "de": "Plural = die", "en": "All plural nouns use 'die'." },
+    { "de": "Tisch – Tische", "en": "table – tables." },
+    { "de": "Lampe – Lampen", "en": "lamp – lamps." },
+    { "de": "Auto – Autos", "en": "car – cars." }
+  ],
+  "quiz": [
+    {
+      "question": "What is the plural of 'der Tisch'?",
+      "options": ["die Tischen", "die Tische", "die Tischs"],
+      "answer": 1,
+      "hint": "Plural adds -e."
+    },
+    {
+      "question": "Which article fits: ___ Lampe?",
+      "options": ["der", "die", "das"],
+      "answer": 1,
+      "hint": "Lampe is feminine."
+    },
+    {
+      "question": "You want to say: The cars are expensive. Which is correct?",
+      "options": [
+        "Die Autos sind teuer.",
+        "Das Autos sind teuer.",
+        "Der Autos sind teuer."
+      ],
+      "answer": 0,
+      "hint": "Plural always uses die."
+    }
+  ]
+}
+,
+{
+  "id": "Noun_Endings",
+  "title": {
+    "de": "Nomen-Endungen und ihre Artikel",
+    "en": "Noun Endings and Their Articles"
+  },
+  "interactiveScene": "You are in class and the teacher says: “Heute lernen wir die Endungen der Nomen.” — Today we learn the endings of nouns. She writes many examples on the board and asks: “Der? Die? Oder das?” You start noticing how the endings help you guess the correct article.",
+  "explanation": [
+    {
+      "de": "der Lehrer",
+      "en": "the teacher (many masculine nouns end in -er)."
+    },
+    {
+      "de": "die Blume",
+      "en": "the flower (many feminine nouns end in -e)."
+    },
+    {
+      "de": "das Auto",
+      "en": "the car (many neuter nouns are foreign words or end in -o)."
+    },
+    {
+      "de": "der Student",
+      "en": "the student (many masculine nouns end in -ant / -ent / -ich)."
+    },
+    {
+      "de": "die Zeitung",
+      "en": "the newspaper (many feminine nouns end in -ung / -heit / -keit)."
+    },
+    {
+      "de": "das Mädchen",
+      "en": "the girl (nouns ending in -chen or -lein are always neuter)."
+    }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Der Lehrer ist nett.",
+      "en": "The teacher is nice.",
+      "note": ""
+    },
+    {
+      "de": "Die Blume ist schön.",
+      "en": "The flower is beautiful.",
+      "note": ""
+    },
+    {
+      "de": "Das Auto ist neu.",
+      "en": "The car is new.",
+      "note": ""
+    },
+    {
+      "de": "Die Zeitung ist alt.",
+      "en": "The newspaper is old.",
+      "note": ""
+    },
+    {
+      "de": "Das Mädchen spielt.",
+      "en": "The girl is playing.",
+      "note": ""
+    }
+  ],
+  "tip": "Noun endings can help you guess the correct German article: Masculine: -er, -ent, -ant, -ig, -ich. Feminine: -ung, -heit, -keit, -schaft, -ei, -t. Neuter: -chen, -lein, -um, -o, -ment. Remember: all plural nouns use 'die'.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Wisst ihr, welche Endung feminin ist?",
+      "en": "Do you know which ending is feminine?"
+    },
+    {
+      "speaker": "👨‍🎓",
+      "de": "Vielleicht -ung?",
+      "en": "Maybe -ung?"
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Richtig! Sehr gut!",
+      "en": "Correct! Very good!"
+    }
+  ],
+  "summary": [
+    { "de": "-er → der", "en": "-er → usually masculine." },
+    { "de": "-ung → die", "en": "-ung → always feminine." },
+    { "de": "-heit / -keit → die", "en": "-heit / -keit → always feminine." },
+    { "de": "-chen / -lein → das", "en": "-chen / -lein → always neuter." },
+    { "de": "-o → das", "en": "-o → often neuter." }
+  ],
+  "quiz": [
+    {
+      "question": "A word ends with -ung. What is the correct article?",
+      "options": ["der", "die", "das"],
+      "answer": 1,
+      "hint": "-ung is always feminine."
+    },
+    {
+      "question": "A word ends with -chen. What is the correct article?",
+      "options": ["der", "die", "das"],
+      "answer": 2,
+      "hint": "-chen = always neuter."
+    },
+    {
+      "question": "A word ends with -er. What is the most likely article?",
+      "options": ["der", "die", "das"],
+      "answer": 0,
+      "hint": "Most -er words are masculine."
+    },
+    {
+      "question": "A word ends with -keit. Which article is correct?",
+      "options": ["der", "die", "das"],
+      "answer": 1,
+      "hint": "-keit is always feminine."
+    }
+  ]
+}
+,
+{
+  "id": "G05_Satzbau_Einfach",
+  "title": {
+    "de": "Einfacher Satzbau",
+    "en": "Simple Sentence Structure"
+  },
+  "interactiveScene": "The teacher asks you: “Was machst du heute?” — What are you doing today? You answer: “Ich lerne Deutsch.” — I am learning German. Then she changes the word order and says: “Heute lerne ich Deutsch.” — Today I am learning German. You notice that the verb stays in the second position in both sentences.",
+  "explanation": [
+    { "de": "Ich lerne Deutsch.", "en": "I am learning German." },
+    { "de": "Heute lerne ich Deutsch.", "en": "Today I am learning German." },
+    { "de": "In der Schule lerne ich Deutsch.", "en": "At school I am learning German." },
+    { "de": "Ich trinke Wasser.", "en": "I drink water." },
+    { "de": "Heute trinke ich Kaffee.", "en": "Today I drink coffee." },
+    { "de": "Morgen arbeite ich.", "en": "Tomorrow I work." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich lerne Deutsch.",
+      "en": "I am learning German.",
+      "note": "Subject first, then verb."
+    },
+    {
+      "de": "Heute lerne ich Deutsch.",
+      "en": "Today I am learning German.",
+      "note": "Time expression first, but the verb stays in second position."
+    },
+    {
+      "de": "In der Schule lerne ich Deutsch.",
+      "en": "At school I am learning German.",
+      "note": "Place first, verb still second."
+    },
+    {
+      "de": "Ich trinke Wasser.",
+      "en": "I drink water.",
+      "note": ""
+    },
+    {
+      "de": "Heute arbeite ich.",
+      "en": "Today I work.",
+      "note": ""
+    }
+  ],
+  "tip": "The golden rule in simple German sentences: the verb is always in the second position. You can start with the subject: Ich lerne Deutsch. Or with the time: Heute lerne ich Deutsch. Or with the place: In der Schule lerne ich Deutsch. But the verb must remain second.",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Was machst du heute?",
+      "en": "What are you doing today?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Heute lerne ich Deutsch.",
+      "en": "Today I am learning German."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Und morgen?",
+      "en": "And tomorrow?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Morgen arbeite ich.",
+      "en": "Tomorrow I work."
+    }
+  ],
+  "summary": [
+    { "de": "الفعل في المكان الثاني", "en": "The verb is always in the second position." },
+    { "de": "Ich lerne Deutsch.", "en": "I am learning German." },
+    { "de": "Heute lerne ich Deutsch.", "en": "Today I am learning German." }
+  ],
+  "quiz": [
+    {
+      "question": "Arrange the sentence: (Deutsch / ich / lerne)",
+      "options": [
+        "Ich Deutsch lerne.",
+        "Ich lerne Deutsch.",
+        "Deutsch lerne ich."
+      ],
+      "answer": 1,
+      "hint": "The verb must be in second position."
+    },
+    {
+      "question": "Which sentence is correct according to the rule?",
+      "options": [
+        "Heute ich lerne Deutsch.",
+        "Heute lerne ich Deutsch.",
+        "Lerne ich heute Deutsch."
+      ],
+      "answer": 1,
+      "hint": "After 'Heute' the verb must come immediately."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "In der Schule ich lerne Deutsch.",
+        "Ich lerne in der Schule Deutsch.",
+        "In der Schule lerne ich Deutsch."
+      ],
+      "answer": 2,
+      "hint": "If the sentence starts with a place, the verb must still be second."
+    }
+  ]
+}
+,
+{
+  "id": "G06_Die_Verneinung",
+  "title": {
+    "de": "Die Verneinung",
+    "en": "Negation in German: nicht and kein"
+  },
+  "interactiveScene": "Your friend asks you: “Lernst du Deutsch?” — Are you learning German? You answer: “Nein, ich lerne heute nicht.” — No, I am not learning today. He smiles and says: “Aber morgen lernst du!” — But tomorrow you will learn! You laugh because the meaning changes completely with 'nicht' and 'kein'.",
+  "explanation": [
+    { "de": "nicht", "en": "Used to negate verbs, adjectives, or whole sentences." },
+    { "de": "kein / keine", "en": "Used to negate nouns that do NOT have a definite article (negating 'a' or 'any')." },
+
+    { "de": "Ich lerne heute nicht.", "en": "I am not learning today." },
+
+    { "de": "Ich habe ein Auto.", "en": "I have a car." },
+    { "de": "Ich habe kein Auto.", "en": "I have no car / I do not have a car." },
+
+    { "de": "Sie ist müde.", "en": "She is tired." },
+    { "de": "Sie ist nicht müde.", "en": "She is not tired." },
+
+    { "de": "Wir haben Zeit.", "en": "We have time." },
+    { "de": "Wir haben keine Zeit.", "en": "We have no time." },
+
+    { "de": "nie", "en": "never." },
+    { "de": "nichts", "en": "nothing." },
+    { "de": "niemand", "en": "nobody / no one." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich lerne heute nicht.",
+      "en": "I am not learning today.",
+      "note": ""
+    },
+    {
+      "de": "Ich habe kein Auto.",
+      "en": "I do not have a car.",
+      "note": ""
+    },
+    {
+      "de": "Wir haben keine Zeit.",
+      "en": "We have no time.",
+      "note": ""
+    },
+    {
+      "de": "Sie ist nicht müde.",
+      "en": "She is not tired.",
+      "note": ""
+    },
+    {
+      "de": "Ich sehe nichts.",
+      "en": "I see nothing.",
+      "note": ""
+    }
+  ],
+  "tip": "Use 'nicht' to negate verbs and adjectives: Ich bin nicht glücklich (I am not happy). Use 'kein' to negate nouns without a definite article: Ich habe kein Geld (I have no money). 'Kein' behaves like the indefinite article and changes with gender: kein (masc/neut), keine (fem/plural).",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Hast du Zeit?",
+      "en": "Do you have time?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Nein, ich habe keine Zeit.",
+      "en": "No, I have no time."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Bist du müde?",
+      "en": "Are you tired?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Nein, ich bin nicht müde.",
+      "en": "No, I am not tired."
+    }
+  ],
+  "summary": [
+    { "de": "nicht → negates verbs/adjectives", "en": "nicht → negates verbs, adjectives, and whole sentences." },
+    { "de": "kein / keine → negates nouns", "en": "kein / keine → used with nouns in indefinite form." },
+    { "de": "nie / nichts / niemand", "en": "never / nothing / nobody." }
+  ],
+  "quiz": [
+    {
+      "question": "Transform into negation: Ich bin müde.",
+      "options": [
+        "Ich bin kein müde.",
+        "Ich bin nicht müde.",
+        "Ich habe kein müde."
+      ],
+      "answer": 1,
+      "hint": "Use 'nicht' with adjectives."
+    },
+    {
+      "question": "Choose the correct negation: Ich habe ___ Zeit.",
+      "options": ["nicht", "kein", "keine"],
+      "answer": 2,
+      "hint": "Zeit is feminine without an article → keine."
+    },
+    {
+      "question": "Which sentence means: I see nothing?",
+      "options": [
+        "Ich sehe niemand.",
+        "Ich sehe nichts.",
+        "Ich sehe nicht."
+      ],
+      "answer": 1,
+      "hint": "nichts = nothing."
+    }
+  ]
+}
+,
+{
+  "id": "A1_Grammar_07_Fragewoerter",
+  "title": {
+    "de": "Fragewörter (W-Fragen)",
+    "en": "Basic Question Words (W-questions)"
+  },
+  "interactiveScene": "On your first day in Germany, people ask you many questions: 'Wie heißt du?' — What’s your name? 'Wo wohnst du?' — Where do you live? You smile, realizing Germans love questions as much as they love coffee! ☕️",
+  "explanation": [
+    { "de": "Wer?", "en": "Who? (used for asking about people)" },
+    { "de": "Was?", "en": "What? (used for things)" },
+    { "de": "Wo?", "en": "Where? (used for places)" },
+    { "de": "Wann?", "en": "When? (used for time)" },
+    { "de": "Wie?", "en": "How? (used for manner/condition)" }
+  ],
+  "phrasesTable": [
+    { "de": "Wer ist das?", "en": "Who is that?", "note": "For people." },
+    { "de": "Was machst du?", "en": "What are you doing?", "note": "" },
+    { "de": "Wo wohnst du?", "en": "Where do you live?", "note": "" },
+    { "de": "Wann beginnt der Kurs?", "en": "When does the course start?", "note": "" },
+    { "de": "Wie geht es dir?", "en": "How are you?", "note": "" }
+  ],
+  "tip": "Most basic German question words start with W: Wer, Was, Wo, Wann, Wie. IMPORTANT: In W-questions, the verb always comes directly after the question word: Wo wohnst du? / Wie heißt du?",
+  "dialogue": [
+    {
+      "speaker": "👩‍🏫",
+      "de": "Woher kommst du?",
+      "en": "Where do you come from?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich komme aus Syrien.",
+      "en": "I come from Syria."
+    },
+    {
+      "speaker": "👩‍🏫",
+      "de": "Wie heißt du?",
+      "en": "What is your name?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich heiße Adam.",
+      "en": "My name is Adam."
+    }
+  ],
+  "summary": [
+    { "de": "Wer", "en": "Who" },
+    { "de": "Was", "en": "What" },
+    { "de": "Wo", "en": "Where" },
+    { "de": "Wann", "en": "When" },
+    { "de": "Wie", "en": "How" }
+  ],
+  "quiz": [
+    {
+      "question": "Which question word is used for people?",
+      "options": ["Was", "Wer", "Wo"],
+      "answer": 1,
+      "hint": "Wer = who."
+    },
+    {
+      "question": "How do you say: Where do you live?",
+      "options": ["Was wohnst du?", "Wo wohnst du?", "Wie wohnst du?"],
+      "answer": 1,
+      "hint": "Wo is used for places."
+    },
+    {
+      "question": "What does 'Wann' mean?",
+      "options": ["When", "Who", "Where"],
+      "answer": 0,
+      "hint": "Used for time."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": ["Wie heißt du?", "Du wie heißt?", "Heißt du wie?"],
+      "answer": 0,
+      "hint": "Question word → verb → subject."
+    }
+  ]
+}
+
+
+  ]
+}

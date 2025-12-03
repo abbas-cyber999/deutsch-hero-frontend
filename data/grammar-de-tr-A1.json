@@ -1,0 +1,525 @@
+{
+  "level": "A1",
+  "title": "A1 Seviyesi – Temel Gramer Kuralları",
+  "grammar": [
+    {
+      "id": "G01_Personalpronomen",
+      "title": {
+        "tr": "Kişi Zamirleri (Özne Zamirleri)",
+        "de": "Personalpronomen"
+      },
+      "interactiveScene": "Öğretmen öğrencileri işaret ederek diyor ki:\n„Ich bin Lehrerin.“ – gülüyor.\nSonra sana soruyor: „Wer bist du?“ – Sen kimsin?\nSen cevap veriyorsun: „Ich bin Noa.“\nArdından arkadaşını gösteriyor: „Er ist neu.“ – O yeni.\nSonunda herkese diyor: „Ihr seid süper!“",
+      "explanation": [
+        { "de": "ich", "tr": "ben" },
+        { "de": "du", "tr": "sen (samimi, tekil)" },
+        { "de": "er", "tr": "o (erkek)" },
+        { "de": "sie", "tr": "o (kadın)" },
+        { "de": "es", "tr": "o (cansız / nötr)" },
+        { "de": "wir", "tr": "biz" },
+        { "de": "ihr", "tr": "siz (samimi, çoğul)" },
+        { "de": "sie", "tr": "onlar" },
+        { "de": "Sie", "tr": "siz (resmi, tekil ve çoğul)" },
+        { "de": "Ich bin Noa.", "tr": "Ben Noa'yım." },
+        { "de": "Du bist müde.", "tr": "Sen yorgunsun." },
+        { "de": "Er ist neu.", "tr": "O yeni." },
+        { "de": "Wir lernen Deutsch.", "tr": "Biz Almanca öğreniyoruz." },
+        { "de": "Ihr seid laut.", "tr": "Siz gürültücüsünüz." },
+        { "de": "Sie sind freundlich.", "tr": "Onlar nazik." }
+      ],
+      "phrasesTable": [
+        { "de": "Ich bin müde.", "tr": "Ben yorgunum.", "note": "" },
+        { "de": "Du bist nett.", "tr": "Sen çok tatlısın.", "note": "Samimi, arkadaşlar arasında." },
+        { "de": "Er ist Student.", "tr": "O öğrenci.", "note": "" },
+        { "de": "Sie ist Ärztin.", "tr": "O doktor (kadın).", "note": "" },
+        { "de": "Wir sind hier.", "tr": "Biz buradayız.", "note": "" },
+        { "de": "Ihr seid laut.", "tr": "Siz gürültücüsünüz.", "note": "Tanıdığın birden fazla kişiye." },
+        { "de": "Sie sind neu hier.", "tr": "Onlar burada yeni.", "note": "sie = onlar" },
+        { "de": "Wie heißt du?", "tr": "Adın ne?", "note": "du zamiriyle" },
+        { "de": "Wie heißen Sie?", "tr": "Adınız nedir?", "note": "resmi Sie zamiriyle" }
+      ],
+      "tip": "Unutma: Zamir, eylemi kimin yaptığını söyler.\nich = ben, du = sen, er/sie/es = o, wir = biz, ihr = siz (samimi çoğul), sie = onlar, Sie = siz (resmi).\nYabancılarla ve yaşça büyüklerle her zaman büyük harfli Sie kullanılır.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Wer bist du?", "tr": "Sen kimsin?" },
+        { "speaker": "👨", "de": "Ich bin Noa.", "tr": "Ben Noa'yım." },
+        { "speaker": "👩‍🏫", "de": "Woher kommst du?", "tr": "Nereden geliyorsun?" },
+        { "speaker": "👨", "de": "Ich komme aus Syrien.", "tr": "Suriyeliyim." },
+        { "speaker": "👩‍🏫", "de": "Ihr seid eine tolle Gruppe!", "tr": "Harika bir grupsunuz!" }
+      ],
+      "summary": [
+        { "de": "ich, du, er, sie, es", "tr": "ben, sen, o (erkek), o (kadın), o (nötr)" },
+        { "de": "wir, ihr, sie", "tr": "biz, siz (samimi çoğul), onlar" },
+        { "de": "Sie (büyük harf)", "tr": "siz (resmi)" },
+        { "de": "Ich bin ...", "tr": "Ben ..." },
+        { "de": "Wir sind ...", "tr": "Biz ..." }
+      ],
+      "quiz": [
+        {
+          "question": "Doğru zamiri seç: ___ bin müde.",
+          "options": ["Du", "Ich", "Sie"],
+          "answer": 1,
+          "hint": "Cümle “Ben yorgunum” anlamına gelir."
+        },
+        {
+          "question": "___ seid laut. (Siz gürültücüsünüz) hangi zamir?",
+          "options": ["Er", "Wir", "Ihr"],
+          "answer": 2,
+          "hint": "Tanıdığın birden fazla kişiye söylenir."
+        },
+        {
+          "question": "Yaşça büyük bir yabancıya hangisi doğru? ___ sind Herr Müller?",
+          "options": ["Du", "Sie", "Ihr"],
+          "answer": 1,
+          "hint": "Resmi hitap kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "G02_Sein_Haben",
+      "title": {
+        "tr": "sein ve haben Fiilleri",
+        "de": "Die Verben sein und haben"
+      },
+      "interactiveScene": "Arkadaşın sana soruyor: „Wie geht’s?“ – Nasılsın?\nSen cevap veriyorsun: „Ich bin müde, aber ich habe Kaffee.“ – Yorgunum ama kahvem var.\nBu iki fiilin hayatının yarısını açıklamaya yettiğini fark ediyorsun.",
+      "explanation": [
+        { "de": "sein", "tr": "olmak, -dır/-dir eki (durum, meslek, yer için)" },
+        { "de": "ich bin", "tr": "benim" },
+        { "de": "du bist", "tr": "sensiniz" },
+        { "de": "er/sie/es ist", "tr": "o (erkek/kadın/nötr)" },
+        { "de": "wir sind", "tr": "biziz" },
+        { "de": "ihr seid", "tr": "sizsiniz (samimi çoğul)" },
+        { "de": "sie/Sie sind", "tr": "onlar / siz (resmi)" },
+        { "de": "haben", "tr": "sahip olmak, -i var (sahiplik, açlık, susuzluk vb.)" },
+        { "de": "ich habe", "tr": "bende var" },
+        { "de": "du hast", "tr": "sende var" },
+        { "de": "er/sie/es hat", "tr": "onda var" },
+        { "de": "wir haben", "tr": "bizde var" },
+        { "de": "ihr habt", "tr": "sizde var (samimi çoğul)" },
+        { "de": "sie/Sie haben", "tr": "onlarda / sizde var (resmi)" },
+        { "de": "Ich bin müde.", "tr": "Yorgunum." },
+        { "de": "Ich habe Zeit.", "tr": "Vaktim var." },
+        { "de": "Wir sind hier.", "tr": "Buradayız." },
+        { "de": "Wir haben Hunger.", "tr": "Açız." }
+      ],
+      "phrasesTable": [
+        { "de": "Ich bin glücklich.", "tr": "Mutluyum.", "note": "Sıfatlarla sein kullanılır." },
+        { "de": "Du bist nett.", "tr": "Çok tatlısın.", "note": "" },
+        { "de": "Er ist müde.", "tr": "O yorgun.", "note": "" },
+        { "de": "Wir sind in Berlin.", "tr": "Berlin’deyiz.", "note": "" },
+        { "de": "Ich habe Zeit.", "tr": "Vaktim var.", "note": "Soyut şeylerle haben." },
+        { "de": "Du hast ein Auto.", "tr": "Araban var.", "note": "Sahiplik için." },
+        { "de": "Sie hat Hunger.", "tr": "Aç (kadın).", "note": "Kelimenin tam anlamı: açlığı var" },
+        { "de": "Wir haben viele Freunde.", "tr": "Çok arkadaşımız var.", "note": "" }
+      ],
+      "tip": "sein → sıfatlar, meslekler ve yerlerle kullanılır: Ich bin müde. / Sie ist Ärztin.\nhaben → sahiplik ve durum ifadeleriyle: Ich habe ein Auto. / Wir haben Hunger.",
+      "dialogue": [
+        { "speaker": "👨", "de": "Wie geht’s?", "tr": "Nasılsın?" },
+        { "speaker": "👩", "de": "Ich bin müde, aber ich bin glücklich.", "tr": "Yorgunum ama mutluyum." },
+        { "speaker": "👨", "de": "Hast du Zeit heute?", "tr": "Bugün vaktin var mı?" },
+        { "speaker": "👩", "de": "Nein, ich habe keine Zeit.", "tr": "Hayır, vaktim yok." }
+      ],
+      "summary": [
+        { "de": "sein = olmak", "tr": "sıfat, meslek, yer için" },
+        { "de": "haben = sahip olmak", "tr": "nesneler ve durumlar (açlık, zaman vb.) için" },
+        { "de": "Ich bin ...", "tr": "Ben ..." },
+        { "de": "Ich habe ...", "tr": "... var" }
+      ],
+      "quiz": [
+        {
+          "question": "Doğru tamamla: Wir ___ in Berlin.",
+          "options": ["habe", "sind", "habt"],
+          "answer": 1,
+          "hint": "biz + sein fiili"
+        },
+        {
+          "question": "Ich ___ ein Problem.",
+          "options": ["bin", "habe", "bist"],
+          "answer": 1,
+          "hint": "Problem kelimesiyle sahiplik fiili kullanılır."
+        },
+        {
+          "question": "Er ___ müde.",
+          "options": ["ist", "hat", "sind"],
+          "answer": 0,
+          "hint": "Sıfatla sein kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "G03_Verbkonjugation_Praesens",
+      "title": {
+        "tr": "Geniş Zaman Fiil Çekimleri",
+        "de": "Verbkonjugation im Präsens"
+      },
+      "interactiveScene": "Arkadaşın sana diyor ki: „Kommst du mit?“ – Benimle geliyor musun?\nSen cevap veriyorsun: „Ja, ich komme!“ – Evet, geliyorum!\nFiilin zamire göre nasıl değiştiğini fark ediyorsun.",
+      "explanation": [
+        { "de": "lernen", "tr": "öğrenmek" },
+        { "de": "spielen", "tr": "oynamak" },
+        { "de": "kommen", "tr": "gelmek" },
+        { "de": "arbeiten", "tr": "çalışmak" },
+        { "de": "ich lerne", "tr": "öğreniyorum" },
+        { "de": "du lernst", "tr": "öğreniyorsun" },
+        { "de": "er/sie lernt", "tr": "öğreniyor" },
+        { "de": "wir lernen", "tr": "öğreniyoruz" },
+        { "de": "ihr lernt", "tr": "öğreniyorsunuz (samimi çoğul)" },
+        { "de": "sie lernen", "tr": "öğreniyorlar" },
+        { "de": "ich spiele", "tr": "oynuyorum" },
+        { "de": "du spielst", "tr": "oynuyorsun" },
+        { "de": "er spielt", "tr": "oynuyor" },
+        { "de": "ich komme", "tr": "geliyorum" },
+        { "de": "du kommst", "tr": "geliyorsun" },
+        { "de": "er kommt", "tr": "geliyor" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich lerne Deutsch.", "tr": "Almanca öğreniyorum.", "note": "" },
+        { "de": "Du lernst schnell.", "tr": "Çabuk öğreniyorsun.", "note": "" },
+        { "de": "Er spielt Fußball.", "tr": "Futbol oynuyor.", "note": "" },
+        { "de": "Wir arbeiten viel.", "tr": "Çok çalışıyoruz.", "note": "" },
+        { "de": "Ihr kommt spät.", "tr": "Geç geliyorsunuz.", "note": "" },
+        { "de": "Sie lernen zusammen.", "tr": "Birlikte öğreniyorlar.", "note": "" }
+      ],
+      "tip": "Çoğu fiilde geniş zamanda -en sonunu silip şu ekleri ekleriz:\nich → -e\ndu → -st\ner/sie/es → -t\nwir → -en\nihr → -t\nsie/Sie → -en",
+      "dialogue": [
+        { "speaker": "👩", "de": "Was machst du heute?", "tr": "Bugün ne yapıyorsun?" },
+        { "speaker": "👨", "de": "Ich lerne Deutsch und ich arbeite.", "tr": "Almanca öğreniyorum ve çalışıyorum." },
+        { "speaker": "👩", "de": "Spielst du auch Fußball?", "tr": "Futbol da oynuyor musun?" },
+        { "speaker": "👨", "de": "Ja, ich spiele am Abend.", "tr": "Evet, akşam oynuyorum." }
+      ],
+      "summary": [
+        { "de": "ich -e", "tr": "ben + -e: ich lerne" },
+        { "de": "du -st", "tr": "sen + -st: du lernst" },
+        { "de": "er/sie/es -t", "tr": "o + -t: er lernt" },
+        { "de": "wir -en", "tr": "biz + -en: wir lernen" },
+        { "de": "ihr -t, sie -en", "tr": "siz (samimi) -t, onlar -en" }
+      ],
+      "quiz": [
+        {
+          "question": "Tamamla: Ich ___ jeden Tag Deutsch. (lernen)",
+          "options": ["lernt", "lerne", "lernst"],
+          "answer": 1,
+          "hint": "ich ile -e eki gelir."
+        },
+        {
+          "question": "Du ___ Fußball. (spielen)",
+          "options": ["spielst", "spiele", "spielt"],
+          "answer": 0,
+          "hint": "du ile -st eki gelir."
+        },
+        {
+          "question": "Wir ___ in Berlin. (arbeiten)",
+          "options": ["arbeitet", "arbeite", "arbeiten"],
+          "answer": 2,
+          "hint": "wir ile -en kalır."
+        }
+      ]
+    },
+    {
+      "id": "G04_Artikel_und_Nomen",
+      "title": {
+        "tr": "Artikeller ve İsimler (Tekil-Çoğul)",
+        "de": "Artikel und Nomen"
+      },
+      "interactiveScene": "Berlin’deki bir süpermarkettesin. Ekmek reyonunda „das Brot“, süt reyonunda „die Milch“, elma reyonunda „der Apfel“ yazıyor.\nKendi kendine soruyorsun: Neden her şeyin farklı bir artikeli var?",
+      "explanation": [
+        { "de": "der", "tr": "erkek isimler için belirli artikel" },
+        { "de": "die", "tr": "kadın isimler ve çoğul için belirli artikel" },
+        { "de": "das", "tr": "nötr isimler için belirli artikel" },
+        { "de": "der Tisch", "tr": "masa (erkek)" },
+        { "de": "die Lampe", "tr": "lamba (kadın)" },
+        { "de": "das Auto", "tr": "araba (nötr)" },
+        { "de": "der Hund", "tr": "köpek" },
+        { "de": "die Katze", "tr": "kedi" },
+        { "de": "das Haus", "tr": "ev" },
+        { "de": "die Tische", "tr": "masalar" },
+        { "de": "die Lampen", "tr": "lambalar" },
+        { "de": "die Autos", "tr": "arabalar" },
+        { "de": "die Hunde", "tr": "köpekler" },
+        { "de": "die Kinder", "tr": "çocuklar" }
+      ],
+      "phrasesTable": [
+        { "de": "Der Tisch ist neu.", "tr": "Masa yeni.", "note": "" },
+        { "de": "Die Lampe ist schön.", "tr": "Lamba güzel.", "note": "" },
+        { "de": "Das Auto ist schnell.", "tr": "Araba hızlı.", "note": "" },
+        { "de": "Die Kinder spielen.", "tr": "Çocuklar oynuyor.", "note": "çoğul" },
+        { "de": "Ich habe ein Auto.", "tr": "Arabam var.", "note": "belirsiz → ein" },
+        { "de": "Ich habe eine Lampe.", "tr": "Lambam var.", "note": "kadın isim → eine" }
+      ],
+      "tip": "Almanca’da her ismin bir cinsiyeti ve artikeli vardır: der, die, das.\nKelimeyi artikeliyle birlikte ezberlemek en iyisidir: der Tisch, die Lampe, das Haus.\nBelirsiz artikel: ein (erkek/nötr), eine (kadın).",
+      "dialogue": [
+        { "speaker": "👩", "de": "Was kaufst du?", "tr": "Ne alıyorsun?" },
+        { "speaker": "👨", "de": "Ich kaufe ein Brot und eine Milch.", "tr": "Ekmek ve süt alıyorum." },
+        { "speaker": "👩", "de": "Hast du auch einen Apfel?", "tr": "Elman da var mı?" },
+        { "speaker": "👨", "de": "Ja, ich habe einen Apfel.", "tr": "Evet, bir elmam var." }
+      ],
+      "summary": [
+        { "de": "der (m.), die (f.), das (n.)", "tr": "erkek, kadın, nötr" },
+        { "de": "die = çoğul için de kullanılır", "tr": "cinsiyetine bakılmaksızın çoğulda her zaman die" },
+        { "de": "ein / eine", "tr": "belirsiz artikel (erkek/nötr – kadın)" },
+        { "de": "Kelimeyi artikeliyle ezberle", "tr": "örnek: der Tisch, die Lampe, das Haus" }
+      ],
+      "quiz": [
+        {
+          "question": "Doğru artikeli seç: ___ Tisch ist neu.",
+          "options": ["der", "die", "das"],
+          "answer": 0,
+          "hint": "Tisch erkek isim."
+        },
+        {
+          "question": "„___ Lampe ist schön.“ hangi artikel doğru?",
+          "options": ["Der", "Die", "Das"],
+          "answer": 1,
+          "hint": "Lampe kadın isim."
+        },
+        {
+          "question": "„Auto“ kelimesinin çoğulu nasıl olur?",
+          "options": ["die Autos", "die Auto", "die Auten"],
+          "answer": 0,
+          "hint": "Tekile -s eklenir."
+        }
+      ]
+    },
+    {
+      "id": "Noun_Endings",
+      "title": {
+        "tr": "İsim Son Ekleri ve Artikel Tahmini",
+        "de": "Nomen-Endungen und ihre Artikel",
+        "en": "Noun endings and their articles"
+      },
+      "interactiveScene": "Sınıfta oturuyorsun, öğretmen diyor ki: Bugün bir kelimenin artikelini nasıl tahmin edeceğimizi öğreneceğiz!\nTahtaya yazıyor: der Lehrer, die Blume, das Auto.\nSana soruyor: Neden der, die ya da das? 🤔\nMeraklanıyorsun ve son ekleri incelemeye başlıyorsun…",
+      "explanation": [
+        { "de": "der Lehrer", "tr": "öğretmen (genelde -er ile bitenler erkek)" },
+        { "de": "die Blume", "tr": "çiçek (genelde -e ile bitenler kadın)" },
+        { "de": "das Auto", "tr": "araba (yabancı kelimeler ve -o ile bitenler genelde nötr)" },
+        { "de": "der Student", "tr": "öğrenci (-ant / -ent / -ich genelde erkek)" },
+        { "de": "die Zeitung", "tr": "gazete (-ung / -heit / -keit her zaman kadın)" },
+        { "de": "das Mädchen", "tr": "kız çocuğu (-chen ve -lein her zaman nötr)" }
+      ],
+      "phrasesTable": [
+        { "de": "der Lehrer", "tr": "öğretmen", "note": "-er son eki → genellikle der" },
+        { "de": "die Blume", "tr": "çiçek", "note": "-e son eki → genellikle die" },
+        { "de": "das Auto", "tr": "araba", "note": "-o son eki → genellikle das" },
+        { "de": "die Zeitung", "tr": "gazete", "note": "-ung → her zaman die" },
+        { "de": "das Mädchen", "tr": "kız çocuğu", "note": "-chen → her zaman das" }
+      ],
+      "tip": "🧠 Unutma:\n• Son ekler %100 doğru değildir ama çok büyük yardım eder.\n• -ung, -keit, -heit görürsen → kesin die\n• -chen, -lein görürsen → kesin das\n• -er, -ich, -ant, -ent genelde der olur.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Wie heißt das Wort? Der, die oder das Blume?", "tr": "Blume kelimesinin artikeli nedir?" },
+        { "speaker": "👨‍🎓", "de": "Die Blume!", "tr": "Die Blume!" },
+        { "speaker": "👩‍🏫", "de": "Sehr gut! Und das Wort Mädchen?", "tr": "Peki Mädchen kelimesi?" },
+        { "speaker": "👨‍🎓", "de": "Das Mädchen!", "tr": "Das Mädchen!" }
+      ],
+      "summary": [
+        { "de": "der → genelde -er, -ich, -ant, -ent", "tr": "genellikle erkek" },
+        { "de": "die → genelde -e, -ung, -heit, -keit", "tr": "genellikle kadın" },
+        { "de": "das → genelde -chen, -lein, -o", "tr": "genellikle nötr" }
+      ],
+      "quiz": [
+        {
+          "question": "-ung ile biten bir kelime. Artikel nedir?",
+          "options": ["der", "die", "das"],
+          "answer": 1,
+          "hint": "-ung son eki her zaman kadın isimdir."
+        },
+        {
+          "question": "-chen ile biten bir kelime. Artikel nedir?",
+          "options": ["der", "die", "das"],
+          "answer": 2,
+          "hint": "-chen son eki her zaman nötrdür."
+        },
+        {
+          "question": "-er ile biten bir kelime. En olası artikel?",
+          "options": ["der", "die", "das"],
+          "answer": 0,
+          "hint": "-er ile bitenler genellikle erkek isimdir."
+        },
+        {
+          "question": "-keit ile biten bir kelime. Artikel nedir?",
+          "options": ["der", "die", "das"],
+          "answer": 1,
+          "hint": "-keit son eki her zaman kadın isimdir."
+        }
+      ]
+    },
+    {
+      "id": "G05_Satzbau_Einfach",
+      "title": {
+        "tr": "Basit Cümle Kuruluşu",
+        "de": "Einfacher Satzbau"
+      },
+      "interactiveScene": "Öğretmen sana soruyor: „Was machst du heute?“ – Bugün ne yapıyorsun?\nSen cevap veriyorsun: „Ich lerne Deutsch.“ – Almanca öğreniyorum.\nSonra cümleyi değiştiriyorsun: „Heute lerne ich Deutsch.“ – Bugün Almanca öğreniyorum.\nHer iki cümlede de fiilin ikinci sırada kaldığını fark ediyorsun.",
+      "explanation": [
+        { "de": "Ich lerne Deutsch.", "tr": "Almanca öğreniyorum." },
+        { "de": "Heute lerne ich Deutsch.", "tr": "Bugün Almanca öğreniyorum." },
+        { "de": "In der Schule lerne ich Deutsch.", "tr": "Okulda Almanca öğreniyorum." },
+        { "de": "Ich trinke Wasser.", "tr": "Su içiyorum." },
+        { "de": "Heute trinke ich Kaffee.", "tr": "Bugün kahve içiyorum." },
+        { "de": "Morgen arbeite ich.", "tr": "Yarın çalışacağım." }
+      ],
+      "phrasesTable": [
+        { "de": "Ich lerne Deutsch.", "tr": "Almanca öğreniyorum.", "note": "Önce özne, sonra fiil." },
+        { "de": "Heute lerne ich Deutsch.", "tr": "Bugün Almanca öğreniyorum.", "note": "Zaman bilgisi başta → fiil hâlâ ikinci." },
+        { "de": "In der Schule lerne ich Deutsch.", "tr": "Okulda Almanca öğreniyorum.", "note": "Yer bilgisi başta → fiil ikinci." },
+        { "de": "Ich trinke Wasser.", "tr": "Su içiyorum.", "note": "" },
+        { "de": "Heute arbeite ich.", "tr": "Bugün çalışıyorum.", "note": "" }
+      ],
+      "tip": "Almanca basit cümlelerin altın kuralı:\nFiil her zaman ikinci sıradadır.\nÖzneyle başlasan da → Ich lerne Deutsch.\nZamanla başlasan da → Heute lerne ich Deutsch.\nYerle başlasan da → In der Schule lerne ich Deutsch.\nFiil daima ikinci olur.",
+      "dialogue": [
+        { "speaker": "👩‍🏫", "de": "Was machst du heute?", "tr": "Bugün ne yapıyorsun?" },
+        { "speaker": "👨", "de": "Heute lerne ich Deutsch.", "tr": "Bugün Almanca öğreniyorum." },
+        { "speaker": "👩‍🏫", "de": "Und morgen?", "tr": "Ya yarın?" },
+        { "speaker": "👨", "de": "Morgen arbeite ich.", "tr": "Yarın çalışıyorum." }
+      ],
+      "summary": [
+        { "de": "Fiil ikinci sıradadır", "tr": "özne, zaman ya da yer başta olsa bile" },
+        { "de": "Ich lerne Deutsch.", "tr": "Almanca öğreniyorum." },
+        { "de": "Heute lerne ich Deutsch.", "tr": "Bugün Almanca öğreniyorum." }
+      ],
+      "quiz": [
+        {
+          "question": "Sıraya koy: (Deutsch / ich / lerne)",
+          "options": ["Ich Deutsch lerne.", "Ich lerne Deutsch.", "Deutsch lerne ich."],
+          "answer": 1,
+          "hint": "Fiil ikinci sırada olmalı."
+        },
+        {
+          "question": "Hangi cümle doğru?",
+          "options": ["Heute ich lerne Deutsch.", "Heute lerne ich Deutsch.", "Lerne ich heute Deutsch."],
+          "answer": 1,
+          "hint": "Heute’den hemen sonra fiil gelir."
+        },
+        {
+          "question": "Doğru cümle hangisi?",
+          "options": ["In der Schule ich lerne Deutsch.", "Ich lerne in der Schule Deutsch.", "In der Schule lerne ich Deutsch."],
+          "answer": 2,
+          "hint": "In der Schule başta olunca fiil ikinci sıraya gelir."
+        }
+      ]
+    },
+    {
+      "id": "G06_Die_Verneinung",
+      "title": {
+        "tr": "Olumsuz Cümle Kurma: nicht ve kein",
+        "de": "Die Verneinung"
+      },
+      "interactiveScene": "Arkadaşın soruyor: „Lernst du Deutsch?“ – Almanca öğreniyor musun?\nİlk önce: „Nein, ich lerne kein Deutsch.“ – Hayır, Almanca öğrenmiyorum.\nBir süre sonra: „Jetzt lerne ich Deutsch!“ – Şimdi öğreniyorum!\nDeğişime gülüyorsun.",
+      "explanation": [
+        { "de": "nicht", "tr": "fiil, sıfat ve genel olumsuzluk için" },
+        { "de": "kein, keine", "tr": "belirsiz isimleri olumsuz yapmak için" },
+        { "de": "Ich lerne heute nicht.", "tr": "Bugün öğrenmiyorum." },
+        { "de": "Ich habe ein Auto.", "tr": "Arabam var." },
+        { "de": "Ich habe kein Auto.", "tr": "Arabam yok." },
+        { "de": "Sie ist müde.", "tr": "O yorgun." },
+        { "de": "Sie ist nicht müde.", "tr": "O yorgun değil." },
+        { "de": "Wir haben Zeit.", "tr": "Vaktimiz var." },
+        { "de": "Wir haben keine Zeit.", "tr": "Vaktimiz yok." },
+        { "de": "nie", "tr": "hiçbir zaman" },
+        { "de": "nichts", "tr": "hiçbir şey" },
+        { "de": "niemand", "tr": "hiç kimse" }
+      ],
+      "phrasesTable": [
+        { "de": "Ich bin nicht müde.", "tr": "Yorgun değilim.", "note": "sıfat olumsuzluğu → nicht" },
+        { "de": "Das ist nicht gut.", "tr": "Bu iyi değil.", "note": "" },
+        { "de": "Ich habe kein Buch.", "tr": "Kitabım yok.", "note": "belirsiz isim olumsuzluğu" },
+        { "de": "Wir haben keine Zeit.", "tr": "Vaktimiz yok.", "note": "" },
+        { "de": "Ich sehe nichts.", "tr": "Hiçbir şey görmüyorum.", "note": "nichts = hiçbir şey" },
+        { "de": "Niemand ist hier.", "tr": "Burada kimse yok.", "note": "niemand = hiç kimse" }
+      ],
+      "tip": "nicht → fiil ve sıfatları olumsuz yapar: Ich bin nicht müde. / Ich lerne heute nicht.\nkein/keine → belirsiz isimleri olumsuz yapar: Ich habe kein Auto. / Wir haben keine Zeit.\nnichts = hiçbir şey, niemand = hiç kimse.",
+      "dialogue": [
+        { "speaker": "👨", "de": "Hast du ein Auto?", "tr": "Araban var mı?" },
+        { "speaker": "👩", "de": "Nein, ich habe kein Auto.", "tr": "Hayır, arabam yok." },
+        { "speaker": "👨", "de": "Bist du müde?", "tr": "Yorgun musun?" },
+        { "speaker": "👩", "de": "Nein, ich bin nicht müde.", "tr": "Hayır, yorgun değilim." }
+      ],
+      "summary": [
+        { "de": "nicht", "tr": "fiil ve sıfatlar için olumsuzluk" },
+        { "de": "kein / keine", "tr": "belirsiz isimler için olumsuzluk" },
+        { "de": "nichts", "tr": "hiçbir şey" },
+        { "de": "niemand", "tr": "hiç kimse" }
+      ],
+      "quiz": [
+        {
+          "question": "Olumsuz yap: Ich bin müde.",
+          "options": ["Ich bin kein müde.", "Ich bin nicht müde.", "Ich habe kein müde."],
+          "answer": 1,
+          "hint": "Sıfat olumsuzluğu nicht ile yapılır."
+        },
+        {
+          "question": "Doğru olumsuz: Ich habe ___ Zeit.",
+          "options": ["nicht", "kein", "keine"],
+          "answer": 2,
+          "hint": "Zeit kadın isim ve belirsiz → keine"
+        },
+        {
+          "question": "“Hiçbir şey görmüyorum” hangi cümle?",
+          "options": ["Ich sehe niemand.", "Ich sehe nichts.", "Ich sehe nicht."],
+          "answer": 1,
+          "hint": "nichts = hiçbir şey"
+        }
+      ]
+    },
+    {
+      "id": "A1_Grammar_07_Fragewoerter",
+      "title": {
+        "tr": "Temel Soru Kelimeleri (W-Sorulari)",
+        "de": "Fragewörter (W-Fragen)"
+      },
+      "interactiveScene": "Almanya’ya ilk gününde herkes sana soru soruyor!\nSüpermarkette: “Was möchten Sie?”\nOkulda: “Wie heißt du?”\nParkta: “Wo wohnst du?”\nAlmanların kahve kadar soru sormayı da sevdiğini keşfediyorsun! ☕️😄",
+      "explanation": [
+        { "de": "Wer?", "tr": "Kim? (kişiler için)" },
+        { "de": "Was?", "tr": "Ne? (nesneler için)" },
+        { "de": "Wo?", "tr": "Nerede?" },
+        { "de": "Wann?", "tr": "Ne zaman?" },
+        { "de": "Wie?", "tr": "Nasıl? / Nasılsın?" }
+      ],
+      "phrasesTable": [
+        { "de": "Wer ist das?", "tr": "Bu kim?", "note": "kişiler için" },
+        { "de": "Was machst du?", "tr": "Ne yapıyorsun?", "note": "" },
+        { "de": "Wo wohnst du?", "tr": "Nerede oturuyorsun?", "note": "" },
+        { "de": "Wann beginnt der Kurs?", "tr": "Kurs ne zaman başlıyor?", "note": "" },
+        { "de": "Wie geht es dir?", "tr": "Nasılsın?", "note": "" }
+      ],
+      "tip": "Almanca’daki temel soru kelimelerinin hepsi W harfiyle başlar → W-Fragen denir.\nSoru kelimesinden hemen sonra fiil gelir:\n👉 Wo wohnst du? / Wie heißt du?",
+      "dialogue": [
+        { "speaker": "👩", "de": "Wie heißt du?", "tr": "Adın ne?" },
+        { "speaker": "👨", "de": "Ich heiße Noa.", "tr": "Adım Noa." },
+        { "speaker": "👩", "de": "Wo wohnst du?", "tr": "Nerede oturuyorsun?" },
+        { "speaker": "👨", "de": "Ich wohne in Berlin.", "tr": "Berlin’de oturuyorum." },
+        { "speaker": "👩", "de": "Wann beginnt dein Kurs?", "tr": "Kursun ne zaman başlıyor?" },
+        { "speaker": "👨", "de": "Morgen früh!", "tr": "Yarın sabah!" }
+      ],
+      "summary": [
+        { "de": "Wer = kim?", "tr": "kişiler için" },
+        { "de": "Was = ne?", "tr": "nesneler için" },
+        { "de": "Wo = nerede?", "tr": "yer için" },
+        { "de": "Wann = ne zaman?", "tr": "zaman için" },
+        { "de": "Wie = nasıl?", "tr": "durum/yol için" }
+      ],
+      "quiz": [
+        {
+          "question": "Kişi sormak için hangi soru kelimesi?",
+          "options": ["Was", "Wer", "Wo"],
+          "answer": 1,
+          "hint": "Kim? = Wer"
+        },
+        {
+          "question": "“Nerede oturuyorsun?” nasıl söylenir?",
+          "options": ["Was wohnst du?", "Wo wohnst du?", "Wie wohnst du?"],
+          "answer": 1,
+          "hint": "Wo yer sorusudur."
+        },
+        {
+          "question": "Wann ne demektir?",
+          "options": ["ne zaman", "kim", "nerede"],
+          "answer": 0,
+          "hint": "Zaman sorusu için kullanılır."
+        },
+        {
+          "question": "Doğru cümle hangisi?",
+          "options": ["Wie heißt du?", "Du wie heißt?", "Heißt du wie?"],
+          "answer": 0,
+          "hint": "Soru kelimesi başta, sonra fiil gelir."
+        }
+      ]
+    }
+  ]
+}

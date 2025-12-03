@@ -1,0 +1,336 @@
+{
+  "questions": [
+    {
+      "id": "a1_01",
+      "level": "A1",
+      "question": "What is the correct word order for the sentence: 'I live in Germany'?",
+      "options": [
+        "Ich lebe in Deutschland.",
+        "Ich Deutschland lebe.",
+        "Lebe ich in Deutschland."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_02",
+      "level": "A1",
+      "question": "What does the sentence 'Ich habe Durst' mean?",
+      "options": [
+        "I am thirsty.",
+        "I am hungry.",
+        "I am tired."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_03",
+      "level": "A1",
+      "question": "Choose the correct question to ask about the time:",
+      "options": [
+        "Wie spät ist es?",
+        "Wo spät ist es?",
+        "Was spät ist?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_04",
+      "level": "A1",
+      "question": "Which word means 'kitchen'?",
+      "options": [
+        "die Küche",
+        "der Keller",
+        "das Zimmer"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_05",
+      "level": "A1",
+      "question": "Choose the correct meaning of the word 'billig':",
+      "options": [
+        "cheap",
+        "expensive",
+        "new"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_06",
+      "level": "A1",
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "Ich spreche ein bisschen Deutsch.",
+        "Ich sprechen ein bisschen Deutsch.",
+        "Ich spricht ein bisschen Deutsch."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_07",
+      "level": "A1",
+      "question": "What is the plural form of 'das Kind'?",
+      "options": [
+        "die Kinder",
+        "die Kinden",
+        "die Kinders"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_08",
+      "level": "A1",
+      "question": "Choose the correct question to ask someone's name:",
+      "options": [
+        "Wie heißt du?",
+        "Wo heißt du?",
+        "Was heißt du?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_09",
+      "level": "A1",
+      "question": "Which pronoun fits the sentence: '___ wohne in Berlin'?",
+      "options": [
+        "Ich",
+        "Du",
+        "Er"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_10",
+      "level": "A1",
+      "question": "Choose the correct translation of the word 'Arzt':",
+      "options": [
+        "doctor",
+        "nurse",
+        "patient"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_11",
+      "level": "A1",
+      "question": "Choose the correct answer to the question 'Woher kommst du?':",
+      "options": [
+        "Ich komme aus Syrien.",
+        "Ich wohne Berlin.",
+        "Ich komme syrisch."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_12",
+      "level": "A1",
+      "question": "Which word means 'supermarket'?",
+      "options": [
+        "der Supermarkt",
+        "die Fabrik",
+        "der Flughafen"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_13",
+      "level": "A1",
+      "question": "'Guten Morgen' is used in the…",
+      "options": [
+        "morning",
+        "evening",
+        "afternoon"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_14",
+      "level": "A1",
+      "question": "Which sentence correctly expresses possession?",
+      "options": [
+        "Das ist mein Auto.",
+        "Das ist mich Auto.",
+        "Das ist mir Auto."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a1_15",
+      "level": "A1",
+      "question": "Choose the correct meaning of the word 'schwer':",
+      "options": [
+        "heavy / difficult",
+        "light",
+        "nice"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2_01",
+      "level": "A2",
+      "question": "Choose the correct sentence with the separable verb 'aufstehen':",
+      "options": [
+        "Ich stehe jeden Tag um 7 Uhr auf.",
+        "Ich aufstehe jeden Tag um 7 Uhr.",
+        "Ich stehe auf jeden Tag um 7 Uhr."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_12",
+      "level": "A2",
+      "question": "Choose the meaning of the word 'Rechnung':",
+      "options": [
+        "bill / invoice",
+        "certificate",
+        "bag"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_13",
+      "level": "A2",
+      "question": "Which sentence expresses possibility?",
+      "options": [
+        "Vielleicht komme ich morgen.",
+        "Ich komme morgen sicher.",
+        "Ich muss morgen kommen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_14",
+      "level": "A2",
+      "question": "Choose the correct conjugation of 'dürfen' with 'ich':",
+      "options": [
+        "ich darf",
+        "ich dürfe",
+        "ich dürfen"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "a2_15",
+      "level": "A2",
+      "question": "Which word means 'hospital'?",
+      "options": [
+        "das Krankenhaus",
+        "die Fabrik",
+        "das Geschäft"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "b1_01",
+      "level": "B1",
+      "question": "Which sentence is appropriate for a formal complaint?",
+      "options": [
+        "Leider bin ich mit Ihrer Dienstleistung nicht zufrieden.",
+        "Ey Bruder, Service war schlecht.",
+        "Das ist richtig doof!"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_02",
+      "level": "B1",
+      "question": "Complete the sentence: 'Ich habe den Kurs bestanden, ____ ich viel gelernt habe.'",
+      "options": [
+        "weil",
+        "trotzdem",
+        "obwohl"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_03",
+      "level": "B1",
+      "question": "Which sentence contains Konjunktiv II (for politeness or hypotheticals)?",
+      "options": [
+        "Ich würde gerne kommen.",
+        "Ich komme später.",
+        "Ich bin gekommen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_04",
+      "level": "B1",
+      "question": "Choose the best opening for a formal email:",
+      "options": [
+        "Sehr geehrte Damen und Herren,",
+        "Hallo Leute,",
+        "Na, wie geht’s?"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_05",
+      "level": "B1",
+      "question": "What is the correct meaning of 'verpflichtend'?",
+      "options": [
+        "mandatory / compulsory",
+        "optional",
+        "temporary"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_06",
+      "level": "B1",
+      "question": "Choose the grammatically correct sentence:",
+      "options": [
+        "Obwohl es kalt ist, gehe ich spazieren.",
+        "Weil es kalt ist, aber gehe ich spazieren.",
+        "Kalt obwohl ist gehe ich."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_07",
+      "level": "B1",
+      "question": "Which sentence expresses an opinion?",
+      "options": [
+        "Meiner Meinung nach ist Deutsch schwierig.",
+        "Ich esse heute Pizza.",
+        "Der Termin ist morgen."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_08",
+      "level": "B1",
+      "question": "Choose the correct meaning of 'Außerdem':",
+      "options": [
+        "furthermore / in addition",
+        "nevertheless",
+        "anyway"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_09",
+      "level": "B1",
+      "question": "Which sentence contains the passive voice?",
+      "options": [
+        "Der Brief wurde gestern geschickt.",
+        "Ich schicke den Brief.",
+        "Ich werde den Brief schicken."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "b1_10",
+      "level": "B1",
+      "question": "Choose the meaning of the word 'Vorteil':",
+      "options": [
+        "advantage",
+        "problem",
+        "suggestion"
+      ],
+      "answer": 0
+    }
+  ]
+}

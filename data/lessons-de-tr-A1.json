@@ -1,0 +1,234 @@
+{
+  "levels": {
+    "A1": {
+      "title": "A1 – Başlangıç",
+      "lessons": [
+        {
+          "id": "A1_L01_Greetings",
+          "title": {
+            "de": "Begrüßungen",
+            "en": "Greetings",
+            "tr": "Selamlaşma"
+          },
+          "interactiveScene": "Kendini Berlin havaalanına yeni inmiş hayal et. Çantanı banttan alıyorsun, elektronik kapıdan geçiyorsun ve pasaport memuresi sana gülümseyerek „Guten Tag! Wie geht’s?“ diyor.\nGerginliğine rağmen küçük bir gülümsemeyle cevap veriyorsun: „Mir geht’s gut, danke!“\nSonra utana sıkıla soruyorsun: „Und dir?“\nO da gülümseyip pasaportuna damgayı basıyor: „Willkommen in Deutschland!“ 🇩🇪✈️",
+          "explanation": [
+            { "de": "Hallo!", "tr": "Almanya'daki en basit ve en yaygın selamlaşma, her saatte kullanılabilir." },
+            { "de": "Guten Morgen!", "tr": "Günaydın! Sabah erken saatlerden 11'e kadar kullanılır." },
+            { "de": "Guten Tag!", "tr": "Tünaydın! Yaklaşık 11:00'den akşam 18:00'e kadar kullanılır." },
+            { "de": "Guten Abend!", "tr": "İyi akşamlar! Akşam 18:00'den gece 22:00'ye kadar kullanılır." },
+            { "de": "Gute Nacht!", "tr": "İyi geceler! Genellikle sadece yatmadan önce söylenir." },
+            { "de": "Wie geht’s?", "tr": "Nasılsın? (samimi, arkadaşlar ve tanıdıklar için)" },
+            { "de": "Wie geht es Ihnen?", "tr": "Nasılsınız? (resmi, yaşlılar ve yabancılara)" },
+            { "de": "Mir geht’s gut, danke!", "tr": "İyiyim, teşekkürler!" },
+            { "de": "Und dir? / Und Ihnen?", "tr": "Ya sana? / Ya size? (soruyu nazikçe geri sormak için)" },
+            { "de": "Danke! / Vielen Dank!", "tr": "Teşekkürler! / Çok teşekkürler!" },
+            { "de": "Bitte!", "tr": "Rica ederim / Lütfen (hem rica hem teşekkür cevabı olarak kullanılır)" }
+          ],
+          "phrasesTable": [
+            { "de": "Hallo!", "tr": "Merhaba!", "note": "Nötr, çoğu durumda kullanılabilir." },
+            { "de": "Guten Morgen!", "tr": "Günaydın!", "note": "Nazik veya biraz resmi ortamlarda tercih edilir." },
+            { "de": "Guten Abend!", "tr": "İyi akşamlar!", "note": "Akşam içeri girerken veya selamlaşırken kullanılır." },
+            { "de": "Wie geht’s?", "tr": "Nasılsın?", "note": "Samimi, arkadaşlar arasında." },
+            { "de": "Wie geht es Ihnen?", "tr": "Nasılsınız?", "note": "Resmi, yabancılara veya iş yerinde." },
+            { "de": "Mir geht’s gut, danke!", "tr": "İyiyim, teşekkürler!", "note": "Hazır ve kibar cevap." },
+            { "de": "Und dir?", "tr": "Ya sana?", "note": "Arkadaşlara ve yaşıtlara." },
+            { "de": "Und Ihnen?", "tr": "Ya size?", "note": "Resmi hitap." },
+            { "de": "Danke!", "tr": "Teşekkürler!", "note": "Her durumda temel kibarlık kelimesi." },
+            { "de": "Bitte!", "tr": "Rica ederim / Lütfen", "note": "Bağlama göre birden fazla anlamı var." }
+          ],
+          "tip": "Günlük selamlaşmalarda genellikle duyduğun selamla aynı şekilde cevap verebilirsin:\nGuten Morgen → Guten Morgen\nGuten Abend → Guten Abend\nHallo → Hallo\nBu başlangıçta konuşmayı kolaylaştırır ve hoş bir izlenim bırakır.",
+          "dialogue": [
+            { "speaker": "👩‍🦰", "de": "Guten Morgen! Wie geht’s?", "tr": "Günaydın! Nasılsın?" },
+            { "speaker": "👨", "de": "Mir geht’s gut, danke! Und dir?", "tr": "İyiyim, teşekkürler! Ya sana?" },
+            { "speaker": "👩‍🦰", "de": "Auch gut, danke!", "tr": "Ben de iyiyim, teşekkürler!" }
+          ],
+          "summary": [
+            { "de": "Hallo!", "tr": "Her saatte kullanılabilen genel selam." },
+            { "de": "Guten Morgen!", "tr": "Günaydın." },
+            { "de": "Guten Tag!", "tr": "Tünaydın." },
+            { "de": "Guten Abend!", "tr": "İyi akşamlar." },
+            { "de": "Gute Nacht!", "tr": "İyi geceler (sadece yatmadan önce)." },
+            { "de": "Wie geht’s?", "tr": "Nasılsın? (samimi)." },
+            { "de": "Wie geht es Ihnen?", "tr": "Nasılsınız? (resmi)." },
+            { "de": "Danke / Bitte", "tr": "Teşekkürler / Rica ederim." }
+          ],
+          "quiz": [
+            {
+              "question": "Biri sana „Guten Abend!“ dedi. En iyi cevap nedir?",
+              "options": ["Guten Abend!", "Guten Morgen!", "Wie geht’s?"],
+              "answer": 0,
+              "hint": "Genellikle duyduğumuz selamla aynı şekilde karşılık veririz."
+            },
+            {
+              "question": "Tanımadığın birine resmi bir durumda hangi cümleyi kullanırsın?",
+              "options": ["Wie geht’s?", "Wie geht es Ihnen?", "Und dir?"],
+              "answer": 1,
+              "hint": "Sie resmi hitaptır, dikkat et."
+            },
+            {
+              "question": "„İyiyim, teşekkürler“ anlamına gelen cümle hangisi?",
+              "options": ["Guten Tag!", "Mir geht’s gut, danke!", "Bitte!"],
+              "answer": 1,
+              "hint": "gut ve danke kelimelerini birlikte ara."
+            }
+          ]
+        },
+        {
+          "id": "A1_L02_Introduction",
+          "title": {
+            "tr": "Tanışma ve kendini tanıtma",
+            "de": "Vorstellung",
+            "en": "Introduction"
+          },
+          "interactiveScene": "Berlin’deki Almanca kursunun ilk günü. Farklı ülkelerden öğrencilerle birlikte daire şeklinde oturuyorsunuz.\nÖğretmen gülümseyerek soruyor: „Wie heißt du?“\nGülümsüyorsun ve cevap veriyorsun: „Ich heiße Noa.“\nSonra soruyor: „Wie alt bist du?“ → „Ich bin 31 Jahre alt.“\nArdından: „Woher kommst du?“ → Gururla: „Ich komme aus Syrien.“\nSonunda öğretmen: „Schön, dich kennenzulernen!“ diyor ve sen yeni bir dilde yeni bir köpük kurduğunu hissediyorsun.",
+          "explanation": [
+            { "de": "Wie heißt du?", "tr": "Adın ne? (samimi)" },
+            { "de": "Wie heißen Sie?", "tr": "Adınız nedir? (resmi)" },
+            { "de": "Ich heiße Noa.", "tr": "Adım Noa." },
+            { "de": "Ich bin Noa.", "tr": "Ben Noa." },
+            { "de": "Mein Name ist Noa.", "tr": "Adım Noa. (daha resmi)" },
+            { "de": "Wie alt bist du?", "tr": "Kaç yaşındasın?" },
+            { "de": "Ich bin 31 Jahre alt.", "tr": "31 yaşındayım." },
+            { "de": "Woher kommst du?", "tr": "Nerelisin?" },
+            { "de": "Ich komme aus Syrien.", "tr": "Suriyeliyim." },
+            { "de": "Wo wohnst du?", "tr": "Nerede oturuyorsun?" },
+            { "de": "Ich wohne in Deutschland.", "tr": "Almanya’da oturuyorum." }
+          ],
+          "phrasesTable": [
+            { "de": "Wie heißt du?", "tr": "Adın ne?", "note": "Samimi, arkadaşlar arasında." },
+            { "de": "Wie heißen Sie?", "tr": "Adınız nedir?", "note": "Resmi, yabancılara veya iş yerinde." },
+            { "de": "Ich heiße Noa.", "tr": "Adım Noa.", "note": "Klasik isim cevabı." },
+            { "de": "Wie alt bist du?", "tr": "Kaç yaşındasın?", "note": "Doğrudan yaş sorusu." },
+            { "de": "Ich bin 31 Jahre alt.", "tr": "31 yaşındayım.", "note": "Rakamı kendi yaşına göre değiştir." },
+            { "de": "Woher kommst du?", "tr": "Nerelisin?", "note": "Memleket sorusu." },
+            { "de": "Ich komme aus Syrien.", "tr": "Suriyeliyim.", "note": "aus’dan sonra ülkeni yaz." },
+            { "de": "Wo wohnst du?", "tr": "Nerede oturuyorsun?", "note": "Şu anki ikamet yeri sorusu." },
+            { "de": "Ich wohne in Deutschland.", "tr": "Almanya’da oturuyorum.", "note": "Deutschland yerine şehir de yazılabilir." },
+            { "de": "Schön, dich kennenzulernen!", "tr": "Tanıştığımıza memnun oldum!", "note": "İlk tanışmada söylenir." }
+          ],
+          "tip": "Almanca’da basit haber cümlelerinde fiil genellikle ikinci sıradadır:\nIch heiße Noa. → Ben Noa’yım.\nIch bin 31 Jahre alt. → 31 yaşındayım.\nIch komme aus Syrien. → Suriyeliyim.\nAltın kural: Özne → Fiil → Devamı",
+          "dialogue": [
+            { "speaker": "👩‍🏫", "de": "Wie heißt du?", "tr": "Adın ne?" },
+            { "speaker": "👨", "de": "Ich heiße Noa.", "tr": "Adım Noa." },
+            { "speaker": "👩‍🏫", "de": "Wie alt bist du?", "tr": "Kaç yaşındasın?" },
+            { "speaker": "👨", "de": "Ich bin 31 Jahre alt.", "tr": "31 yaşındayım." },
+            { "speaker": "👩‍🏫", "de": "Woher kommst du?", "tr": "Nerelisin?" },
+            { "speaker": "👨", "de": "Ich komme aus Syrien.", "tr": "Suriyeliyim." },
+            { "speaker": "👩‍🏫", "de": "Schön, dich kennenzulernen!", "tr": "Tanıştığımıza memnun oldum!" },
+            { "speaker": "👨", "de": "Danke, ebenfalls!", "tr": "Teşekkürler, ben de!" }
+          ],
+          "summary": [
+            { "de": "Ich heiße ...", "tr": "Adım ..." },
+            { "de": "Ich bin ...", "tr": "Ben ..." },
+            { "de": "Mein Name ist ...", "tr": "Adım ..." },
+            { "de": "Wie heißt du?", "tr": "Adın ne? (samimi)" },
+            { "de": "Wie heißen Sie?", "tr": "Adınız nedir? (resmi)" },
+            { "de": "Wie alt bist du?", "tr": "Kaç yaşındasın?" },
+            { "de": "Ich bin ... Jahre alt.", "tr": "... yaşındayım." },
+            { "de": "Woher kommst du?", "tr": "Nerelisin?" },
+            { "de": "Ich komme aus ...", "tr": "...liyim." },
+            { "de": "Wo wohnst du?", "tr": "Nerede oturuyorsun?" },
+            { "de": "Ich wohne in ...", "tr": "...da oturuyorum." },
+            { "de": "Schön, dich kennenzulernen!", "tr": "Tanıştığımıza memnun oldum!" }
+          ],
+          "quiz": [
+            {
+              "question": "Öğretmen sana „Wie heißt du?“ dedi. En iyi cevap nedir?",
+              "options": ["Ich heiße Noa.", "Ich bin gut.", "Guten Tag!"],
+              "answer": 0,
+              "hint": "Ich heiße … ile başlayan cümleyi ara."
+            },
+            {
+              "question": "„Wie alt bist du?“ sorusuna uygun cevap hangisi?",
+              "options": ["Ich bin 31 Jahre alt.", "Ich komme aus Syrien.", "Ich heiße Noa."],
+              "answer": 0,
+              "hint": "Yaş sorusu, Jahre kelimesine dikkat et."
+            },
+            {
+              "question": "Suriyeliyim demek istiyorsun. Hangisini seçersin?",
+              "options": ["Ich heiße Syrien.", "Ich komme aus Syrien.", "Ich bin Syrien Jahre alt."],
+              "answer": 1,
+              "hint": "Doğru fiil: komme aus"
+            }
+          ]
+        },
+        {
+          "id": "A1_L03_Numbers",
+          "title": {
+            "tr": "Sayılar",
+            "de": "Nummern",
+            "en": "Numbers"
+          },
+          "interactiveScene": "Berlin’deki bir kafeye girdin ve garsona „Einen Kaffee, bitte!“ dedin.\nGülümseyerek soruyor: „Wie viele Zucker?“ → Kaç şeker?\nBiraz düşünüp cevap veriyorsun: „Zwei, bitte.“\nSonra: „Nummer fünf oder sechs?“ → Beş mi altı mı?\nGülüyor ve diyorsun: „Fünf! Sechs çok sert!“\nİşte sayıları ilk kez gerçek bir durumda kullandın.",
+          "explanation": [
+            { "de": "null", "tr": "sıfır" },
+            { "de": "eins", "tr": "bir" },
+            { "de": "zwei", "tr": "iki" },
+            { "de": "drei", "tr": "üç" },
+            { "de": "vier", "tr": "dört" },
+            { "de": "fünf", "tr": "beş" },
+            { "de": "sechs", "tr": "altı" },
+            { "de": "sieben", "tr": "yedi" },
+            { "de": "acht", "tr": "sekiz" },
+            { "de": "neun", "tr": "dokuz" },
+            { "de": "zehn", "tr": "on" },
+            { "de": "elf", "tr": "on bir" },
+            { "de": "zwölf", "tr": "on iki" },
+            { "de": "zwanzig", "tr": "yirmi" },
+            { "de": "dreißig", "tr": "otuz" },
+            { "de": "vierzig", "tr": "kırk" },
+            { "de": "fünfzig", "tr": "elli" },
+            { "de": "sechzig", "tr": "altmış" },
+            { "de": "siebzig", "tr": "yetmiş" },
+            { "de": "achtzig", "tr": "seksen" },
+            { "de": "neunzig", "tr": "doksan" },
+            { "de": "hundert", "tr": "yüz" }
+          ],
+          "phrasesTable": [
+            { "de": "eins, zwei, drei", "tr": "bir, iki, üç", "note": "Basit sayma için." },
+            { "de": "Wie viele?", "tr": "Kaç tane?", "note": "Adet veya miktar sorusu." },
+            { "de": "Wie viele Zucker?", "tr": "Kaç şeker?", "note": "Kafe ve restoranlarda çok işe yarar." },
+            { "de": "Ich bin dreißig Jahre alt.", "tr": "Otuz yaşındayım.", "note": "Rakamı kendi yaşına göre değiştir." },
+            { "de": "Nummer fünf", "tr": "Beş numaralı", "note": "Masalar, sıralar, biletler için kullanılır." }
+          ],
+          "tip": "21-99 arası sayılar Almanca’da tersten söylenir ve yazılır:\n21 = einundzwanzig (bir ve yirmi)\n43 = dreiundvierzig (üç ve kırk)\n57 = siebenundfünfzig (yedi ve elli)\nYani önce birler basamağı, sonra onluk gelir.",
+          "dialogue": [
+            { "speaker": "👩‍🦰", "de": "Wie alt bist du?", "tr": "Kaç yaşındasın?" },
+            { "speaker": "👨‍🦱", "de": "Ich bin achtzehn.", "tr": "On sekiz yaşındayım." },
+            { "speaker": "👩‍🦰", "de": "Und wie viele Geschwister hast du?", "tr": "Kaç kardeşin var?" },
+            { "speaker": "👨‍🦱", "de": "Drei. Zwei Brüder und eine Schwester.", "tr": "Üç. İki erkek kardeş ve bir kız kardeş." }
+          ],
+          "summary": [
+            { "de": "null", "tr": "sıfır" },
+            { "de": "eins, zwei, drei, vier, fünf", "tr": "bir, iki, üç, dört, beş" },
+            { "de": "sechs, sieben, acht, neun, zehn", "tr": "altı, yedi, sekiz, dokuz, on" },
+            { "de": "zwanzig, dreißig, vierzig ...", "tr": "yirmi, otuz, kırk ..." },
+            { "de": "hundert", "tr": "yüz" },
+            { "de": "Wie viele ...?", "tr": "Kaç tane ...?" },
+            { "de": "Ich bin ... Jahre alt.", "tr": "... yaşındayım." }
+          ],
+          "quiz": [
+            {
+              "question": "„fünf“ kelimesi kaç demektir?",
+              "options": ["3", "5", "10"],
+              "answer": 1,
+              "hint": "3 + 2 = ? örneğinde kullanılır."
+            },
+            {
+              "question": "Yirmi anlamına gelen hangisi?",
+              "options": ["zwölf", "zwanzig", "dreißig"],
+              "answer": 1,
+              "hint": "Kelimenin başına dikkat et: zwan-"
+            },
+            {
+              "question": "Otuz yaşındayım demek istiyorsun. Doğru cümle hangisi?",
+              "options": ["Ich bin dreißig Jahre alt.", "Ich bin zwanzig Jahre alt.", "Ich bin hundert Jahre alt."],
+              "answer": 0,
+              "hint": "dreißig kelimesini ara."
+            }
+          ]
+        }
+        ]
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "level": "A0",
+  "title": "A0 – Telaffuz ve Alfabe",
+  "lessons": [
+    {
+      "id": "Pronunciation_Alphabet",
+      "title": {
+        "tr": "Almanca Alfabe",
+        "de": "Das deutsche Alphabet",
+        "en": "German Alphabet"
+      },
+      "video": "https://www.youtube.com/watch?v=example1",
+      "interactiveScene": "👩‍🏫 Öğretmen sınıfa girer ve gülümseyerek der ki: Bugün alfabeyi öğreneceğiz! 🔤\nTahtaya yazar: A, B, C, D, E...\nSonra şöyle der: \"Ich spreche – du wiederholst.\" (Ben söylüyorum, sen tekrar ediyorsun.) 🙂\nHarfleri yavaş ve net bir şekilde okur, sen de yüksek sesle tekrar edersin.",
+      "explanation": [
+        { "de": "A – ausgesprochen [aː]", "tr": "A – 'a' gibi uzun okunur." },
+        { "de": "B – ausgesprochen [beː]", "tr": "B – 'be' gibi okunur." },
+        { "de": "C – ausgesprochen [tseː]", "tr": "C – 'tse' gibi okunur." },
+        { "de": "D – ausgesprochen [deː]", "tr": "D – 'de' gibi okunur." },
+        { "de": "E – ausgesprochen [eː]", "tr": "E – 'e' gibi uzun okunur." },
+        { "de": "F – ausgesprochen [ɛf]", "tr": "F – 'ef' gibi okunur." }
+      ],
+      "phrasesTable": [
+        { "de": "A wie Auto", "tr": "A – Auto gibi (araba)" },
+        { "de": "B wie Ball", "tr": "B – Ball gibi (top)" },
+        { "de": "C wie Computer", "tr": "C – Computer gibi (bilgisayar)" },
+        { "de": "D wie Deutschland", "tr": "D – Deutschland gibi (Almanya)" },
+        { "de": "E wie Elefant", "tr": "E – Elefant gibi (fil)" }
+      ],
+      "tip": "🎧 Her gün pratik yap: Sadece 5 harf seç ve yüksek sesle birkaç kez tekrarla.\nA / E / I arasındaki farklara özellikle dikkat et, kelimelerde karışmasın.\nSesini kaydedip dinlersen zamanla gelişimini çok net fark edersin.",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Wie buchstabiert man deinen Namen?",
+          "tr": "Adını Almanca nasıl heceliyorsun?"
+        },
+        {
+          "speaker": "👨",
+          "de": "N – O – A. Noa.",
+          "tr": "N – O – A. Noa."
+        },
+        {
+          "speaker": "👩‍🏫",
+          "de": "Sehr gut, das ist richtig!",
+          "tr": "Çok iyi, tamamen doğru!"
+        }
+      ],
+      "summary": [
+        { "de": "A – aː", "tr": "Uzun 'a'" },
+        { "de": "E – eː", "tr": "Uzun 'e'" },
+        { "de": "I – iː", "tr": "Uzun 'i'" },
+        { "de": "O – oː", "tr": "Uzun 'o'" },
+        { "de": "U – uː", "tr": "Kapalı uzun 'u'" }
+      ],
+      "quiz": [
+        {
+          "question": "Almanca'da hangi harf \"tse\" gibi telaffuz edilir?",
+          "options": ["C", "Z", "S"],
+          "answer": 0,
+          "hint": "C wie Computer. Almanca'da C genellikle 'tse' gibi okunur."
+        },
+        {
+          "question": "\"be\" gibi telaffuz edilen harf hangisidir?",
+          "options": ["P", "B", "D"],
+          "answer": 1,
+          "hint": "B wie Ball. P ile karıştırma (P sessiz 'pe' gibi okunur)."
+        }
+      ]
+    },
+
+    {
+      "id": "Pronunciation_Umlaut",
+      "title": {
+        "tr": "Umlaut Harfleri ve Sesli Harfler",
+        "de": "Umlaute und Vokale",
+        "en": "Umlauts and vowels"
+      },
+      "video": "https://www.youtube.com/watch?v=example2",
+      "interactiveScene": "👩‍🏫 Öğretmen tahtaya ä – ö – ü yazar ve şöyle der: Bunlara Umlaut denir. 🎶\nÖrnekler ekler: \"spät, schön, grün\" ve senden taklit etmeni ister.\nÄ söylerken ağzını biraz açmanı, ö ve ü söylerken dudaklarını yuvarlak yapmanı teşvik eder.",
+      "explanation": [
+        { "de": "ä – klingt ähnlich wie langes „e“", "tr": "ä – uzun 'e' gibi, ama biraz daha açık." },
+        { "de": "ö – zwischen „o“ und „e“", "tr": "ö – 'o' ile 'e' arasında bir ses." },
+        { "de": "ü – zwischen „u“ und „i“", "tr": "ü – 'u' ile 'i' arasında, dudaklar yuvarlak." },
+        { "de": "ß – gesprochen wie „ss“", "tr": "ß – uzun 'ss' gibi okunur." }
+      ],
+      "phrasesTable": [
+        { "de": "schön", "tr": "güzel", "note": "ö yumuşak orta ses." },
+        { "de": "Mädchen", "tr": "kız", "note": "ä uzun e'ye çok yakın." },
+        { "de": "grün", "tr": "yeşil", "note": "ü derin ve kapalı." },
+        { "de": "Fuß", "tr": "ayak", "note": "ß = ss gibi: Fuß ≈ Fuuss." }
+      ],
+      "tip": "✨ Klavyede yazarken:\nä → ae   |   ö → oe   |   ü → ue   |   ß → ss\nE-posta, kullanıcı adı yazarken veya Almanca klavye yoksa çok işine yarayacak!",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Wie heißt das richtig: schön oder schon?",
+          "tr": "Doğru yazımı hangisi: schön mü, yoksa schon mu?"
+        },
+        {
+          "speaker": "👨",
+          "de": "schön – mit ö.",
+          "tr": "schön – ö ile."
+        },
+        {
+          "speaker": "👩‍🏫",
+          "de": "Genau! Das ist ein Umlaut.",
+          "tr": "Aynen öyle! Bu bir umlaut harfidir."
+        }
+      ],
+      "summary": [
+        { "de": "ä → wie langes e", "tr": "uzun 'e' gibi" },
+        { "de": "ö → zwischen o und e", "tr": "'o' ile 'e' arası" },
+        { "de": "ü → zwischen u und i", "tr": "'u' ile 'i' arası, kapalı" },
+        { "de": "ß → wie ss", "tr": "uzun 'ss' gibi" }
+      ],
+      "quiz": [
+        {
+          "question": "Hangi kelimede ü harfi vardır?",
+          "options": ["grün", "Mädchen", "schön"],
+          "answer": 0,
+          "hint": "Noktalara bak: ü sadece grün'de var."
+        },
+        {
+          "question": "Klavyede umlaut yoksa ä nasıl yazılır?",
+          "options": ["ae", "ah", "ai"],
+          "answer": 0,
+          "hint": "E-posta ve isimlerde: ä → ae"
+        }
+      ]
+    },
+
+    {
+      "id": "Pronunciation_SpecialPairs",
+      "title": {
+        "tr": "Özel Harf Birleşimleri",
+        "de": "Buchstabenkombinationen",
+        "en": "Special letter combinations"
+      },
+      "video": "https://www.youtube.com/watch?v=example3",
+      "interactiveScene": "👩‍🏫 Öğretmen tahtaya yazar: ei, ie, sch, ch, sp, st.\nŞöyle der: \"Bu birleşimlerin kendine özel sesleri var!\" ✨\nKelimeleri okur: nein – Sie – Schule – ich – Straße.\nDudaklarına ve diline hafifçe dokunarak ei, ie ve ch arasındaki farkı hissetmeni ister.",
+      "explanation": [
+        { "de": "ei → klingt wie „ai“", "tr": "ei → 'ay' gibi okunur (nein)" },
+        { "de": "ie → klingt wie langes „i“", "tr": "ie → uzun 'i' gibi (Sie)" },
+        { "de": "sch → wie „sh“", "tr": "sch → 'ş' gibi (Schule)" },
+        { "de": "ch → weicher Laut, z.B. in „ich“", "tr": "ch → yumuşak 'h/kh' arası ses (ich)" },
+        { "de": "sp / st am Wortanfang → „shp / sht“", "tr": "Kelime başında: sp/st → 'şp/şt' gibi (Straße)" }
+      ],
+      "phrasesTable": [
+        { "de": "nein", "tr": "hayır", "note": "ei → ay" },
+        { "de": "Sie", "tr": "siz (resmi hitap)", "note": "ie → uzun i" },
+        { "de": "Schule", "tr": "okul", "note": "sch → ş" },
+        { "de": "ich", "tr": "ben", "note": "ch → yumuşak kh" },
+        { "de": "Straße", "tr": "sokak", "note": "st → kelime başında şt" }
+      ],
+      "tip": "🎯 Altın kural:\n- Sadece kelime başında: \"sp\" ve \"st\" → şp/şt gibi okunur.\n- Kelime ortasında veya sonunda normal s gibi kalır.\nÖrnek:\n• Sport → şport\n• Straße → ştrase\n• Gastgeber → ortada st → normal 'st' gibi.",
+      "dialogue": [
+        {
+          "speaker": "👩‍🏫",
+          "de": "Wie spricht man „Straße“ richtig?",
+          "tr": "„Straße“ kelimesi doğru nasıl telaffuz edilir?"
+        },
+        {
+          "speaker": "👨",
+          "de": "Shtraße – mit „sht“ am Anfang.",
+          "tr": "Ştrase – başta 'şt' ile."
+        },
+        {
+          "speaker": "👩‍🏫",
+          "de": "Perfekt! Genau so klingt es im Deutschen.",
+          "tr": "Mükemmel! Tam olarak Almanca'da böyle söylenir."
+        }
+      ],
+      "summary": [
+        { "de": "ei → „ai“", "tr": "nein = nayn" },
+        { "de": "ie → langes „i“", "tr": "Sie = zii" },
+        { "de": "sch → „sh“", "tr": "Schule = şule" },
+        { "de": "ch → weicher Laut", "tr": "ich = ih (yumuşak kh)" },
+        { "de": "sp/st am Anfang → shp/sht", "tr": "Sport / Straße" }
+      ],
+      "quiz": [
+        {
+          "question": "\"sch\" birleşimi 'ş' gibi okunan kelime:",
+          "options": ["Schule", "sagen", "sie"],
+          "answer": 0,
+          "hint": "Schule → şule"
+        },
+        {
+          "question": "„nein“ kelimesi yaklaşık nasıl okunur?",
+          "options": ["neyn", "nayn", "nii"],
+          "answer": 1,
+          "hint": "ei → ay: nein = nayn"
+        },
+        {
+          "question": "„Straße“ kelimesinde baştaki \"st\" nasıl okunur?",
+          "options": ["st", "şt", "s"],
+          "answer": 1,
+          "hint": "Kelime başında: st → şt"
+        }
+      ]
+    }
+  ]
+}

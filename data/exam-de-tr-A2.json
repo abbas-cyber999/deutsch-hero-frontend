@@ -1,0 +1,239 @@
+{
+  "level": "A2",
+  "title_de": "Abschlussprüfung A2 – Alltag, Grammatik & Kommunikation",
+  "title_tr": "A2 Seviye Sonu Sınavı – Günlük Hayat, Gramer ve İletişim",
+
+  "questions": [
+
+    {
+      "id": "a2g_01",
+      "type": "mcq",
+      "skill": "grammatik",
+      "question_de": "Wähle die richtige Form: Ich ____ gestern spät nach Hause.",
+      "question_tr": "Doğru çekimi seç: «Dün eve geç döndüm.» (kommen fiili)",
+      "options": ["bin gekommen", "habe gekommen", "bin gekommt", "war kommen"],
+      "answer": 0,
+      "explanation": "kommen → Perfekt sein ile çekilir → ich bin gekommen."
+    },
+
+    {
+      "id": "a2g_02",
+      "type": "mcq",
+      "skill": "modalverb",
+      "question_de": "Morgen ____ ich lange arbeiten, ich habe viel zu tun.",
+      "question_tr": "Doğru modal fiil formunu seç (müssen):",
+      "options": ["muss", "musst", "müssen", "müssen wir"],
+      "answer": 0,
+      "explanation": "‘ich’ ile uyumlu olan → ich muss."
+    },
+
+    {
+      "id": "a2g_03",
+      "skill": "praeposition",
+      "question_de": "Wohin gehst du? – Ich gehe ____ die Küche.",
+      "question_tr": "Doğru edatı seç (hareket yönü: mutfak):",
+      "options": ["in", "im", "auf dem", "bei"],
+      "answer": 0,
+      "explanation": "Bir odaya hareket → in + Akkusativ."
+    },
+
+    {
+      "id": "a2g_04",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung mit «weil» ist richtig?",
+      "question_tr": "«weil» ile doğru cümle hangisidir?",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Weil ich krank bin, ich bleibe zu Hause.",
+        "Ich bin krank, weil bleibe ich zu Hause."
+      ],
+      "answer": 1,
+      "explanation": "‘weil’den sonra fiil cümlenin en sonunda yer alır."
+    },
+
+    {
+      "id": "a2g_05",
+      "skill": "tekamolo",
+      "question_de": "Welche Reihenfolge ist richtig (Zeit–Art–Ort)?",
+      "question_tr": "Doğru sıralama hangisidir? (Zaman–Tarz–Yer)",
+      "options": [
+        "Ich arbeite im Büro morgen sehr lange.",
+        "Morgen im Büro ich arbeite sehr lange.",
+        "Ich arbeite morgen sehr lange im Büro.",
+        "Ich sehr lange arbeite im Büro morgen."
+      ],
+      "answer": 2,
+      "explanation": "Zaman–Tarz–Yer → morgen – sehr lange – im Büro."
+    },
+
+    {
+      "id": "a2g_06",
+      "skill": "frage",
+      "question_de": "Welche Frage passt zur Antwort: «Ich komme aus Syrien.»",
+      "question_tr": "Hangi soru bu cevaba uyar?",
+      "options": ["Wo wohnst du?", "Woher kommst du?", "Wohin gehst du?", "Wie alt bist du?"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_07",
+      "skill": "pronomen",
+      "question_de": "Ergänze: Ich sehe ____ morgen im Kurs.",
+      "question_tr": "Doğru zamiri tamamla (Akkusativ):",
+      "options": ["du", "dir", "dich", "dein"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2g_08",
+      "skill": "komparativ",
+      "question_de": "Berlin ist ____ als meine Stadt.",
+      "question_tr": "Doğru karşılaştırma derecesini seç:",
+      "options": ["groß", "größer", "mehr groß", "am größten"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_09",
+      "skill": "perfekt",
+      "question_de": "Setze ins Perfekt: „Ich kaufe ein.“",
+      "question_tr": "Cümleyi Perfekt zamanına çevir:",
+      "options": ["Ich habe eingekauft.", "Ich bin eingekauft.", "Ich habe eingekaufen.", "Ich bin einkaufen."],
+      "answer": 0
+    },
+
+    {
+      "id": "a2g_10",
+      "skill": "modalverb",
+      "question_de": "Ich ___ morgen länger bleiben.",
+      "question_tr": "Uygun modal fiili seç:",
+      "options": ["muss", "kann", "möchte", "soll"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2w_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_tr": "„Rechnung“ kelimesi ne anlama gelir?",
+      "options": ["fatura", "sertifika", "çanta", "ofis"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_02",
+      "skill": "wortschatz",
+      "question_de": "Welche Pluralform ist richtig? — das Kind",
+      "question_tr": "Doğru çoğul formu hangisidir?",
+      "options": ["die Kinder", "die Kinden", "die Kinders", "Kinderen"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_03",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Verkehr“?",
+      "question_tr": "„Verkehr“ ne anlama gelir?",
+      "options": ["trafik", "mutfak", "bahçe", "ofis"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_04",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort passt zu „Gute Besserung!“ ?",
+      "question_tr": "„Gute Besserung!“ (Geçmiş olsun) sözüne en uygun cevap hangisidir?",
+      "options": ["Danke, das ist lieb!", "Hayır", "Belki sonra", "Yarın geliyorum"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_05",
+      "skill": "wortschatz",
+      "question_de": "Wähle das korrekte Verkehrsmittel: ____ Fahrrad.",
+      "question_tr": "Doğru ulaşım aracı edatını seç:",
+      "options": ["mit dem", "zu dem", "bei dem", "ins"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2l_01",
+      "skill": "lesen",
+      "question_de": "Text: „Am Samstag fährt Noa nach Hamburg. Am Sonntag kommt er zurück.“ Wann kommt er zurück?",
+      "question_tr": "Metne göre ne zaman geri dönüyor?",
+      "options": ["Cuma", "Cumartesi", "Pazar", "Pazartesi"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2l_02",
+      "skill": "lesen",
+      "question_de": "Text: „Die Apotheke hat heute bis 18 Uhr geöffnet.“ — Wann schließt sie?",
+      "question_tr": "Eczane ne zaman kapanıyor?",
+      "options": ["17:00", "18:00", "19:00", "20:00"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2l_03",
+      "skill": "lesen",
+      "question_de": "Text: „Lisa arbeitet jeden Sonntag nicht.“ — Was bedeutet das?",
+      "question_tr": "Bu cümlenin anlamı nedir?",
+      "options": ["Sadece pazar günleri çalışıyor", "Pazar günleri çalışmıyor", "Her gün çalışıyor", "Gece çalışıyor"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2k_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort passt? — „Entschuldigung für die Verspätung.“",
+      "question_tr": "En uygun cevap hangisidir? — „Gecikme için özür dilerim.“",
+      "options": ["Kein Problem, das passiert!", "Açım", "Otobüs hemen geliyor", "Köln’de oturuyorum"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_02",
+      "skill": "kommunikation",
+      "question_de": "Wähle die höfliche Form:",
+      "question_tr": "En kibar ifade hangisidir?",
+      "options": [
+        "Könnten Sie mir bitte helfen?",
+        "Hemen yardım et!",
+        "Şimdi gel!",
+        "Sen yardım et?"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Einladung ist freundlich und informell?",
+      "question_tr": "Samimi ve arkadaşça davet cümlesi hangisidir?",
+      "options": [
+        "Hast du Zeit, am Samstag zu grillen?",
+        "Sie müssen am Samstag kommen.",
+        "Cumartesi gel. Bitti.",
+        "Sie werden eingeladen."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_04",
+      "skill": "kommunikation",
+      "question_de": "Welche E-Mail-Anrede ist korrekt?",
+      "question_tr": "Resmi e-posta başlangıcı hangisidir?",
+      "options": [
+        "Sehr geehrte Frau Müller,",
+        "Selam kardeşim,",
+        "Merhaba patron",
+        "Naber, ne var?"
+      ],
+      "answer": 0
+    }
+
+  ]
+}

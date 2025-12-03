@@ -1,0 +1,241 @@
+{
+  "level": "A2",
+  "title_de": "Abschlussprüfung A2 – Alltag, Grammatik & Kommunikation",
+  "title_af": "د A2 کچې وروستۍ ازموینه – ورځنۍ ژبه، قواعد او اړیکه",
+
+  "questions": [
+
+    {
+      "id": "a2g_01",
+      "type": "mcq",
+      "skill": "grammatik",
+      "question_de": "Wähle die richtige Form: Ich ____ gestern spät nach Hause.",
+      "question_af": "سم تصریف غوره کړه (kommen) په دې جمله کې: «زه پرون ناوخته کور ته راغلم.»",
+      "options": ["bin gekommen", "habe gekommen", "bin gekommt", "war kommen"],
+      "answer": 0,
+      "explanation": "kommen → Perfekt له sein سره → ich bin gekommen."
+    },
+
+    
+
+    {
+      "id": "a2g_02",
+      "type": "mcq",
+      "skill": "modalverb",
+      "question_de": "Morgen ____ ich lange arbeiten, ich habe viel zu tun.",
+      "question_af": "د (müssen) سم شکل غوره کړه؟",
+      "options": ["muss", "musst", "müssen", "müssen wir"],
+      "answer": 0,
+      "explanation": "له ‚ich‘ سره → ich muss."
+    },
+
+    {
+      "id": "a2g_03",
+      "skill": "praeposition",
+      "question_de": "Wohin gehst du? – Ich gehe ____ die Küche.",
+      "question_af": "سم حرف جر غوره کړه (حرکت د ځای په لور: پخلنځی).",
+      "options": ["in", "im", "auf dem", "bei"],
+      "answer": 0,
+      "explanation": "د یوې خونې دننه حرکت → in + Akkusativ."
+    },
+
+    {
+      "id": "a2g_04",
+      "skill": "satzbau",
+      "question_de": "Welche Satzstellung mit «weil» ist richtig?",
+      "question_af": "له «weil» سره کومه جمله سمه ده؟",
+      "options": [
+        "Ich bleibe zu Hause, weil ich bin krank.",
+        "Ich bleibe zu Hause, weil ich krank bin.",
+        "Weil ich krank bin, ich bleibe zu Hause.",
+        "Ich bin krank, weil bleibe ich zu Hause."
+      ],
+      "answer": 1,
+      "explanation": "له ‚weil‘ وروسته فعل په پای کې ځي."
+    },
+
+    {
+      "id": "a2g_05",
+      "skill": "tekamolo",
+      "question_de": "Welche Reihenfolge ist richtig (Zeit–Art–Ort)?",
+      "question_af": "سم ترتیب غوره کړه (وخت – ډول – ځای).",
+      "options": [
+        "Ich arbeite im Büro morgen sehr lange.",
+        "Morgen im Büro ich arbeite sehr lange.",
+        "Ich arbeite morgen sehr lange im Büro.",
+        "Ich sehr lange arbeite im Büro morgen."
+      ],
+      "answer": 2,
+      "explanation": "وخت – ډول – ځای → سبا – ډېر اوږده – په دفتر کې."
+    },
+
+    {
+      "id": "a2g_06",
+      "skill": "frage",
+      "question_de": "Welche Frage passt zur Antwort: «Ich komme aus Syrien.»",
+      "question_af": "کومه پوښتنه د دې ځواب سره سمه ده: «زه له سوریې یم.»؟",
+      "options": ["Wo wohnst du?", "Woher kommst du?", "Wohin gehst du?", "Wie alt bist du?"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_07",
+      "skill": "pronomen",
+      "question_de": "Ergänze: Ich sehe ____ morgen im Kurs.",
+      "question_af": "سم ضمیر ځای پر ځای کړه (Akkusativ).",
+      "options": ["du", "dir", "dich", "dein"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2g_08",
+      "skill": "komparativ",
+      "question_de": "Berlin ist ____ als meine Stadt.",
+      "question_af": "د مقایسه سمه درجه غوره کړه.",
+      "options": ["groß", "größer", "mehr groß", "am größten"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2g_09",
+      "skill": "perfekt",
+      "question_de": "Setze ins Perfekt: „Ich kaufe ein.“",
+      "question_af": "جمله په Perfekt (ماضي تام) بدله کړه.",
+      "options": ["Ich habe eingekauft.", "Ich bin eingekauft.", "Ich habe eingekaufen.", "Ich bin einkaufen."],
+      "answer": 0
+    },
+
+    {
+      "id": "a2g_10",
+      "skill": "modalverb",
+      "question_de": "Ich ___ morgen länger bleiben.",
+      "question_af": "مناسب مرستندویه فعل غوره کړه.",
+      "options": ["muss", "kann", "möchte", "soll"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2w_01",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Rechnung“?",
+      "question_af": "د «Rechnung» کلمه معنی څه ده؟",
+      "options": ["فاکتور / بل", "شهادت", "کڅوړه", "دفتر"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_02",
+      "skill": "wortschatz",
+      "question_de": "Welche Pluralform ist richtig? — das Kind",
+      "question_af": "د «das Kind» جمعي بڼه کومه ده؟",
+      "options": ["die Kinder", "die Kinden", "die Kinders", "Kinderen"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_03",
+      "skill": "wortschatz",
+      "question_de": "Was bedeutet „Verkehr“?",
+      "question_af": "د «Verkehr» معنی څه ده؟",
+      "options": ["ترافیک / حرکت وسایل", "پخلنځی", "باغچه", "دفتر"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_04",
+      "skill": "wortschatz",
+      "question_de": "Welche Antwort passt zu „Gute Besserung!“ ?",
+      "question_af": "د «Gute Besserung!» لپاره مناسب ځواب کوم دی؟",
+      "options": ["مننه، دا ډېر مهربانه ده!", "نه", "شاید وروسته", "زه سبا راځم"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2w_05",
+      "skill": "wortschatz",
+      "question_de": "Wähle das korrekte Verkehrsmittel: ____ Fahrrad.",
+      "question_af": "سم ترانسپورتي وسیله غوره کړه.",
+      "options": ["mit dem", "zu dem", "bei dem", "ins"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2l_01",
+      "skill": "lesen",
+      "question_de": "Text: „Am Samstag fährt Noa nach Hamburg. Am Sonntag kommt er zurück.“ Wann kommt er zurück?",
+      "question_af": "له متن سره سم هغه کله بېرته راځي؟",
+      "options": ["جمعه", "شنبه", "یکشنبه", "دوشنبه"],
+      "answer": 2
+    },
+
+    {
+      "id": "a2l_02",
+      "skill": "lesen",
+      "question_de": "Text: „Die Apotheke hat heute bis 18 Uhr geöffnet.“ — Wann schließt sie?",
+      "question_af": "درملتون کله تړل کېږي؟",
+      "options": ["۱۷:۰۰", "۱۸:۰۰", "۱۹:۰۰", "۲۰:۰۰"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2l_03",
+      "skill": "lesen",
+      "question_de": "Text: „Lisa arbeitet jeden Sonntag nicht.“ — Was bedeutet das?",
+      "question_af": "دا متن څه معنی لري؟",
+      "options": ["هغه یوازې یکشنبه کار کوي", "هغه یکشنبه کار نه کوي", "هغه هره ورځ کار کوي", "هغه شپه کار کوي"],
+      "answer": 1
+    },
+
+    {
+      "id": "a2k_01",
+      "skill": "kommunikation",
+      "question_de": "Welche Antwort passt? — „Entschuldigung für die Verspätung.“",
+      "question_af": "مناسب ځواب غوره کړه.",
+      "options": ["هیڅ مشکل نشته، دا پېښېږي!", "زه وږی یم", "بس ژر راځي", "زه په کولن کې اوسېږم"],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_02",
+      "skill": "kommunikation",
+      "question_de": "Wähle die höfliche Form:",
+      "question_af": "مهذبه بڼه غوره کړه.",
+      "options": [
+        "Könnten Sie mir bitte helfen?",
+        "ژر مرسته راسره وکړه!",
+        "اوس راشه!",
+        "ته مرسته وکړه؟"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_03",
+      "skill": "kommunikation",
+      "question_de": "Welche Einladung ist freundlich und informell?",
+      "question_af": "ودود او غیر رسمي بلنه غوره کړه.",
+      "options": [
+        "آیا ته وخت لرې چې شنبه ګرل وکړو؟",
+        "تاسو باید شنبه راشئ.",
+        "شنبه راشه. پای.",
+        "تاسو ته بلنه ورکول کېږي."
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": "a2k_04",
+      "skill": "kommunikation",
+      "question_de": "Welche E-Mail-Anrede ist korrekt?",
+      "question_af": "رسمي ایمیل پیل کوم دی؟",
+      "options": [
+        "Sehr geehrte Frau Müller,",
+        "سلام وروره،",
+        "سلام مشره",
+        "سلام، څنګه یې؟"
+      ],
+      "answer": 0
+    }
+
+    ]
+}

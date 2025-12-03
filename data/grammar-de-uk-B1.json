@@ -1,0 +1,2355 @@
+{
+  "level": "B1",
+  "title": "B1_Grammar UK",
+  "grammar": [
+
+
+
+
+
+{
+  "id": "gram-akkusativ-b1",
+  "title": {
+    "de": "Der Akkusativ",
+    "uk": "Akkusativ – знахідний відмінок у німецькій мові (B1)"
+  },
+
+  "interactiveScene": "🎬 Уяви себе в німецькому ресторані 🍽️. Офіціант питає: „Was möchten Sie essen?“ Ти відповідаєш: „Ich möchte einen Apfel essen.“ Тут «einen Apfel» стоїть у знахідному відмінку (Akkusativ), бо це те, на що спрямована дія.",
+
+  "explanation": [
+    {
+      "de": "Ich möchte einen Apfel essen.",
+      "uk": "Ich möchte einen Apfel essen. — «einen Apfel» стоїть у знахідному відмінку, бо це прямий об’єкт, на який спрямована дія."
+    },
+    {
+      "de": "Akkusativ: Wen? oder Was?",
+      "uk": "Akkusativ відповідає на питання **Wen?** (кого?) або **Was?** (що?). Це прямий об’єкт дії."
+    },
+    {
+      "de": "Ich sehe den Mann.",
+      "uk": "Ich sehe den Mann. — прямий об’єкт «den Mann» стоїть у Akkusativ."
+    },
+    {
+      "de": "Er hat einen Hund.",
+      "uk": "Er hat einen Hund. — дієслово «haben» завжди потребує об’єкт у знахідному відмінку."
+    },
+    {
+      "de": "Bestimmte Artikel im Akkusativ: den, die, das, die",
+      "uk": "Визначені артиклі (Bestimmte Artikel) у Akkusativ:\n• чоловічий рід: der → **den**\n• жіночий рід: die → **die** (без змін)\n• середній рід: das → **das** (без змін)\n• множина: die → **die** (без змін)"
+    },
+    {
+      "de": "Unbestimmte Artikel im Akkusativ: einen, eine, ein",
+      "uk": "Неозначені артиклі (Unbestimmte Artikel) у Akkusativ:\n• чоловічий рід: ein → **einen**\n• жіночий рід: eine → **eine**\n• середній рід: ein → **ein**\n• множина: немає артикля"
+    },
+    {
+      "de": "Pronomen im Akkusativ",
+      "uk": "Займенники у знахідному відмінку:\nich → mich\ndu → dich\ner → ihn\nsie → sie\nes → es\nwir → uns\nihr → euch\nsie/Sie → sie/Sie"
+    },
+    {
+      "de": "Verben mit Akkusativ",
+      "uk": "Багато дієслів керують Akkusativ. Наприклад:\nsehen, hören, kaufen, suchen, treffen, haben."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich sehe den Mann.",
+      "uk": "Я бачу чоловіка.",
+      "note": ""
+    },
+    {
+      "de": "Ich habe einen Hund.",
+      "uk": "У мене є собака.",
+      "note": ""
+    },
+    {
+      "de": "Er sucht die Schlüssel.",
+      "uk": "Він шукає ключі.",
+      "note": ""
+    },
+    {
+      "de": "Wir treffen die Freunde.",
+      "uk": "Ми зустрічаємо друзів.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Якщо дієслово має прямий об’єкт, майже завжди використовується Akkusativ. Запам’ятай питання: Wen? або Was?",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Wen siehst du?",
+      "uk": "Кого ти бачиш?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich sehe den Lehrer.",
+      "uk": "Я бачу вчителя."
+    }
+  ],
+
+  "summary": [
+    {
+      "de": "Wen? / Was?",
+      "uk": "Запитання Akkusativ"
+    },
+    {
+      "de": "den / die / das",
+      "uk": "Визначені артиклі"
+    },
+    {
+      "de": "einen / eine / ein",
+      "uk": "Неозначені артиклі"
+    },
+    {
+      "de": "Pronomen",
+      "uk": "mich, dich, ihn, sie…"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Заповни пропуск:\nDu hörst ___ Lehrer. (der Lehrer)",
+      "options": ["der", "den", "dem", "einen"],
+      "answer": 1,
+      "hint": "der → den у Akkusativ."
+    },
+    {
+      "question": "Оберіть правильний займенник у Akkusativ:\nIch sehe ___ . (du)",
+      "options": ["dich", "dir", "du", "dein"],
+      "answer": 0,
+      "hint": "du → dich."
+    },
+    {
+      "question": "Правильна форма:\nEr kennt ___ . (wir)",
+      "options": ["uns", "ihr", "wir", "euch"],
+      "answer": 0,
+      "hint": "wir → uns."
+    },
+    {
+      "question": "Яке запитання відповідає Akkusativ?",
+      "options": ["Wo?", "Wann?", "Wen oder Was?", "Warum?"],
+      "answer": 2,
+      "hint": "Akkusativ → Wen? / Was?"
+    }
+  ]
+}
+,
+{
+  "id": "gram-dativ-b1",
+  "title": {
+    "de": "Der Dativ",
+    "uk": "Dativ – давальний відмінок у німецькій мові"
+  },
+
+  "interactiveScene": "🎬 Уяви ситуацію: „Ich gebe dem Mann ein Buch.“ Той, хто отримує книгу (dem Mann), стоїть у давальному відмінку Dativ. Це завжди особа або об’єкт, що отримує щось.",
+
+  "explanation": [
+    {
+      "de": "Ich gebe dem Mann ein Buch.",
+      "uk": "Ich gebe dem Mann ein Buch. — «dem Mann» стоїть у Dativ, бо це одержувач дії."
+    },
+    {
+      "de": "Dativ wird mit Verben wie geben, helfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren verwendet.",
+      "uk": "Dativ використовується з дієсловами: geben, helfen, danken, gehören, gefallen, glauben, antworten, folgen, gratulieren."
+    },
+    {
+      "de": "Fragen im Dativ: Wem? oder Wo?",
+      "uk": "Питання Dativ: **Wem?** (кому?) або **Wo?** (у кого?)."
+    },
+    {
+      "de": "Ich helfe meinem Freund.",
+      "uk": "Ich helfe meinem Freund. — дієслово helfen завжди вимагає Dativ."
+    },
+    {
+      "de": "Sie dankt der Frau.",
+      "uk": "Sie dankt der Frau. — «der Frau» у давальному відмінку."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich gebe dem Mann ein Buch.",
+      "uk": "Я даю чоловікові книгу.",
+      "note": ""
+    },
+    {
+      "de": "Ich helfe meinem Freund.",
+      "uk": "Я допомагаю своєму другові.",
+      "note": ""
+    },
+    {
+      "de": "Sie dankt der Frau.",
+      "uk": "Вона дякує жінці.",
+      "note": ""
+    },
+    {
+      "de": "Wir spielen mit den Kindern.",
+      "uk": "Ми граємо з дітьми.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Dativ часто позначає одержувача. Запамʼятай: dem (чол., сер. рід), der (жін. рід), den + -n (множина).",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Wem gibst du das Buch?",
+      "uk": "Кому ти даєш книгу?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich gebe es dem Lehrer.",
+      "uk": "Я даю її вчителеві."
+    }
+  ],
+
+  "summary": [
+    {
+      "de": "Wem?",
+      "uk": "Питання для Dativ"
+    },
+    {
+      "de": "dem / der / dem / den",
+      "uk": "Артиклі в Dativ"
+    },
+    {
+      "de": "Verben + Dativ",
+      "uk": "geben, helfen, danken, antworten…"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Заповни пропуск:\nIch helfe ___ Freund. (der Freund)",
+      "options": ["den", "dem", "der", "einen"],
+      "answer": 1,
+      "hint": "Чоловічий рід у Dativ → dem"
+    },
+    {
+      "question": "Оберіть правильну форму:\nWir spielen mit ___ Kindern. (die Kinder)",
+      "options": ["die", "den", "dem", "einer"],
+      "answer": 1,
+      "hint": "Множина: den + -n"
+    },
+    {
+      "question": "Заповни пропуск:\nSie dankt ___ Frau. (die Frau)",
+      "options": ["der", "dem", "die", "einer"],
+      "answer": 0,
+      "hint": "Жін. рід у Dativ → der"
+    },
+    {
+      "question": "Оберіть правильну відповідь:\nEr gibt ___ Lehrer das Buch. (der Lehrer)",
+      "options": ["dem", "den", "der", "ein"],
+      "answer": 0,
+      "hint": "der → dem у Dativ"
+    },
+    {
+      "question": "Оберіть правильний прийменник:\nIch wohne ___ meinen Eltern.",
+      "options": ["mit", "bei", "nach", "für"],
+      "answer": 1,
+      "hint": "bei вимагає Dativ"
+    }
+  ]
+}
+,
+{
+  "id": "gram-praepositionen-akk-dat-b1",
+  "title": {
+    "de": "Präpositionen mit Akkusativ und Dativ",
+    "uk": "Прийменники з Akkusativ та Dativ"
+  },
+
+  "interactiveScene": "🎬 Уяви собі довгий день Ноа у місті. Він ходить через парк, стоїть біля вокзалу, їде з автобусом та входить у магазин. Деякі прийменники завжди вимагають Akkusativ, деякі — Dativ, а деякі можуть і те, і те залежно від руху.",
+
+  "explanation": [
+    {
+      "de": "Nur Akkusativ: durch, für, gegen, ohne, um, bis, entlang.",
+      "uk": "Ці прийменники **завжди** потребують Akkusativ."
+    },
+    {
+      "de": "Beispiele mit Akkusativ",
+      "uk": "durch den Park, für meinen Freund, gegen den Wind, ohne Geld, um die Stadt — усі стоять у Akkusativ."
+    },
+    {
+      "de": "Nur Dativ: aus, bei, mit, nach, seit, von, zu, gegenüber.",
+      "uk": "Ці прийменники **завжди** вимагають Dativ."
+    },
+    {
+      "de": "Beispiele mit Dativ",
+      "uk": "mit dem Bus, bei dem Arzt, nach der Arbeit, seit einem Jahr, zu meiner Mutter — усі у Dativ."
+    },
+    {
+      "de": "Wechselpräpositionen: in, an, auf, unter, über, vor, hinter, neben, zwischen.",
+      "uk": "Ці прийменники можуть використовувати і Akkusativ, і Dativ залежно від того, чи є рух."
+    },
+    {
+      "de": "Akkusativ = Bewegung (Wohin?)",
+      "uk": "Якщо є **рух до місця** (куди?), використовуємо Akkusativ: Ich gehe in die Schule."
+    },
+    {
+      "de": "Dativ = Position (Wo?)",
+      "uk": "Якщо положення **стаціонарне** (де?), використовуємо Dativ: Ich bin in der Schule."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich gehe in die Schule.",
+      "uk": "Я йду до школи.",
+      "note": "Akkusativ – рух"
+    },
+    {
+      "de": "Ich bin in der Schule.",
+      "uk": "Я в школі.",
+      "note": "Dativ – місце"
+    },
+    {
+      "de": "Ich sitze auf dem Stuhl.",
+      "uk": "Я сиджу на стільці.",
+      "note": "Dativ – стабільність"
+    },
+    {
+      "de": "Ich lege das Buch auf den Tisch.",
+      "uk": "Я кладу книгу на стіл.",
+      "note": "Akkusativ – переміщення"
+    }
+  ],
+
+  "tip": "Wechselpräpositionen працюють так: Akkusativ = рух (Wohin?) / Dativ = місце (Wo?). Легко, якщо дивитися на дієслово!",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Wohin gehst du?",
+      "uk": "Куди ти йдеш?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich gehe in den Park.",
+      "uk": "Я йду в парк."
+    }
+  ],
+
+  "summary": [
+    {
+      "de": "Nur Akkusativ",
+      "uk": "durch, für, ohne, gegen, um, bis, entlang"
+    },
+    {
+      "de": "Nur Dativ",
+      "uk": "aus, bei, mit, nach, seit, von, zu, gegenüber"
+    },
+    {
+      "de": "Wechselpräpositionen",
+      "uk": "in, an, auf, unter, über, vor, hinter, neben, zwischen"
+    },
+    {
+      "de": "Wohin? / Wo?",
+      "uk": "Akkusativ = рух / Dativ = місце"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Який прийменник **завжди** потребує Dativ?",
+      "options": ["durch", "für", "zu", "gegen"],
+      "answer": 2,
+      "hint": "Група aus, bei, mit, nach, seit, von, zu."
+    },
+    {
+      "question": "Який прийменник завжди Akkusativ?",
+      "options": ["mit", "zu", "durch", "von"],
+      "answer": 2,
+      "hint": "Група durch, für, gegen, ohne, um."
+    },
+    {
+      "question": "Що з цього — Wechselpräposition?",
+      "options": ["auf", "seit", "zu", "von"],
+      "answer": 0,
+      "hint": "Wechselpräpositionen = in, an, auf..."
+    },
+    {
+      "question": "Оберіть правильну Dativ-форму:\nDer Stuhl steht ___ Zimmer.",
+      "options": ["in das", "in dem", "in den", "auf das"],
+      "answer": 1,
+      "hint": "стоїть = Dativ"
+    }
+  ]
+}
+,
+{
+  "id": "gram-adverbien-tekamolo-b1",
+  "title": {
+    "de": "Adverbien der Zeit, des Ortes & TeKaMoLo",
+    "uk": "Прислівники часу, місця та правило TeKaMoLo"
+  },
+
+  "interactiveScene": "🕰️ Уяви ранок у Берліні: ти тримаєш каву, дивишся на الساعة і кажеш: „Heute lerne ich in der Bibliothek.“ Тут з’являються прислівники часу, місця та правило TeKaMoLo, яке німці так люблять.",
+
+  "explanation": [
+    {
+      "de": "Adverbien der Zeit (Wann?)",
+      "uk": "Слова як heute, morgen, gestern, jetzt, früh — говорять про час виконання дії."
+    },
+    {
+      "de": "Adverbien der Dauer (Wie lange?)",
+      "uk": "Слова як lange, kurz, den ganzen Tag, eine Woche, zwei Stunden — позначають тривалість дії."
+    },
+    {
+      "de": "Adverbien der Häufigkeit (Wie oft?)",
+      "uk": "Слова як immer, oft, manchmal, selten, nie, täglich, wöchentlich, jährlich — показують частоту."
+    },
+    {
+      "de": "Adverbien des Ortes (Wo? Wohin? Woher?)",
+      "uk": "Слова як hier, dort, drinnen, draußen, nach Hause, nach Berlin, von hier, aus Syrien — позначають місце, напрямок або походження."
+    },
+    {
+      "de": "TeKaMoLo = Temporal – Kausal – Modal – Lokal",
+      "uk": "Якщо в реченні кілька обставин, їх ставлять у порядку:\n1. Temporal (коли?)\n2. Kausal (чому?)\n3. Modal (як?)\n4. Lokal (де?)"
+    },
+    {
+      "de": "Beispiel: Heute lerne ich deshalb gern zu Hause.",
+      "uk": "Приклад: Heute (час) – deshalb (причина) – gern (спосіб) – zu Hause (місце)."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich lerne heute zu Hause.",
+      "uk": "Я навчаюся сьогодні вдома.",
+      "note": "Temporal + Lokal"
+    },
+    {
+      "de": "Er arbeitet oft im Büro.",
+      "uk": "Він часто працює в офісі.",
+      "note": "Häufigkeit + Lokal"
+    },
+    {
+      "de": "Wir fahren morgen nach Berlin.",
+      "uk": "Ми їдемо завтра до Берліна.",
+      "note": "Temporal + Richtung"
+    },
+    {
+      "de": "Sie bleibt den ganzen Tag drinnen.",
+      "uk": "Вона залишається всередині весь день.",
+      "note": "Dauer + Ort"
+    }
+  ],
+
+  "tip": "Памʼятай TeKaMoLo: Temporal → Kausal → Modal → Lokal. Це робить речення природним і чітким для німців.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Wann lernst du?",
+      "uk": "Коли ти навчаєшся?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich lerne heute wegen der Prüfung fleißig zu Hause.",
+      "uk": "Я сьогодні старанно навчаюся вдома через іспит."
+    }
+  ],
+
+  "summary": [
+    {
+      "de": "Temporal",
+      "uk": "коли?"
+    },
+    {
+      "de": "Kausal",
+      "uk": "чому?"
+    },
+    {
+      "de": "Modal",
+      "uk": "як?"
+    },
+    {
+      "de": "Lokal",
+      "uk": "де?"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Оберіть правильну форму:\n___ lerne ich Deutsch. (heute)",
+      "options": ["Heute", "In heute", "Zu heute"],
+      "answer": 0,
+      "hint": "Прислівник часу йде на початку або перед дієсловом."
+    },
+    {
+      "question": "Який порядок правильний за TeKaMoLo?",
+      "options": [
+        "Lokal – Temporal – Modal – Kausal",
+        "Temporal – Kausal – Modal – Lokal",
+        "Kausal – Temporal – Lokal – Modal",
+        "Temporal – Modal – Kausal – Lokal"
+      ],
+      "answer": 1,
+      "hint": "Послідовність: Te – Ka – Mo – Lo."
+    },
+    {
+      "question": "Яка фраза відповідає правилу TeKaMoLo?\n(зараз – через іспит – старанно – у бібліотеці)",
+      "options": [
+        "Jetzt lernt er wegen der Prüfung fleißig in der Bibliothek.",
+        "Er lernt jetzt in der Bibliothek wegen der Prüfung fleißig.",
+        "Er lernt fleißig in der Bibliothek jetzt wegen der Prüfung.",
+        "In der Bibliothek lernt er jetzt wegen der Prüfung fleißig."
+      ],
+      "answer": 0,
+      "hint": "Temporal → Kausal → Modal → Lokal."
+    }
+  ]
+}
+,
+{
+  "id": "gram-perfekt-b1",
+  "title": {
+    "de": "Das Perfekt – Vergangenheitsform",
+    "uk": "Perfekt – форма минулого часу"
+  },
+
+  "interactiveScene": "☕ Уяви себе в кав’ярні з другом. Він питає: „Was hast du gestern gemacht?“ Ти відповідаєш: „Ich habe Pizza gegessen!“ — Вітаю! Ти використовуєш Perfekt, як справжній німець! 🎉",
+
+  "explanation": [
+    {
+      "de": "Wann benutzt man Perfekt?",
+      "uk": "Perfekt використовують для дій у недалекому минулому або для завершеного досвіду."
+    },
+    {
+      "de": "Struktur des Perfekts",
+      "uk": "Perfekt складається з двох частин:\n1️⃣ допоміжне дієслово **haben** або **sein**\n2️⃣ Partizip II (третя форма дієслова)."
+    },
+    {
+      "de": "Beispiel",
+      "uk": "Ich habe gelernt. — Я вчився.\nEr ist gekommen. — Він прийшов."
+    },
+    {
+      "de": "Haben oder Sein?",
+      "uk": "haben → більшість дієслів.\nsein → дієслова руху або зміни стану: gehen, kommen, fahren, aufstehen."
+    },
+    {
+      "de": "Einfache Regel",
+      "uk": "Дієслово позначає рух → **sein**.\nНе позначає рух → **haben**."
+    },
+    {
+      "de": "Satzbau",
+      "uk": "Порядок слів у Perfekt:\nПідмет + допоміжне дієслово + … + Partizip II у кінці речення.\nПриклади:\nIch habe Deutsch gelernt.\nDu hast Kaffee getrunken."
+    },
+    {
+      "de": "Partizip II: Bildung",
+      "uk": "Для слабких дієслів: ge + Stamm + t → gemacht, gelernt.\nДля сильних: ge + Stamm + en → gekommen, gesehen.\nДієслова з префіксами be-, ver-, er-, ent-, zer- НЕ отримують ge-."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich habe Deutsch gelernt.",
+      "uk": "Я вивчав німецьку.",
+      "note": ""
+    },
+    {
+      "de": "Er hat eine Pizza gegessen.",
+      "uk": "Він з’їв піцу.",
+      "note": ""
+    },
+    {
+      "de": "Wir sind nach Berlin gefahren.",
+      "uk": "Ми поїхали до Берліна.",
+      "note": "sein – рух"
+    },
+    {
+      "de": "Sie ist früh aufgestanden.",
+      "uk": "Вона рано встала.",
+      "note": "sein – зміна стану"
+    }
+  ],
+
+  "tip": "Partizip II завжди стоїть у кінці речення. Допоміжне дієслово завжди у другій позиції.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Was hast du gestern gemacht?",
+      "uk": "Що ти робив учора?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich habe Musik gehört.",
+      "uk": "Я слухав музику."
+    }
+  ],
+
+  "summary": [
+    { "de": "haben / sein", "uk": "допоміжні дієслова" },
+    { "de": "Partizip II", "uk": "третя форма дієслова" },
+    { "de": "sein = Bewegung", "uk": "sein використовується для руху" },
+    { "de": "Verb am Ende", "uk": "Partizip II у кінці" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Оберіть правильну форму:\nIch ___ Kaffee ___. (trinken)",
+      "options": ["habe...trinkt", "habe...getrunken", "bin...getrunken", "hat...getrinkt"],
+      "answer": 1,
+      "hint": "trinken → haben + getrunken."
+    },
+    {
+      "question": "Правильна форма з sein:\nSie ___ früh ___. (aufstehen)",
+      "options": ["hat...aufgestanden", "ist...aufgestanden", "haben...aufgestanden", "sind...aufgestanden"],
+      "answer": 1,
+      "hint": "aufstehen = рух → sein."
+    },
+    {
+      "question": "Яке дієслово бере sein у Perfekt?",
+      "options": ["spielen", "lernen", "fahren", "arbeiten"],
+      "answer": 2,
+      "hint": "sein → рух/зміна."
+    },
+    {
+      "question": "Яке дієслово НЕ має префікса ge-?",
+      "options": ["bekommen", "gehen", "machen", "lernen"],
+      "answer": 0,
+      "hint": "be-, ver-, er-, ent-, zer- → без ge."
+    }
+  ]
+}
+,
+{
+  "id": "gram-praeteritum-b1",
+  "title": {
+    "de": "Das Präteritum – einfache Vergangenheit",
+    "uk": "Präteritum – простий минулий час"
+  },
+
+  "interactiveScene": "📖 Учителька каже: «Gestern lernte ich Deutsch.» Ти чуєш форму «lernte» й усвідомлюєш: це німецький простий минулий час — Präteritum! Його використовують у книжках, історіях, новинах і текстах.",
+
+  "explanation": [
+    {
+      "de": "Was ist das Präteritum?",
+      "uk": "Präteritum — це простий минулий час, який часто використовують у письмі, історіях, книжках та офіційних текстах."
+    },
+    {
+      "de": "Wann benutzt man Präteritum?",
+      "uk": "Präteritum використовують у трьох основних випадках:\n1️⃣ У письмових текстах (історії, новини, статті)\n2️⃣ У розповідях про минуле\n3️⃣ З дуже вживаними дієсловами: sein, haben, können, müssen тощо."
+    },
+    {
+      "de": "Wie bildet man Präteritum?",
+      "uk": "Щоб утворити Präteritum для слабких дієслів, до основи дієслова додають закінчення:\nich -te, du -test, er/sie/es -te, wir -ten, ihr -tet, sie/Sie -ten."
+    },
+    {
+      "de": "Beispiel mit lernen:",
+      "uk": "ich lernte, du lerntest, er lernte, wir lernten, ihr lerntet, sie lernten."
+    },
+    {
+      "de": "Unregelmäßige Verben (starke Verben)",
+      "uk": "Сильні дієслова змінюють корінь у Präteritum:\nsein → war, haben → hatte, gehen → ging, kommen → kam, sehen → sah, sprechen → sprach."
+    },
+    {
+      "de": "Präteritum oder Perfekt?",
+      "uk": "Perfekt → частіше в усному мовленні.\nPräteritum → частіше у письмі, офіційних текстах та розповідях."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich lernte Deutsch.",
+      "uk": "Я вивчав німецьку.",
+      "note": ""
+    },
+    {
+      "de": "Er ging nach Hause.",
+      "uk": "Він пішов додому.",
+      "note": "starkes Verb"
+    },
+    {
+      "de": "Wir hatten viel Zeit.",
+      "uk": "У нас було багато часу.",
+      "note": ""
+    },
+    {
+      "de": "Sie war müde.",
+      "uk": "Вона була втомлена.",
+      "note": "sein"
+    }
+  ],
+
+  "tip": "Präteritum найчастіше використовують у письмі. Сильні дієслова мають власні форми — їх треба вивчити окремо.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Was machtest du gestern?",
+      "uk": "Що ти робив учора?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich lernte den ganzen Abend.",
+      "uk": "Я вчився весь вечір."
+    }
+  ],
+
+  "summary": [
+    { "de": "-te / -test / -te", "uk": "закінчення слабких дієслів" },
+    { "de": "starke Verben", "uk": "haben → hatte, sein → war, gehen → ging…" },
+    { "de": "schriftlich", "uk": "найчастіше в письмі" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Оберіть правильну форму Präteritum:\nIch ___ ein Buch. (lesen)",
+      "options": ["lesete", "las", "gelesen", "laste"],
+      "answer": 1,
+      "hint": "starkes Verb → las"
+    },
+    {
+      "question": "Правильна форма:\nEr ___ müde. (sein)",
+      "options": ["war", "sein war", "ist gewesen", "wäre"],
+      "answer": 0,
+      "hint": "sein → war"
+    },
+    {
+      "question": "Оберіть правильну форму:\nSie ___ nach Berlin. (gehen)",
+      "options": ["ging", "gehte", "geht", "gegangen"],
+      "answer": 0,
+      "hint": "gehen → ging"
+    },
+    {
+      "question": "Перетвори на Präteritum:\nIch habe Deutsch gelernt.",
+      "options": ["Ich lernte Deutsch.", "Ich habe lernte Deutsch.", "Ich lernte habe Deutsch.", "Ich habe Deutsch lernte."],
+      "answer": 0,
+      "hint": "Perfekt → lernte"
+    },
+    {
+      "question": "Яку форму частіше використовують у письмі?",
+      "options": ["Ich habe gearbeitet.", "Ich arbeitete.", "Ich habe arbeit.", "Ich arbeite."],
+      "answer": 1,
+      "hint": "Präteritum → стиль письма"
+    }
+  ]
+}
+,
+{
+  "id": "gram-reflexive-verben-b1",
+  "title": {
+    "de": "Reflexive Verben",
+    "uk": "Рефлексивні дієслова (Reflexive Verben)"
+  },
+
+  "interactiveScene": "🪞 Уяви, що Ноа прокидається зранку й каже: „Ich wasche mich.“ Ти одразу бачиш маленьке слово **mich** — це і є рефлексивний займенник, який повертає дію назад на того, хто її виконує.",
+
+  "explanation": [
+    {
+      "de": "Was sind reflexive Verben?",
+      "uk": "Рефлексивні дієслова — це дієслова, де дія повертається на того, хто її виконує. Використовують рефлексивний займенник: **mich, dich, sich, uns, euch, sich**."
+    },
+    {
+      "de": "Beispiele",
+      "uk": "Ich wasche **mich**.\nDu erinnerst **dich**.\nEr freut **sich**.\nWir treffen **uns**.\nIhr setzt **euch**.\nSie beeilen **sich**."
+    },
+    {
+      "de": "Akkusativ oder Dativ?",
+      "uk": "Зазвичай рефлексивні займенники стоять у Akkusativ.\nУ Dativ стоять лише тоді, коли є другий об’єкт:\nIch wasche **mir** die Hände."
+    },
+    {
+      "de": "Reflexive Verben im Alltag",
+      "uk": "Часті рефлексивні дієслова:\nsich freuen – радіти\nsich erinnern – згадувати\nsich setzen – сідати\nsich treffen – зустрічатися\nsich beeilen – поспішати\nsich waschen – митися\nsich interessieren für – цікавитися чимось"
+    },
+    {
+      "de": "Satzbau",
+      "uk": "Порядок слів:\n1️⃣ підмет\n2️⃣ дієслово\n3️⃣ рефлексивний займенник\n4️⃣ решта речення\nПриклад: Ich freue mich auf das Wochenende."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich freue mich.",
+      "uk": "Я радію.",
+      "note": ""
+    },
+    {
+      "de": "Du erinnerst dich an den Termin.",
+      "uk": "Ти пам’ятаєш про зустріч.",
+      "note": ""
+    },
+    {
+      "de": "Wir treffen uns heute.",
+      "uk": "Ми зустрічаємось сьогодні.",
+      "note": ""
+    },
+    {
+      "de": "Er interessiert sich für Musik.",
+      "uk": "Він цікавиться музикою.",
+      "note": "mit 'für'"
+    },
+    {
+      "de": "Ich wasche mir die Hände.",
+      "uk": "Я мию собі руки.",
+      "note": "Dativ + Objekt"
+    }
+  ],
+
+  "tip": "Якщо у реченні є частина тіла або предмет → використовуй **Dativ**. В інших випадках — **Akkusativ**.",
+  
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Warum beeilst du dich?",
+      "uk": "Чому ти поспішаєш?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich treffe mich gleich mit meinen Freunden.",
+      "uk": "Я зараз зустрічаюся з друзями."
+    }
+  ],
+
+  "summary": [
+    {
+      "de": "Akkusativ",
+      "uk": "mich, dich, sich, uns, euch, sich"
+    },
+    {
+      "de": "Dativ",
+      "uk": "mir, dir, sich, uns, euch, sich (з частинами тіла)"
+    },
+    {
+      "de": "häufige Verben",
+      "uk": "sich freuen, sich erinnern, sich treffen, sich setzen…"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Оберіть правильну форму:\nIch freue ___ auf das Wochenende.",
+      "options": ["mich", "mir", "ich", "dich"],
+      "answer": 0,
+      "hint": "reflexiv → Akkusativ"
+    },
+    {
+      "question": "Правильна форма:\nWir treffen ___ heute.",
+      "options": ["euch", "uns", "unsere", "sich"],
+      "answer": 1,
+      "hint": "wir → uns"
+    },
+    {
+      "question": "Оберіть Dativ-форму:\nIch wasche ___ die Hände.",
+      "options": ["mich", "mir", "dich", "sich"],
+      "answer": 1,
+      "hint": "частина тіла → Dativ"
+    },
+    {
+      "question": "Яке дієслово є рефлексивним?",
+      "options": ["gehen", "lernen", "sich beeilen", "sprechen"],
+      "answer": 2,
+      "hint": "починається із sich"
+    }
+  ]
+}
+,
+{
+  "id": "gram-passiv-praesens-b1",
+  "title": {
+    "de": "Passiv im Präsens",
+    "uk": "Пасив у теперішньому часі (Präsens Passiv)"
+  },
+
+  "interactiveScene": "🏭 Уяви фабрику шоколаду. Ти стоїш і чуєш: „Der Schokoriegel wird hergestellt.“ — «Шоколадний батончик виготовляється.» Тут дія не має виконавця — це і є пасив!",
+  
+  "explanation": [
+    {
+      "de": "Was ist das Passiv?",
+      "uk": "У пасивних реченнях важлива не особа, яка виконує дію, а сама дія або результат. Наприклад: Das Auto wird repariert. (Автомобіль ремонтується.)"
+    },
+    {
+      "de": "Bildung des Passivs im Präsens",
+      "uk": "Passiv утворюється так:\n**werden (відмінюється) + Partizip II (3-тя форма дієслова)**."
+    },
+    {
+      "de": "Beispiele:",
+      "uk": "• Das Haus wird gebaut. — Будинок будується.\n• Die Arbeit wird gemacht. — Робота виконується.\n• Der Brief wird geschrieben. — Лист пишеться."
+    },
+    {
+      "de": "Konjugation von werden",
+      "uk": "ich werde\ndu wirst\ner/sie/es wird\nwir werden\nihr werdet\nsie/Sie werden"
+    },
+    {
+      "de": "Wer führt die Handlung aus?",
+      "uk": "Можна додати виконавця з прийменником **von** або **durch**:\n• Das Auto wird **von dem Mechaniker** repariert.\n• Die Milch wird **durch Maschinen** erhitzt."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Das Haus wird gebaut.",
+      "uk": "Будинок будується.",
+      "note": ""
+    },
+    {
+      "de": "Die Tür wird geöffnet.",
+      "uk": "Двері відчиняються.",
+      "note": ""
+    },
+    {
+      "de": "Der Kaffee wird gemacht.",
+      "uk": "Кава готується.",
+      "note": ""
+    },
+    {
+      "de": "Die Autos werden gewaschen.",
+      "uk": "Автомобілі миються.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Запамʼятай формулу: **werden + Partizip II**. У Präsens це найважливіше для пасиву.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Was wird hier gemacht?",
+      "uk": "Що тут робиться?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Hier wird Brot gebacken.",
+      "uk": "Тут печуть хліб."
+    }
+  ],
+
+  "summary": [
+    { "de": "werden", "uk": "допоміжне дієслово" },
+    { "de": "Partizip II", "uk": "третя форма дієслова" },
+    { "de": "von / durch", "uk": "вираження виконавця" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Заповни пропуск:\nDas Auto ___ repariert.",
+      "options": ["wird", "werden", "wirst", "ist"],
+      "answer": 0,
+      "hint": "er/sie/es → wird"
+    },
+    {
+      "question": "Оберіть правильну пасивну форму:\nDie Pizza ___ geliefert.",
+      "options": ["wirst", "wird", "werde", "seid"],
+      "answer": 1,
+      "hint": "die Pizza → wird"
+    },
+    {
+      "question": "Яка форма є пасивом?",
+      "options": [
+        "Ich repariere das Auto.",
+        "Das Auto wird repariert.",
+        "Ich habe das Auto repariert.",
+        "Das Auto ist repariert worden."
+      ],
+      "answer": 1,
+      "hint": "werden + Partizip II у Präsens"
+    },
+    {
+      "question": "Оберіть правильне завершення:\nDer Tisch wird ___ . (putzen)",
+      "options": ["geputzt", "putzt", "putzen", "geputzen"],
+      "answer": 0,
+      "hint": "Partizip II: geputzt"
+    }
+  ]
+}
+,
+{
+  "id": "gram-verben-mit-praepositionen-b1",
+  "title": {
+    "de": "Verben mit Präpositionen",
+    "uk": "Дієслова з прийменниками"
+  },
+
+  "interactiveScene": "📞 Уяви, що тобі телефонують і кажуть: „Ich warte auf dich!“ — тут з’являється прийменник **auf**, який завжди йде з дієсловом warten. Так само працює багато німецьких дієслів.",
+
+  "explanation": [
+    {
+      "de": "Was sind Verben mit Präpositionen?",
+      "uk": "Це дієслова, які завжди вживаються з певним прийменником. Прийменник може вимагати Akkusativ або Dativ."
+    },
+    {
+      "de": "Akkusativ nach Präposition",
+      "uk": "Деякі прийменники після дієслів завжди потребують Akkusativ:\n• auf\n• über\n• für\n• an\n• um"
+    },
+    {
+      "de": "Dativ nach Präposition",
+      "uk": "Інші прийменники вимагають Dativ:\n• mit\n• von\n• bei\n• zu"
+    },
+    {
+      "de": "Beispiele mit Akkusativ",
+      "uk": "• warten **auf**\n• sich freuen **auf/über**\n• denken **an**\n• sprechen **über**\n• sich interessieren **für**"
+    },
+    {
+      "de": "Beispiele mit Dativ",
+      "uk": "• sprechen **mit**\n• arbeiten **an**\n• fragen **nach**\n• sich treffen **mit**"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich warte auf dich.",
+      "uk": "Я чекаю на тебе.",
+      "note": "auf + Akk"
+    },
+    {
+      "de": "Er denkt an seine Mutter.",
+      "uk": "Він думає про свою маму.",
+      "note": "an + Akk"
+    },
+    {
+      "de": "Wir sprechen über den Film.",
+      "uk": "Ми говоримо про фільм.",
+      "note": "über + Akk"
+    },
+    {
+      "de": "Sie trifft sich mit Freunden.",
+      "uk": "Вона зустрічається з друзями.",
+      "note": "mit + Dat"
+    },
+    {
+      "de": "Ich frage nach dem Weg.",
+      "uk": "Я питаю про дорогу.",
+      "note": "nach + Dat"
+    }
+  ],
+
+  "tip": "Запам’ятай: дієслово + прийменник → одна єдина конструкція. Змінюється не прийменник, а відмінок після нього.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Worauf wartest du?",
+      "uk": "На що ти чекаєш?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich warte auf den Bus.",
+      "uk": "Я чекаю на автобус."
+    }
+  ],
+
+  "summary": [
+    {
+      "de": "Akk + Präp",
+      "uk": "auf, über, für, an, um"
+    },
+    {
+      "de": "Dat + Präp",
+      "uk": "mit, von, bei, zu"
+    },
+    {
+      "de": "Feste Kombinationen",
+      "uk": "warten auf, denken an, fragen nach…"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Оберіть правильний варіант:\nIch warte ___ den Arzt.",
+      "options": ["über", "auf", "mit", "bei"],
+      "answer": 1,
+      "hint": "warten → auf + Akk"
+    },
+    {
+      "question": "Правильна форма:\nEr denkt ___ seine Eltern.",
+      "options": ["an", "mit", "bei", "nach"],
+      "answer": 0,
+      "hint": "denken → an + Akk"
+    },
+    {
+      "question": "Оберіть Dativ-прийменник:",
+      "options": ["über", "für", "mit", "an"],
+      "answer": 2,
+      "hint": "mit → Dativ"
+    },
+    {
+      "question": "Заповніть:\nSie spricht ___ ihren Freunden.",
+      "options": ["mit", "auf", "für", "über"],
+      "answer": 0,
+      "hint": "sprechen mit"
+    },
+    {
+      "question": "Яке речення правильне?",
+      "options": [
+        "Ich interessiere mich über Musik.",
+        "Ich interessiere mich für Musik.",
+        "Ich interessiere mich mit Musik.",
+        "Ich interessiere mich an Musik."
+      ],
+      "answer": 1,
+      "hint": "sich interessieren für"
+    }
+  ]
+}
+,
+{
+  "id": "gram-konjunktiv-ii-b1",
+  "title": {
+    "de": "Konjunktiv II",
+    "uk": "Konjunktiv II – умовний спосіб"
+  },
+
+  "interactiveScene": "☕ Ноа сидить у гамбурзькому кафе й каже: „Ich wäre jetzt am Meer…“ — ця фраза звучить нереально, як мрія. Тут використовується Konjunktiv II, спосіб для бажань, фантазій та ввічливих прохання.",
+  
+  "explanation": [
+    {
+      "de": "Wann benutzt man den Konjunktiv II?",
+      "uk": "Konjunktiv II використовується для:\n1️⃣ бажань, що не відповідають реальності.\n2️⃣ ситуацій, які могли б статися, але не сталися.\n3️⃣ ввічливих прохань або пропозицій."
+    },
+    {
+      "de": "Die Struktur des Konjunktiv II",
+      "uk": "Є два основні способи:\n1️⃣ **Mit wenn:** Wenn ich Geld hätte, würde ich reisen.\n2️⃣ **Ohne wenn:** Ich würde reisen, wenn ich Geld hätte."
+    },
+    {
+      "de": "Besondere Verben im Konjunktiv II",
+      "uk": "**sein → wäre**\n**haben → hätte**\n**werden → würde**\nModalverben:\nkönnen → könnte\nmüssen → müsste\ndürfen → dürfte\nsollen → sollte\nwollen → wollte\nmögen → möchte"
+    },
+    {
+      "de": "Verwendung von 'würde'",
+      "uk": "**würde + Infinitiv** використовується з більшістю дієслів:\nIch würde kommen.\nАле з **sein** та **haben** → використовують **wäre / hätte**."
+    },
+    {
+      "de": "Typische Situationen",
+      "uk": "💭 Бажання: Ich wäre jetzt am Meer.\n🎯 Гіпотетичні ситуації: Ich würde dich besuchen, wenn ich Zeit hätte.\n☕ Ввічливість: Ich möchte einen Kaffee, bitte."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Wenn ich Zeit hätte, würde ich dich besuchen.",
+      "uk": "Якби в мене був час, я б тебе відвідав.",
+      "note": "гіпотетична ситуація"
+    },
+    {
+      "de": "Ich hätte gern ein Haus am Meer.",
+      "uk": "Я охоче мав би будинок біля моря.",
+      "note": ""
+    },
+    {
+      "de": "Ich wäre glücklich.",
+      "uk": "Я був би щасливий.",
+      "note": ""
+    },
+    {
+      "de": "Ich würde mehr lesen.",
+      "uk": "Я б більше читав.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Формула: **würde + Infinitiv** для більшості дієслів. **wäre / hätte** — окремі форми, їх треба знати напам’ять.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Was würdest du machen, wenn du frei hättest?",
+      "uk": "Що б ти зробив, якби мав вільний час?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich würde reisen.",
+      "uk": "Я б подорожував."
+    }
+  ],
+
+  "summary": [
+    { "de": "würde + Infinitiv", "uk": "форма для більшості дієслів" },
+    { "de": "wäre / hätte", "uk": "особливі форми" },
+    { "de": "Wunsch / Irrealität / Höflichkeit", "uk": "використання Konjunktiv II" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Оберіть правильну форму:\nIch ___ gern mehr reisen.",
+      "options": ["werde", "würde", "wäre", "könnte"],
+      "answer": 1,
+      "hint": "würde + Infinitiv"
+    },
+    {
+      "question": "Оберіть правильну форму:\nWenn ich mehr Zeit ___, würde ich Deutsch lernen.",
+      "options": ["hätte", "wäre", "würde", "bin"],
+      "answer": 0,
+      "hint": "haben → hätte"
+    },
+    {
+      "question": "Яка форма виражає нереальне бажання?",
+      "options": [
+        "Ich bin glücklich.",
+        "Ich wäre glücklich.",
+        "Ich werde glücklich sein.",
+        "Ich bin sehr glücklich!"
+      ],
+      "answer": 1,
+      "hint": "wäre = нереальність"
+    },
+    {
+      "question": "Доповніть:\nIch ___ mehr lernen, wenn ich Zeit hätte.",
+      "options": ["werde", "würde", "wäre", "hätte"],
+      "answer": 1,
+      "hint": "würde + Infinitiv"
+    },
+    {
+      "question": "Оберіть ввічливу форму:",
+      "options": [
+        "Ich will einen Kaffee.",
+        "Ich möchte einen Kaffee.",
+        "Ich habe einen Kaffee.",
+        "Ich hätte Kaffee."
+      ],
+      "answer": 1,
+      "hint": "möchte = ввічлива форма"
+    }
+  ]
+}
+,
+{
+  "id": "gram-konnektoren-b1",
+  "title": {
+    "de": "Konnektoren B1",
+    "uk": "Зв’язки речень – Konnektoren B1"
+  },
+
+  "interactiveScene": "✍️ Ноа пише Bewerbung, але відчуває, що речення виглядають розірваними… доки він не відкриває силу Konnektoren — логічних містків, які пов’язують думки в грамотний текст.",
+
+  "explanation": [
+    {
+      "de": "Was sind Konnektoren?",
+      "uk": "Konnektoren — це слова, які поєднують два речення та показують зв’язок між ними: причина, результат, протиставлення, час тощо. На рівні B1 часто використовують: weil, denn, obwohl, trotzdem, damit, deshalb, nachdem."
+    },
+    {
+      "de": "1️⃣ Temporale Konnektoren – (Zeit)",
+      "uk": "**als** → коли (одна подія в минулому): Als ich klein war, spielte ich viel.\n**wenn** → коли/якщо (події повторюються): Wenn es regnet, bleibe ich zu Hause.\n**bevor** → перед тим як.\n**nachdem** → після того як.\n**seitdem** → з того часу як."
+    },
+    {
+      "de": "2️⃣ Kausale Konnektoren – (Grund)",
+      "uk": "**weil** → тому що: Ich bleibe zu Hause, weil es regnet.\n**denn** → бо (з’єднує два головних речення): Ich bleibe zu Hause, denn es regnet."
+    },
+    {
+      "de": "3️⃣ Konzessive & Konsekutive Konnektoren – (Gegensatz / Folge)",
+      "uk": "**obwohl** → хоча: Obwohl ich müde bin, lerne ich weiter.\n**trotzdem** → усе ж: Ich bin müde, trotzdem lerne ich weiter.\n**deshalb/daher** → тому: Ich habe gelernt, deshalb habe ich bestanden."
+    },
+    {
+      "de": "4️⃣ Finale & Konditionale Konnektoren – (Ziel / Bedingung)",
+      "uk": "**damit** → щоб: Ich lerne viel, damit ich die Prüfung bestehe.\n**falls** → у разі якщо.\n**wenn** → якщо/коли."
+    },
+    {
+      "de": "Stellung des Verbs",
+      "uk": "У підрядних реченнях (weil, obwohl, damit, bevor, nachdem) дієслово стоїть **в кінці**.\nУ головних реченнях з Konnektoren типу (deshalb, trotzdem, daher) дієслово стоїть **на другому місці**."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich bleibe zu Hause, weil ich krank bin.",
+      "uk": "Я залишаюся вдома, тому що хворію.",
+      "note": ""
+    },
+    {
+      "de": "Ich bin müde, trotzdem lerne ich.",
+      "uk": "Я втомлений, проте я навчаюся.",
+      "note": ""
+    },
+    {
+      "de": "Nachdem ich gegessen habe, arbeite ich weiter.",
+      "uk": "Після того як я поїв, я продовжую працювати.",
+      "note": ""
+    },
+    {
+      "de": "Ich lerne viel, damit ich die Prüfung bestehe.",
+      "uk": "Я багато вчуся, щоб скласти іспит.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Памʼятай: у підрядних реченнях з weil/obwohl/damit/als/ bevor/ nachdem дієслово завжди стоїть у кінці. У реченнях з deshalb/trotzdem — дієслово на другому місці.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Warum bleibst du heute zu Hause?",
+      "uk": "Чому ти залишаєшся сьогодні вдома?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Ich bleibe zu Hause, weil ich mich nicht gut fühle.",
+      "uk": "Я залишаюся вдома, бо почуваюся не дуже добре."
+    }
+  ],
+
+  "summary": [
+    { "de": "weil / denn", "uk": "причина" },
+    { "de": "obwohl / trotzdem", "uk": "протиставлення" },
+    { "de": "damit", "uk": "мета" },
+    { "de": "deshalb", "uk": "наслідок" },
+    { "de": "nachdem / bevor", "uk": "час" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Оберіть правильну форму для причини:\nIch bleibe zu Hause, ___ es regnet.",
+      "options": ["obwohl", "damit", "weil", "trotzdem"],
+      "answer": 2,
+      "hint": "weil = причина"
+    },
+    {
+      "question": "Заповніть для протиставлення:\nIch bin müde, ___ lerne ich.",
+      "options": ["trotzdem", "weil", "damit", "deshalb"],
+      "answer": 0,
+      "hint": "trotzdem = проте"
+    },
+    {
+      "question": "Оберіть правильний часовий Konnektor:\n___ ich gegessen habe, gehe ich spazieren.",
+      "options": ["weil", "nachdem", "obwohl", "damit"],
+      "answer": 1,
+      "hint": "nachdem = після того як"
+    },
+    {
+      "question": "Оберіть правильний переклад:\nIch lerne, damit ich die Prüfung bestehe.",
+      "options": [
+        "Я вчуся, бо іспит складний.",
+        "Я вчуся, щоб скласти іспит.",
+        "Я вчуся після того, як склав іспит.",
+        "Я вчуся, хоча іспит складний."
+      ],
+      "answer": 1,
+      "hint": "damit = мета"
+    },
+    {
+      "question": "Яке речення містить підрядну частину з дієсловом у кінці?",
+      "options": [
+        "Ich bin müde, trotzdem lerne ich.",
+        "Ich lerne, weil ich fleißig bin.",
+        "Ich lerne, deshalb bin ich fleißig.",
+        "Ich bin müde, dann schlafe ich."
+      ],
+      "answer": 1,
+      "hint": "weil → дієслово в кінці"
+    }
+  ]
+}
+,
+{
+  "id": "b1-schreiben-intro",
+  "title": {
+    "de": "B1 Schreiben – Einführung",
+    "uk": "B1 Schreiben – вступ до написання текстів"
+  },
+
+  "interactiveScene": "✍️ Уяви Ноя, який сидить у залі іспиту B1. Перед ним аркуш, і він думає: «Що саме хоче екзаменатор?» Раптом з’являється його вчителька й каже: «Спокійно. Якщо знаєш структуру листа — ти пройдеш легко!» І так починається його подорож у світ Schreiben.",
+
+  "explanation": [
+    {
+      "de": "Was musst du im B1-Schreiben machen?",
+      "uk": "На іспиті B1 потрібно написати короткий лист (E-Mail або Brief), у якому має бути відповіді на кілька обов’язкових пунктів. Лист може бути формальним або неформальним."
+    },
+    {
+      "de": "Welche Arten von Briefen gibt es?",
+      "uk": "Є 8 основних типів листів у форматі B1:\n1️⃣ Einladung (запрошення)\n2️⃣ Information erfragen (запит інформації)\n3️⃣ Termin vereinbaren (узгодження зустрічі)\n4️⃣ Termin absagen (скасування зустрічі)\n5️⃣ Beschwerde (скарга)\n6️⃣ Reklamation (претензія щодо товару/послуги)\n7️⃣ Dank / Entschuldigung (подяка або вибачення)\n8️⃣ Private Nachricht (неформальне приватне повідомлення)"
+    },
+    {
+      "de": "Wie ist der Aufbau einer guten E-Mail?",
+      "uk": "Будь-який лист повинен складатися з 3 частин:\n• Вступ: Чому ти пишеш?\n• Основна частина: Деталі, питання або запит.\n• Закінчення: Подяка, прощання або підпис."
+    },
+    {
+      "de": "Wie lang soll der Text sein?",
+      "uk": "На іспиті Goethe чи telc потрібно написати приблизно 100–120 слів. Головне — відповісти на всі обов’язкові пункти завдання."
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Sehr geehrte Damen und Herren,",
+      "uk": "Шановні пані та панове,",
+      "note": "формальний початок"
+    },
+    {
+      "de": "Hallo Ben,",
+      "uk": "Привіт, Бен,",
+      "note": "неформальний початок"
+    },
+    {
+      "de": "Mit freundlichen Grüßen",
+      "uk": "З повагою,",
+      "note": "формальне завершення"
+    },
+    {
+      "de": "Viele Grüße",
+      "uk": "Щирі вітання,",
+      "note": "неформальне завершення"
+    }
+  ],
+
+  "tip": "Добрий B1-лист завжди має чітку структуру: початок → зміст → завершення. Ніяких довгих абзаців — лише короткі, зрозумілі речення.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Wie schreibe ich eine gute E-Mail?",
+      "uk": "Як написати гарний лист?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Mit einer klaren Struktur und allen geforderten Punkten.",
+      "uk": "З чіткою структурою та відповідями на всі пункти."
+    }
+  ],
+
+  "summary": [
+    { "de": "Einleitung", "uk": "вступ" },
+    { "de": "Hauptteil", "uk": "основна частина" },
+    { "de": "Schluss", "uk": "завершення" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Was gehört zu einer guten E-Mail?",
+      "options": [
+        "Begrüßung – Inhalt – Schluss",
+        "Nur Begrüßung",
+        "Nur Name und Datum",
+        "Nur Thema"
+      ],
+      "answer": 0,
+      "hint": "Три частини: початок, зміст, завершення."
+    },
+    {
+      "question": "Wie lang soll der Text ungefähr sein?",
+      "options": ["40–60 Wörter", "80–100 Wörter", "100–120 Wörter"],
+      "answer": 2,
+      "hint": "Приблизно 100–120 слів."
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreibe eine kurze E-Mail (ca. 100 Wörter) und wähle einen Typ: Einladung, Beschwerde oder Anfrage.",
+    "instruction_uk": "Напиши короткий лист (приблизно 100 слів) та обери один із типів: запрошення, скарга або запит інформації.",
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nIch interessiere mich für Ihren Kurs und möchte gerne wissen, wann er beginnt und wie viel er kostet.\n\nMit freundlichen Grüßen,\nAbbas Alhasan",
+    "keywords": ["Begrüßung", "Inhalt", "Schluss", "E-Mail", "Frage"],
+    "feedbackHints": [
+      "Завжди використовуй привітання і завершення.",
+      "Переконайся, що є три короткі абзаци.",
+      "Пиши чітко і просто.",
+      "Поступово тренуй усі вісім типів листів."
+    ]
+  }
+}
+,
+{
+  "id": "b1-schreiben-einladung-1",
+  "title": {
+    "de": "B1 Schreiben – Einladung",
+    "uk": "B1 Schreiben – запрошення (Einladung)"
+  },
+
+  "interactiveScene": "✉️ Уяви, що Ноа вже пройшов курс A2 і тепер готується до іспиту B1. Він отримує завдання: написати запрошення. Спочатку він нервує, але потім бачить, що структура проста — всього кілька пунктів!",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Einladung?",
+      "uk": "Einladung — це коротке запрошення на подію: день народження, вечірку, зустріч або іншу важливу нагоду."
+    },
+    {
+      "de": "Wie schreibt man eine Einladung im B1-Examen?",
+      "uk": "У листі-запрошенні повинні бути такі елементи:\n• Причина написання (чому ти пишеш).\n• Подія, на яку запрошуєш.\n• Дата і час.\n• Місце.\n• Що будете робити.\n• Прохання підтвердити участь.\n• Ввічливе завершення."
+    },
+    {
+      "de": "Nützliche Redemittel",
+      "uk": "• Ich lade dich zu meiner Party ein.\n• Es wäre schön, wenn du kommen könntest.\n• Die Feier findet am … statt.\n• Bitte sag mir Bescheid, ob du kommen kannst.\n• Viele Grüße / Liebe Grüße."
+    },
+    {
+      "de": "Beispieltext (ca. 100 Wörter)",
+      "uk": "Liebe Maria,\n\nich möchte dich ganz herzlich zu meiner Geburtstagsfeier einladen. Die Party findet am Samstag, den 15. Juni, um 18 Uhr bei mir zu Hause statt. Wir werden etwas essen, Musik hören und zusammen spielen. Es wäre wirklich schön, wenn du Zeit hättest und kommen könntest.\n\nBitte gib mir kurz Bescheid, ob du teilnehmen kannst.\n\nViele Grüße\nNoa"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich schreibe dir, weil ich dich zu meiner Feier einladen möchte.",
+      "uk": "Я пишу тобі, бо хочу запросити тебе на моє свято.",
+      "note": ""
+    },
+    {
+      "de": "Die Party findet am Samstag, den 15. Juni, bei mir zu Hause statt.",
+      "uk": "Вечірка відбудеться в суботу, 15 червня, у мене вдома.",
+      "note": ""
+    },
+    {
+      "de": "Bitte sag mir Bescheid, ob du kommen kannst.",
+      "uk": "Будь ласка, повідом мені, чи зможеш ти прийти.",
+      "note": ""
+    },
+    {
+      "de": "Ich würde mich sehr freuen, dich zu sehen.",
+      "uk": "Я був би дуже радий побачити тебе.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Структура запрошення проста: привітання → інформація про подію → деталі → прохання відповісти → завершення.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Kannst du mir helfen, eine Einladung zu schreiben?",
+      "uk": "Ти можеш допомогти мені написати запрошення?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Natürlich! Du musst nur Ort, Zeit und Grund angeben.",
+      "uk": "Звісно! Тобі потрібно лише вказати місце, час і причину."
+    }
+  ],
+
+  "summary": [
+    { "de": "Einladung", "uk": "запрошення" },
+    { "de": "Ort / Zeit", "uk": "місце / час" },
+    { "de": "Bescheid sagen", "uk": "підтвердити участь" },
+    { "de": "Grußformel", "uk": "завершальна формула" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Was gehört zu einer Einladung?",
+      "options": [
+        "nur Datum und Name",
+        "nur eine Grußformel",
+        "Ort, Zeit und Grund",
+        "nur Aktivitäten"
+      ],
+      "answer": 2,
+      "hint": "Місце, час і причина — це основа."
+    },
+    {
+      "question": "Welche Phrase passt zu einer Einladung?",
+      "options": [
+        "Bitte reparieren Sie meine Maschine.",
+        "Bitte sagen Sie mir Bescheid, ob Sie kommen können.",
+        "Ich möchte einen Termin absagen.",
+        "Ich suche Informationen über einen Kurs."
+      ],
+      "answer": 1,
+      "hint": "Це типова фраза для запрошення."
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreibe eine Einladung (80–120 Wörter). Erkläre, wohin du einlädst, wann und wo die Feier ist, was ihr dort macht und wie die Person antworten soll.",
+    "instruction_uk": "Напиши запрошення (80–120 слів). Опиши, куди ти запрошуєш, коли і де буде свято, що ви там робитимете і як повинна відповісти особа.",
+    "exampleAnswer": "Hallo Anna,\n\nich hoffe, es geht dir gut. Ich möchte dich gern zu meiner Party am Samstag um 18 Uhr einladen. Die Feier findet bei mir zu Hause statt. Wir werden essen, Musik hören und Spiele spielen. Bitte sag mir kurz Bescheid, ob du kommen kannst.\n\nLiebe Grüße\nAbbas",
+    "keywords": ["einladen", "Ort", "Zeit", "Bescheid", "Feier"],
+    "feedbackHints": [
+      "Чітко вкажи місце і час.",
+      "Не забудь попросити підтвердити участь.",
+      "Використовуй ввічливе завершення.",
+      "8–10 речень зазвичай вистачає."
+    ]
+  }
+}
+,
+{
+  "id": "b1-schreiben-dank-entschuldigung",
+  "title": {
+    "de": "B1 Schreiben – Dank / Entschuldigung",
+    "uk": "B1 Schreiben – подяка та вибачення"
+  },
+
+  "interactiveScene": "💌 Ноа отримує допомогу від свого сусіда й хоче подякувати йому ввічливо. Наступного дня він запізнився на зустріч і мусить вибачитися. У B1 це два найважливіші типи листів, які з’являються на іспиті.",
+  
+  "explanation": [
+    {
+      "de": "Wann schreibt man eine Dankes-E-Mail?",
+      "uk": "Лист-подяка пишеться, коли хтось допоміг, запросив, дав інформацію або підтримав у складній ситуації."
+    },
+    {
+      "de": "Wichtige Redemittel für Dank",
+      "uk": "• Vielen Dank für Ihre Hilfe.\n• Ich möchte mich herzlich bedanken.\n• Das war sehr freundlich von Ihnen.\n• Ich bin Ihnen sehr dankbar."
+    },
+    {
+      "de": "Wann schreibt man eine Entschuldigung?",
+      "uk": "Лист-вибачення потрібний, коли ти запізнився, пропустив зустріч, не виконав обіцянку або хочеш пояснити проблему."
+    },
+    {
+      "de": "Wichtige Redemittel für Entschuldigung",
+      "uk": "• Es tut mir leid, dass…\n• Entschuldigen Sie bitte.\n• Leider konnte ich nicht…\n• Ich hoffe auf Ihr Verständnis."
+    },
+    {
+      "de": "Struktur für beide Typen",
+      "uk": "1️⃣ Begrüßung (формальна або неформальна)\n2️⃣ Grund: Wofür dankst du? / Wofür entschuldigst du dich?\n3️⃣ Erklärung oder zusätzliche Informationen\n4️⃣ Höflicher Schluss\n5️⃣ Grußformel + Name"
+    },
+    {
+      "de": "Beispiel – Dank",
+      "uk": "Sehr geehrte Frau Weber,\n\nvielen Dank für Ihre schnelle Antwort. Ihre Informationen waren sehr hilfreich und haben mir bei der Entscheidung sehr geholfen. Ich bin Ihnen wirklich dankbar.\n\nMit freundlichen Grüßen\nNoa"
+    },
+    {
+      "de": "Beispiel – Entschuldigung",
+      "uk": "Hallo Ben,\n\nes tut mir sehr leid, dass ich gestern nicht kommen konnte. Ich war krank und musste zu Hause bleiben. Ich hoffe, du verstehst das.\n\nViele Grüße\nNoa"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Vielen Dank für Ihre Hilfe.",
+      "uk": "Щиро дякую за вашу допомогу.",
+      "note": "формально"
+    },
+    {
+      "de": "Es tut mir leid, dass ich zu spät bin.",
+      "uk": "Мені шкода, що я запізнився.",
+      "note": ""
+    },
+    {
+      "de": "Ich hoffe auf Ihr Verständnis.",
+      "uk": "Сподіваюся на ваше розуміння.",
+      "note": "часто в Entschuldigung"
+    },
+    {
+      "de": "Das war sehr freundlich von Ihnen.",
+      "uk": "Це було дуже люб’язно з вашого боку.",
+      "note": ""
+    }
+  ],
+
+  "tip": "У листах подяки та вибачення важлива щирість і ввічливість. Пиши коротко, ясно та доброзичливо.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Wie entschuldige ich mich höflich?",
+      "uk": "Як вибачитися ввічливо?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Sage, was passiert ist, und hoffe auf Verständnis.",
+      "uk": "Скажи, що сталося, і попроси про розуміння."
+    }
+  ],
+
+  "summary": [
+    { "de": "Dank", "uk": "подяка" },
+    { "de": "Entschuldigung", "uk": "вибачення" },
+    { "de": "Grund + Erklärung", "uk": "причина + пояснення" },
+    { "de": "Höflicher Schluss", "uk": "ввічливе завершення" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Phrase passt zu einer Entschuldigung?",
+      "options": [
+        "Vielen Dank für Ihre Hilfe.",
+        "Es tut mir leid, dass ich nicht kommen konnte.",
+        "Ich freue mich auf die Feier.",
+        "Ich lade Sie herzlich ein."
+      ],
+      "answer": 1,
+      "hint": "Schlüsselwort: 'tut mir leid'"
+    },
+    {
+      "question": "Welche Formulierung ist höflich?",
+      "options": [
+        "Warum haben Sie mir nicht geholfen?",
+        "Ich hoffe auf Ihr Verständnis.",
+        "Ich will eine Antwort!",
+        "Ich bin nicht zufrieden."
+      ],
+      "answer": 1,
+      "hint": "Höfliche Sprache = позитивний тон"
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreibe eine Dankes- oder Entschuldigungs-E-Mail (80–120 Wörter).",
+    "instruction_uk": "Напиши лист-подяку або лист-вибачення (80–120 слів).",
+    "exampleAnswer": "Sehr geehrte Frau Weber,\n\nich möchte mich herzlich bei Ihnen bedanken. Ihre Unterstützung war für mich sehr wichtig und hat mir wirklich geholfen. Vielen Dank für Ihre Geduld.\n\nMit freundlichen Grüßen\nAbbas",
+    "keywords": ["Dank", "Entschuldigung", "Verständnis", "Hilfe", "E-Mail"],
+    "feedbackHints": [
+      "Вибери один тип: подяка або вибачення.",
+      "Обов’язково поясни причину.",
+      "Завершуй ввічливо.",
+      "100 слів зазвичай достатньо."
+    ]
+  }
+}
+,
+{
+  "id": "b1-schreiben-absage",
+  "title": {
+    "de": "B1 Schreiben – Terminabsage",
+    "uk": "B1 Schreiben – відмова від запланованої зустрічі (Absage)"
+  },
+
+  "interactiveScene": "📅 Ноа отримує запрошення від подруги, але він не може прийти. Він думає: «Як мені відмовити ввічливо?» На іспиті B1 достатньо чіткої структури, чемних фраз і пояснення причини. І все стає простіше!",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Absage?",
+      "uk": "Absage — це ввічлива відмова від зустрічі чи запрошення, коли ти не можеш прийти на подію."
+    },
+    {
+      "de": "Wie schreibt man eine höfliche Absage im B1-Examen?",
+      "uk": "У листі-відмові мають бути такі пункти:\n• Подяка за запрошення або повідомлення.\n• Чітка причина, чому ти не можеш прийти.\n• Ввічливе вибачення.\n• Пропозиція альтернативи (за бажанням).\n• Побажання або чемне завершення."
+    },
+    {
+      "de": "Nützliche Redemittel",
+      "uk": "• Vielen Dank für deine Einladung.\n• Leider kann ich nicht kommen.\n• Ich muss zu einem Termin.\n• Ich habe einen wichtigen Arzttermin.\n• Es tut mir sehr leid.\n• Vielleicht können wir uns nächste Woche treffen.\n• Ich wünsche dir trotzdem viel Spaß!"
+    },
+    {
+      "de": "Beispieltext (ca. 100 Wörter)",
+      "uk": "Liebe Lara,\n\nvielen Dank für deine Einladung zu deiner Feier am Samstag. Leider kann ich an diesem Tag nicht kommen, weil ich einen wichtigen Termin habe. Es tut mir sehr leid, aber ich hoffe, du verstehst das. Vielleicht können wir uns nächste Woche auf einen Kaffee treffen. Ich wünsche dir eine schöne Feier und viel Spaß!\n\nViele Grüße\nNoa"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Vielen Dank für deine Einladung.",
+      "uk": "Щиро дякую за твоє запрошення.",
+      "note": ""
+    },
+    {
+      "de": "Leider kann ich nicht kommen, weil ich einen Termin habe.",
+      "uk": "На жаль, я не можу прийти, тому що маю зустріч.",
+      "note": ""
+    },
+    {
+      "de": "Es tut mir sehr leid.",
+      "uk": "Мені дуже шкода.",
+      "note": ""
+    },
+    {
+      "de": "Vielleicht können wir uns später treffen.",
+      "uk": "Можливо, ми зможемо зустрітися пізніше.",
+      "note": ""
+    }
+  ],
+
+  "tip": "У листі-відмові надзвичайно важливі подяка, причина та ввічливий тон. Уникай різких формулювань. Використовуй короткі та чіткі речення.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Kannst du am Samstag kommen?",
+      "uk": "Ти можеш прийти в суботу?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Leider nicht. Ich habe einen Termin.",
+      "uk": "На жаль, ні. У мене запис."
+    }
+  ],
+
+  "summary": [
+    { "de": "Dank", "uk": "подяка" },
+    { "de": "Grund", "uk": "причина" },
+    { "de": "Entschuldigung", "uk": "вибачення" },
+    { "de": "Alternative", "uk": "альтернатива" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Phrase passt zu einer Absage?",
+      "options": [
+        "Ich lade dich herzlich ein.",
+        "Leider kann ich nicht kommen.",
+        "Ich freue mich auf die Party.",
+        "Ich bestätige den Termin."
+      ],
+      "answer": 1,
+      "hint": "Absage = höfliche Ablehnung."
+    },
+    {
+      "question": "Welches Wort benutzt man für den Grund?",
+      "options": ["weil", "und", "aber"],
+      "answer": 0,
+      "hint": "У підрядному реченні зі словом «weil» дієслово йде в кінець."
+    },
+    {
+      "question": "Was bedeutet „absagen“?",
+      "options": [
+        "запросити",
+        "скасувати / відмовитися",
+        "організувати"
+      ],
+      "answer": 1,
+      "hint": "absagen = відмовитися від участі."
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreibe eine Absage-E-Mail (80–120 Wörter). Bedanke dich, entschuldige dich, erkläre den Grund und schlage eventuell einen neuen Termin vor.",
+    "instruction_uk": "Напиши лист-відмову (80–120 слів). Подякуй, вибачся, поясни причину та, за бажанням, запропонуй іншу дату.",
+    "exampleAnswer": "Liebe Maria,\n\nvielen Dank für deine Einladung. Leider kann ich am Freitag nicht kommen, weil ich einen Arzttermin habe. Es tut mir sehr leid. Vielleicht können wir uns nächste Woche treffen.\n\nViele Grüße\nAbbas",
+    "keywords": ["absagen", "weil", "vielleicht", "Termin", "Entschuldigung"],
+    "feedbackHints": [
+      "Почни з подяки.",
+      "Обов’язково вкажи причину.",
+      "Ввічливо вибачся.",
+      "Пропонуй альтернативу, якщо це доречно."
+    ]
+  }
+}
+,
+{
+  "id": "b1_beschwerde_dienstleistung",
+  "title": {
+    "de": "Beschwerde – Eine Reklamation über eine Dienstleistung schreiben",
+    "uk": "Beschwerde – офіційна скарга на послугу або поганий досвід"
+  },
+
+  "interactiveScene": "😩 Ноа приїжджає у відпустку до готелю, але там шумно, персонал не допомагає і номер не відповідає опису. Він злиться, але пам’ятає: «На іспиті B1 я повинен писати скаргу чемно, чітко і професійно». Тож він сідає і складає офіційний Brief.",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Beschwerde?",
+      "uk": "Beschwerde — це офіційна письмова скарга, коли ви незадоволені послугою, готелем, рестораном або будь-яким іншим досвідом."
+    },
+    {
+      "de": "Wie schreibt man eine Beschwerde im B1-Examen?",
+      "uk": "У B1-скарзі важливо бути ввічливим і конкретним:\n• Подякувати або згадати послугу, яку ви отримали.\n• Описати проблему чітко й без перебільшень.\n• Пояснити, як це вплинуло на вас.\n• Вказати, що саме ви хочете (Rückerstattung, Lösung, Antwort).\n• Чемно завершити лист."
+    },
+    {
+      "de": "🗣️ Nützliche Redemittel",
+      "uk": "• Ich habe ein Zimmer bei Ihnen gebucht, aber ...\n• Leider war ich mit dem Service nicht zufrieden.\n• Es gab mehrere Probleme, zum Beispiel ...\n• Ich möchte Sie bitten, ...\n• Ich erwarte eine Lösung.\n• Ich freue mich auf Ihre Antwort.\n• Mit freundlichen Grüßen."
+    },
+    {
+      "de": "📧 Beispieltext (ca. 110–130 Wörter)",
+      "uk": "Sehr geehrte Damen und Herren,\n\nich habe vom 5. bis 8. Juni ein Zimmer in Ihrem Hotel gebucht. Leider war ich mit meinem Aufenthalt nicht zufrieden. Das Zimmer war sehr laut, und die Klimaanlage funktionierte nicht. Außerdem war das Personal unfreundlich und konnte mir nicht weiterhelfen. Diese Probleme haben meinen Urlaub stark beeinträchtigt.\n\nIch möchte Sie bitten, mir eine Rückerstattung oder eine andere Lösung anzubieten. Ich freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "eine Beschwerde einreichen",
+      "uk": "подати офіційну скаргу",
+      "note": "формально"
+    },
+    {
+      "de": "unzufrieden sein mit",
+      "uk": "бути незадоволеним чимось",
+      "note": "важлива конструкція"
+    },
+    {
+      "de": "ein Problem melden",
+      "uk": "повідомити про проблему",
+      "note": ""
+    },
+    {
+      "de": "Ich erwarte eine Lösung.",
+      "uk": "Я очікую на рішення.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Завжди залишайтеся ввічливими. Уникайте емоційних фраз. Пишіть коротко, професійно та з фактами.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Ich möchte eine Beschwerde schreiben.",
+      "uk": "Я хочу написати скаргу."
+    },
+    {
+      "speaker": "👦",
+      "de": "Dann beschreibe klar das Problem und was du möchtest.",
+      "uk": "Тоді чітко опиши проблему та що ти хочеш отримати."
+    }
+  ],
+
+  "summary": [
+    { "de": "Problem", "uk": "проблема" },
+    { "de": "Erwartung", "uk": "очікування" },
+    { "de": "Lösung", "uk": "рішення" },
+    { "de": "Höflichkeit", "uk": "ввічливість" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Formulierung passt zu einer höflichen Beschwerde?",
+      "options": [
+        "Ich bin wütend!",
+        "Ich hasse das Hotel!",
+        "Leider war ich mit dem Service nicht zufrieden.",
+        "Das war schlimm!"
+      ],
+      "answer": 2,
+      "hint": "Beginne höflich: „Leider…“"
+    },
+    {
+      "question": "Was passt? — Ich möchte Sie bitten, ...",
+      "options": [
+        "mir zu helfen.",
+        "schnell!",
+        "das Problem.",
+        "keine Antwort."
+      ],
+      "answer": 0,
+      "hint": "Höfliche Bitte = vollständiger Satz"
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Sie waren in einem Hotel und waren unzufrieden. Schreiben Sie eine Beschwerde. Beschreiben Sie die Probleme und was Sie möchten. Schreiben Sie etwa 110–130 Wörter.",
+    "instruction_uk": "Ви були в готелі й залишилися незадоволені. Напишіть скаргу. Опишіть проблеми та вкажіть, чого ви очікуєте. Обсяг: 110–130 слів.",
+    "keywords": ["Hotel", "Zimmer", "unzufrieden", "Problem", "Antwort"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich war leider mit meinem Aufenthalt nicht zufrieden. Das Zimmer war schmutzig, und das WLAN hat nicht funktioniert. Außerdem war das Personal unhöflich. Ich möchte Sie bitten, mir eine Rückmeldung oder eine andere Lösung anzubieten.\n\nMit freundlichen Grüßen\nAbbas",
+    "feedbackHints": [
+      "Почніть з формального привітання.",
+      "Опишіть проблеми конкретно, але чемно.",
+      "Завершіть лист формально."
+    ]
+  }
+}
+,{
+  "id": "b1-schreiben-termin-vereinbaren",
+  "title": {
+    "de": "B1 Schreiben – Termin vereinbaren",
+    "uk": "B1 Schreiben – узгодження офіційної зустрічі"
+  },
+
+  "interactiveScene": "📆 Ноа хоче записатися на офіційний Termin: у лікаря, у відомство, або в Sprachschule. На іспиті B1 такі листи з’являються часто — тому важливо знати чітку, чемну та коротку структуру.",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Terminvereinbarung?",
+      "uk": "Лист Terminvereinbarung — це офіційний запит про дату зустрічі або запису: до лікаря, установи, фірми або вчителя."
+    },
+    {
+      "de": "Was muss in einer guten Termin-E-Mail stehen?",
+      "uk": "У запиті на термін потрібно:\n• Пояснити, чому ви пишете.\n• Сказати, який Termin вам потрібен.\n• Вказати ваші можливі дати або запитати доступні.\n• Поставити конкретне питання.\n• Закінчити чемно."
+    },
+    {
+      "de": "Nützliche Redemittel",
+      "uk": "• Ich möchte gern einen Termin vereinbaren.\n• Haben Sie nächste Woche einen freien Termin?\n• Ich brauche einen Termin wegen ...\n• Könnten Sie mir bitte einen Termin vorschlagen?\n• Vielen Dank im Voraus.\n• Mit freundlichen Grüßen."
+    },
+    {
+      "de": "Beispieltext (ca. 100 Wörter)",
+      "uk": "Sehr geehrte Damen und Herren,\n\nich möchte gern einen Termin bei Ihnen vereinbaren. Ich brauche einen Termin wegen einer Beratung. Haben Sie nächste Woche vielleicht einen freien Termin? Am Mittwoch und Freitag habe ich ab 14 Uhr Zeit. Wenn diese Termine nicht möglich sind, könnten Sie mir bitte andere Vorschläge machen?\n\nVielen Dank im Voraus.\nMit freundlichen Grüßen\nNoa"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich möchte einen Termin vereinbaren.",
+      "uk": "Я хотів би узгодити зустріч.",
+      "note": ""
+    },
+    {
+      "de": "Haben Sie nächste Woche einen freien Termin?",
+      "uk": "Чи маєте ви вільний термін наступного тижня?",
+      "note": ""
+    },
+    {
+      "de": "Könnten Sie mir einen Termin vorschlagen?",
+      "uk": "Чи могли б ви запропонувати мені дату зустрічі?",
+      "note": ""
+    },
+    {
+      "de": "Vielen Dank im Voraus.",
+      "uk": "Щиро дякую наперед.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Пам’ятай: у формальному листі використовуй Sie, короткі речення, конкретні дати та обов’язково формальне завершення.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Ich brauche einen Termin. Was soll ich schreiben?",
+      "uk": "Мені потрібен термін. Що саме написати?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Frag nach freien Terminen und gib deine Zeiten an.",
+      "uk": "Запитай про вільні дати та вкажи свої можливі години."
+    }
+  ],
+
+  "summary": [
+    { "de": "Termin", "uk": "зустріч / запис" },
+    { "de": "Vorschlag", "uk": "пропозиція" },
+    { "de": "Frage", "uk": "запитання" },
+    { "de": "Höflichkeit", "uk": "ввічливість" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Phrase passt zu einer Terminvereinbarung?",
+      "options": [
+        "Leider kann ich nicht kommen.",
+        "Ich möchte gern einen Termin vereinbaren.",
+        "Ich beschwere mich über Ihr Hotel.",
+        "Vielen Dank für Ihre Einladung."
+      ],
+      "answer": 1,
+      "hint": "Terminvereinbarung benötigt klare Anfrage."
+    },
+    {
+      "question": "Was ist höflich?",
+      "options": [
+        "Geben Sie mir sofort einen Termin!",
+        "Könnten Sie mir bitte einen Termin vorschlagen?",
+        "Ich brauche einen Termin, schnell!",
+        "Ich habe keine Zeit, bitte beeilen Sie sich."
+      ],
+      "answer": 1,
+      "hint": "Höfliche Form: „Könnten Sie… bitte…“"
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreiben Sie eine E-Mail, in der Sie um einen Termin bitten (80–120 Wörter). Nennen Sie Ihren Grund, mögliche Zeiten und stellen Sie eine Frage.",
+    "instruction_uk": "Напишіть офіційний лист із проханням про термін (80–120 слів). Вкажіть причину, можливі дати та поставте запитання.",
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich möchte gern einen Termin für eine Beratung vereinbaren. Haben Sie nächste Woche einen freien Termin? Am Montag und Donnerstag habe ich ab 15 Uhr Zeit. Falls diese Termine nicht möglich sind, bitte schlagen Sie mir andere vor.\n\nMit freundlichen Grüßen\nAbbas",
+    "keywords": ["Termin", "vereinbaren", "Vorschlag", "Zeit", "E-Mail"],
+    "feedbackHints": [
+      "Почніть з формальної причини написання.",
+      "Вкажіть ваші можливі дати.",
+      "Завершіть чемною формулою."
+    ]
+  }
+}
+,
+{
+  "id": "b1-schreiben-anfrage",
+  "title": {
+    "de": "B1 Schreiben – Anfrage",
+    "uk": "B1 Schreiben – офіційний запит (Anfrage)"
+  },
+
+  "interactiveScene": "📨 Ноа знайшов цікавий курс, але не знає ціни, тривалості чи умов. Він думає: «Як чемно запитати інформацію?» У B1 таке завдання зʼявляється дуже часто — короткий, ввічливий, чіткий запит.",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Anfrage?",
+      "uk": "Anfrage — це формальний лист, у якому ви запитуєте інформацію: про курс, квартиру, роботу, подію або послугу."
+    },
+    {
+      "de": "Was gehört in eine gute Anfrage?",
+      "uk": "У запиті повинні бути такі елементи:\n• Причина, чому ви пишете.\n• Яку інформацію ви хочете отримати.\n• Конкретні питання.\n• Можливе прохання про матеріали, Termine або Preise.\n• Чемне завершення."
+    },
+    {
+      "de": "Nützliche Redemittel",
+      "uk": "• Ich interessiere mich für ...\n• Könnten Sie mir bitte Informationen schicken?\n• Ich möchte gern wissen, ...\n• Wie viel kostet ...?\n• Wann beginnt ...?\n• Haben Sie noch freie Plätze?\n• Vielen Dank im Voraus."
+    },
+    {
+      "de": "Beispieltext (ca. 100 Wörter)",
+      "uk": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für Ihren Deutschkurs und möchte gern einige Informationen erhalten. Könnten Sie mir bitte mitteilen, wann der Kurs beginnt und wie viel er kostet? Außerdem möchte ich wissen, wie viele Stunden pro Woche der Unterricht hat und ob es noch freie Plätze gibt.\n\nVielen Dank im Voraus.\nMit freundlichen Grüßen\nNoa"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Ich interessiere mich für Ihren Kurs.",
+      "uk": "Я цікавлюся вашим курсом.",
+      "note": ""
+    },
+    {
+      "de": "Könnten Sie mir bitte weitere Informationen schicken?",
+      "uk": "Чи могли б ви надіслати мені додаткову інформацію?",
+      "note": ""
+    },
+    {
+      "de": "Wie viel kostet der Kurs?",
+      "uk": "Скільки коштує курс?",
+      "note": ""
+    },
+    {
+      "de": "Haben Sie noch freie Plätze?",
+      "uk": "Чи є у вас ще вільні місця?",
+      "note": ""
+    }
+  ],
+
+  "tip": "Використовуйте чемні форми: „Könnten Sie… bitte…?“ та завжди завершуйте лист формально. Чіткі запитання = швидкі відповіді.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Ich möchte Informationen über Ihren Kurs.",
+      "uk": "Я хочу отримати інформацію про ваш курс."
+    },
+    {
+      "speaker": "👦",
+      "de": "Dann stell klare Fragen und benutze höfliche Formulierungen.",
+      "uk": "Тоді став чіткі питання і використовуй ввічливі формулювання."
+    }
+  ],
+
+  "summary": [
+    { "de": "Fragen", "uk": "запитання" },
+    { "de": "Information", "uk": "інформація" },
+    { "de": "Höflichkeit", "uk": "ввічливість" },
+    { "de": "Klarheit", "uk": "чіткість" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Phrase passt zu einer Anfrage?",
+      "options": [
+        "Vielen Dank für die Einladung.",
+        "Ich möchte mich beschweren.",
+        "Könnten Sie mir bitte Informationen schicken?",
+        "Leider kann ich nicht kommen."
+      ],
+      "answer": 2,
+      "hint": "Anfrage = інформація."
+    },
+    {
+      "question": "Was ist höflich?",
+           "options": [
+        "Ich brauche sofort eine Antwort!",
+        "Schicken Sie mir alle Infos!",
+        "Könnten Sie mir bitte sagen, wann der Kurs beginnt?",
+        "Wann beginnt der Kurs???"
+      ],
+      "answer": 2,
+      "hint": "Höflichkeit = ‚Könnten Sie… bitte…‘"
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreiben Sie eine Anfrage (80–120 Wörter). Stellen Sie klare Fragen zu Preis, Termin oder Ablauf.",
+    "instruction_uk": "Напишіть формальний запит (80–120 слів). Поставте чіткі питання про ціну, дату або умови.",
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für Ihren Kurs und möchte gern einige Informationen erhalten. Könnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet? Außerdem möchte ich wissen, ob es noch freie Plätze gibt.\n\nMit freundlichen Grüßen\nAbbas",
+    "keywords": ["Anfrage", "Information", "Preis", "Termin", "Kurs"],
+    "feedbackHints": [
+      "Почніть з причини.",
+      "Поставте 2–4 чіткі питання.",
+      "Завершуйте формально."
+    ]
+  }
+}
+,
+{
+  "id": "b1_bewerbung_anmeldung",
+  "title": {
+    "de": "Bewerbung / Anmeldung – Einen Antrag oder eine Bewerbung schreiben",
+    "uk": "Bewerbung / Anmeldung – офіційна заявка або реєстрація"
+  },
+
+  "interactiveScene": "👔 Ноа закінчив своє навчання й хоче подати заявку на роботу або зареєструватися на курс. Він сидить перед ноутбуком, здіймаючи брову… «Що саме хоче екзаменатор?» — думає він. У цей момент він відкриває структуру B1 і все стає логічним і простим.",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Bewerbung oder Anmeldung?",
+      "uk": "Bewerbung означає офіційне подання заявки (часто на роботу або навчання). Anmeldung — це формальна реєстрація на курс, подію або в установу."
+    },
+    {
+      "de": "Wie schreibt man eine Bewerbung oder Anmeldung im B1-Examen?",
+      "uk": "У цьому типі листа потрібно:\n• Почати з формального привітання.\n• Вказати причину: чому ви пишете.\n• Описати, на що саме ви подаєте заявку або де хочете зареєструватися.\n• Вказати досвід або мотивацію (коротко).\n• Поставити одне або два питання.\n• Завершити чемно."
+    },
+    {
+      "de": "🗣️ Nützliche Redemittel",
+      "uk": "• Ich möchte mich für ... bewerben.\n• Ich interessiere mich für ...\n• Könnten Sie mir bitte Informationen zuschicken?\n• Ich habe Erfahrung in ...\n• Ich möchte mich für Ihren Kurs anmelden.\n• Ich freue mich auf Ihre Antwort.\n• Mit freundlichen Grüßen."
+    },
+    {
+      "de": "📧 Beispieltext (ca. 110–130 Wörter)",
+      "uk": "Sehr geehrte Damen und Herren,\n\nich möchte mich für Ihren Kurs anmelden und benötige einige Informationen. Könnten Sie mir bitte mitteilen, wann der Kurs beginnt und wie viel er kostet? Außerdem interessiere ich mich dafür, wie viele Unterrichtsstunden pro Woche angeboten werden. Ich habe bereits etwas Erfahrung und möchte meine Kenntnisse weiter verbessern.\n\nIch freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nNoa Alhasan"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "sich bewerben um / für",
+      "uk": "подаватися на (роботу / програму)",
+      "note": "формально"
+    },
+    {
+      "de": "sich anmelden für",
+      "uk": "зареєструватися на",
+      "note": "формально"
+    },
+    {
+      "de": "Informationen anfordern",
+      "uk": "запитувати інформацію",
+      "note": ""
+    },
+    {
+      "de": "Ich freue mich auf Ihre Antwort.",
+      "uk": "З нетерпінням чекаю на вашу відповідь.",
+      "note": ""
+    }
+  ],
+
+  "tip": "Тримайте лист коротким, чітким і ввічливим. У Bewerbung не використовуйте слова типу „will“ — замість цього „möchte“ або „würde gern“.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Wie schreibe ich eine gute Bewerbung?",
+      "uk": "Як написати хорошу заявку?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Sag klar, warum du schreibst, und benutze höfliche Formulierungen.",
+      "uk": "Чітко скажи, чому пишеш, і використовуй ввічливі формулювання."
+    }
+  ],
+
+  "summary": [
+    { "de": "Bewerbung", "uk": "заявка (часто робота)" },
+    { "de": "Anmeldung", "uk": "реєстрація" },
+    { "de": "Motivation", "uk": "мотивація" },
+    { "de": "Höflichkeit", "uk": "ввічливість" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Formulierung ist richtig für eine Bewerbung?",
+      "options": [
+        "Ich will den Kurs machen.",
+        "Ich möchte mich für Ihren Kurs anmelden.",
+        "Ich komme einfach vorbei.",
+        "Schicken Sie alles sofort!"
+      ],
+      "answer": 1,
+      "hint": "Höfliche Form: „möchte… anmelden“"
+    },
+    {
+      "question": "Was gehört in eine Bewerbung?",
+      "options": [
+        "Nur Name und Alter",
+        "Nur eine Begrüßung",
+        "Persönliche Informationen und Grund für die Bewerbung",
+        "Nur eine Frage"
+      ],
+      "answer": 2,
+      "hint": "Motivation + Grund + Info = korrekt"
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Sie möchten sich für einen Kurs anmelden. Schreiben Sie eine E-Mail (100–120 Wörter). Nennen Sie Grund, Fragen und Ihre Motivation.",
+    "instruction_uk": "Ви хочете зареєструватися на курс. Напишіть формальний лист (100–120 слів). Вкажіть причину, питання та вашу мотивацію.",
+    "keywords": ["Bewerbung", "Anmeldung", "Kurs", "Information", "Antwort"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich möchte mich für Ihren Kurs anmelden und interessiere mich für weitere Informationen. Könnten Sie mir bitte sagen, wann der Kurs beginnt und wie viel er kostet? Außerdem möchte ich wissen, wie viele Teilnehmer zugelassen sind. Ich habe bereits Erfahrung und möchte meine Kenntnisse verbessern.\n\nMit freundlichen Grüßen\nAbbas Alhasan",
+    "feedbackHints": [
+      "Почни формально.",
+      "Вкажи чому пишеш.",
+      "Додай 2–3 питання.",
+      "Закінчи ввічливо."
+    ]
+  }
+},
+{
+  "id": "b1-schreiben-reklamation",
+  "title": {
+    "de": "B1 Schreiben – Reklamation / Produktrückgabe",
+    "uk": "B1 Schreiben – рекламація / повернення товару"
+  },
+
+  "interactiveScene": "📦 Ноа замовив онлайн-товар, але отримав щось зовсім інше. Дефект, погана якість, або товар просто не працює. На іспиті B1 потрібно написати чемну, чітку та коротку рекламацію. Ніяких емоцій — тільки факти.",
+
+  "explanation": [
+    {
+      "de": "Was ist eine Reklamation?",
+      "uk": "Reklamation — це офіційна письмова скарга щодо товару, який має дефект, не працює або не відповідає опису."
+    },
+    {
+      "de": "Wann braucht man eine Reklamation?",
+      "uk": "Коли товар:\n• пошкоджений,\n• не працює,\n• не відповідає замовленню,\n• має погану якість,\n• прийшов пізно або неповний."
+    },
+    {
+      "de": "Wichtige Elemente einer Reklamation",
+      "uk": "У хорошій Reklamation потрібно:\n• Дати інформацію про покупку (дата, товар).\n• Описати проблему чітко.\n• Дати докази (за бажанням).\n• Написати, що саме ви хочете: повернення грошей, новий товар, ремонт.\n• Чемно завершити."
+    },
+    {
+      "de": "Nützliche Redemittel",
+      "uk": "• Ich habe bei Ihnen … bestellt.\n• Leider ist der Artikel defekt.\n• Der gelieferte Artikel entspricht nicht der Beschreibung.\n• Ich möchte den Artikel zurückgeben.\n• Ich bitte um eine Rückerstattung.\n• Bitte senden Sie mir einen Ersatzartikel.\n• Ich freue mich auf Ihre Rückmeldung."
+    },
+    {
+      "de": "Beispieltext (ca. 110–130 Wörter)",
+      "uk": "Sehr geehrte Damen und Herren,\n\nich habe am 12. Oktober bei Ihnen eine Kaffeemaschine bestellt. Leider habe ich beim Auspacken festgestellt, dass das Gerät beschädigt ist und nicht funktioniert. Außerdem fehlt ein Teil des Zubehörs. Der gelieferte Artikel entspricht nicht der Beschreibung auf Ihrer Website.\n\nIch möchte die Maschine zurückgeben und bitte Sie um eine Rückerstattung oder einen Ersatzartikel. Bitte teilen Sie mir mit, wie ich die Rücksendung durchführen soll.\n\nMit freundlichen Grüßen\nNoa"
+    }
+  ],
+
+  "phrasesTable": [
+    {
+      "de": "Der Artikel ist defekt.",
+      "uk": "Товар несправний.",
+      "note": ""
+    },
+    {
+      "de": "Ich möchte eine Rückerstattung.",
+      "uk": "Я хотів би отримати відшкодування.",
+      "note": ""
+    },
+    {
+      "de": "Der gelieferte Artikel entspricht nicht der Beschreibung.",
+      "uk": "Отриманий товар не відповідає опису.",
+      "note": ""
+    },
+    {
+      "de": "Bitte senden Sie mir einen Ersatzartikel.",
+      "uk": "Будь ласка, надішліть мені товар на заміну.",
+      "note": ""
+    }
+  ],
+
+  "tip": "У Reklamation не потрібно злитися — важлива чіткість. Факти + ввічливість = ідеальний B1-текст.",
+
+  "dialogue": [
+    {
+      "speaker": "🧑",
+      "de": "Ich habe ein falsches Produkt bekommen. Was soll ich schreiben?",
+      "uk": "Я отримав не той товар. Що писати?"
+    },
+    {
+      "speaker": "👦",
+      "de": "Beschreibe das Problem klar und sage, was du möchtest.",
+      "uk": "Чітко опиши проблему і скажи, що саме ти хочеш отримати."
+    }
+  ],
+
+  "summary": [
+    { "de": "Problem", "uk": "проблема" },
+    { "de": "Reklamation", "uk": "скарга на товар" },
+    { "de": "Rückerstattung", "uk": "повернення грошей" },
+    { "de": "Ersatzartikel", "uk": "товар на заміну" }
+  ],
+
+  "quiz": [
+    {
+      "question": "Welche Formulierung passt zu einer Reklamation?",
+      "options": [
+        "Ich möchte mich anmelden.",
+        "Leider ist der Artikel defekt.",
+        "Vielen Dank für die Einladung.",
+        "Ich möchte den Termin absagen."
+      ],
+      "answer": 1,
+      "hint": "Reklamation = Problem + Defekt"
+    },
+    {
+      "question": "Was kann man in einer Reklamation verlangen?",
+      "options": [
+        "Einladung zur Party",
+        "Einen Ersatzartikel",
+        "Einen Urlaub",
+        "Einen neuen Termin"
+      ],
+      "answer": 1,
+      "hint": "Ersatzartikel ist typisch."
+    }
+  ],
+
+  "writingExercise": {
+    "instruction_de": "Schreiben Sie eine Reklamation über ein defektes Produkt (110–130 Wörter). Beschreiben Sie das Problem und sagen Sie, was Sie möchten.",
+    "instruction_uk": "Напишіть рекламацію щодо несправного товару (110–130 слів). Опишіть проблему та вкажіть, що саме ви хочете отримати.",
+    "keywords": ["Reklamation", "Artikel", "defekt", "Rückerstattung", "Ersatz"],
+    "exampleAnswer": "Sehr geehrte Damen und Herren,\n\nich habe bei Ihnen ein Produkt bestellt, das leider defekt angekommen ist. Das Gerät funktioniert nicht richtig, und außerdem fehlt ein Teil. Ich möchte den Artikel zurückgeben und bitte um eine Rückerstattung oder einen Ersatzartikel.\n\nMit freundlichen Grüßen\nAbbas",
+    "feedbackHints": [
+      "Почніть з інформації про покупку.",
+      "Опишіть проблему чітко.",
+      "Попросіть рішення.",
+      "Закінчіть формально."
+    ]
+  }
+}
+  ]
+}

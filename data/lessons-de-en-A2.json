@@ -1,0 +1,706 @@
+{
+  "level": "A2",
+  "title": "A2 Lessons",
+  "lessons": [
+
+    {
+  "id": "A2_Lesson_Health_Doctor",
+  "title": {
+    "de": "Gesundheit und Arzt",
+    "en": "Health and the doctor"
+  },
+  "interactiveScene": "You wake up and your head is pounding like a drum in a rock concert 🎸. You say to yourself: Ich glaube, ich bin krank. At the clinic, the doctor smiles and asks: Na, was fehlt Ihnen? (So, what's wrong with you?)",
+  "explanation": [
+    { "de": "der Kopf – die Kopfschmerzen", "en": "the head – headache" },
+    { "de": "der Hals – die Halsschmerzen", "en": "the throat – sore throat" },
+    { "de": "der Bauch – die Bauchschmerzen", "en": "the stomach – stomachache" },
+    { "de": "die Grippe", "en": "the flu" },
+    { "de": "das Fieber", "en": "fever" },
+    { "de": "der Husten", "en": "cough" },
+    { "de": "die Tablette / die Medizin", "en": "tablet / medicine" },
+    { "de": "die Praxis", "en": "doctor’s office / clinic" }
+  ],
+  "phrasesTable": [
+    { "de": "Ich habe Kopfschmerzen.", "en": "I have a headache.", "note": "" },
+    { "de": "Ich habe seit zwei Tagen Fieber.", "en": "I’ve had fever for two days.", "note": "seit + time duration" },
+    { "de": "Mir ist schlecht.", "en": "I feel nauseous.", "note": "" },
+    { "de": "Ich brauche einen Termin beim Arzt.", "en": "I need an appointment with the doctor.", "note": "" },
+    { "de": "Nehmen Sie diese Tabletten dreimal täglich.", "en": "Take these tablets three times a day.", "note": "Doctor’s instruction" }
+  ],
+  "tip": "Many pain-related words in German are formed as: body part + Schmerzen. Examples: Kopf + Schmerzen → Kopfschmerzen. Bauch + Schmerzen → Bauchschmerzen.",
+  "dialogue": [
+    {
+      "speaker": "👩‍⚕️",
+      "de": "Guten Tag, was fehlt Ihnen?",
+      "en": "Hello, what seems to be the problem?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich habe seit zwei Tagen Halsschmerzen und Fieber.",
+      "en": "I’ve had a sore throat and fever for two days."
+    },
+    {
+      "speaker": "👩‍⚕️",
+      "de": "Sie bekommen ein Rezept und müssen viel Wasser trinken.",
+      "en": "You will get a prescription and need to drink plenty of water."
+    },
+    {
+      "speaker": "👨",
+      "de": "Und darf ich auch Schokolade essen? 🍫",
+      "en": "And may I also eat chocolate? 🍫"
+    }
+  ],
+  "summary": [
+    { "de": "Ich habe Kopfschmerzen / Bauchschmerzen / Halsschmerzen.", "en": "I have a headache / stomachache / sore throat." },
+    { "de": "Ich brauche einen Termin beim Arzt.", "en": "I need an appointment with the doctor." },
+    { "de": "Was fehlt Ihnen?", "en": "What seems to be the problem? (formal)" }
+  ],
+  "quiz": [
+    {
+      "question": "How do you say: I have a headache?",
+      "options": [
+        "Ich habe Kopfschmerzen.",
+        "Ich bin Kopf.",
+        "Ich habe Kopf heiß."
+      ],
+      "answer": 0,
+      "hint": "Use the full word: Kopfschmerzen."
+    },
+    {
+      "question": "Grippe means:",
+      "options": [
+        "mild cold",
+        "flu",
+        "light headache"
+      ],
+      "answer": 1,
+      "hint": "Often needs rest or a doctor."
+    },
+    {
+      "question": "A correct sentence at the doctor's:",
+      "options": [
+        "Mir ist schlecht.",
+        "Ich bin Sofa.",
+        "Ich mache Haus."
+      ],
+      "answer": 0,
+      "hint": "Think physical feeling."
+    },
+    {
+      "question": "How do you say: I need an appointment?",
+      "options": [
+        "Ich brauche einen Termin.",
+        "Ich bin Termin.",
+        "Ich mache Arzt."
+      ],
+      "answer": 0,
+      "hint": "Termin = appointment."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Lesson_Weather",
+  "title": {
+    "de": "Wetter und Jahreszeiten",
+    "en": "Weather and Seasons"
+  },
+  "interactiveScene": "You walk outside and experience all four seasons in one hour: sun, rain, wind, and a rainbow. You laugh and say: 'Heute spielt das Wetter verrückt!' — Today the weather is acting crazy!",
+  "explanation": [
+    { "de": "die Sonne → sonnig", "en": "the sun → sunny" },
+    { "de": "der Regen → regnerisch", "en": "the rain → rainy" },
+    { "de": "der Wind → windig", "en": "the wind → windy" },
+    { "de": "die Wolke → bewölkt", "en": "the cloud → cloudy" },
+    { "de": "der Schnee → es schneit", "en": "the snow → it is snowing" },
+    { "de": "das Gewitter", "en": "thunderstorm" },
+    { "de": "heiß / warm / kühl / kalt", "en": "hot / warm / cool / cold" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Es ist sonnig.",
+      "en": "It is sunny.",
+      "note": ""
+    },
+    {
+      "de": "Es ist bewölkt und windig.",
+      "en": "It is cloudy and windy.",
+      "note": ""
+    },
+    {
+      "de": "Es regnet den ganzen Tag.",
+      "en": "It is raining all day.",
+      "note": ""
+    },
+    {
+      "de": "Im Sommer ist es heiß.",
+      "en": "In summer it is hot.",
+      "note": ""
+    },
+    {
+      "de": "Im Winter schneit es.",
+      "en": "In winter it snows.",
+      "note": ""
+    }
+  ],
+  "tip": "German weather sentences often start with 'Es ist ...' (It is ...). The seasons are: der Frühling (spring), der Sommer (summer), der Herbst (autumn), der Winter (winter).",
+  "dialogue": [
+    {
+      "speaker": "🌦️",
+      "de": "Wie ist das Wetter heute?",
+      "en": "How is the weather today?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Es ist kühl und windig.",
+      "en": "It is cool and windy."
+    },
+    {
+      "speaker": "🌦️",
+      "de": "Und morgen?",
+      "en": "And tomorrow?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Morgen wird es warm.",
+      "en": "Tomorrow it will be warm."
+    }
+  ],
+  "summary": [
+    { "de": "sonnig / bewölkt / windig", "en": "sunny / cloudy / windy" },
+    { "de": "heiß / warm / kühl / kalt", "en": "hot / warm / cool / cold" },
+    { "de": "Es regnet / Es schneit", "en": "It is raining / It is snowing" },
+    { "de": "Im Sommer / Im Winter", "en": "In summer / In winter" }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'windig' mean?",
+      "options": ["sunny", "windy", "cool"],
+      "answer": 1,
+      "hint": "Sounds like 'wind'."
+    },
+    {
+      "question": "Wolke means:",
+      "options": ["sun", "cloud", "snow"],
+      "answer": 1,
+      "hint": "bewölkt = cloudy."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Es regnet.",
+        "Es ist Regen.",
+        "Es macht Regen."
+      ],
+      "answer": 0,
+      "hint": "Use the verb 'regnet'."
+    },
+    {
+      "question": "How do you say: 'In winter it is cold'?",
+      "options": [
+        "Im Winter ist es kalt.",
+        "Winter kalt ist.",
+        "Es Winter kalt ist."
+      ],
+      "answer": 0,
+      "hint": "Use the 'Im + season' structure."
+    }
+  ]
+}
+
+,
+{
+  "id": "A2_Lesson_Transport_Directions",
+  "title": {
+    "de": "Verkehr und Richtungen",
+    "en": "Transport and Directions"
+  },
+  "interactiveScene": "You are standing in a big German city and looking at a confusing map 🗺️. A friendly passerby asks: 'Kann ich Ihnen helfen?' — Can I help you? You answer shyly: 'Wie komme ich zum Bahnhof?' He smiles and points the way: 'Geradeaus und dann links!' — Straight ahead and then left!",
+  "explanation": [
+    { "de": "der Bus", "en": "bus" },
+    { "de": "die U-Bahn", "en": "subway / metro" },
+    { "de": "die S-Bahn", "en": "city train" },
+    { "de": "der Zug", "en": "train" },
+    { "de": "die Straße", "en": "street" },
+    { "de": "die Kreuzung", "en": "intersection" },
+    { "de": "rechts", "en": "right" },
+    { "de": "links", "en": "left" },
+    { "de": "geradeaus", "en": "straight ahead" },
+    { "de": "die Bushaltestelle", "en": "bus stop" },
+    { "de": "der Bahnhof", "en": "train station" },
+    { "de": "Wie komme ich zum ...?", "en": "How do I get to ...?" },
+    { "de": "Ich suche ...", "en": "I am looking for ..." }
+  ],
+  "phrasesTable": [
+    { "de": "Wie komme ich zum Bahnhof?", "en": "How do I get to the train station?", "note": "" },
+    { "de": "Gehen Sie geradeaus.", "en": "Go straight ahead.", "note": "" },
+    { "de": "Dann links.", "en": "Then left.", "note": "" },
+    { "de": "Ich suche die Bushaltestelle.", "en": "I am looking for the bus stop.", "note": "" },
+    { "de": "Der Bus kommt um 10 Uhr.", "en": "The bus arrives at 10 o’clock.", "note": "" },
+    { "de": "Wo ist die U-Bahn?", "en": "Where is the subway?", "note": "" }
+  ],
+  "tip": "To ask for directions, start with: Wie komme ich zum/zur ...? Use 'zum' for masculine/neuter nouns and 'zur' for feminine. Direction words are essential: rechts (right), links (left), geradeaus (straight ahead).",
+  "dialogue": [
+    {
+      "speaker": "🚶‍♀️",
+      "de": "Entschuldigung, wie komme ich zum Zentrum?",
+      "en": "Excuse me, how do I get to the city center?"
+    },
+    {
+      "speaker": "🚶‍♂️",
+      "de": "Geradeaus und an der Kreuzung rechts.",
+      "en": "Straight ahead and at the intersection turn right."
+    },
+    {
+      "speaker": "🚶‍♀️",
+      "de": "Danke schön!",
+      "en": "Thank you very much!"
+    }
+  ],
+  "summary": [
+    { "de": "rechts / links / geradeaus", "en": "right / left / straight ahead" },
+    { "de": "Wie komme ich zum ...?", "en": "How do I get to ...?" },
+    { "de": "Ich suche ...", "en": "I am looking for ..." },
+    { "de": "die U-Bahn / die S-Bahn", "en": "subway / city train" }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'geradeaus' mean?",
+      "options": ["left", "straight ahead", "right"],
+      "answer": 1,
+      "hint": "Think: walk forward."
+    },
+    {
+      "question": "Kreuzung means:",
+      "options": ["corner", "intersection", "bridge"],
+      "answer": 1,
+      "hint": "Where streets cross."
+    },
+    {
+      "question": "Correct question for directions:",
+      "options": [
+        "Wie komme ich zum Zentrum?",
+        "Wo Zentrum ich komme?",
+        "Ich komme Zentrum, oder?"
+      ],
+      "answer": 0,
+      "hint": "Use Wie komme ich ..."
+    },
+    {
+      "question": "Bushaltestelle is:",
+      "options": ["train station", "bus stop", "bike parking"],
+      "answer": 1,
+      "hint": "Bus is inside the word itself."
+    }
+
+    ]
+}
+,
+{
+  "id": "A2_Lesson_Travel",
+  "title": {
+    "de": "Reisen und Zug",
+    "en": "Travel and Trains"
+  },
+  "interactiveScene": "You are at the train station. The loudspeaker announces something quickly: “ICE, Gleis 5, Verspätung…”. You try to stay calm, but your eyes are scanning for platform 5 like it's a video game mission 🎮.",
+  "explanation": [
+    { "de": "die Fahrkarte / das Ticket", "en": "the train ticket" },
+    { "de": "Hin- und Rückfahrt", "en": "round trip" },
+    { "de": "einfach", "en": "one-way" },
+    { "de": "der Fahrplan", "en": "timetable" },
+    { "de": "das Gleis", "en": "platform / track" },
+    { "de": "der Zug / der ICE", "en": "the train / the high-speed train" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich möchte eine Fahrkarte nach Berlin.",
+      "en": "I would like a ticket to Berlin.",
+      "note": ""
+    },
+    {
+      "de": "Einfach oder Hin- und Rückfahrt?",
+      "en": "One-way or round trip?",
+      "note": ""
+    },
+    {
+      "de": "Der Zug kommt um 14:20.",
+      "en": "The train arrives at 14:20.",
+      "note": ""
+    },
+    {
+      "de": "Das Gleis ist Nummer 5.",
+      "en": "The platform is number 5.",
+      "note": ""
+    },
+    {
+      "de": "Muss ich umsteigen?",
+      "en": "Do I need to change trains?",
+      "note": ""
+    }
+  ],
+  "tip": "At German train stations you will always see the word 'Gleis' — this means the platform. To politely ask for a ticket, you say: Ich möchte ...",
+  "dialogue": [
+    {
+      "speaker": "👩‍💼",
+      "de": "Wohin möchten Sie fahren?",
+      "en": "Where would you like to go?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Nach München, bitte. Einfach.",
+      "en": "To Munich, please. One-way."
+    },
+    {
+      "speaker": "👩‍💼",
+      "de": "Der Zug fährt von Gleis 4.",
+      "en": "The train departs from platform 4."
+    }
+  ],
+  "summary": [
+    { "de": "einfach / Hin- und Rückfahrt", "en": "one-way / round trip" },
+    { "de": "Gleis 5", "en": "platform 5" },
+    { "de": "Muss ich umsteigen?", "en": "Do I need to change trains?" }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'Gleis' mean?",
+      "options": ["train door", "platform / track", "train seat"],
+      "answer": 1,
+      "hint": "Shown on departure screens."
+    },
+    {
+      "question": "Hin- und Rückfahrt means:",
+      "options": ["one-way", "return only", "round trip"],
+      "answer": 2,
+      "hint": "Two directions: there and back."
+    },
+    {
+      "question": "Choose the polite sentence:",
+      "options": [
+        "Ich möchte eine Fahrkarte.",
+        "Ich mache Fahrkarte Berlin.",
+        "Ich will Berlin Karte."
+      ],
+      "answer": 0,
+      "hint": "Polite forms start with: Ich möchte ..."
+    },
+    {
+      "question": "A logical question at the train station:",
+      "options": [
+        "Muss ich umsteigen?",
+        "Wie alt bist du?",
+        "Wo ist der Arzt?"
+      ],
+      "answer": 0,
+      "hint": "Related to changing trains."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Lesson_Work",
+  "title": {
+    "de": "Arbeit und Beruf",
+    "en": "Work and Profession"
+  },
+  "interactiveScene": "You are at a small gathering and everyone is asking the same question: „Und, was machen Sie beruflich?“ — And what do you do for a living? You suddenly feel like you're in a mini job interview 😅.",
+  "explanation": [
+    { "de": "der Beruf", "en": "profession / job" },
+    { "de": "die Firma", "en": "company / firm" },
+    { "de": "der Kollege / die Kollegin", "en": "colleague (male) / colleague (female)" },
+    { "de": "Vollzeit / Teilzeit", "en": "full-time / part-time" },
+    { "de": "Ich arbeite als ...", "en": "I work as ..." },
+    { "de": "Ich bin arbeitslos.", "en": "I am unemployed." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Was machen Sie beruflich?",
+      "en": "What do you do for a living?",
+      "note": "Formal question"
+    },
+    {
+      "de": "Ich arbeite als Verkäufer.",
+      "en": "I work as a salesperson.",
+      "note": ""
+    },
+    {
+      "de": "Ich habe viele Kollegen.",
+      "en": "I have many colleagues.",
+      "note": ""
+    },
+    {
+      "de": "Ich suche eine Arbeit.",
+      "en": "I am looking for a job.",
+      "note": ""
+    },
+    {
+      "de": "Ich bin arbeitslos.",
+      "en": "I am unemployed.",
+      "note": ""
+    }
+  ],
+  "tip": "In German, when talking about your profession, you use the structure: Ich arbeite als + profession. Example: Ich arbeite als Lehrer (I work as a teacher).",
+  "dialogue": [
+    {
+      "speaker": "👩‍💼",
+      "de": "Was machen Sie beruflich?",
+      "en": "What do you do for a living?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ich arbeite als Ingenieur.",
+      "en": "I work as an engineer."
+    },
+    {
+      "speaker": "👩‍💼",
+      "de": "Arbeiten Sie Vollzeit?",
+      "en": "Do you work full-time?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Nein, Teilzeit.",
+      "en": "No, part-time."
+    }
+  ],
+  "summary": [
+    { "de": "der Beruf", "en": "profession" },
+    { "de": "Ich arbeite als ...", "en": "I work as ..." },
+    { "de": "Vollzeit / Teilzeit", "en": "full-time / part-time" }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'Ich arbeite als…' mean?",
+      "options": [
+        "I live as…",
+        "I work as…",
+        "I eat as…"
+      ],
+      "answer": 1,
+      "hint": "Used before stating your profession."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Ich arbeite als Ingenieur.",
+        "Ich mache Ingenieur.",
+        "Ich bin Arbeit Ingenieur."
+      ],
+      "answer": 0,
+      "hint": "Correct structure uses 'als'."
+    },
+    {
+      "question": "‘Beruf’ means:",
+      "options": ["hobby", "profession", "family"],
+      "answer": 1,
+      "hint": "It describes what you work as."
+    },
+    {
+      "question": "‘Kollegen’ are:",
+      "options": ["neighbors", "teachers", "colleagues"],
+      "answer": 2,
+      "hint": "People who work with you."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Lesson_Home",
+  "title": {
+    "de": "Wohnen und Zuhause",
+    "en": "Home and Living"
+  },
+  "interactiveScene": "You are looking for an apartment online and find a listing that says: 'Helle, möblierte Wohnung, zentral gelegen.' — Bright, furnished apartment in a central location. You immediately feel like this apartment is better than your entire current life 😅.",
+  "explanation": [
+    { "de": "die Wohnung", "en": "apartment" },
+    { "de": "das Zimmer", "en": "room" },
+    { "de": "das Wohnzimmer / Schlafzimmer", "en": "living room / bedroom" },
+    { "de": "die Küche / das Bad", "en": "kitchen / bathroom" },
+    { "de": "der Balkon", "en": "balcony" },
+    { "de": "die Miete", "en": "rent (monthly payment)" },
+    { "de": "möbliert / unmöbliert", "en": "furnished / unfurnished" }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Ich habe eine kleine Wohnung.",
+      "en": "I have a small apartment.",
+      "note": ""
+    },
+    {
+      "de": "Die Wohnung ist im dritten Stock.",
+      "en": "The apartment is on the third floor.",
+      "note": ""
+    },
+    {
+      "de": "Die Wohnung ist möbliert.",
+      "en": "The apartment is furnished.",
+      "note": ""
+    },
+    {
+      "de": "Die Miete ist teuer.",
+      "en": "The rent is expensive.",
+      "note": ""
+    }
+  ],
+  "tip": "To describe an apartment in German, use: Die Wohnung ist ... (The apartment is ...). To mention floors, use: im ersten / zweiten / dritten Stock (on the first / second / third floor).",
+  "dialogue": [
+    {
+      "speaker": "👩‍💼",
+      "de": "Ist die Wohnung möbliert?",
+      "en": "Is the apartment furnished?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Ja, sie ist komplett möbliert.",
+      "en": "Yes, it is fully furnished."
+    },
+    {
+      "speaker": "👩‍💼",
+      "de": "Wie hoch ist die Miete?",
+      "en": "How much is the rent?"
+    },
+    {
+      "speaker": "👨",
+      "de": "Die Miete ist 700 Euro.",
+      "en": "The rent is 700 euros."
+    }
+  ],
+  "summary": [
+    { "de": "die Wohnung", "en": "apartment" },
+    { "de": "möbliert / unmöbliert", "en": "furnished / unfurnished" },
+    { "de": "im dritten Stock", "en": "on the third floor" }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'möbliert' mean?",
+      "options": ["without furniture", "furnished", "old"],
+      "answer": 1,
+      "hint": "Think: Möbel = furniture."
+    },
+    {
+      "question": "Miete refers to:",
+      "options": ["price of the apartment", "monthly rent", "price of furniture"],
+      "answer": 1,
+      "hint": "It is the monthly payment."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Die Wohnung ist im dritten Stock.",
+        "Die Wohnung im dritten Stock ist.",
+        "Im Stock dritten die Wohnung ist."
+      ],
+      "answer": 0,
+      "hint": "Correct structure: ist im dritten Stock."
+    },
+    {
+      "question": "What does 'Das Zimmer' mean?",
+      "options": ["floor", "room", "rent"],
+      "answer": 1,
+      "hint": "One part of an apartment."
+    }
+  ]
+}
+,
+{
+  "id": "A2_Lesson_Shopping",
+  "title": {
+    "de": "Einkaufen und Kaufen",
+    "en": "Shopping and Buying"
+  },
+  "interactiveScene": "You walk into a supermarket and see a huge bright sign: 'Angebote der Woche!' — Deals of the week! Your eyes immediately start scanning for something cheap 😅.",
+  "explanation": [
+    { "de": "der Supermarkt", "en": "supermarket" },
+    { "de": "die Kasse", "en": "cash register / checkout" },
+    { "de": "der Verkäufer / die Verkäuferin", "en": "salesman / saleswoman" },
+    { "de": "der Preis", "en": "price" },
+    { "de": "billig / teuer", "en": "cheap / expensive" },
+    { "de": "das Angebot", "en": "special offer / deal" },
+    { "de": "Ich möchte ...", "en": "I would like ..." }
+  ],
+  "phrasesTable": [
+    {
+      "de": "Wie viel kostet das?",
+      "en": "How much does this cost?",
+      "note": ""
+    },
+    {
+      "de": "Das ist zu teuer.",
+      "en": "This is too expensive.",
+      "note": ""
+    },
+    {
+      "de": "Haben Sie ein Angebot?",
+      "en": "Do you have any offers?",
+      "note": ""
+    },
+    {
+      "de": "Ich nehme zwei Stück.",
+      "en": "I'll take two pieces.",
+      "note": ""
+    },
+    {
+      "de": "Ich bezahle an der Kasse.",
+      "en": "I'll pay at the checkout.",
+      "note": ""
+    }
+  ],
+  "tip": "To politely ask for something in German, start with 'Ich möchte ...' (I would like ...). To ask for the price, use: 'Wie viel kostet das?'",
+  "dialogue": [
+    {
+      "speaker": "🛒",
+      "de": "Entschuldigung, wie viel kostet das?",
+      "en": "Excuse me, how much does this cost?"
+    },
+    {
+      "speaker": "👩‍🛍️",
+      "de": "Das kostet 3 Euro.",
+      "en": "It costs 3 euros."
+    },
+    {
+      "speaker": "🛒",
+      "de": "Haben Sie ein Angebot?",
+      "en": "Do you have any offers?"
+    },
+    {
+      "speaker": "👩‍🛍️",
+      "de": "Ja, heute ist es billiger.",
+      "en": "Yes, today it's cheaper."
+    }
+  ],
+  "summary": [
+    { "de": "billig / teuer", "en": "cheap / expensive" },
+    { "de": "Wie viel kostet das?", "en": "How much does this cost?" },
+    { "de": "Ich nehme zwei Stück.", "en": "I’ll take two pieces." }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'billig' mean?",
+      "options": ["expensive", "cheap", "tasty"],
+      "answer": 1,
+      "hint": "Opposite of 'teuer'."
+    },
+    {
+      "question": "Which sentence correctly asks for the price?",
+      "options": [
+        "Wie viel kostet das?",
+        "Wie machen kostet?",
+        "Kostet wie das?"
+      ],
+      "answer": 0,
+      "hint": "This is the standard phrase."
+    },
+    {
+      "question": "‘Angebot’ means:",
+      "options": ["return", "special offer", "receipt"],
+      "answer": 1,
+      "hint": "Seen often as: Wochenangebot."
+    },
+    {
+      "question": "‘Stück’ means:",
+      "options": ["kilogram", "piece", "box"],
+      "answer": 1,
+      "hint": "Used for small items."
+    }
+  ]
+}
+
+  ]}

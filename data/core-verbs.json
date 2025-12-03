@@ -1,0 +1,1154 @@
+{
+  "verbs": [
+    {
+      "id": "V001",
+      "de": "sein",
+      "translations": {
+        "ar": "يكون",
+        "en": "to be",
+        "tr": "olmak",
+        "ru": "быть",
+        "uk": "бути",
+        "fa": "بودن",
+        "af": "بودن"
+      },
+      "examples": {
+        "de": "Ich bin müde.",
+        "ar": "أنا متعب.",
+        "en": "I am tired.",
+        "tr": "Yorgunum.",
+        "ru": "Я устал.",
+        "uk": "Я втомився.",
+        "fa": "من خسته هستم.",
+        "af": "من خسته هستم."
+      }
+    },
+    {
+      "id": "V002",
+      "de": "haben",
+      "translations": {
+        "ar": "يملك",
+        "en": "to have",
+        "tr": "sahip olmak",
+        "ru": "иметь",
+        "uk": "мати",
+        "fa": "داشتن",
+        "af": "داشتن"
+      },
+      "examples": {
+        "de": "Ich habe Zeit.",
+        "ar": "لدي وقت.",
+        "en": "I have time.",
+        "tr": "Vaktim var.",
+        "ru": "У меня есть время.",
+        "uk": "У мене є час.",
+        "fa": "من وقت دارم.",
+        "af": "من وقت دارم."
+      }
+    },
+    {
+      "id": "V003",
+      "de": "werden",
+      "translations": {
+        "ar": "يصبح",
+        "en": "to become",
+        "tr": "olmak",
+        "ru": "становиться",
+        "uk": "ставати",
+        "fa": "شدن",
+        "af": "شدن"
+      },
+      "examples": {
+        "de": "Es wird kalt.",
+        "ar": "يصبح الجو بارداً.",
+        "en": "It is getting cold.",
+        "tr": "Hava soğuyor.",
+        "ru": "Становится холодно.",
+        "uk": "Стає холодно.",
+        "fa": "هوا سرد می شود.",
+        "af": "هوا سرد می شود."
+      }
+    },
+    {
+      "id": "V004",
+      "de": "machen",
+      "translations": {
+        "ar": "يفعل",
+        "en": "to do",
+        "tr": "yapmak",
+        "ru": "делать",
+        "uk": "робити",
+        "fa": "انجام دادن",
+        "af": "انجام دادن"
+      },
+      "examples": {
+        "de": "Ich mache meine Hausaufgaben.",
+        "ar": "أقوم بواجباتي المنزلية.",
+        "en": "I do my homework.",
+        "tr": "Ödevimi yapıyorum.",
+        "ru": "Я делаю домашнее задание.",
+        "uk": "Я роблю домашнє завдання.",
+        "fa": "من مشق هایم را انجام می دهم.",
+        "af": "من مشق هایم را انجام می دهم."
+      }
+    },
+    {
+      "id": "V005",
+      "de": "gehen",
+      "translations": {
+        "ar": "يذهب",
+        "en": "to go",
+        "tr": "gitmek",
+        "ru": "идти",
+        "uk": "йти",
+        "fa": "رفتن",
+        "af": "رفتن"
+      },
+      "examples": {
+        "de": "Ich gehe zur Arbeit.",
+        "ar": "أذهب إلى العمل.",
+        "en": "I go to work.",
+        "tr": "İşe gidiyorum.",
+        "ru": "Я иду на работу.",
+        "uk": "Я йду на роботу.",
+        "fa": "من به سر کار می روم.",
+        "af": "من به سر کار می روم."
+      }
+    },
+    {
+      "id": "V006",
+      "de": "kommen",
+      "translations": {
+        "ar": "يأتي",
+        "en": "to come",
+        "tr": "gelmek",
+        "ru": "приходить",
+        "uk": "приходити",
+        "fa": "آمدن",
+        "af": "آمدن"
+      },
+      "examples": {
+        "de": "Kommst du morgen?",
+        "ar": "هل ستأتي غداً؟",
+        "en": "Are you coming tomorrow?",
+        "tr": "Yarın geliyor musun?",
+        "ru": "Ты придешь завтра?",
+        "uk": "Ти прийдеш завтра?",
+        "fa": "آیا فردا می آیی؟",
+        "af": "آیا فردا می آیی؟"
+      }
+    },
+    {
+      "id": "V007",
+      "de": "sehen",
+      "translations": {
+        "ar": "يرى",
+        "en": "to see",
+        "tr": "görmek",
+        "ru": "видеть",
+        "uk": "бачити",
+        "fa": "دیدن",
+        "af": "دیدن"
+      },
+      "examples": {
+        "de": "Ich sehe den Bus.",
+        "ar": "أرى الحافلة.",
+        "en": "I see the bus.",
+        "tr": "Otobüsü görüyorum.",
+        "ru": "Я вижу автобус.",
+        "uk": "Я бачу автобус.",
+        "fa": "من اتوبوس را می بینم.",
+        "af": "من اتوبوس را می بینم."
+      }
+    },
+    {
+      "id": "V008",
+      "de": "geben",
+      "translations": {
+        "ar": "يعطي",
+        "en": "to give",
+        "tr": "vermek",
+        "ru": "давать",
+        "uk": "давати",
+        "fa": "دادن",
+        "af": "دادن"
+      },
+      "examples": {
+        "de": "Er gibt mir ein Buch.",
+        "ar": "هو يعطيني كتاباً.",
+        "en": "He gives me a book.",
+        "tr": "Bana bir kitap veriyor.",
+        "ru": "Он дает мне книгу.",
+        "uk": "Він дає мені книгу.",
+        "fa": "او به من یک کتاب می دهد.",
+        "af": "او به من یک کتاب می دهد."
+      }
+    },
+    {
+      "id": "V009",
+      "de": "nehmen",
+      "translations": {
+        "ar": "يأخذ",
+        "en": "to take",
+        "tr": "almak",
+        "ru": "брать",
+        "uk": "брати",
+        "fa": "گرفتن",
+        "af": "گرفتن"
+      },
+      "examples": {
+        "de": "Ich nehme den Zug.",
+        "ar": "أستقل القطار.",
+        "en": "I take the train.",
+        "tr": "Trene biniyorum.",
+        "ru": "Я сажусь на поезд.",
+        "uk": "Я сідаю на поїзд.",
+        "fa": "من سوار قطار می شوم.",
+        "af": "من سوار قطار می شوم."
+      }
+    },
+    {
+      "id": "V010",
+      "de": "finden",
+      "translations": {
+        "ar": "يجد",
+        "en": "to find",
+        "tr": "bulmak",
+        "ru": "находить",
+        "uk": "знаходити",
+        "fa": "پیدا کردن",
+        "af": "پیدا کردن"
+      },
+      "examples": {
+        "de": "Ich finde den Schlüssel nicht.",
+        "ar": "لا أجد المفتاح.",
+        "en": "I cannot find the key.",
+        "tr": "Anahtarı bulamıyorum.",
+        "ru": "Я не могу найти ключ.",
+        "uk": "Я не можу знайти ключ.",
+        "fa": "نمی توانم کلید را پیدا کنم.",
+        "af": "نمی توانم کلید را پیدا کنم."
+      }
+    },
+    {
+      "id": "V011",
+      "de": "bleiben",
+      "translations": {
+        "ar": "يبقى",
+        "en": "to stay",
+        "tr": "kalmak",
+        "ru": "оставаться",
+        "uk": "залишатися",
+        "fa": "ماندن",
+        "af": "ماندن"
+      },
+      "examples": {
+        "de": "Ich bleibe zu Hause.",
+        "ar": "أبقى في المنزل.",
+        "en": "I stay at home.",
+        "tr": "Evde kalıyorum.",
+        "ru": "Я остаюсь дома.",
+        "uk": "Я залишаюся вдома.",
+        "fa": "من در خانه می مانم.",
+        "af": "من در خانه می مانم."
+      }
+    },
+    {
+      "id": "V012",
+      "de": "denken",
+      "translations": {
+        "ar": "يفكر",
+        "en": "to think",
+        "tr": "düşünmek",
+        "ru": "думать",
+        "uk": "думати",
+        "fa": "فکر کردن",
+        "af": "فکر کردن"
+      },
+      "examples": {
+        "de": "Ich denke an dich.",
+        "ar": "أفكر بك.",
+        "en": "I think of you.",
+        "tr": "Seni düşünüyorum.",
+        "ru": "Я думаю о тебе.",
+        "uk": "Я думаю про тебе.",
+        "fa": "به تو فکر می کنم.",
+        "af": "به تو فکر می کنم."
+      }
+    },
+    {
+      "id": "V013",
+      "de": "glauben",
+      "translations": {
+        "ar": "يعتقد",
+        "en": "to believe",
+        "tr": "inanmak",
+        "ru": "верить",
+        "uk": "вірити",
+        "fa": "باور داشتن",
+        "af": "باور داشتن"
+      },
+      "examples": {
+        "de": "Ich glaube dir.",
+        "ar": "أنا أصدقك.",
+        "en": "I believe you.",
+        "tr": "Sana inanıyorum.",
+        "ru": "Я верю тебе.",
+        "uk": "Я вірю тобі.",
+        "fa": "من تو را باور دارم.",
+        "af": "من تو را باور دارم."
+      }
+    },
+    {
+      "id": "V014",
+      "de": "wollen",
+      "translations": {
+        "ar": "يريد",
+        "en": "to want",
+        "tr": "istemek",
+        "ru": "хотеть",
+        "uk": "хотіти",
+        "fa": "خواستن",
+        "af": "خواستن"
+      },
+      "examples": {
+        "de": "Ich will schlafen.",
+        "ar": "أريد أن أنام.",
+        "en": "I want to sleep.",
+        "tr": "Uyumak istiyorum.",
+        "ru": "Я хочу спать.",
+        "uk": "Я хочу спати.",
+        "fa": "می خواهم بخوابم.",
+        "af": "می خواهم بخوابم."
+      }
+    },
+    {
+      "id": "V015",
+      "de": "müssen",
+      "translations": {
+        "ar": "يجب أن",
+        "en": "must",
+        "tr": "zorunda olmak",
+        "ru": "быть должным",
+        "uk": "повинен",
+        "fa": "باید",
+        "af": "باید"
+      },
+      "examples": {
+        "de": "Ich muss lernen.",
+        "ar": "يجب أن أدرس.",
+        "en": "I must study.",
+        "tr": "Ders çalışmalıyım.",
+        "ru": "Я должен учиться.",
+        "uk": "Я повинен вчитися.",
+        "fa": "باید درس بخوانم.",
+        "af": "باید درس بخوانم."
+      }
+    },
+    {
+      "id": "V016",
+      "de": "dürfen",
+      "translations": {
+        "ar": "يُسمح له",
+        "en": "may, to be allowed",
+        "tr": "izinli olmak",
+        "ru": "иметь разрешение",
+        "uk": "мати дозвіл",
+        "fa": "اجازه داشتن",
+        "af": "اجازه داشتن"
+      },
+      "examples": {
+        "de": "Du darfst hier parken.",
+        "ar": "يسمح لك بالوقوف هنا.",
+        "en": "You may park here.",
+        "tr": "Buraya park edebilirsin.",
+        "ru": "Ты можешь парковаться здесь.",
+        "uk": "Ти можеш паркуватися тут.",
+        "fa": "می توانی اینجا پارک کنی.",
+        "af": "می توانی اینجا پارک کنی."
+      }
+    },
+    {
+      "id": "V017",
+      "de": "sollen",
+      "translations": {
+        "ar": "من المفترض أن",
+        "en": "should",
+        "tr": "gerekmek",
+        "ru": "следует",
+        "uk": "слід",
+        "fa": "بایستی",
+        "af": "بایستی"
+      },
+      "examples": {
+        "de": "Ich soll mehr schlafen.",
+        "ar": "من المفترض أن أنام أكثر.",
+        "en": "I should sleep more.",
+        "tr": "Daha çok uyumalıyım.",
+        "ru": "Мне следует больше спать.",
+        "uk": "Мені слід більше спати.",
+        "fa": "باید بیشتر بخوابم.",
+        "af": "باید بیشتر بخوابم."
+      }
+    },
+    {
+      "id": "V018",
+      "de": "sagen",
+      "translations": {
+        "ar": "يقول",
+        "en": "to say",
+        "tr": "söylemek",
+        "ru": "говорить",
+        "uk": "казати",
+        "fa": "گفتن",
+        "af": "گفتن"
+      },
+      "examples": {
+        "de": "Er sagt die Wahrheit.",
+        "ar": "هو يقول الحقيقة.",
+        "en": "He tells the truth.",
+        "tr": "O gerçeği söylüyor.",
+        "ru": "Он говорит правду.",
+        "uk": "Він каже правду.",
+        "fa": "او حقیقت را می گوید.",
+        "af": "او حقیقت را می گوید."
+      }
+    },
+    {
+      "id": "V019",
+      "de": "sprechen",
+      "translations": {
+        "ar": "يتكلم",
+        "en": "to speak",
+        "tr": "konuşmak",
+        "ru": "говорить",
+        "uk": "говорити",
+        "fa": "صحبت کردن",
+        "af": "صحبت کردن"
+      },
+      "examples": {
+        "de": "Sie spricht gut Deutsch.",
+        "ar": "هي تتحدث الألمانية جيداً.",
+        "en": "She speaks German well.",
+        "tr": "O iyi Almanca konuşuyor.",
+        "ru": "Она хорошо говорит по-немецки.",
+        "uk": "Вона добре говорить німецькою.",
+        "fa": "او خوب آلمانی صحبت می کند.",
+        "af": "او خوب آلمانی صحبت می کند."
+      }
+    },
+    {
+      "id": "V020",
+      "de": "fragen",
+      "translations": {
+        "ar": "يسأل",
+        "en": "to ask",
+        "tr": "sormak",
+        "ru": "спрашивать",
+        "uk": "запитувати",
+        "fa": "پرسیدن",
+        "af": "پرسیدن"
+      },
+      "examples": {
+        "de": "Ich frage den Lehrer.",
+        "ar": "أسأل المعلم.",
+        "en": "I ask the teacher.",
+        "tr": "Öğretmene soru soruyorum.",
+        "ru": "Я спрашиваю учителя.",
+        "uk": "Я запитую вчителя.",
+        "fa": "از معلم سوال می پرسم.",
+        "af": "از معلم سوال می پرسم."
+      }
+    },
+    {
+      "id": "V021",
+      "de": "antworten",
+      "translations": {
+        "ar": "يجيب",
+        "en": "to answer",
+        "tr": "cevap vermek",
+        "ru": "отвечать",
+        "uk": "відповідати",
+        "fa": "جواب دادن",
+        "af": "جواب دادن"
+      },
+      "examples": {
+        "de": "Er antwortet schnell.",
+        "ar": "هو يجيب بسرعة.",
+        "en": "He answers quickly.",
+        "tr": "Hızlı cevap veriyor.",
+        "ru": "Он отвечает быстро.",
+        "uk": "Він швидко відповідає.",
+        "fa": "او سریع جواب می دهد.",
+        "af": "او سریع جواب می دهد."
+      }
+    },
+    {
+      "id": "V022",
+      "de": "arbeiten",
+      "translations": {
+        "ar": "يعمل",
+        "en": "to work",
+        "tr": "çalışmak",
+        "ru": "работать",
+        "uk": "працювати",
+        "fa": "کار کردن",
+        "af": "کار کردن"
+      },
+      "examples": {
+        "de": "Ich arbeite im Büro.",
+        "ar": "أعمل في مكتب.",
+        "en": "I work in an office.",
+        "tr": "Bir ofiste çalışıyorum.",
+        "ru": "Я работаю в офисе.",
+        "uk": "Я працюю в офісі.",
+        "fa": "من در یک دفتر کار می کنم.",
+        "af": "من در یک دفتر کار می کنم."
+      }
+    },
+    {
+      "id": "V023",
+      "de": "lernen",
+      "translations": {
+        "ar": "يتعلم",
+        "en": "to learn",
+        "tr": "öğrenmek",
+        "ru": "учиться",
+        "uk": "вчитися",
+        "fa": "یاد گرفتن",
+        "af": "یاد گرفتن"
+      },
+      "examples": {
+        "de": "Ich lerne Deutsch.",
+        "ar": "أتعلم الألمانية.",
+        "en": "I am learning German.",
+        "tr": "Almanca öğreniyorum.",
+        "ru": "Я учу немецкий.",
+        "uk": "Я вчу німецьку.",
+        "fa": "دارم آلمانی یاد می گیرم.",
+        "af": "دارم آلمانی یاد می گیرم."
+      }
+    },
+    {
+      "id": "V024",
+      "de": "leben",
+      "translations": {
+        "ar": "يعيش",
+        "en": "to live",
+        "tr": "yaşamak",
+        "ru": "жить",
+        "uk": "жити",
+        "fa": "زندگی کردن",
+        "af": "زندگی کردن"
+      },
+      "examples": {
+        "de": "Ich lebe in Deutschland.",
+        "ar": "أعيش في ألمانيا.",
+        "en": "I live in Germany.",
+        "tr": "Almanya'da yaşıyorum.",
+        "ru": "Я живу в Германии.",
+        "uk": "Я живу в Німеччині.",
+        "fa": "من در آلمان زندگی می کنم.",
+        "af": "من در آلمان زندگی می کنم."
+      }
+    },
+    {
+      "id": "V025",
+      "de": "wohnen",
+      "translations": {
+        "ar": "يسكن",
+        "en": "to reside",
+        "tr": "ikamet etmek",
+        "ru": "проживать",
+        "uk": "проживати",
+        "fa": "سکونت داشتن",
+        "af": "سکونت داشتن"
+      },
+      "examples": {
+        "de": "Ich wohne in einer Wohnung.",
+        "ar": "أسكن في شقّة.",
+        "en": "I live in an apartment.",
+        "tr": "Bir dairede oturuyorum.",
+        "ru": "Я живу в квартире.",
+        "uk": "Я живу в квартирі.",
+        "fa": "من در یک آپارتمان زندگی می کنم.",
+        "af": "من در یک آپارتمان زندگی می کنم."
+      }
+    },
+    {
+      "id": "V026",
+      "de": "spielen",
+      "translations": {
+        "ar": "يلعب",
+        "en": "to play",
+        "tr": "oynamak",
+        "ru": "играть",
+        "uk": "грати",
+        "fa": "بازی کردن",
+        "af": "بازی کردن"
+      },
+      "examples": {
+        "de": "Die Kinder spielen im Park.",
+        "ar": "الأطفال يلعبون في الحديقة.",
+        "en": "The children play in the park.",
+        "tr": "Çocuklar parkta oynuyor.",
+        "ru": "Дети играют в парке.",
+        "uk": "Діти грають у парку.",
+        "fa": "بچه ها در پارک بازی می کنند.",
+        "af": "بچه ها در پارک بازی می کنند."
+      }
+    },
+    {
+      "id": "V027",
+      "de": "essen",
+      "translations": {
+        "ar": "يأكل",
+        "en": "to eat",
+        "tr": "yemek yemek",
+        "ru": "есть",
+        "uk": "їсти",
+        "fa": "خوردن",
+        "af": "خوردن"
+      },
+      "examples": {
+        "de": "Wir essen zu Mittag.",
+        "ar": "نتناول الغداء.",
+        "en": "We eat lunch.",
+        "tr": "Öğle yemeği yiyoruz.",
+        "ru": "Мы обедаем.",
+        "uk": "Ми обідаємо.",
+        "fa": "ما ناهار می خوریم.",
+        "af": "ما ناهار می خوریم."
+      }
+    },
+    {
+      "id": "V028",
+      "de": "trinken",
+      "translations": {
+        "ar": "يشرب",
+        "en": "to drink",
+        "tr": "içmek",
+        "ru": "пить",
+        "uk": "пити",
+        "fa": "نوشیدن",
+        "af": "نوشیدن"
+      },
+      "examples": {
+        "de": "Ich trinke Kaffee.",
+        "ar": "أشرب القهوة.",
+        "en": "I drink coffee.",
+        "tr": "Kahve içiyorum.",
+        "ru": "Я пью кофе.",
+        "uk": "Я п'ю каву.",
+        "fa": "من قهوه می نوشم.",
+        "af": "من قهوه می نوشم."
+      }
+    },
+    {
+      "id": "V029",
+      "de": "fahren",
+      "translations": {
+        "ar": "يقود",
+        "en": "to drive",
+        "tr": "sürmek",
+        "ru": "водить",
+        "uk": "керувати",
+        "fa": "رانندگی کردن",
+        "af": "رانندگی کردن"
+      },
+      "examples": {
+        "de": "Ich fahre mit dem Auto.",
+        "ar": "أقود السيارة.",
+        "en": "I drive the car.",
+        "tr": "Arabayı sürüyorum.",
+        "ru": "Я вожу машину.",
+        "uk": "Я веду машину.",
+        "fa": "من ماشین را می رانم.",
+        "af": "من ماشین را می رانم."
+      }
+    },
+    {
+      "id": "V030",
+      "de": "bringen",
+      "translations": {
+        "ar": "يجلب",
+        "en": "to bring",
+        "tr": "getirmek",
+        "ru": "приносить",
+        "uk": "приносити",
+        "fa": "آوردن",
+        "af": "آوردن"
+      },
+      "examples": {
+        "de": "Kannst du mir Wasser bringen?",
+        "ar": "هل يمكنك أن تجلب لي ماء؟",
+        "en": "Can you bring me water?",
+        "tr": "Bana su getirebilir misin?",
+        "ru": "Можешь принести мне воды?",
+        "uk": "Можеш принести мені води?",
+        "fa": "می توانی برایم آب بیاوری؟",
+        "af": "می توانی برایم آب بیاوری؟"
+      }
+    },
+    {
+      "id": "V031",
+      "de": "kaufen",
+      "translations": {
+        "ar": "يشتري",
+        "en": "to buy",
+        "tr": "satın almak",
+        "ru": "покупать",
+        "uk": "купувати",
+        "fa": "خریدن",
+        "af": "خریدن"
+      },
+      "examples": {
+        "de": "Ich kaufe Brot.",
+        "ar": "أشتري خبزاً.",
+        "en": "I buy bread.",
+        "tr": "Ekmek alıyorum.",
+        "ru": "Я покупаю хлеб.",
+        "uk": "Я купую хліб.",
+        "fa": "من نان می خرم.",
+        "af": "من نان می خرم."
+      }
+    },
+    {
+      "id": "V032",
+      "de": "verkaufen",
+      "translations": {
+        "ar": "يبيع",
+        "en": "to sell",
+        "tr": "satmak",
+        "ru": "продавать",
+        "uk": "продавати",
+        "fa": "فروختن",
+        "af": "فروختن"
+      },
+      "examples": {
+        "de": "Er verkauft sein Auto.",
+        "ar": "هو يبيع سيارته.",
+        "en": "He sells his car.",
+        "tr": "Arabayı satıyor.",
+        "ru": "Он продает свою машину.",
+        "uk": "Він продає свою машину.",
+        "fa": "او ماشینش را می فروشد.",
+        "af": "او ماشینش را می فروشد."
+      }
+    },
+    {
+      "id": "V033",
+      "de": "schreiben",
+      "translations": {
+        "ar": "يكتب",
+        "en": "to write",
+        "tr": "yazmak",
+        "ru": "писать",
+        "uk": "писати",
+        "fa": "نوشتن",
+        "af": "نوشتن"
+      },
+      "examples": {
+        "de": "Ich schreibe eine E Mail.",
+        "ar": "أكتب بريداً إلكترونياً.",
+        "en": "I write an email.",
+        "tr": "E posta yazıyorum.",
+        "ru": "Я пишу письмо.",
+        "uk": "Я пишу електронний лист.",
+        "fa": "من ایمیل می نویسم.",
+        "af": "من ایمیل می نویسم."
+      }
+    },
+    {
+      "id": "V034",
+      "de": "lesen",
+      "translations": {
+        "ar": "يقرأ",
+        "en": "to read",
+        "tr": "okumak",
+        "ru": "читать",
+        "uk": "читати",
+        "fa": "خواندن",
+        "af": "خواندن"
+      },
+      "examples": {
+        "de": "Sie liest ein Buch.",
+        "ar": "هي تقرأ كتاباً.",
+        "en": "She reads a book.",
+        "tr": "O bir kitap okuyor.",
+        "ru": "Она читает книгу.",
+        "uk": "Вона читає книгу.",
+        "fa": "او یک کتاب می خواند.",
+        "af": "او یک کتاب می خواند."
+      }
+    },
+    {
+      "id": "V035",
+      "de": "helfen",
+      "translations": {
+        "ar": "يساعد",
+        "en": "to help",
+        "tr": "yardım etmek",
+        "ru": "помогать",
+        "uk": "допомагати",
+        "fa": "کمک کردن",
+        "af": "کمک کردن"
+      },
+      "examples": {
+        "de": "Kannst du mir helfen?",
+        "ar": "هل يمكنك مساعدتي؟",
+        "en": "Can you help me?",
+        "tr": "Bana yardım edebilir misin?",
+        "ru": "Ты можешь мне помочь?",
+        "uk": "Ти можеш мені допомогти?",
+        "fa": "می توانی به من کمک کنی؟",
+        "af": "می توانی به من کمک کنی؟"
+      }
+    },
+    {
+      "id": "V036",
+      "de": "verstehen",
+      "translations": {
+        "ar": "يفهم",
+        "en": "to understand",
+        "tr": "anlamak",
+        "ru": "понимать",
+        "uk": "розуміти",
+        "fa": "فهمیدن",
+        "af": "فهمیدن"
+      },
+      "examples": {
+        "de": "Ich verstehe dich.",
+        "ar": "أنا أفهمك.",
+        "en": "I understand you.",
+        "tr": "Seni anlıyorum.",
+        "ru": "Я тебя понимаю.",
+        "uk": "Я розумію тебе.",
+        "fa": "من تو را می فهمم.",
+        "af": "من تو را می فهمم."
+      }
+    },
+    {
+      "id": "V037",
+      "de": "fühlen",
+      "translations": {
+        "ar": "يشعر",
+        "en": "to feel",
+        "tr": "hissetmek",
+        "ru": "чувствовать",
+        "uk": "відчувати",
+        "fa": "احساس کردن",
+        "af": "احساس کردن"
+      },
+      "examples": {
+        "de": "Ich fühle mich gut.",
+        "ar": "أشعر أنني بخير.",
+        "en": "I feel good.",
+        "tr": "Kendimi iyi hissediyorum.",
+        "ru": "Я чувствую себя хорошо.",
+        "uk": "Я почуваюся добре.",
+        "fa": "حالم خوب است.",
+        "af": "حالم خوب است."
+      }
+    },
+    {
+      "id": "V038",
+      "de": "schlafen",
+      "translations": {
+        "ar": "ينام",
+        "en": "to sleep",
+        "tr": "uyumak",
+        "ru": "спать",
+        "uk": "спати",
+        "fa": "خوابیدن",
+        "af": "خوابیدن"
+      },
+      "examples": {
+        "de": "Das Baby schläft.",
+        "ar": "الطفل نائم.",
+        "en": "The baby is sleeping.",
+        "tr": "Bebek uyuyor.",
+        "ru": "Ребенок спит.",
+        "uk": "Дитина спить.",
+        "fa": "بچه خوابیده است.",
+        "af": "بچه خوابیده است."
+      }
+    },
+    {
+      "id": "V039",
+      "de": "warten",
+      "translations": {
+        "ar": "ينتظر",
+        "en": "to wait",
+        "tr": "beklemek",
+        "ru": "ждать",
+        "uk": "чекати",
+        "fa": "منتظر بودن",
+        "af": "منتظر بودن"
+      },
+      "examples": {
+        "de": "Ich warte auf den Bus.",
+        "ar": "أنتظر الحافلة.",
+        "en": "I am waiting for the bus.",
+        "tr": "Otobüsü bekliyorum.",
+        "ru": "Я жду автобус.",
+        "uk": "Я чекаю на автобус.",
+        "fa": "منتظر اتوبوس هستم.",
+        "af": "منتظر اتوبوس هستم."
+      }
+    },
+    {
+      "id": "V040",
+      "de": "brauchen",
+      "translations": {
+        "ar": "يحتاج",
+        "en": "to need",
+        "tr": "ihtiyacı olmak",
+        "ru": "нуждаться",
+        "uk": "потребувати",
+        "fa": "نیاز داشتن",
+        "af": "نیاز داشتن"
+      },
+      "examples": {
+        "de": "Ich brauche Hilfe.",
+        "ar": "أحتاج إلى مساعدة.",
+        "en": "I need help.",
+        "tr": "Yardıma ihtiyacım var.",
+        "ru": "Мне нужна помощь.",
+        "uk": "Мені потрібна допомога.",
+        "fa": "به کمک نیاز دارم.",
+        "af": "به کمک نیاز دارم."
+      }
+    },
+    {
+      "id": "V041",
+      "de": "lieben",
+      "translations": {
+        "ar": "يحب",
+        "en": "to love",
+        "tr": "sevmek",
+        "ru": "любить",
+        "uk": "любити",
+        "fa": "دوست داشتن",
+        "af": "دوست داشتن"
+      },
+      "examples": {
+        "de": "Ich liebe meine Familie.",
+        "ar": "أحب عائلتي.",
+        "en": "I love my family.",
+        "tr": "Ailemi seviyorum.",
+        "ru": "Я люблю свою семью.",
+        "uk": "Я люблю свою родину.",
+        "fa": "خانواده ام را دوست دارم.",
+        "af": "خانواده ام را دوست دارم."
+      }
+    },
+    {
+      "id": "V042",
+      "de": "hassen",
+      "translations": {
+        "ar": "يكره",
+        "en": "to hate",
+        "tr": "nefret etmek",
+        "ru": "ненавидеть",
+        "uk": "ненавидіти",
+        "fa": "متنفر بودن",
+        "af": "متنفر بودن"
+      },
+      "examples": {
+        "de": "Ich hasse Lügen.",
+        "ar": "أكره الكذب.",
+        "en": "I hate lies.",
+        "tr": "Yalanlardan nefret ediyorum.",
+        "ru": "Я ненавижу ложь.",
+        "uk": "Я ненавиджу брехню.",
+        "fa": "از دروغ متنفرم.",
+        "af": "از دروغ متنفرم."
+      }
+    },
+    {
+      "id": "V043",
+      "de": "öffnen",
+      "translations": {
+        "ar": "يفتح",
+        "en": "to open",
+        "tr": "açmak",
+        "ru": "открывать",
+        "uk": "відкривати",
+        "fa": "باز کردن",
+        "af": "باز کردن"
+      },
+      "examples": {
+        "de": "Ich öffne das Fenster.",
+        "ar": "أفتح النافذة.",
+        "en": "I open the window.",
+        "tr": "Pencereyi açıyorum.",
+        "ru": "Я открываю окно.",
+        "uk": "Я відкриваю вікно.",
+        "fa": "پنجره را باز می کنم.",
+        "af": "پنجره را باز می کنم."
+      }
+    },
+    {
+      "id": "V044",
+      "de": "schließen",
+      "translations": {
+        "ar": "يغلق",
+        "en": "to close",
+        "tr": "kapatmak",
+        "ru": "закрывать",
+        "uk": "закривати",
+        "fa": "بستن",
+        "af": "بستن"
+      },
+      "examples": {
+        "de": "Bitte die Tür schließen.",
+        "ar": "من فضلك أغلق الباب.",
+        "en": "Please close the door.",
+        "tr": "Lütfen kapıyı kapat.",
+        "ru": "Пожалуйста, закрой дверь.",
+        "uk": "Будь ласка, зачиніть двері.",
+        "fa": "لطفا در را ببند.",
+        "af": "لطفا در را ببند."
+      }
+    },
+    {
+      "id": "V045",
+      "de": "beginnen",
+      "translations": {
+        "ar": "يبدأ",
+        "en": "to begin",
+        "tr": "başlamak",
+        "ru": "начинать",
+        "uk": "починати",
+        "fa": "شروع کردن",
+        "af": "شروع کردن"
+      },
+      "examples": {
+        "de": "Der Kurs beginnt um neun.",
+        "ar": "يبدأ الكورس الساعة التاسعة.",
+        "en": "The course begins at nine.",
+        "tr": "Kurs saat dokuzda başlıyor.",
+        "ru": "Курс начинается в девять.",
+        "uk": "Курс починається о дев’ятій.",
+        "fa": "کلاس ساعت نه شروع می شود.",
+        "af": "کلاس ساعت نه شروع می شود."
+      }
+    },
+    {
+      "id": "V046",
+      "de": "enden",
+      "translations": {
+        "ar": "ينتهي",
+        "en": "to end",
+        "tr": "bitmek",
+        "ru": "заканчиваться",
+        "uk": "закінчуватися",
+        "fa": "تمام شدن",
+        "af": "تمام شدن"
+      },
+      "examples": {
+        "de": "Der Film endet spät.",
+        "ar": "ينتهي الفيلم متأخراً.",
+        "en": "The movie ends late.",
+        "tr": "Film geç bitiyor.",
+        "ru": "Фильм заканчивается поздно.",
+        "uk": "Фільм закінчується пізно.",
+        "fa": "فیلم دیر تمام می شود.",
+        "af": "فیلم دیر تمام می شود."
+      }
+    },
+    {
+      "id": "V047",
+      "de": "sitzen",
+      "translations": {
+        "ar": "يجلس",
+        "en": "to sit",
+        "tr": "oturmak",
+        "ru": "сидеть",
+        "uk": "сидіти",
+        "fa": "نشستن",
+        "af": "نشستن"
+      },
+      "examples": {
+        "de": "Ich sitze auf dem Stuhl.",
+        "ar": "أجلس على الكرسي.",
+        "en": "I sit on the chair.",
+        "tr": "Sandalyede oturuyorum.",
+        "ru": "Я сижу на стуле.",
+        "uk": "Я сиджу на стільці.",
+        "fa": "روی صندلی نشسته ام.",
+        "af": "روی صندلی نشسته ام."
+      }
+    },
+    {
+      "id": "V048",
+      "de": "stehen",
+      "translations": {
+        "ar": "يقف",
+        "en": "to stand",
+        "tr": "ayakta durmak",
+        "ru": "стоять",
+        "uk": "стояти",
+        "fa": "ایستادن",
+        "af": "ایستادن"
+      },
+      "examples": {
+        "de": "Ich stehe an der Haltestelle.",
+        "ar": "أقف عند الموقف.",
+        "en": "I stand at the stop.",
+        "tr": "Durakta ayakta duruyorum.",
+        "ru": "Я стою на остановке.",
+        "uk": "Я стою на зупинці.",
+        "fa": "در ایستگاه ایستاده ام.",
+        "af": "در ایستگاه ایستاده ام."
+      }
+    },
+    {
+      "id": "V049",
+      "de": "laufen",
+      "translations": {
+        "ar": "يمشي / يركض",
+        "en": "to walk / to run",
+        "tr": "yürümek / koşmak",
+        "ru": "бежать / идти",
+        "uk": "бігти / йти",
+        "fa": "دویدن / راه رفتن",
+        "af": "دویدن / راه رفتن"
+      },
+      "examples": {
+        "de": "Ich laufe jeden Morgen.",
+        "ar": "أركض كل صباح.",
+        "en": "I run every morning.",
+        "tr": "Her sabah koşarım.",
+        "ru": "Я бегаю каждое утро.",
+        "uk": "Я бігаю щоранку.",
+        "fa": "هر صبح می دوم.",
+        "af": "هر صبح می دوم."
+      }
+    },
+    {
+      "id": "V050",
+      "de": "bezahlen",
+      "translations": {
+        "ar": "يدفع (الثمن)",
+        "en": "to pay",
+        "tr": "ödemek",
+        "ru": "платить",
+        "uk": "платити",
+        "fa": "پرداخت کردن",
+        "af": "پرداخت کردن"
+      },
+      "examples": {
+        "de": "Ich bezahle die Rechnung.",
+        "ar": "أدفع الفاتورة.",
+        "en": "I pay the bill.",
+        "tr": "Hesabı ödüyorum.",
+        "ru": "Я оплачиваю счет.",
+        "uk": "Я плачу рахунок.",
+        "fa": "صورتحساب را پرداخت می کنم.",
+        "af": "صورتحساب را پرداخت می کنم."
+      }
+    }
+  ]
+}
