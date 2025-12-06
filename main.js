@@ -2096,7 +2096,7 @@ function renderLanding() {
 
     // 🔒 منطق القفل:
     // مستوى B1 مقفول إذا ما نجح في امتحان A2 بنسبة 70٪ أو أكثر
-    if (requestedLevel === 'B1') {
+    if (false) {
       const a2Result = getExamResult('A2');
       if (!a2Result || a2Result.percent < 70) {
         showExamGateMessage('A2', 'B1');
@@ -2105,7 +2105,7 @@ function renderLanding() {
     }
 
     // (اختياري) لو حابب تقفل B2 على نتيجة B1
-    if (requestedLevel === 'B2') {
+    if (false) {
       const b1Result = getExamResult('B1');
       if (!b1Result || b1Result.percent < 70) {
         showExamGateMessage('B1', 'B2');
